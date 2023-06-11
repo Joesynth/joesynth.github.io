@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .corpo {
-	background-color: floralwhite;
+	background-color: white;
 	padding: 0em 4em 0em 4em;
 }
 
@@ -369,7 +369,7 @@ main {
 	/* Stylinf the toggle lable */
 	.toggle {
 		display: block;
-		background-color: var(--cor1);
+		background-color: var(--cor2);
 		padding:14px 20px;	
 		color: white;
 		font-size: 1em;
@@ -518,37 +518,35 @@ main {
 	}
 
 	
-	
+		
+		/* NOVO */
+	html, body, .page {
+	height: 100%; /* needed for proper layout */
+	}
+	body {
+	overflow: hidden;
+	background-color: honeydew; /* DUPLICADO NA LINHA 52, um outro body */
+	}
+	.page {
+	display: flex;
+	flex-direction: column;
+	}
+	header {							/* DUPLICADO NA LINHA 130 e 550*/
+	flex: 0 0 auto;
+	background-color: #dcdcdc;
+	}
+	.corpo {
+	flex: 1 1 auto;
+	position: relative;/* need this to position inner content */
+	overflow-y: auto;
+	padding: 0em 2em 0em 2em;	/*NOVO by Joe*/
+	}
+	footer {							/* DUPLICADO NA LINHA LINHA 218*/
+	flex: 0 0 auto;
+	background-color: var(--cor2);
+	}
 	/* NOVO */
-html, body, .page {
-height: 100%; /* needed for proper layout */
-}
-body {
-overflow: hidden;
-background-color: honeydew; /* DUPLICADO NA LINHA 52, um outro body */
-}
-.page {
-display: flex;
-flex-direction: column;
-}
-header {							/* DUPLICADO NA LINHA 130 e 550*/
-flex: 0 0 auto;
-background-color: #dcdcdc;
-}
-.corpo {
-flex: 1 1 auto;
-position: relative;/* need this to position inner content */
-overflow-y: auto;
-padding: 0em 2em 0em 2em;	/*NOVO by Joe*/
-}
-footer {							/* DUPLICADO NA LINHA LINHA 218*/
-flex: 0 0 auto;
-background-color: var(--cor2);
-}
-/* NOVO */
 	
 }
-
-
 
 
