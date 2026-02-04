@@ -21,6 +21,11 @@ header {
 	font-weight: bold;
 	}
 
+footer {
+	text-align: center;
+	colo: var(--cor-azul);
+}
+
 /* Navegação e Lógica do Hamburger */
 nav { background: #f8f9fa; padding: 10px; position: relative; }
 .menu-checkbox { display: none; } /* Esconde o input */
