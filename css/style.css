@@ -37,6 +37,7 @@ nav { background: #f8f9fa; padding: 10px; position: relative; }
     width: 45px;
     height: 45px;
     border: 2px solid var(--cor-azul);
+	border-radius: 10px;
     color: var(--cor-azul);
     font-size: 28px;
     cursor: pointer;
@@ -67,7 +68,7 @@ main { display: flex; flex-direction: column; padding: 20px; gap: 20px; }
 .art-link { text-decoration: none; color: inherit; }
 
 article { display: flex; gap: 15px; align-items: flex-start; }
-.art-img { width: 100px; height: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
+.art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
 
 .art-content h3 { color: #333; margin-bottom: 5px; }
 
