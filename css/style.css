@@ -23,7 +23,7 @@ header {
 
 footer {
 	text-align: center;
-	colo: var(--cor-azul);
+	color: var(--cor-azul);
 }
 
 /* Navegação e Lógica do Hamburger */
