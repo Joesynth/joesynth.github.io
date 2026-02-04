@@ -23,6 +23,9 @@ header {
 
 footer {
 	text-align: center;
+}
+
+footer p {
 	color: var(--cor-azul);
 }
 
