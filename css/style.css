@@ -12,7 +12,7 @@ header {
 	align-items: center; gap: 20px;
 	border-bottom: 2px solid var(--cor-azul);
 	padding-bottom: 0;
-	margin-bottom: 3em;
+	margin-bottom: 11em;
 	}
 	
 .img-header { width: 100px; height: 100px; object-fit: cover; }
