@@ -1,0 +1,12 @@
+[
+  {
+    "ingles": "Framework",
+    "portugues": "Estrutura de trabalho",
+    "descricao": "Conjunto de ferramentas e bibliotecas que facilitam o desenvolvimento."
+  },
+  {
+    "ingles": "Middleware",
+    "portugues": "Intermediário",
+    "descricao": "Software que faz a ponte entre sistemas ou aplicações diferentes."
+  }
+]
