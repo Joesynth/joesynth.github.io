@@ -94,6 +94,17 @@ footer { height: 50px; }
         justify-content: space-between;
     }
 
+	
+
+	main > a {
+		flex: 0 0 48%;
+		display: block;
+	}
+
+
+
+	
+
     .art-link {
         flex: 0 1 calc(50% - 10px); /* Dois artigos por linha */
     }
