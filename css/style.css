@@ -1,5 +1,6 @@
 :root {
-    --cor-azul: #3399ff;
+    --cor-escura: #3399ff;
+	--cor-clara: #eef;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -10,24 +11,24 @@ header {
 	display: flex;
 	padding: 20px;
 	align-items: center; gap: 20px;
-	border-bottom: 2px solid var(--cor-azul);
+	border-bottom: 2px solid var(--cor-escura);
 	padding-bottom: 0;
 	}
 	
 .img-header { width: 100px; height: 100px; object-fit: cover; }
 
 #bemVindo {
-	color: var(--cor-azul);
+	color: var(--cor-escura);
 	font-weight: bold;
 	}
 
 footer {
 	text-align: center;
-	color: var(--cor-azul);
+	color: var(--cor-escura);
 }
 
 /* Navegação e Lógica do Hamburger */
-nav { background: #eef; padding: 10px; position: relative; margin-bottom: 2em;}
+nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
 .menu-checkbox { display: none; } /* Esconde o input */
 
 .menu-toggle {
@@ -36,9 +37,9 @@ nav { background: #eef; padding: 10px; position: relative; margin-bottom: 2em;}
     justify-content: center;
     width: 45px;
     height: 45px;
-    border: 2px solid var(--cor-azul);
+    border: 2px solid var(--cor-escura);
 	border-radius: 10px;
-    color: var(--cor-azul);
+    color: var(--cor-escura);
     font-size: 28px;
     cursor: pointer;
 }
@@ -60,7 +61,7 @@ a {
 }
 
 .nav-links li a {
-    color: var(--cor-azul);
+    color: var(--cor-escura);
     padding: 12px;
     display: block;
     font-weight: bold;
@@ -73,7 +74,7 @@ main { display: flex; flex-direction: column; padding: 20px; gap: 20px; }
 article { display: flex; gap: 15px; align-items: flex-start; }
 .art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
 
-.art-content h3 { color: #333; margin-bottom: 5px; }
+.art-content h3 { color: var(--cor-escura); margin-bottom: 5px; }
 
 footer { height: 50px; }
 
