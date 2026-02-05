@@ -12,7 +12,6 @@ header {
 	align-items: center; gap: 20px;
 	border-bottom: 2px solid var(--cor-azul);
 	padding-bottom: 0;
-	margin-bottom: 11em;
 	}
 	
 .img-header { width: 100px; height: 100px; object-fit: cover; }
@@ -28,7 +27,7 @@ footer {
 }
 
 /* Navegação e Lógica do Hamburger */
-nav { background: #f8f9fa; padding: 10px; position: relative; }
+nav { background: yellow; padding: 10px; position: relative; margin-bottom: 11em;}
 .menu-checkbox { display: none; } /* Esconde o input */
 
 .menu-toggle {
