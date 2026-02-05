@@ -27,7 +27,7 @@ footer {
 }
 
 /* Navegação e Lógica do Hamburger */
-nav { background: lightblue; padding: 10px; position: relative; margin-bottom: 4em;}
+nav { background: #00e; padding: 10px; position: relative; margin-bottom: 2em;}
 .menu-checkbox { display: none; } /* Esconde o input */
 
 .menu-toggle {
