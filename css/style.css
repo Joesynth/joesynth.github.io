@@ -22,7 +22,7 @@ header {
 	font-weight: bold;
 	}
 
-footer { text-align: center; color: var(--cor-escura); background-color: var(--cor-clara); }
+footer { text-align: center; margin-top: 0.5em; color: var(--cor-escura); background-color: var(--cor-clara); }
 
 /* Navegação e Lógica do Hamburger */
 nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
