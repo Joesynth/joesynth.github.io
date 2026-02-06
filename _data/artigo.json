@@ -220,5 +220,263 @@
     "src": "image/db.png",
     "h3": "Base DB",
     "p": "O banco de dados do LibreOffice, alguns de seus recursos."
+  },
+  {
+    "href": "dados-e-metadados.html",
+    "src": "image/ti.png",
+    "h3": "TESTE",
+    "p": "TESTE."
+  },
+  {
+    "href": "dados-e-metadados.html",
+    "src": "image/ti.png",
+    "h3": "Dados e metadados",
+    "p": "Saiba o que é e veja as diferenças."
+  },
+  {
+    "href": "linux.html",
+    "src": "image/linux.png",
+    "h3": "Linux",
+    "p": "Um guia sobre o SO mais querido dos profissionais de TI."
+  },
+  {
+    "href": "regex.html",
+    "src": "image/ti.png",
+    "h3": "Regex",
+    "p": "Um guia básico."
+  },
+  {
+    "href": "software-cms.html",
+    "src": "image/ti.png",
+    "h3": "Software CMS",
+    "p": "Conheça esses softwares de TI, que impactam tanto no e-commerce quanto no marketing."
+  },
+  {
+    "href": "hardware-de-rede.html",
+    "src": "image/hardware.png",
+    "h3": "Hardware de rede",
+    "p": "Um guia sobre esse tipo de hardware."
+  },
+  {
+    "href": "rede.html",
+    "src": "image/rede.png",
+    "h3": "Rede",
+    "p": "Um guia rápido."
+  },
+  {
+    "href": "b2b.html",
+    "src": "image/ti.png",
+    "h3": "B2B",
+    "p": "Conheça mais sobre B2B."
+  },
+  {
+    "href": "firewall-ferramentas.html",
+    "src": "image/ti.png",
+    "h3": "Firewall: ferramentas",
+    "p": "Conheça algumas ferramentas de firewall."
+  },
+  {
+    "href": "ai-ameacado-pela-inteligencia-artificial.html",
+    "src": "image/ti.png",
+    "h3": "AI - Ameaçado pela inteligência artificial?",
+    "p": "O que há de dados sobre a possibilidade de profissionais perderem o emprego por causa da IA?"
+  },
+  {
+    "href": "internet-tem-dono.html",
+    "src": "image/ti.png",
+    "h3": "A internet tem dono?",
+    "p": "Dizem que dono é quem cuida. Será que isso se aplica a web?"
+  },
+  {
+    "href": "onde-pesquisar-no-google-erro.html",
+    "src": "image/ti.png",
+    "h3": "Onde pesquisar? No Google? Errou!",
+    "p": "Saiba mais sobre pesquisas na web."
+  },
+  {
+    "href": "linguagem-de-programacao-visual.html",
+    "src": "image/linguagem.png",
+    "h3": "Linguagem de programação visual",
+    "p": "Saiba como criar ferramentas sem ter que escrever linhas e linhas de texto."
+  },
+  {
+    "href": "como-proteger-o-computador.html",
+    "src": "image/ti.png",
+    "h3": "Como proteger o computador",
+    "p": "Um guia básico de proteção do computador."
+  },
+  {
+    "href": "console-do-desenvolvedor.html",
+    "src": "image/ti.png",
+    "h3": "Console do desenvolvedor",
+    "p": "Veja uma outra aplicação do Firefox, bem diferente de navegar na web."
+  },
+  {
+    "href": "dispositivos-de-entrada-e-saida.html",
+    "src": "image/hardware.png",
+    "h3": "Dispositivos de entrada e saída",
+    "p": "Um conceito básico de informática."
+  },
+  {
+    "href": "frameworks.html",
+    "src": "image/ti.png",
+    "h3": "Frameworks",
+    "p": "Saiba mais sobre os frameworks."
+  },
+  {
+    "href": "google-adwords.html",
+    "src": "image/mkt.png",
+    "h3": "Google Adwords",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "google-adwords-e-adsense.html",
+    "src": "image/mkt.png",
+    "h3": "Google Adwords e Adsense",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "json.html",
+    "src": "image/ti.png",
+    "h3": "Json",
+    "p": "O nome parece de uma linguagem, mas não é! Veja exatamente para que serve o Json."
+  },
+  {
+    "href": "nocoes-de-programacao.html",
+    "src": "image/linguagem.png",
+    "h3": "Noções de programação",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "o-que-e-cli.html",
+    "src": "image/cli.png",
+    "h3": "O que é CLI?",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "seguranca-da-informacao.html",
+    "src": "image/ti.png",
+    "h3": "Segurança da informação",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "shell-scripting-bash-scripting.html",
+    "src": "image/linux.png",
+    "h3": "Shell scripting - Bash-scripting",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "sistemas-operacionais-mais-usados.html",
+    "src": "image/linux.png",
+    "h3": "Sistemas operacionais mais usados",
+    "p": "Conheça os SO mais populares."
+  },
+  {
+    "href": "banco-de-dados-principais-softwares.html",
+    "src": "image/db.png",
+    "h3": "Banco de dados: principais softwares",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "game-tutorial.html",
+    "src": "image/ti.png",
+    "h3": "Game: tutorial",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "por-que-usar-linux.html",
+    "src": "image/linux.png",
+    "h3": "Por que usar Linux?",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "software-de-rede.html",
+    "src": "image/rede.png",
+    "h3": "Software de rede",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "software-stack-o-que-e.html",
+    "src": "image/ti.png",
+    "h3": "Software stack: o que é?",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "marketing-digital.html",
+    "src": "image/mkt.png",
+    "h3": "Marketing digital",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "f-droid-o-que-e.html",
+    "src": "image/foss.png",
+    "h3": "F-droid: o que é?",
+    "p": "Que tal uma loja de aplicativos realmente livre?"
+  },
+  {
+    "href": "message-scheduler-whatsapp.html",
+    "src": "image/ti.png",
+    "h3": "Message scheduler Whatsapp",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "deploy.html",
+    "src": "image/ti.png",
+    "h3": "Deploy",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "google-como-pesquisar-qualquer-coisa.html",
+    "src": "image/ti.png",
+    "h3": "Google: como pesquisar qualquer coisa?",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "layout-resolucoes-de-tela-design-mobile-first.html",
+    "src": "image/ti.png",
+    "h3": "Layout - resoluções de tela - mobile first",
+    "p": "CSS e uma ideia bem interessante e básica de funcionamento."
+  },
+  {
+    "href": "logica-de-programacao-e-algoritmos.html",
+    "src": "image/linguagem.png",
+    "h3": "Lógica de programação e algoritmos",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "media-types-e-media-queries.html",
+    "src": "image/ti.png",
+    "h3": "Media types e media queries",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "sites-para-programadores.html",
+    "src": "image/ti.png",
+    "h3": "Sites para programadores",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "antivirus-firewall.html",
+    "src": "image/ti.png",
+    "h3": "Antivírus: firewall",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "api-o-que-e.html",
+    "src": "image/ti.png",
+    "h3": "API: o que é?",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "backup.html",
+    "src": "image/ti.png",
+    "h3": "Backup",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "o-que-e-social-news.html",
+    "src": "image/ti.png",
+    "h3": "Social News: o que é?",
+    "p": "Um guia elementar."
   }
 ]
