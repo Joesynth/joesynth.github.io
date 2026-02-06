@@ -1,5 +1,11 @@
 [
   {
+    "href": "template-engine.html",
+    "src": "image/ti.png",
+    "h3": "Template engine",
+    "p": "Entenda o que é, o que faz, e veja exemplos."
+  },
+  {
     "href": "android-software-livre-40-aplicativos.html",
     "src": "image/foss.png",
     "h3": "Android e software livre: 40 aplicativos",
