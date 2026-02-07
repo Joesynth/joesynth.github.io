@@ -73,7 +73,7 @@ article { display: flex; gap: 15px; align-items: flex-start; }
 
 h6 { font-size: 1em; letter-spacing: 1.5px;}
 h1 { color: var(--cor-escura);}
-h2, h3, h4, h5, h6 { margin-top: 2em;}
+h2, h4, h5, h6 { margin-top: 2em;}
 strong { font-size: 0.9em;}
 
 
