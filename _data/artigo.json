@@ -6,6 +6,12 @@
     "p": "Estudante, concurseiro? Tutorial de <em>hardware</em> e <em>software</em> simples e fácil; além de tecnologias, exercícios..."
   },
   {
+    "href": "eula.html",
+    "src": "image/ti.png",
+    "h3": "EULA: poder e polêmicas",
+    "p": "Acordo de Licença de Usuário Final: o 'quadradinho' que sempre confirmamos quando instalamos um software."
+  },
+  {
     "href": "seo-on-page.html",
     "src": "image/mkt.png",
     "h3": "SEO On Page",
