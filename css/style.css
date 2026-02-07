@@ -71,6 +71,8 @@ article { display: flex; gap: 15px; align-items: flex-start; }
 
 .art-content h3 { color: var(--cor-escura); margin-bottom: 5px; }
 
+h6 { font-size: 1em;}
+h1 { color: var(--cor-escura);}
 
 
 footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-escura); background-color: var(--cor-clara); }
