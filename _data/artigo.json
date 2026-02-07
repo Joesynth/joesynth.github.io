@@ -1,69 +1,63 @@
 [
   {
-    "href": "nocoes-de-informatica.md",
+    "href": "nocoes-de-informatica.html",
     "src": "image/ti.png",
     "h3": "Noções de Informática",
     "p": "Estudante, concurseiro? Tutorial de <em>hardware</em> e <em>software</em> simples e fácil; além de tecnologias, exercícios..."
   },
   {
-    "href": "seo-on-page.md",
+    "href": "seo-on-page.html",
     "src": "image/mkt.png",
     "h3": "SEO On Page",
     "p": "Tutorial: o que é exatamente SEO On Page?"
   },
   {
-    "href": "gedit.md",
+    "href": "gedit.html",
     "src": "image/linguagem.png",
     "h3": "Gedit",
     "p": "Tutorial simples e objetivo do editor de código Gedit, Ubuntu."
   },
   {
-    "href": "vim-e-vi.md",
+    "href": "vim-e-vi.html",
     "src": "image/cli.png",
     "h3": "Vi, vim, gVim e NeoVim",
     "p": "Tutorial."
   },
   {
-    "href": "bash-shell.md",
+    "href": "bash-shell.html",
     "src": "image/cli.png",
     "h3": "Bash shell",
     "p": "Tutorial."
   },
   {
-    "href": "html-css-e-js.md",
+    "href": "html-css-e-js.html",
     "src": "image/linguagem.png",
     "h3": "HTML, CSS e JS",
     "p": "Pra que serve cada linguagem dessas? Saiba de forma simples neste guia rápido, inclusive um pouco da História."
   },
   {
-    "href": "tutorial-markdown.md",
+    "href": "tutorial-markdown.html",
     "src": "image/ti.png",
     "h3": "Tutorial Markdown",
     "p": "Produção de textos no computador? Saiba agora porque Markdown é espetacular!"
   },
   {
-    "href": "nano-editor-de-codigos.md",
+    "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
     "h3": "Nano",
     "p": "Um tutorial vital do editor de códigos Nano, presente no Ubuntu e na maioria dos Linux."
   },
   {
-    "href": "termux.md",
+    "href": "termux.html",
     "src": "image/cli.png",
     "h3": "Termux: terminal Ubuntu no Android",
     "p": "Tutorial Termux Android: simples, objetivo e essencial."
   },
   {
-    "href": "bluefish-editor-de-codigo.md",
+    "href": "bluefish-editor-de-codigo.html",
     "src": "image/linguagem.png",
     "h3": "Bluefish editor de códigos",
     "p": "Instalação, configuração e muito mais sobre esse belo editor de códigos."
-  },
-    {
-    "href": "bluefish-editor-de-codigo.md",
-    "src": "image/linguagem.png",
-    "h3": "TESTE",
-    "p": "TESTE."
   },
   {
     "href": "template-engine.html",
