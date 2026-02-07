@@ -129,16 +129,15 @@ Num mundo ideal as pessoas estariam utilizando o software livre nas atividades c
 </tr>
 </tbody>
 </table>
+
 <h3>☑️ EULA</h3>
 <img class="alignleft" src="https://www.enzuzo.com/hubfs/Screen%20Shot%202022-11-17%20at%2010-18%201-png.png" width="140" height="152" />
 
-Acordo de Licença do Usuário Final. Contrato de licença de uso de <em>software</em> proprietário, que surge quando instalamos um aplicativo. Ao damos "ok" nos termos que aparecem então concordamos com tudo que está ai. Uma estratégia do desenvolvedor do programa é nos oferecer o software 'de graça', e outra é exatamente consentirmos com o EULA. A real é que, embora os termos são nitidamente pro-empresa (ou até abusivos, compromentendo nossa liberdade) nós concordadamos com eles. Afinal, ninguém colocou uma arma em sua cabeça pra dá um 'ok', não é?
-Será que há leis que tratem desse tipo de situação? E... são justas?
+Acordo de Licença do Usuário Final. Contrato de licença de uso de <em>software</em> proprietário, que surge quando instalamos um aplicativo. Ao damos "ok" nos termos que aparecem então concordamos com tudo que está ai.  
+O tema é polêmico e abordamos em um tópico específico.  
 
-Leia mais em <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">software livre e proprietário</a>.
-
-Vide [EULA]( /eula )
-Vide [EULA](/eula)
+Vide [EULA](/eula).
+Leia também [software livre e proprietário](/software-livre-e-software-proprietario).
 
 <h3>👁️ Vigiar, monitorar, controlar</h3>
 🚲️ Na logística do iFood do tipo OL um entregador tem uma área de abrangência, esta englobando alguns bairros. E claro, o app sabe quando o entregador está fora desses limites. Semelhante, se o GPS está desligado o aplicativo iFood também sabe. Nos dois casos, o entregador pode ser chamado a atenção por superiores que também trabalham no sistema.
