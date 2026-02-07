@@ -1,7 +1,7 @@
 
 <h1>Noções de Informática</h1>
 
-Noções de informática básica. Faremos um breve resumo dos temas <strong>software</strong>, <strong>hardware</strong> e <strong>informática</strong>.
+Uum breve resumo dos temas <strong>software</strong>, <strong>hardware</strong> e <strong>informática</strong>.
 
 Note que equipamento digital entende-se por computador, ou mesmo algo dedicado como um teclado sintetizador. Mas isso é vago, sendo que o ideal é sabermos de fato o que é <a href="https://joesynth.wordpress.com/2020/12/15/audio-analogico-e-digital/">análogo e digital</a>; então, veja o <em>link</em>.
 <ul>
@@ -37,12 +37,13 @@ Note que equipamento digital entende-se por computador, ou mesmo algo dedicado c
 <img class="alignleft" src="https://ic.unicamp.br/wp-content/uploads/2020/06/software-engineering-skills_resize_md.jpg" width="120" /></td>
 </tr>
 <tr>
-<td>É a parte física de um equipamento digital. Refere-se as peças, <em>chips</em>, o processador, encaixes, fios, teclas, etc.</td>
+<td>É a parte física de um equipamento digital. Ex.: o processador, peças (como <em>chips</em>, teclas, fios, encaixes).</td>
 <td>São instruções e que dizem ao computador o que fazer.
 É criado via <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagens</a> de computador (<a href="https://joesynth.wordpress.com/2021/12/27/o-que-e-javascript/">JavaScript</a>, por ex.).</td>
 </tr>
 </tbody>
 </table>
+
 <strong>Exemplos de <em>software</em></strong>:
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" />Firefox:
@@ -53,7 +54,7 @@ Um <strong>sistema operacional</strong> (SO) utilizado em celulares. O SO é o p
 
 O <em>software</em> é criado por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de programação</a>.
 <h6>O usuário</h6>
-<img class="alignleft" src="https://www.researchgate.net/profile/T-Bernard-2/publication/254852723/figure/fig3/AS:669562529923082@1536647555701/Overview-of-a-standard-software-system-The-user-on-top-of-the-layers-employs.png" width="80" />
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/960px-Operating_system_placement.svg.png" width="120" />
 
 Note que do topo para a base nós temos:
 1 - Usuário.
@@ -61,11 +62,11 @@ Note que do topo para a base nós temos:
 3 - Software Básico (sistema operacional). Ex.: <a href="https://joesynth.wordpress.com/2021/11/28/por-que-usar-linux/">Linux</a> Ubuntu.
 4 - Hardware.
 <h6>Outros termos</h6>
-<img class="alignleft" src="http://kids.pplware.sapo.pt/wp-content/uploads/2013/06/imagem_bytesvsbits01_small.jpg" width="120" /><strong>Medida - Byte</strong> (Byte (com b maiúsculo):
+<img class="alignleft" src="http://kids.pplware.sapo.pt/wp-content/uploads/2013/06/imagem_bytesvsbits01_small.jpg" width="120" /><strong>Medida - Byte</strong> (Byte com b maiúsculo):
 ● Igual a 8 bit. Octeto, sendo que a metade de um byte é o nibble (semioctecto)
 ● Converter <em>bytes</em> em <em>bit</em>, multiple por 8. Ex:
 <pre>2Bytes x 8bits = 16 bit</pre>
-<strong>Consumo de memória (</strong>de uma simples letra): Escreva "oi" no bloco de notas e salve. Localize o arquivo salvo, veja propriedades e constate que ele tem 2bytes.
+<strong>Consumo de memória de uma simples letra </strong>: Escreva "oi" no bloco de notas e salve. Localize o arquivo salvo, veja propriedades e constate que ele tem 2bytes.
 Sim! Cada letra consome 1byte.
 
 <strong>Internet</strong>: Vide <a href="https://joesynth.wordpress.com/2021/11/28/rede/">Rede</a>.
@@ -78,7 +79,6 @@ Sim! Cada letra consome 1byte.
 <strong>Latência</strong>: Na música, por exemplo:
 Tempo gasto de processamento do áudio pelo computador (ou outro equipamento), resultando em atraso entre o momento que é dado o <em>play</em> e o som efetivamente seja tocado. A melhor latência para um sistema de gravação (ou qualquer equipamento de áudio digital) é zero, ou seja, todo processamento em tempo-real.
 
-.
 <h2>✍️ Software</h2>
 <h5>Sistema Operacional e Kernel</h5>
 <h6>OS (Operacional System) <span style="color: #0000ff">Sistema Operacional (SO)</span></h6>
@@ -102,7 +102,7 @@ Núcleo do SO; programa de computador no núcleo do SO. Componente central do SO
 ◾Gerencia arquivos.
 
 O <em>kernel</em> dá o nível mais básico de controle sobre todos os dispositivos de <em>hardware</em> do computador. Para isso o <em>kernel</em> também conta com a ajuda do <em>firmware</em> e de drivers de dispositivo.
-<h6>Softwaret básico, de sistema, utilitário e aplicativo</h6>
+<h6>Software básico, de sistema, utilitário e aplicativo</h6>
 <img class="alignleft" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEoB_qUqahA3WBNjoKc6pfmtqQr1AtZrCT5AHB9heiloB6ztLYyeYg2pA0ok68DNTZxbKpnbrlkDYE8tcqybh3ayKSD2IbKCDULE5MDsS2LVmUYQ6djnQszb-4QKhR4RTIOCq5bYBANY/s1600/er_photo_150727_52.png" width="120" /><em>◾ <strong>Software Básico</strong> (sistema operacional): Vital, dá vida ao computador, e sem ele o PC não funciona. Gere todo hard e outros softs; portanto é básico, gerente. Ex.:
 Ubuntu (</em><em><a href="https://joesynth.wordpress.com/2021/11/28/por-que-usar-linux/">Linux</a>), Windows, macOS</em>.
 
@@ -113,7 +113,7 @@ Ex.: SO <em>firmware</em>, <em>driver</em> de dispositivo, interface gráfica.
 <pre><strong>Firmware</strong>: <em>soft</em> que fornece funções básicas de um dispositivo. Fica armazenado no próprio <em>chip</em>; em memória ROM, por exemplo (o que é feito na fabricação do componente).
 Ex. de <em>firmware</em>: controle remoto, BIOS <span class="" dir="ltr" role="presentation"> (responsável por "dar a partida" no micro</span>).</pre>
 ◾<strong>Software Utilitário</strong>: Não é vital para funcionar o computador; muito útil, supri o OS.
-<pre><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/112px-7ziplogo.svg.png" width="40" /> compressão de dados (7-zip, rar...),
+<pre><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREpTQVN0tqVJkZ5PEdjCy4vqET9A0tS7Rhjg&s" width="60" /> compressão de dados (7-zip, rar...),
 anti-vírus <a href="https://joesynth.wordpress.com/2021/11/28/software-antivirus/">Kaspersky</a>,
 <em>backup</em> (<em>online</em> por ex.),
 gerenciamento de arquivos (<a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-cli/">CLI</a>).
@@ -139,7 +139,7 @@ O <strong>software proprietário</strong> é o modelo de negócios adotado por c
 Já o <strong>Software Livre</strong> podemos utilizar, de fato, livre.
 <pre>Ubuntu (Linux), Firefox, <a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Audacity</a></pre>
 🤔️ Originalmente os softwares nasceram livres, e não proprietários. Inclusive, o Software Livre é a base da própria Internet, mesmo nos dias atuais e em todo mundo, ou seja, Ocidente e Oriente.
-⚠️ O tema é amplo e envolve-se questões como licenças, código fechado ou aberto, anúncios, organizações etc. Leia o tutorial "<a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre e Software Proprietário</a>".
+⚠️ O tema é amplo e envolve-se questões como licenças, código fechado ou aberto, anúncios, organizações etc. Leia o tutorial __Software Livre e Software Proprietário__.
 <h6>Formatos de arquivos</h6>
 Existe arquivos de texto, imagem, áudio e vídeo.
 
