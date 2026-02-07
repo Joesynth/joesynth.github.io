@@ -136,6 +136,10 @@ Acordo de Licença do Usuário Final. Contrato de licença de uso de <em>softwar
 Será que há leis que tratem desse tipo de situação? E... são justas?
 
 Leia mais em <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">software livre e proprietário</a>.
+
+Vide [EULA]( /eula )
+Vide [EULA](/eula)
+
 <h3>👁️ Vigiar, monitorar, controlar</h3>
 🚲️ Na logística do iFood do tipo OL um entregador tem uma área de abrangência, esta englobando alguns bairros. E claro, o app sabe quando o entregador está fora desses limites. Semelhante, se o GPS está desligado o aplicativo iFood também sabe. Nos dois casos, o entregador pode ser chamado a atenção por superiores que também trabalham no sistema.
 
