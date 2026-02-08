@@ -217,25 +217,12 @@ Olá!
 <pre>Netflix, Google Drive.</pre>
 <h3>📄️ Licença de software</h3>
 <p><span class="Y2IQFc" lang="pt"><strong>Licença Proprietária</strong>:</span> podemos ver relatos do software proprietário surgindo com licença dese tipo _é o caso do Spotify.</p>
-<h6>EULA</h6>
-<p><em>End-User License Agreement</em>, Acordo de licença do usuário final.<br /><em>🇺🇲️ EUA, déc. 80 [ft:cisa.gov]</em></p>
-<p><img class="alignleft" src="https://www.enzuzo.com/hubfs/Screen%20Shot%202022-11-17%20at%2010-18%201-png.png" width="138" height="149" /></p>
-<p>Contrato de licença de uso de <em>software</em> proprietário.<br />Um EULA diz detalhadamente os direitos e restrições que se aplicam ao uso do <em>software</em>.<br />O EULA, muitas vezes é referido como uma "licença de software", é semelhante ao contrato de locação. Regula o direito do comprador de utilizar o <em>software</em>.</p>
-<blockquote>
-<p>É definido entre o licenciante e o usuário. O usuário compromete-se a pagar pelo privilégio de usar o <em>software</em> dentro das condições impostas pelo autor.</p>
-</blockquote>
-<p>◼ licenciante, autor: desenvolvedor ou fornecedor.<br />◼ usuário (do <em>software</em>): comprador, utilizador.</p>
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ohhh%2C_Shockwave_%28117804940%29.jpg/220px-Ohhh%2C_Shockwave_%28117804940%29.jpg" width="120" /> <br />[<em><span style="color: #808080">Foto: EULA dos anos 90,</span> <span style="color: #808080">empresa Macromedia (<strong>🇺🇸</strong> Adobe)</span>].<br /></em>Nessa época era feito em papel.</p>
-<p><img class="alignleft" src="https://tprojects.schneider-electric.com/GeoSCADAHelp/Geo%20SCADA%202020/Content/SystemInstallationGuide/Figures/enduserlicenseagreement_PROD.png" width="120" /></p>
-<p>Hoje o EULA é o "simples"<br />clique de aceitação que o usuário<br />dá ao instalar um software.</p>
-<p>🤔️ O EULA existe principalmente no <strong>software proprietário</strong>, e é menos comum em <strong>software livre</strong>.<br />No caso dos softwares proprietários, as empresas preferem vender mais as licenças do que as cópias do software (como era feito antigamente). Isso lhes permite mais vantagens frente ao usuário final, por ex.:<br /><small>◼ proibir a transferência de propriedade, <br />◼ determinar o uso do mesmo soft em vários computadores.</small></p>
-<p><strong>Coleta de dados?</strong> Sim. É possível vista que muitos EULAs permitam que o fornecedor colete informações sobre o usuário e as use de maneira irrestrita.<br />Ou seja, quase todo...</p>
-<blockquote>
-<p><em>software</em> proprietário não é vendido para você como uma cópia, e sim como uma licença (com EULA associado).</p>
-</blockquote>
-<p><img class="alignleft" src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" /><strong><em>Superpoderes</em></strong>?<br />Aqui alguns casos do que um <em>Acordo de Licença do Usuário Final</em> pode ter especificado:<br /><small>◼ permitir a rescisão pelo fornecedor por qualquer razão. ◼ alterar os termos a qualquer momento _é dado ao cliente a escolha entre concordar ou cessar o uso do produto, sem obter reembolso. ◼ compras no aplicativo e microtransações. ◼ se isentar de qualquer responsabilidade por danos causados pelo produto.</small></p>
-<pre>📈️ Uma empresa, a Gamestation, concluiu que 88% de seus usuários não leram o acordo.<br /><br />📚️ Sugestão leitura:<br />[-https://www.gnu.org/proprietary/proprietary.pt-br.html]</pre>
-<p>.</p>
+
+###### EULA 
+
+<img class="alignleft" src="https://tprojects.schneider-electric.com/GeoSCADAHelp/Geo%20SCADA%202020/Content/SystemInstallationGuide/Figures/enduserlicenseagreement_PROD.png" width="120" /> Normalmente presente no software privado, é aquele "quadradinho" que damos "ok" concordando com os termos ali escritos. O assunto é polêmico vista o poder que se chegou do autor (corporações) do software.
+Vide [EULA](/eula).
+
 <h3><span class="Y2IQFc" lang="pt"><strong>📝️</strong></span> Open Source e Closed Source</h3>
 <p>Termos associados aos softwares no que tange o código. Lembra a história da receita no início deste tutorial?</p>
 <h6>Open Source - <span style="color: #0000ff">Código Aberto<br /></span></h6>
