@@ -1,2 +1,9 @@
 title: Joe S
 permalink: /:title.html
+
+# Essencial para funcionar SEM Front Matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
