@@ -30,10 +30,9 @@ Com certeza os benefícios que trazem um <em>software</em> livre compensam.. usa
 No final deste artigo há <em>links</em> para tipos de <em>softs</em>, todos para Android e livres.
 <em>Softs</em> comuns do nosso dia a dia, <em>softs</em> de músicos, DJs, programadores, usuários avançados, jogos, finanças e muito mais!
 
-É isso, aproveite!
 
+
+É isso! Grande abraço.  
 \o/
-
-<hr />
 
 <img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
