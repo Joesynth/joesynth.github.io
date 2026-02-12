@@ -1,0 +1,97 @@
+:root {
+    --cor-escura: #3399ff;
+	--cor-clara: #eef;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: sans-serif; }
+
+/* Header */
+header {
+	display: flex;
+	padding: 20px;
+	align-items: center; gap: 20px;
+	border-bottom: 2px solid var(--cor-escura);
+	padding-bottom: 0;
+	}
+
+img { margin-right: .5em;}
+
+.img-header { width: 100px; height: 100px; object-fit: cover; }
+
+#bemVindo {
+	color: var(--cor-escura);
+	font-weight: bold;
+	}
+
+/* Navegação e Lógica do Hamburger */
+nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
+.menu-checkbox { display: none; } /* Esconde o input */
+
+.menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border: 2px solid var(--cor-escura);
+	border-radius: 10px;
+    color: var(--cor-escura);
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.nav-links {
+    display: none; /* Escondido por padrão no mobile */
+    list-style: none;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+/* Quando o checkbox é marcado, mostra a lista */
+.menu-checkbox:checked ~ .nav-links {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-links li a {
+    color: var(--cor-escura);
+    padding: 12px;
+    display: block;
+    font-weight: bold;
+}
+
+/* Main e Artigos */
+main { display: flex; flex-direction: column; padding: 20px; gap: 20px; }
+.art-link { text-decoration: none; color: inherit; }
+
+article { display: flex; gap: 15px; align-items: flex-start; }
+.art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
+
+/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
+h5, h6 { font-size: 1em; letter-spacing: 1.3px;}
+h2, h4, h5, h6 { padding-top: 3em;}
+strong { font-size: 0.9em;}
+
+h1, h2, h3, h4, h5, h6 { color: var(--cor-escura); }
+
+footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
+
+/* Media Queries para Tablet e Notebook */
+@media (min-width: 768px) {
+    .menu-toggle { display: none; } /* Esconde o botão hamburger */
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        gap: 20px;
+    }
+
+    .art-link {
+        flex: 0 1 calc(50% - 10px); /* Dois artigos por linha */
+    }
+}
