@@ -129,21 +129,11 @@ Atenção com ela! Dissemina boatos, propaganda, golpes, fraudes.
 <h5>Outras Precauções</h5>
 - Assinatura digital (o que é relativo a autenticidade e integridade).
 - Criptografia (o que é relativo a confidencialidade ou sigilo).
-- <em>Backup</em> periódico.
+- <em>Backup</em> periódico.  
 
+
+
+É isso! Grande abraço.  
 \o/
-<!--
-Firewall Iptables (Linux):
-youtu.be/LJlJlLgkNxg?list=PL4i0dRYFvxd0fEJIkzTB_PNMcPCgUHLtQ pt.wikipedia.org/wiki/Firewall
-Firewall Node:
-expressjs.com/pt-br/advanced/best-practice-security.html www.npmjs.com/package/node-firewall
--->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/11/27/como-proteger-o-computador/">como proteger o computador</a>?
-[oes: tit !]
+<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
