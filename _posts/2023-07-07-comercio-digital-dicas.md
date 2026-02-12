@@ -90,7 +90,9 @@ Nós do <em>blog</em> JoeSynth também fazemos serviços. <a href="https://joesy
 
 E por fim, lembre que profissionais de TI tem repertório vasto de experiências, como em [backup](/backup) ou lidar com [softwares de linha de comando](/o-que-e-cli ), o que pode ser útil ao seu negócio.  
 
+
+
 É isso! Grande abraço.  
 \o/
 
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="410" />
+<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
