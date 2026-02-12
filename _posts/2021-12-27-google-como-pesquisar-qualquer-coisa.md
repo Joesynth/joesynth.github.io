@@ -63,23 +63,11 @@ Procura dentro do URL.
 <pre>inurl:</pre>
 Palavra pesquisada aparece no título: operador +. Semelhante ao menos do exemplo citado, porém em vez de excluir vai incluir.
 <pre>rede + computadores 
-</pre>
-É isso, esperamos ter ajudado e agora é só praticar aqueles que você achou mais útil.
+</pre>  
 
-Grande abraço!
 
+
+É isso! Grande abraço.  
 \o/
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/11/06/onde-pesquisar-no-google-errou/">Onde pesquisar? No Google? Errou!</a>.
-[oes: ?]
-<!-- 
--https://www.youtube.com/watch?v=bbzCruHS5x8
--https://youtu.be/JrR-mn1EaYQ
- -->
-ft:
+<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
