@@ -4,7 +4,6 @@ xx
 
 x
 
-<main>
 
 <hr>
 
@@ -102,12 +101,9 @@ Alguns exemplos (Todos CSS2).
 
 x
 
-</main>x
 
-<hr>
 
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360">
+É isso! Grande abraço.  
+\o/
 
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-[oes: tit !]
+<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
