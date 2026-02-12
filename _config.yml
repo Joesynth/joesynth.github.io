@@ -1,4 +1,6 @@
 title: Joe S
+url: "https://joesynth.github.io"
+baseurl: ""
 permalink: /:title.html
 
 # Essencial para funcionar SEM Front Matter
