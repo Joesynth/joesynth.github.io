@@ -82,10 +82,11 @@ HTML é uma linguagem do tipo interpretada. O Firefox, o software navegador (bro
     
 Os arquivos usam extensão <em>.html</em>.
 
-###### Exemplo de código<
-{% row %}
-    <button> Clique </button>
-{% endrow %}
+###### Exemplo de código
+
+
+    < button > Clique < / button >
+
 
 <h6>Web Standards</h6>
 Entende-se como <em>Normas para Web </em> e visa uma padronização e a criação de uma <em>Web Universal</em>. Estas recomendações ou normas são produzidas pela <a href="https://joesynth.wordpress.com/2021/10/31/internet-tem-dono/">W3C</a>.
