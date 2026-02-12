@@ -72,14 +72,12 @@ Termo informal aos sites criados para um dispositivo e com adaptações para out
 </tbody>
 </table>
 <h2>Mobile First</h2>
-<span style="font-size:3em;">📱</span>Conceito em que os projetos começam primeiro pensando no mobile e depois desktop. Ou seja, smartphone e em seguida tablet, desktop.
+<span style="font-size:3em;">📱</span>Conceito em que os projetos começam primeiro pensando no mobile e depois desktop. Ou seja, smartphone e em seguida tablet, desktop.  
 
+
+
+
+É isso! Grande abraço.  
 \o/
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-[oes: tit !]
+<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
