@@ -193,18 +193,14 @@ Redragon K, K556 RGB
 ROYAL KLUDGE RK61
 Unicomp Ultra Classic
 Ultimate Hacking Keyboard</pre>
-É isso!
-Grande abraço.
 
+
+É isso!  
+Grande abraço.  
+\o/  
+
+<!--
 https://youtu.be/VuWxPQKZx0g?si=UXGrozoTnsTjI7L4
+-->
 
-\o/
-
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/10/31/atalhos-do-teclado/">Atalhos do Teclado</a>.
 [oes: tit !]
