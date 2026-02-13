@@ -1,7 +1,4 @@
-
-
-
-layout-resolucoes-de-tela-design-mobile-first
+# Layout: resoluções de tela - design mobile first
 
 <h2>Layout</h2>
 <table border="1" width="100%">
@@ -78,6 +75,4 @@ Termo informal aos sites criados para um dispositivo e com adaptações para out
 
 
 É isso! Grande abraço.  
-\o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
+\o/  
