@@ -45,8 +45,5 @@ Licença: OSL.
 
 👉 Semelhante ao CMS há o <em>enterprise content management</em> (ECM) e o <em>web content management</em> (WCM).
 
-É isso!
+É isso!  
 \o/  
-
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
