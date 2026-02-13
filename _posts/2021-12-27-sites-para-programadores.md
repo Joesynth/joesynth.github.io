@@ -1,9 +1,8 @@
+# 7 Sites para programadores
 
-12 sites para programadores
 
-xx
-
-github
+GitLab
+GitHub
 
 npm, caso de Node.
 
