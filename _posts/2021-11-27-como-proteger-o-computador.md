@@ -175,11 +175,9 @@ Denigre imagem de pessoa ou empresa, onde autor aparentemente tem fidelidade, cr
 
 Leia também sobre <a href="https://joesynth.wordpress.com/2021/12/12/antivirus-firewall/">defesa</a> e <a href="///home/joe/appjoB/permissoes_em_apps.html">permissões em apps</a>.
 
-É isso! Grande abraço.
-🔗️ Ouça Joe S no Bandcamp: <a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-🔗️ Siga no Instagram: @joe_synth
+É isso! Grande abraço.  
+\o/ 
 
-\o/
 <!-- 
 -youtube.com/watch?v=jgZQcsn2FYA&amp;index=32&amp;list=PLjwdid56Jc_BL0jb8be0Zr_4uZ-uWKJ5g
 -youtube.com/watch?v=JxN8aK10q48&amp;index=22&amp;list=PLjwdid56Jc_BL0jb8be0Zr_4uZ-uWKJ5g
@@ -190,10 +188,4 @@ Leia também sobre <a href="https://joesynth.wordpress.com/2021/12/12/antivirus-
 -https://www.youtube.com/watch?v=cWld3rMD7Wk&amp;list=PLucm8g_ezqNred_fII4GzZxMi91PKbney
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
