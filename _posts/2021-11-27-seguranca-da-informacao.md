@@ -1,7 +1,4 @@
-
-
-
-Segurança da informação
+# Segurança da informação
 
 Tutorial.
 
@@ -164,8 +161,10 @@ https://en.wikipedia.org/wiki/Digital_video_fingerprinting
 https://en.wikipedia.org/wiki/Fingerprint_(computing)
 https://blog.mozilla.org/firefox/how-to-block-fingerprinting-with-firefox/
 </pre>
-Então é isso!
-Grande abraço.
+
+
+É isso!  
+Grande abraço.  
 \o_
 
 <!-- 
@@ -173,10 +172,4 @@ https://bdex.eb.mil.br/jspui/bitstream/123456789/7110/3/TCC_CFO_Alegretti_textua
 https://bdex.eb.mil.br/jspui/bitstream/123456789/5382/1/Artigo%20Cienti%CC%81fico%20Bruno%20%C3%8Dgaro%20esao.pdf
  -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
