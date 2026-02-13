@@ -1,6 +1,17 @@
 # Por que usar linux?
 
-Conheça o Linux: o sistema mais robusto do mercado, usado até pela NASA.
+Conheça o Linux: o sistema mais robusto do mercado, usado até pelo Exército.
+
+- Quem usa o Linux?
+- Linux vs. Windows
+- Governo e Exército Brasileiro: caso de exemplo
+- Segurança
+- Quem controla o sistema? O desenvolvedor ou o usuário?
+- Estabilidade
+- Softwares: a variedade
+- Mais pontos a considerar
+- Conhecendo o Linux
+
 
 Olá!
 
@@ -10,31 +21,37 @@ Neste artigo passaremos por interface gráfica, compatibilidade; bem como esses 
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" width="40" />Vamos aqui fazer um pequeno resumo sobre esse SO, o Linux, para buscar deixar mais claro do quanto ele é importante, seja você uma pessoa comum, grande empresa, instituição, etc.
 <h2>Quem usa o Linux?</h2>
-<h2>Linux e os vários países</h2>
-<h2>Linux no Brasil: quem usa?</h2>
+
+
+###### Linux nos países: quem usa?
+
+🇺🇸 Órgãos de Estado / Instituições não governamental:
+● NASA ● FAA ● Wikipedia.  
+🇺🇸 Corporações ou bigTechs que utilizam o SO do pinguim.
+● Google ● Facebook ● Microsoft.
+🇺🇸 Finanças:  
+● Bolsa de Valores (NYSE).
+
+🇫🇷 França:  
+● Parlamento.
+🇯🇵 Japão:
+● Trem-bala.
+🇪🇸 Espanha:
+● Barcelona, anos atrás já estava previsto migrar seus sistemas para software ivre, sendo o objetivo possuir total controle tecnológico sobre os sistemas.
+
+
+###### Linux no Brasil: quem usa?
+
 🇧🇷 Instituições/empresas no Brasil
 
 Alguns exemplos.
-<pre>🇺🇸 Órgãos de Estado / Instituições não governamental
-<span lang="pt">●</span> NASA <span lang="pt">●</span> FAA <span lang="pt">●</span> Wikipedia
-
-🇺🇸 Empresas BigTechs: <span lang="pt">●</span> Google <span lang="pt">●</span> Facebook.
-
-🇺🇸 Finanças: <span lang="pt">●</span> Bolsa de Valores (NYSE).
-
-🇫🇷 França: <span lang="pt">●</span> Parlamento.
-
-🇯🇵 Japão: <span lang="pt">●</span> Trem-bala.
-
-🇪🇸 Espanha: <span lang="pt">●</span> Barcelona, anos atrás já estava previsto migrar seus sistemas para <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/"><em>software</em> livre</a>, sendo o objetivo possuir total controle tecnológico sobre os sistemas.
-
-<strong>🇧🇷</strong> Órgãos de Estado / Indústria bélica / Instituições
-<span lang="pt">●</span> E-mail - Exército <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> VPN-Marinha <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Unicamp (TEleduc) <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> UFPR <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Rede municipal de SP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Rede municipal de Belo Horizonte <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Furnas <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Eletrobras <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Ministério da Cultura <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Projeto de Gerenciamento Genético de Rebanho - Embrapa.
+🇧🇷 Órgãos de Estado / Indústria bélica / Instituições
+● E-mail - Exército ● VPN-Marinha ● Unicamp (TEleduc) ● UFPR ● Rede municipal de SP ● Rede municipal de Belo Horizonte ● Furnas ● Eletrobras ● Ministério da Cultura ● Projeto de Gerenciamento Genético de Rebanho - Embrapa.
 <strong>
 🇧🇷
-Comércio/Varejista</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Casas Bahia <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Colombo <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">● </span></span></span>Lojas Americanas (Pontos de Caixa) <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Renner...
+Comércio/Varejista</strong>: Casas Bahia  Colombo ● Lojas Americanas (Pontos de Caixa) ● Renner...
 
-<strong>Telecomunicações, Internet/Imprensa</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Brasil Telecom <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Infraestrutura do Portal – Terra <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Folha (infra-estrutura) <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> UOL.
+<strong>Telecomunicações, Internet/Imprensa</strong>: ● Brasil Telecom ● Infraestrutura do Portal – Terra ● Folha (infra-estrutura) ● UOL.
 
 <strong>Educação</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Estácio de Sá (Graduação em Software Livre) 
 
@@ -44,34 +61,46 @@ Comércio/Varejista</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz C
 
 <strong>Logística/Transporte</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Varig <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Metro SP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Gol...
 
-</pre>
-<em>Mesmo em Cuba, uma nação vista de forma diferente, também usa Linux</em>.
-<h6>TOP500</h6>
+
+
+###### TOP500
+
 No <em>ranking</em> dos 500 supercomputadores o Linux é o sistema operacional que impera.
-<pre>https://en.wikipedia.org/wiki/TOP500#Architecture_and_operating_systems
-</pre>
-[Atualização] Desde 2017 todos são Linux.
-<h6>Internet</h6>
-A própria internet utiliza computadores centrais, os 13 <a href="https://joesynth.wordpress.com/2021/10/31/internet-tem-dono/">servidores</a>, em que o <em>software</em> principal é exatamente para sistema Linux. A pŕopria Google e a Microsoft utiliza o SO do pinguim.
+
+🔗 https://en.wikipedia.org/wiki/TOP500#Architecture_and_operating_systems
+
+⚠️ [Atualização] Desde 2017 todos são Linux.
+
+###### A internet
+
+A própria internet utiliza computadores centrais, os 13 <a href="https://joesynth.wordpress.com/2021/10/31/internet-tem-dono/">servidores</a>, em que o <em>software</em> principal é exatamente para sistema Linux. 
 <h6>Você usa Linux!</h6>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samsung_Galaxy_Note_series_20140614.jpg/800px-Samsung_Galaxy_Note_series_20140614.jpg" width="120" height="72" /> Se você usa um celular Android lembre que esse SO é uma adaptação do Linux, feita pela Google.
 
 Mesmo que seu computador seja um <em>desktop</em> com Windows e você está acessando a Web, ainda sim estará indiretamente utilizando o Linux (por conta dos servidores que mencionamos).
 
+👉 Mesmo em Cuba, uma nação vista de forma diferente, também usa Linux.
 Será uma conspiração!? Claro que não!
-<h3>Linux vs Windows: motivos a considerar a escolha</h3>
-Linux e Windows são os principais sistemas operacionais para <em>desktops</em> e <em>notebooks.</em>
+
+## Linux vs. Windows 
+
+###### motivos a considerar a escolha
+Linux e Windows são os principais sistemas operacionais para <em>desktops</em> e <em>notebooks</em>.
 
 Cita-se como fatores relevantes para se escolher entre um ou outro a "segurança, desempenho e custo". <em>[AMAN, 2018]</em>
-<h3>Linux vs Windows: diferenças?</h3>
-<h6>GNU/Linux</h6>
+Será mesmo? E quem não tem referências?
+
+###### Diferenças: o GNU/Linux
+
 É um sistema livre, não se precisa pagar pela licença e é um sistema de código fonte aberto.
 
 Em si...
 "<em>o GNU/Linux não é uma empresa, não existe uma empresa responsável ou uma estrutura física. O que existe é uma comunidade, na qual os conhecimentos são compartilhados para quem quiser.</em>" [AMAN, 2018]
 
 O próprio SO foi criado por diversas pessoas de forma comunitária.
-<h6>Microsoft Windows</h6>
+
+###### Diferenças: o Microsoft Windows
+
 "de propriedade privada, sua licença possui um valor".
 <em>[AMAN, 2018]</em>
 
@@ -80,7 +109,8 @@ Como mais acima, custo é só um dos pontos a se considerar, mas há outros.
 "<em>No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações.</em>" [AMAN, 2018]
 
 Ou seja, o sistema operacional <em>Windows</em> é um <em>soft</em> com único dono: a Microsoft. E sendo ela a proprietária do sistema, só ela pode atualizá-lo.
-<h6>Linux / Windows : resumo:</h6>
+
+###### Linux vs. Windows : resumo
 <table>
 <tbody>
 <tr>
@@ -100,26 +130,30 @@ Ou seja, o sistema operacional <em>Windows</em> é um <em>soft</em> com único d
 </tr>
 </tbody>
 </table>
-.
-<h3>Governo e Exército Brasileiro: caso de exemplo</h3>
-A adoção do sistema livre GNU/Linux está ocorrendo de forma gradual, no Exército Brasileiro _e fatores considerados são:
-<ul>
- 	<li>reduzir despesas com aquisições de licenças,</li>
- 	<li>depender menos de um só fornecedor,</li>
- 	<li>restringir o crescimento do legado baseado em tecnologia proprietária,</li>
- 	<li>possuir maior segurança, estabilidade e disponibilidade proporcionada pelo <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/"><em>software</em> livre</a>,</li>
- 	<li>desenvolvimento de conhecimento local,</li>
- 	<li>independência tecnológica,</li>
- 	<li>possibilidade de auditabilidade dos sistemas e</li>
- 	<li>eliminação das mudanças periódicas que os modelos fechados impõem com a descontinuidade.</li>
-</ul>
-E motivos que levaram o governo a adotar o Software Livre estão no fato de se reduzir os custos com renovação de software, gerar o desenvolvimento do conhecimento na área, além de ampliar a concorrência.
 
-"<em>Para o Exército Brasileiro e para o governo brasileiro, o parque computacional deveria respeitar a questão da segurança, principalmente levar em consideração os princípios básicos da segurança, que consiste na confidencialidade, integridade e disponibilidade. A confidencialidade consiste em garantir que somente pessoas autorizadas tenham acesso aqueles documentos ou informações segundo o Diretor de TI da SAEB e fundador do portal GSTI, Fernando Palma. Isso pode ser feito através de controle de acesso, autenticações e etc. Para isso, o sistema operacional utilizado não pode conter <a href="https://joesynth.wordpress.com/2021/11/27/como-proteger-o-computador/">backdoor</a>." [AMAN, 2018]</em>
-<em>"O Exército adotou o plano de migração para software livre e dentre as inúmeras recomendações uma delas é a utilização do Ubuntu para os desktops, pois é desenvolvido com base no <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Debian</a>, já alcançou certo grau de maturidade e é de fácil utilização</em>." <em>[AMAN, 2018]</em>.
+
+## Governo e Exército Brasileiro: caso de exemplo
+
+A adoção do sistema livre GNU/Linux está ocorrendo de forma gradual, no Exército Brasileiro _e fatores considerados são:
+● reduzir despesas com aquisições de licenças,
+● depender menos de um só fornecedor,
+● restringir o crescimento do legado baseado em tecnologia proprietária,
+● possuir maior segurança, estabilidade e disponibilidade proporcionada pelo <em>software</em> livre</a>,
+● desenvolvimento de conhecimento local,
+● independência tecnológica,
+● possibilidade de auditabilidade dos sistemas e
+● eliminação das mudanças periódicas que os modelos fechados impõem com a descontinuidade.
+
+E motivos que levaram o governo a adotar o software livre estão no fato de se reduzir os custos com renovação de software, gerar o desenvolvimento do conhecimento na área, além de ampliar a concorrência.
+
+> "<em>Para o Exército Brasileiro e para o governo brasileiro, o parque computacional deveria respeitar a questão da segurança, principalmente levar em consideração os princípios básicos da segurança, que consiste na confidencialidade, integridade e disponibilidade. A confidencialidade consiste em garantir que somente pessoas autorizadas tenham acesso aqueles documentos ou informações segundo o Diretor de TI da SAEB e fundador do portal GSTI, Fernando Palma. Isso pode ser feito através de controle de acesso, autenticações e etc. Para isso, o sistema operacional utilizado não pode conter backdoor." [AMAN, 2018]</em>
+<em>"O Exército adotou o plano de migração para software livre e dentre as inúmeras recomendações uma delas é a utilização do Ubuntu para os desktops, pois é desenvolvido com base no Debian, já alcançou certo grau de maturidade e é de fácil utilização</em>."
+<em>[AMAN, 2018]</em>.
+
 <h2>Segurança</h2>
+
 <h6>O código fonte</h6>
-É imprescindível. Uma das formas de medir a segurança de um software é analisar o código fonte com o intuito de descobrir possíveis falhas (até <a href="https://joesynth.wordpress.com/2021/11/27/como-proteger-o-computador/">backdoors</a>). Segundo Jansen Sena, “O código-fonte aberto pode realmente ser analisado por qualquer programador e este é o ponto forte do ponto de vista da segurança. Se muitos programadores têm acesso ao mesmo código, a probabilidade de se ter problemas de segurança deve ser menor.”(2009, p. 336)
+É imprescindível. Uma das formas de medir a segurança de um software é analisar o código fonte com o intuito de descobrir possíveis falhas (até backdoors). Segundo Jansen Sena, “O código-fonte aberto pode realmente ser analisado por qualquer programador e este é o ponto forte do ponto de vista da segurança. Se muitos programadores têm acesso ao mesmo código, a probabilidade de se ter problemas de segurança deve ser menor.”(2009, p. 336)
 
 Com relação à segurança do software proprietário pode-se dizer que o fato da não disponibilização do código fonte do software, faz com que, o software seja uma caixa preta. Ou seja, não dá para averiguar se é, ou não, realmente confiável [...]. Uma das premissas da segurança diz que...
 <blockquote>A segurança nunca deve ser baseada na obscuridade.</blockquote>
@@ -151,7 +185,7 @@ Referindo-se a uma empresa...
 "<em>O sistema não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez."</em>
 <em>"De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema</em>."<em>[AMAN, 2018]</em>
 <h2>Conhecendo o Linux</h2>
-Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Linux</a>.
+Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja Linux.
 
 É isso!  
 Grande abraço.  
