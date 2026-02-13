@@ -57,7 +57,7 @@
     "href": "gedit.html",
     "src": "image/linguagem.png",
     "h3": "Gedit",
-    "p": "Tutorial simples e objetivo do editor de código Gedit, Ubuntu."
+    "p": "Tutorial simples e objetivo do editor de códigos Gedit, Ubuntu."
   },
   {
     "href": "vim-e-vi.html",
@@ -91,7 +91,7 @@
   },
   {
     "href": "template-engine.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Template engine",
     "p": "Entenda o que é, o que faz, e veja exemplos."
   },
@@ -145,7 +145,7 @@
   },
   {
     "href": "site-comercial-um-tutorial-essencial.html",
-    "src": "image/mkt.png",
+    "src": "image/comercio.png",
     "h3": "Site comercial: um tutorial essencial",
     "p": "Tudo o que vocẽ precisa saber sobre ter um site, vital nos dias atuais."
   },
@@ -217,7 +217,7 @@
   },
   {
     "href": "telegram-tutorial-7-motivos-para-usar-na-sua-empresa.html",
-    "src": "image/foss.png",
+    "src": "image/comercio.png",
     "h3": "Telegram tutorial: 7 motivos para usar na sua empresa",
     "p": "Indo além de um mero app de mensagens, saiba as razões para utilizá-lo na sua empresa."
   },
@@ -367,7 +367,7 @@
   },
   {
     "href": "internet-tem-dono.html",
-    "src": "image/ti.png",
+    "src": "image/rede.png",
     "h3": "A internet tem dono?",
     "p": "Dizem que dono é quem cuida. Será que isso se aplica a web?"
   },
@@ -391,7 +391,7 @@
   },
   {
     "href": "console-do-desenvolvedor.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Console do desenvolvedor",
     "p": "Veja uma outra aplicação do Firefox, bem diferente de navegar na web."
   },
@@ -421,9 +421,9 @@
   },
   {
     "href": "json.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Json",
-    "p": "O nome parece de uma linguagem, mas não é! Veja exatamente para que serve o Json."
+    "p": "Parece nome de linguagem de computador, mas não é! Veja exatamente o que é e qual a relação com linguagem."
   },
   {
     "href": "nocoes-de-programacao.html",
@@ -499,7 +499,7 @@
   },
   {
     "href": "deploy.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Deploy",
     "p": "Um guia elementar."
   },
@@ -529,7 +529,7 @@
   },
   {
     "href": "sites-para-programadores.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Sites para programadores",
     "p": "Um guia elementar."
   },
