@@ -1,6 +1,4 @@
-
-
-Hardware de rede
+# Hardware de rede
 
 Conheça os principais equipamentos, além de camadas.
 
@@ -94,18 +92,12 @@ AC1300 USB wireless dual band Archer T3U
 <img class="alignleft" src="https://d2r9epyceweg5n.cloudfront.net/stores/836/742/products/708_7a866f3e-4f90-4299-9c7a-68b6c5252ca1_800x800-f897c15903a8860b2c16099433357436-640-0.jpg" width="60" height="60" />Adaptador TP-Link.
 Ethernet Ue300 Usb 3.0 P/ Lan Rj45 Gigabit
 
-\o/
+
+\o/  
+
 <!--
 https://www.youtube.com/watch?v=wrHxvTcHE1k
 https://www.youtube.com/watch?v=4LE-40SC6Rc
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">Software Servidor</a>.
-○ <a href="https://joesynth.wordpress.com/2021/11/28/rede/">Rede</a>.
 [oes: tit !]
