@@ -3,6 +3,8 @@
 	--cor-clara: #eef;
 }
 
+ul li { font-weight: bold;}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: sans-serif; }
 
