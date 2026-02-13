@@ -10,7 +10,8 @@ O sistema operacional gere os tipos de <a href="https://joesynth.wordpress.com/2
 <img class="alignleft" src="https://pplware.sapo.pt/wp-content/uploads/2014/12/pplware_so_2014_1.png" width="320" />No gráfico nota-se o "poder" do Windows, extremamente popular.
 A Google, uma empresa bem mais moça que a Microsoft, tornou seu sistema Android comum em celulares praticamente do "dia pra noite".
 E se o Windows é <em>pop</em> e o Android sinônimo de celular, o Linux é "o cara" quando se fala em servidores. Por inúmeras vantagens o Linux vai deixando de ser só um sistema utilizado por profissionais e passando a fazer parte, cada vez mais, da vida comum de pessoas comuns. Veja <a href="https://joesynth.wordpress.com/2021/11/28/por-que-usar-linux/">Por que usar Linux</a>?
-<h3>OS Móveis</h3>
+
+<h2>OS Móveis</h2>
 Sim, celulares e <em>tablets,</em> por exemplo, também usam sistemas operacionais. Embora conheçamos mais o Android da Google ou o iOS da Apple, há outros. Abaixo mostramos alguns:
 
 🇺🇸 Mozilla Corporation <strong>Firefox OS</strong>, 2013;
@@ -32,9 +33,9 @@ Um sistema ao estilo "Android", mas <a href="https://joesynth.wordpress.com/2021
 Licença: <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">FOSS</a> (GPL, Apache...)
 </span>
 
-<hr />
 
-<h3>Um pouco de história...</h3>
+
+<h2>Um pouco de história...</h2>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" width="40" />
 
 🇫🇮 🇺🇸 Linus Benedict Torvalds <strong>Linux</strong>, anos 90.
