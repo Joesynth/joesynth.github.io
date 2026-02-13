@@ -84,24 +84,15 @@ Tanto o <em>WooCommerce</em> quanto o <em>Website eCommerce</em> permitem criar 
 <h3>🌟️ Dica!</h3>
 Há tempos é possível que uma pessoa comum crie um site, o que pode ser um bom exercício tecnológico ou até por curiosidade ou diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Nos <a href="https://joesynth.wordpress.com/2024/09/14/telegram-grupos-interessantes/">grupos de Telegram</a>, pode-se contratar prestadores de serviços experientes e das mais diversas áreas. Nós do <em>blog</em> JoeSynth também fazemos este serviço. <a href="https://joesynth.wordpress.com/contato/">Fale Conosco</a>!
 
-Outra dica? Leia o artigo <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">Site Comercial - Um Tutorial Essencial</a>.
+Outra dica? Leia o artigo <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">Site Comercial - Um Tutorial Essencial</a>.  
 
-É isso! Grande abraço... sucesso!
-🔗️ Ouça Joe S no Bandcamp:
-<a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-\o_
+É isso! Grande abraço... sucesso!  
+\o_  
+
 <!--
-- en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
-- https://pt.wikipedia.org/wiki/Com%C3%A9rcio_eletr%C3%B4nico
-- https://en.wikipedia.org/wiki/E-commerce
+en.wikipedia.org/wiki/Comparison_of_shopping_cart_software
+https://pt.wikipedia.org/wiki/Com%C3%A9rcio_eletr%C3%B4nico
+https://en.wikipedia.org/wiki/E-commerce
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre e Software Proprietário</a>.
-○ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">Licença de Software</a>.
 [oes: tit ! erOk]
