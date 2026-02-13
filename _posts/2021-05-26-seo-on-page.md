@@ -1,5 +1,4 @@
-
-<h1>SEO On Page: o que é exatamente?</h1>
+# SEO On Page: o que é exatamente?
 
 Tutorial:  
 
@@ -240,13 +239,19 @@ title=""
 <p>"<br />Muitas pessoas usam o link “Home” no menu do site. Recomenda-se usar nofollow nesse link. Sendo assim, insira um link com as palavras-chave da página principal no rodapé do site, sem o atributo nofollow. Você pode observar essa técnica no próprio site da SEO Master.<br />"</p>
 <p>Priorize as páginas mais importantes de seusite, utilizando corretamente o atributo rel=”nofollow” de forma a direcionar o link juice de seusite.</p>
 <p>Privilegie a passagem de link juice através de links com as principais palavras-chave em seu texto, pois isso ajudará no processo de otimização de sites.</p>
-<p>É isso!<br />Grande abraço.</p>
-<p>\o_</p>
-<p>https://moz.com/learn/seo/title-tag https://moz.com/learn/seo/meta-description https://youtu.be/alAiVKAD-VQ<br />support.google.com/webmasters/answer/79812?hl=pt-BR [26:00min] https://youtu.be/KrZy6U4h_JY https://www.youtube.com/watch?v=tD9L5amsrHM&amp;list=PL0E0B79132BAD78C8&amp;index=5</p>
-<p>[47:00min] https://youtu.be/ucYqRlc5fpw][SOBRE h3 E h4]</p>
-<p>SEO &amp; Link:<br />youtu.be/JOnSOoSE1Ns?list=PL5KE4trgsCLrrEVmekQo7x0G2_uBX3cdR [Linkagem interna]</p>
-<p>.</p>
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+
+É isso!  
+Grande abraço.  
+\o_  
+
+<!--
+https://moz.com/learn/seo/title-tag https://moz.com/learn/seo/meta-description https://youtu.be/alAiVKAD-VQ
+
+support.google.com/webmasters/answer/79812?hl=pt-BR [26:00min] https://youtu.be/KrZy6U4h_JY https://www.youtube.com/watch?v=tD9L5amsrHM&amp;list=PL0E0B79132BAD78C8&amp;index=5
+
+
+[47:00min] https://youtu.be/ucYqRlc5fpw][SOBRE h3 E h4]
+
+SEO &amp; Link:<br />youtu.be/JOnSOoSE1Ns?list=PL5KE4trgsCLrrEVmekQo7x0G2_uBX3cdR [Linkagem interna]
+-->
