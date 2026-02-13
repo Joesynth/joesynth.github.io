@@ -1,6 +1,4 @@
-
-
-Google: como pesquisar qualquer coisa
+# Google: como pesquisar qualquer coisa
 
 Conheça truques para descobrir qualquer coisa na Web.
 
@@ -69,5 +67,3 @@ Palavra pesquisada aparece no título: operador +. Semelhante ao menos do exempl
 
 É isso! Grande abraço.  
 \o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
