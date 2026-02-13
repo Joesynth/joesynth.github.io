@@ -43,12 +43,15 @@ Para 2D, Linux, Android, IOS...
 <h6>Outros motores</h6>
 Minecraft: usa sua própria <em>engine</em>.
 Blender: UPBGE.
-<h3>Software</h3>
+<h2>Software</h2>
+
 <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Blender</a>.
 GameMaker Studio.
 Construct: jogos 2D e <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML</a>.
 GDevelop (open-source; Google).
-<h3>Middleware</h3>
+
+<h2>Middleware</h2>
+
 No geral, o próprio motor de jogo pode ser descrito como <em>middleware</em>. No contexto de games, porém, o termo "middleware" frequentemente se referi a subsistemas de funcionalidades dentro de um mecanismo de jogo. Um <em>middleware</em> de jogo pode fazer algo específico enquanto um outro ser de uso mais geral.
 <ul>
  	<li>Bink da RAD Game Tools.</li>
@@ -56,8 +59,8 @@ No geral, o próprio motor de jogo pode ser descrito como <em>middleware</em>. N
  	<li>Havok.</li>
  	<li>Scaleform GFx.</li>
 </ul>
-.
-<h3>Redes social para gamers</h3>
+
+<h2>Redes social para gamers</h2>
 <pre>🔗️ site
 🖥️ SO
 📜️ licença</pre>
@@ -123,7 +126,9 @@ Criada por um grupo de amigos, vale a pena conhecer essa rede social de gamers _
 Bem, outros nomes incluem ainda a Gamurs, WeGame e o site estoujogando.com.br.
 
 Outro caso é Lutris, que é open-source, Linux.
-<h3>Links</h3>
+
+<h2>Links</h2>
+
 <pre><a href="https://joesynth.wordpress.com/2023/10/18/jogo-open-source/">7 jogos open source</a>.
 </pre>
 
