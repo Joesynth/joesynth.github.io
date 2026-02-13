@@ -1,5 +1,4 @@
-
-<h1>Noções de Informática</h1>
+# Noções de Informática
 
 Uum breve resumo dos temas <strong>software</strong>, <strong>hardware</strong> e <strong>informática</strong>.
 
@@ -613,5 +612,6 @@ Livro Dic. dos Usuários de Micro Computadores, 1990/92, Editora Campos.
 
 Veja também "<a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>".
 
-É isso!l
-\o/<!-- youtube.com/watch?v=28UDvdex_bU -->
+É isso!  
+\o_
+<!-- youtube.com/watch?v=28UDvdex_bU -->
