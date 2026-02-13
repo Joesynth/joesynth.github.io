@@ -48,15 +48,7 @@ Universidade Federal do Espirito Santo
 Pontificia Universidade Catolica do Parana</pre>
 .
 
-<hr />
+É isso!  
+Abç.  
+\o/
 
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/12/27/js-q/">Música &amp; internet no Brasil: o que tem haver?</a>.
-○ <a href="https://joesynth.wordpress.com/2021/10/31/internet-tem-dono/">Internet tem dono</a>?
-<pre style="font-size:10px">ft
-uol.com.br
-dicasdosergio.com.br</pre>
-[oes: tit !]
