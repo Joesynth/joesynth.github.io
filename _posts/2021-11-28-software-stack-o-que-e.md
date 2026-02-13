@@ -1,4 +1,4 @@
-Software stack: o que é?
+# Software stack: o que é?
 
 Conheça esse tipo de <em>software</em>, seja no caso do Node.js ou outros.
 
@@ -77,10 +77,10 @@ Um <em>software bundle</em> (pacote de softs) com Linux, Apache, MySQL, PHP/Perl
 ⚫️ <strong>MAMP</strong>.
 Macintosh, Apache, MySQL, PHP/Perl/Python.
 
-É isso!
-Grande abraço e esperamos ter ajudado.
+É isso!  
+Grande abraço e esperamos ter ajudado.  
+\o/  
 
-\o/
 <!-- 
 -https://youtu.be/ZRUuBfoYlxs
 -obomprogramador.com/2014/04/mean-stack-hora-de-ser-mau.html
@@ -94,10 +94,4 @@ Comparação de WAM:
 https://fr.wikipedia.org/wiki/Comparaison_de_WAMP
  -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
