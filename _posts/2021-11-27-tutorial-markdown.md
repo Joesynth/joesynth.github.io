@@ -1,4 +1,4 @@
-
+# Markdown
 
 Olá!
 Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
@@ -241,15 +241,10 @@ https://spec.commonmark.org/0.30/
 -https://wordpress.com/pt-br/support/markdown-quick-reference/#privacy
 -https://wordpress.com/support/wordpress-editor/blocks/markdown-block/#writing-with-markdown
 </pre>
-É isso!
-Grande abraço.
 
-\o/
 
-<hr />
+É isso!  
+Grande abraço.  
+\o/  
 
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
