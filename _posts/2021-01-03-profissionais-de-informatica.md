@@ -376,8 +376,7 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 </tbody>
 </table>
 
-É isso!
-Grande abraço.
-\o/
+É isso!  
+Grande abraço.  
+\o/  
 
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
