@@ -1,7 +1,4 @@
-
-
-
-Sistemas operacionais mais usados
+# Sistemas operacionais mais usados
 
 Veja os sistemas operacionais mais comuns... seja celular ou <em>desktop</em>.
 
@@ -74,15 +71,12 @@ Idem Atari.
 🔗️ opengroup.org/unix
 Arquitetura x86, x64...
 
-\o/
+
+É isso.  
+\o/  
+
 <!--
 pt.wikipedia.org/wiki/Sistema_operativo#Sistemas_operacionais_modernos
  -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
