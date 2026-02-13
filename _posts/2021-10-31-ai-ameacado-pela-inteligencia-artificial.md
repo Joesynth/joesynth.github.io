@@ -1,7 +1,4 @@
-
-
-
-AI: ameaçado pela inteligência artificial?
+# AI: ameaçado pela inteligência artificial?
 
 Você é tão dedicado quanto o Bob Esponja? Conheça as profissões mais ameaçadas pela IA... e as menos!
 
@@ -40,12 +37,6 @@ Vale lembrar que para tecnologias como carros autônomos, por ex., deve-se demor
 
 Veja que escrivão (caso de "área de direito") e <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a> (caso de "matemática e computação") são campos em situações confortáveis, de pouca ameaça diante da IA. Lembrando que para os que estudam tecnologia (ou querem estudar) o setor é vasto; por ex.: <a href="https://joesynth.wordpress.com/2021/11/27/seguranca-da-informacao/">segurança da informação</a>, <a href="https://joesynth.wordpress.com/2021/12/27/front-end-e-back-end/">back-end e front-end</a>, <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagens de computador</a> etc. O ensino brasileiro de excelência pública _algo restrito às escolas militares ou os chamados CAps (Colégio de Aplicação)_ já lidam com esses temas 'tecnológicos' há tempos.
 
-Então é isso!
-Grande abraço!
-
+Então é isso!  
+Grande abraço!  
 \o/
-
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-Veja também <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>.
