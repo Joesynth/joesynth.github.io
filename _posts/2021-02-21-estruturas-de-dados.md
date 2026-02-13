@@ -1,7 +1,8 @@
 # Estrutura de dados
 
-<h2>Estruturas de dados</h2>
-[ft: boson: -https://youtu.be/CZbZiE4O9Ws]
+<!--[ft: boson: -https://youtu.be/CZbZiE4O9Ws]
+-->
+
 
 "formas de armazenamento e organização de dados na memória (RAM)..."
 <h5>Homogênia e heterogênia</h5>
@@ -36,10 +37,6 @@ fote:
 
 x
 
-<hr />
+\o/  
 
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
