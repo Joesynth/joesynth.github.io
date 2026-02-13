@@ -239,18 +239,13 @@ Outras expressões incluem C2C, B2C e mesmo G2B (governo e empresas).
 Então é isso!
 Compartilhe este artigo com seus amigos, pois será útil a eles.
 
-\o_
+\o_  
 
 <!-- 
 https://pt.wikipedia.org/wiki/Workana
 https://www.alura.com.br/artigos/conheca-5-tipos-de-marketplaces-para-freelancers-em-ti?gclid=CjwKCAjw8JKbBhBYEiwAs3sxN7i2n_0v14d34fdKxxjhtzuUcBY7yY8s_f0zfh0QVY1Tqwy8kDG9jRoCvq4QAvD_BwE
 https://enotas.com.br/blog/contratar-freelancers/#
 https://www.nuvemshop.com.br/blog/integracao-com-marketplace/
- -->
+ -->  
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
