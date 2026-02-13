@@ -66,7 +66,7 @@
     "p": "Tutorial."
   },
   {
-    "href": "bash-shell.html",
+    "href": "private.html",
     "src": "image/cli.png",
     "h3": "Bash shell",
     "p": "Tutorial."
@@ -102,7 +102,7 @@
     "p": "Existe mundo livre no Android! Conheça dezenas de apps criados por grupos de desenvolvedores."
   },
   {
-    "href": "o-que-e-github.html",
+    "href": "private.html",
     "src": "image/rede.png",
     "h3": "O que é o GitHub?",
     "p": "O que essa rede tem de diferente do Facebook, Instagram ou o Mastodon?"
@@ -192,13 +192,13 @@
     "p": "Quais as opções para os jovens estudarem tecnologia?"
   },
   {
-    "href": "ui-e-ux.html",
+    "href": "private.html",
     "src": "image/design.png",
     "h3": "UI e UX",
     "p": "Um breve resumo sobre esses dois termos do design, também importantes no marketing."
   },
   {
-    "href": "sites-essenciais-para-programadores.html",
+    "href": "private.html",
     "src": "image/ti.png",
     "h3": "Sites essenciais para programadores",
     "p": "Veja um resumo dos sites vitais para programadores."
@@ -240,7 +240,7 @@
     "p": "Quais os bons comportamentos que devemos adotar na web?"
   },
   {
-    "href": "iFood_poder.html",
+    "href": "private.html",
     "src": "image/rede.png",
     "h3": "Ifood: poder",
     "p": "O poder do iFood, um exemplo de onde chegou a tecnologia."
@@ -264,13 +264,13 @@
     "p": "Um acervo das principais ferramentas para uma loja virtual."
   },
   {
-    "href": "estruturas-de-dados.html",
+    "href": "private.html",
     "src": "image/ti.png",
     "h3": "Estruturas de dados",
     "p": "Um resumo sobre estruturas de dados."
   },
   {
-    "href": "EstudoGit.html",
+    "href": "private.html",
     "src": "image/ti.png",
     "h3": "Estudo Git",
     "p": "Um breve estudo sobre recursos e ferramentas do GitHub."
@@ -282,13 +282,13 @@
     "p": "Cada vez mais comuns, veja casos conhecidos."
   },
   {
-    "href": "fatoresRan.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Google - fatores de ranqueamento",
     "p": "Conheça as leis do Google e tenha mais chances de sucesso na web, se adequando."
   },
   {
-    "href": "teclado-de-computador.html",
+    "href": "private.html",
     "src": "image/hardware.png",
     "h3": "Teclado de computador",
     "p": "Veja um resumo das características desse instrumento de um programador, e conheça marcas."
@@ -306,7 +306,7 @@
     "p": "Um pequeno dicionário inspirado num livro de verdade!"
   },
   {
-    "href": "Base_DB.html",
+    "href": "private.html",
     "src": "image/db.png",
     "h3": "Base DB",
     "p": "O banco de dados do LibreOffice, alguns de seus recursos."
@@ -324,7 +324,7 @@
     "p": "Um guia sobre o SO mais querido dos profissionais de TI."
   },
   {
-    "href": "regex.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Regex",
     "p": "Um guia básico."
@@ -348,7 +348,7 @@
     "p": "Um guia rápido."
   },
   {
-    "href": "b2b.html",
+    "href": "private.html",
     "src": "image/comercio.png",
     "h3": "B2B",
     "p": "Conheça mais sobre B2B."
@@ -390,13 +390,13 @@
     "p": "Um guia básico de proteção do computador."
   },
   {
-    "href": "console-do-desenvolvedor.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Console do desenvolvedor",
     "p": "Veja uma outra aplicação do Firefox, bem diferente de navegar na web."
   },
   {
-    "href": "dispositivos-de-entrada-e-saida.html",
+    "href": "private.html",
     "src": "image/hardware.png",
     "h3": "Dispositivos de entrada e saída",
     "p": "Um conceito básico de informática."
@@ -408,13 +408,13 @@
     "p": "Saiba mais sobre os frameworks."
   },
   {
-    "href": "google-adwords.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Google Adwords",
     "p": "Um guia elementar."
   },
   {
-    "href": "google-adwords-e-adsense.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Google Adwords e Adsense",
     "p": "Um guia elementar."
@@ -426,7 +426,7 @@
     "p": "Parece nome de linguagem de computador, mas não é! Veja exatamente o que é e qual a relação com linguagem."
   },
   {
-    "href": "nocoes-de-programacao.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Noções de programação",
     "p": "Um guia elementar."
@@ -444,7 +444,7 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "shell-scripting-bash-scripting.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Shell scripting - Bash-scripting",
     "p": "Um guia elementar, em especial para fãs do Linux."
@@ -492,13 +492,13 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "message-scheduler-whatsapp.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Message scheduler Whatsapp",
     "p": "Um guia elementar."
   },
   {
-    "href": "deploy.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Deploy",
     "p": "Um guia elementar."
@@ -516,7 +516,7 @@
     "p": "CSS e uma ideia bem interessante e básica de funcionamento."
   },
   {
-    "href": "logica-de-programacao-e-algoritmos.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Lógica de programação e algoritmos",
     "p": "Um guia elementar."
@@ -528,7 +528,7 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "sites-para-programadores.html",
+    "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Sites para programadores",
     "p": "Um guia elementar."
