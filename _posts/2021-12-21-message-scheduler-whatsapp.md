@@ -1,8 +1,4 @@
-
-
-
-
-Message Scheduler - WhatsApp
+# Message Scheduler - WhatsApp
 
 x
 
@@ -27,5 +23,3 @@ SKEDit is one of my favorite WhatsApp message scheduler app for Android users.
 
 É isso! Grande abraço.  
 \o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
