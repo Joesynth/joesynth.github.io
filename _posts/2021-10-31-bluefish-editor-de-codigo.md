@@ -1,7 +1,9 @@
+# Bluefish
+
 Instalação, configuração e muito mais sobre esse belo editor de códigos.
 
-
 Olá!
+
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2021/10/bluefish_editor_de_codigo.png" alt="Bluefish editor de codigo" width="310" />
 
@@ -105,10 +107,7 @@ _ Navegador de <em>snippets</em> no painel lateral.
 
 <strong>Excluir snippets</strong>: painel esquerdo (ou menu Snippets), ache o <em>snippet</em>, clique direito mouse em 'Delete Snippet' .
 
-Veja também <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">Profissionais de Informática</a>.
 
-<hr />
 
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-.
+É isso!  
+\o/
