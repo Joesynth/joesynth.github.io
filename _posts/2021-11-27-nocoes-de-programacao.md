@@ -1,5 +1,4 @@
-
-Noções de Programação
+# Noções de Programação
 
 xx
 
@@ -278,14 +277,8 @@ Variável, Array, Matriz, Storage
 <p class="style1">lista = array, vetores.</p>
 x
 
-Veja também <a href="https://joesynth.wordpress.com/2021/12/27/asdf/">sites essênciais para programadores</a>.
 
-\o/
+É isso!  
+\o/  
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
