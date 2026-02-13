@@ -7,13 +7,13 @@
   },
   {
     "href": "comercio-digital-dicas.html",
-    "src": "image/ti.png",
+    "src": "image/comercio.png",
     "h3": "Comércio digital: dicas",
     "p": "Muita informação hoje em dia? Veja um guia vital de ferramentas para micro empresas ou MEI."
   },
   {
     "href": "backup.html",
-    "src": "image/ti.png",
+    "src": "image/db.png",
     "h3": "Backup",
     "p": "Um guia elementar."
   },
@@ -43,7 +43,7 @@
   },
   {
     "href": "eula.html",
-    "src": "image/ti.png",
+    "src": "image/comercio.png",
     "h3": "EULA: poder e polêmicas",
     "p": "Acordo de Licença de Usuário Final: o 'quadradinho' que sempre confirmamos quando instalamos um software."
   },
@@ -103,7 +103,7 @@
   },
   {
     "href": "o-que-e-github.html",
-    "src": "image/ti.png",
+    "src": "image/rede.png",
     "h3": "O que é o GitHub?",
     "p": "O que essa rede tem de diferente do Facebook, Instagram ou o Mastodon?"
   },
@@ -133,7 +133,7 @@
   },
   {
     "href": "software-de-gestao-empresarial.html",
-    "src": "image/ti.png",
+    "src": "image/comercio.png",
     "h3": "Software de gestão empresarial",
     "p": "Fique esperto nos tipos de softwares de gestão para sua empresa, vital atualmente."
   },
@@ -259,7 +259,7 @@
   },
   {
     "href": "softwares-de-e-commerce.html",
-    "src": "image/mkt.png",
+    "src": "image/comercio.png",
     "h3": "Softwares de e-commerce",
     "p": "Um acervo das principais ferramentas para uma loja virtual."
   },
@@ -295,9 +295,9 @@
   },
   {
     "href": "telegram-grupos-interessantes.html",
-    "src": "image/mkt.png",
+    "src": "image/ti.png",
     "h3": "Telegram: grupos interessantes",
-    "p": "Uma seleção de grupos no Telegram, onde muitos são de tecnologia, por exemplo."
+    "p": "Uma seleção de grupos no Telegram, passando por tecnologia, jogos, música..."
   },
   {
     "href": "banco-de-dados-minidicionario.html",
@@ -325,19 +325,19 @@
   },
   {
     "href": "regex.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Regex",
     "p": "Um guia básico."
   },
   {
     "href": "software-cms.html",
-    "src": "image/ti.png",
+    "src": "image/mkt.png",
     "h3": "Software CMS",
     "p": "Conheça esses softwares de TI, que impactam tanto no e-commerce quanto no marketing."
   },
   {
     "href": "hardware-de-rede.html",
-    "src": "image/hardware.png",
+    "src": "image/rede.png",
     "h3": "Hardware de rede",
     "p": "Um guia sobre esse tipo de hardware."
   },
@@ -349,13 +349,13 @@
   },
   {
     "href": "b2b.html",
-    "src": "image/ti.png",
+    "src": "image/comercio.png",
     "h3": "B2B",
     "p": "Conheça mais sobre B2B."
   },
   {
     "href": "firewall-ferramentas.html",
-    "src": "image/ti.png",
+    "src": "image/rede.png",
     "h3": "Firewall: ferramentas",
     "p": "Conheça algumas ferramentas de firewall."
   },
@@ -403,7 +403,7 @@
   },
   {
     "href": "frameworks.html",
-    "src": "image/ti.png",
+    "src": "image/linguagem.png",
     "h3": "Frameworks",
     "p": "Saiba mais sobre os frameworks."
   },
@@ -445,9 +445,9 @@
   },
   {
     "href": "shell-scripting-bash-scripting.html",
-    "src": "image/linux.png",
+    "src": "image/linguagem.png",
     "h3": "Shell scripting - Bash-scripting",
-    "p": "Um guia elementar."
+    "p": "Um guia elementar, em especial para fãs do Linux."
   },
   {
     "href": "sistemas-operacionais-mais-usados.html",
@@ -493,7 +493,7 @@
   },
   {
     "href": "message-scheduler-whatsapp.html",
-    "src": "image/ti.png",
+    "src": "image/mkt.png",
     "h3": "Message scheduler Whatsapp",
     "p": "Um guia elementar."
   },
@@ -511,7 +511,7 @@
   },
   {
     "href": "layout-resolucoes-de-tela-design-mobile-first.html",
-    "src": "image/ti.png",
+    "src": "image/design.png",
     "h3": "Layout - resoluções de tela - mobile first",
     "p": "CSS e uma ideia bem interessante e básica de funcionamento."
   },
@@ -523,7 +523,7 @@
   },
   {
     "href": "media-types-e-media-queries.html",
-    "src": "image/ti.png",
+    "src": "image/design.png",
     "h3": "Media types e media queries",
     "p": "Um guia elementar."
   },
@@ -547,7 +547,7 @@
   },
   {
     "href": "o-que-e-social-news.html",
-    "src": "image/ti.png",
+    "src": "image/mkt.png",
     "h3": "Social News: o que é?",
     "p": "Um guia elementar."
   }
