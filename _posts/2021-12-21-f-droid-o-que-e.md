@@ -34,5 +34,3 @@ No final deste artigo há <em>links</em> para tipos de <em>softs</em>, todos par
 
 É isso! Grande abraço.  
 \o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
