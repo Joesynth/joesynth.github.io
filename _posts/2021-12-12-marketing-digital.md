@@ -1,5 +1,4 @@
-
-Marketing digital
+# Marketing digital
 
 Tutorial sobre <em>marketing</em> digital.
 
@@ -318,13 +317,8 @@ Um site com recursos importantes ao MKT é mais caro (<em>landing page</em>, <em
 
 <img src="https://rezised-images.knhbt.cz/1920x1920/70037330.jpg" width="120" /> O livro A Cauda Longa (The Long Tail) está associado a ideia de nicho. Diz a teoria que a internet permite vender menos unidades de uma enorme variedade de produtos de nicho, superando o foco dos 'hits' do mercado de massa. Ou seja, temos a venda de itens pouco procurados, mas que no total geram alto volume de vendas. Focar na diversidade pode não parecer nenhuma novidade, porém aqui o marketing digital e o SEO (palavras-chave) surgem como grandes ferramentas. 
 
-É isso!
-Grande abraço, sucesso.
+É isso!  
+Grande abraço, sucesso.  
+\o/  
 
-\o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
