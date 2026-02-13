@@ -1,6 +1,4 @@
-
-
-Fatores de Rankeamento
+# Fatores de Rankeamento
 
 
 Acredita-se que haja cerca de 200 itens. Aguns o buscador divulga, outros não (mas são comprovados por estudos) e ainda há o que é especulado. Ou seja, o Google evita revelar todos os truques. "Segredinho"!
@@ -33,3 +31,7 @@ Idade do domínio ✔️ Sites mais antigos levam vantagem! Há quem diga que a 
 16. Erros de HTML ❌️ Causam frustrações no usuário. Recursos do site não carregam ou não funcionam corretamente, prejudicam o rastreamento pelo buscador.
 
 20. Visibilidade do conteúdo principal - Excesso de anúncios ❌️ Diz-se que atrapalha ou impede a visibilidade do conteúdo, atrapalhando a experiência do usuário.
+
+
+
+\o/
