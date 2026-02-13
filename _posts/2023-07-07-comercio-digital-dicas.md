@@ -1,4 +1,4 @@
-# Comercio digital: dicas
+# Comércio digital: dicas
 
 📚 *digital commerce* = **comércio digital**.  
 
