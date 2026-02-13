@@ -452,7 +452,10 @@ Vide [EULA](/eula).
 <p>Então é isso! Esperamos ter contribuído.<br />Grande abraço e sucesso.</p>
 
 
+É isso!  
+Abraço.  
 \o_  
+
   
 <!-- 
 freeware:
@@ -472,4 +475,4 @@ https://www.ime.usp.br/~is/ddt/mac339/projetos/2001/demais/andrei/
 https://www.kaspersky.com.br/resource-center/definitions/shareware
  -->
  
-<p>Veja também:<br />○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.<br />[oes: tit !</p>
+[oes: tit !]
