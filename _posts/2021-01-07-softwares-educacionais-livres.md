@@ -393,8 +393,10 @@ Edubuntu</h3>
 <pre>⬇️ ISO (i386 e amd64)
 -https://old-releases.ubuntu.com/releases/edubuntu/12.04.0/release/</pre>
 Veja também "Gravando o ISO em um DVD":
-<pre>-https://help.ubuntu.com/community/BurningIsoHowto</pre>
-É isso! Esperamos tem ajudado com este tutorial.
+<pre>-https://help.ubuntu.com/community/BurningIsoHowto</pre>  
+
+É isso!  
+Esperamos tem ajudado com este tutorial.  
 \o/
 
 [oes: tit ?]
