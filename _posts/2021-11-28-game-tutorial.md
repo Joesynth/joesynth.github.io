@@ -1,5 +1,4 @@
-
-Games: o tutorial
+# Games: o tutorial
 
 Guia rápido!
 
@@ -127,19 +126,16 @@ Outro caso é Lutris, que é open-source, Linux.
 <h3>Links</h3>
 <pre><a href="https://joesynth.wordpress.com/2023/10/18/jogo-open-source/">7 jogos open source</a>.
 </pre>
-É isso! Esperamos ter dado um panorama simples e objetivo para os amantes de jogos.
-Grande abraço.
 
-\o/
+
+É isso!  
+Esperamos ter dado um panorama simples e objetivo para os amantes de jogos.  
+Grande abraço.  
+\o_
+
 <!-- 
 -https://en.wikipedia.org/wiki/Free_and_open-source_software
 -https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
  -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
