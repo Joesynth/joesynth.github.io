@@ -157,12 +157,8 @@ Link do exercício: <a href="https://joesynth.github.io/SeusDados/">https://joes
 
 Outro termo é <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">adware</a>, onde o app apresenta propagandas, sendo uma forma de receita para a empresa. Anúncios de <em>adware</em> por vezes são chatos e abusivos, além de, ao clicarmos neles (só para 'fechar' a propaganda) há possibilidade de com isso termos nossos dados coletados. Vale notar que entregadores são público alvo desses anúncios, e ao mesmo tempo trabalham para o app. Como o iFood domina o setor cerca de 80% os entregadores são praticamente obrigados e lidar com esses anúncios, quer gostem ou não. No que tange coleta de dados via cliques em propagandas, esses entregadores podem estar tendo dados coletados até mais de uma vez diariamente _novamente, quer gostem ou não.
 
-É isso!
+É isso!  
 Grande abraço e sucesso.
+\o/  
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit ]
