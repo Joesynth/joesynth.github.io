@@ -54,16 +54,9 @@ Veja também <a href="https://joesynth.wordpress.com/2021/11/27/como-proteger-o-
 
 Para finalizar, mais uma dica, uma <strong><span style="color: #ff9900">dica de ouro!</span></strong> Questione-se por que a estrutura de poder dar nações utilizam <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre</a> e o cidadão comum não. Sim, os militares, agências governamentais (como a NASA e a própria Internet), <em>BigTechs</em> e grandes corporações (incluindo a Microsoft), megas veículos de mídia (como o New York Times e a Globo), todos utilizam <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Softwares Livres</a>.
 
-É isso! Grande abraço.
-🔗️ Ouça Joe S no Bandcamp: <a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-🔗️ Siga no Instagram: @joe_synt
+É isso! Grande abraço.  
+\o_  
 
-\o_
 <!-- https://www.ct.ufrn.br/boas-praticas-do-uso-da-internet/ -->
 
-<hr />
-
-<a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" /></a>
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit ?]
