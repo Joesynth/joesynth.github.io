@@ -1,11 +1,6 @@
-
-
-
-Linguagem de Programação Visual
+# Linguagem de Programação Visual
 
 O que é VPL? Veja a importância disso nos games, música...
-
-
 
 
 Podemos pensar nisso como "uma nova forma de apresentar a programação de computadores" <em>(Andrea Garcia, 2015)</em>.
@@ -47,22 +42,15 @@ Blender Foundation.
 Licença: GPL.
 Outro semelhante é o Blender; que além de jogos, lida com realidade virtual, filmes animados, edição de vídeo...
 
-\o_
 
+É isso!  
+\o_  
 
 <!--
 VPL
 Visual programming language
 SynthEdit, Reaktor, Pure Data (Pd), Kyma (sound design language), Blender (software), Scratch, App Inventor for Android, ScratchJr, Max (software), Babylon.js, Unity
 https://en.wikipedia.org/wiki/Visual_programming_language
-
   -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">Linguagens - resumo</a>.
 [oes: tit ok]
