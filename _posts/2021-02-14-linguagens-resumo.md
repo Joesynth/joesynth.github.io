@@ -682,18 +682,19 @@ Compilada: Go, Swift, Rust.
 Notas:
 - <strong>JSP</strong>: Tecnologia do mesmo tipo que Java, similar; lado servidor; baseada na Web, Java para internet. Concorrente do PHP. Acesso as APIs do Java, incluso JDBC (banco de dados). É necessário servidor web compatível com <em>container servlet</em> (classes Java que geram conteúdo HTML), como Apache, Tom Cat, Glassfish. Página composta com HTML, CSS, JS.
 - <strong>Sass</strong>: uma linguagem baseada em CSS.
+
 <pre>xxx Linguagens por tipo:
 en.wikipedia.org/wiki/List_of_programming_languages_by_type
 
 Linguagens por nome:
 en.wikipedia.org/wiki/List_of_programming_languages
-</pre>
-Veja também:
-- <a href="https://joesynth.wordpress.com/2021/11/23/linguagem-de-programacao-visual/">Linguagem de Programação Visual - VP</a><a href="https://joesynth.wordpress.com/2021/11/23/linguagem-de-programacao-visual/">L</a>.
-- <a href="https://joesynth.wordpress.com/2018/09/14/linguagens-musicais/">Linguagens musicais</a>.
-- <a href="https://joesynth.wordpress.com/2021/12/27/asdf/">Sites essênciais para programadores</a>.
+</pre>  
 
-\o_
+
+
+É isso!  
+\o_  
+
 <!-- 
 linguagem de script
 https://pt.stackoverflow.com/questions/17082/o-que-%C3%A9-uma-linguagem-de-script
@@ -705,10 +706,4 @@ Compilada ou Interpretada
 https://pt.stackoverflow.com/questions/77070/qual-a-diferen%C3%A7a-entre-linguagem-compilada-para-linguagem-interpretada
  -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
