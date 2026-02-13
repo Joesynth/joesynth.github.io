@@ -1,7 +1,7 @@
 # Banco de dados - Minidicionário
 
 
-<pre>ft: antigo site <del>estudio596.com.
+<pre>ft: antigo site <del>estudio596.com</del>.
 </pre>
 
 <pre class="small">Aggregate Function Função agregada
