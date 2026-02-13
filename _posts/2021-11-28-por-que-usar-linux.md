@@ -1,3 +1,5 @@
+# Por que usar linux?
+
 Conheça o Linux: o sistema mais robusto do mercado, usado até pela NASA.
 
 Olá!
@@ -151,11 +153,9 @@ Referindo-se a uma empresa...
 <h2>Conhecendo o Linux</h2>
 Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Linux</a>.
 
-É isso! Grande abraço.
-🔗️ Ouça Joe S no Bandcamp: <a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-🔗️ Siga no Instagram: @joe_synth
-
-\o/
+É isso!  
+Grande abraço.  
+\o/  
 
 <!-- 
 	pt.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
@@ -182,10 +182,4 @@ AMAN, 2018:
 https://bdex.eb.mil.br/jspui/bitstream/123456789/4569/1/TCC%20Cad%205271%20Castro%20-%20CM%203.pdf
  -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
