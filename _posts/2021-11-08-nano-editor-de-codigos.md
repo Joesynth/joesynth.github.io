@@ -265,11 +265,9 @@ Coloque os comentários.
 
 👉 Brinque e pratique bastante com o Nano, pois ele é simples, poderoso e presente nos Linux.
 
-É isso! Grande abraço.
-🔗️ Ouça Joe S no Bandcamp: <a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-🔗️ Siga no Instagram: @joe_synth
+É isso! Grande abraço.  
+\o_  
 
-\o_
 <!--
 -https://ubunlog.com/pt/nanorc-configurar-editor-de-texto/
 -https://www.nano-editor.org/dist/v2.9/nanorc.5.html
@@ -282,4 +280,3 @@ YT
 -https://youtu.be/x_vdS0cFqJw
 -->
 
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="410" />
