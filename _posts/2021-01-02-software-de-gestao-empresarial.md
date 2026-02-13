@@ -296,11 +296,10 @@ Veja [Comércio Digital 7 Dicas](/comercio-digital-dicas).
 
 👉 E como estamos falando de empresas e instituições, ainda citamos mais dois softwares: OnlyOffice e Group-Office. Ambos são software livres (para Linux, Mac...) voltados a escritório e produtividade, mas num contexto de colaboração.
 
-É isso! Grande abraço... sucesso!
-🔗️ Ouça Joe S no Bandcamp:
-<a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
+É isso!  
+Grande abraço... sucesso!  
+\o_  
 
-\o_
 <!-- 
 https://simplevisionit.com/melhores-erp-gratuitos/
 https://ideapartner.com.br/software-erp-gratuito
