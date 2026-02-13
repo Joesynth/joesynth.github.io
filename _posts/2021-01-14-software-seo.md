@@ -255,22 +255,7 @@ SimilarWeb -
 </pre>
 Veja também <a href="https://joesynth.wordpress.com/2022/11/01/slb/">Agendador de mensagens Whatsapp</a>.
 
-É isso! Grande abraço... sucesso!
-🔗️ Ouça Joe S no Bandcamp:
-<a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
+É isso! Grande abraço... sucesso!  
+\o/  
 
-\o/
-
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/05/26/14806/">Profissionais de informática</a>.
-○ <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a>.
-○ <a href="https://joesynth.wordpress.com/2021/05/26/seo-on-page/">SEO On Page</a>.
-○ <a href="https://joesynth.wordpress.com/2021/05/26/seo-off-page/">SEO Off Page</a>.
-○ <a href="https://joesynth.wordpress.com/2021/05/26/14890/">SEO &amp; Link</a>.
-○ <a href="https://joesynth.wordpress.com/2021/05/26/serp/">SERP</a> - O que é search engine?
 [oes: tit !]
