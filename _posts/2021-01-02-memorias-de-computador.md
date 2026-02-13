@@ -1,12 +1,14 @@
 # Memórias de computador
 
+
 O que é memória? RAM, ROM, <em>cache</em>, primária, secundária...  
 
 A memória é um dispositivo que permite ao computador guardar dados, temporariamente ou permanentemente.
 A unidade básica de memória é o <em>bit</em>, digito binário.
 <p class="firstHeading"><span style="color: #0000ff"><em>computer memory</em>: m</span><span class="Y2IQFc" lang="pt"><span style="color: #0000ff">emória do computador</span>.</span></p>
 Vamos aqui conheçer os principais tipos de memória de computador, além de algumas ideias.
-<h3>Memória volátil &amp; não-volátil</h3>
+
+</h2>Memória volátil &amp; não-volátil</h2>
 ●  <strong>Volátil</strong>: pode armazenar informações somente quando energizadas, portanto se a energia some as informações da memória são perdidas.
 Ex.: a memória principal, memória <em>cache</em> e os chamados registradores.
 
@@ -14,8 +16,8 @@ Ex.: a memória principal, memória <em>cache</em> e os chamados registradores.
 <pre>memória ROM (incluso PROM, EPROM, EEPROM); BIOS.
 memória flash (pen drive, BIOS)
 discos rígidos, CDs, disquete.</pre>
-<h3></h3>
-<h3>Memória Principal - RAM</h3>
+
+</h2>Memória Principal - RAM</h2>
 <span style="color: #0000ff"><i>main memory, primary storage, </i><i>internal memory</i>, <i>prime memory</i></span>.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kinds-of-RAM.JPG/220px-Kinds-of-RAM.JPG" width="120" />
@@ -23,7 +25,8 @@ discos rígidos, CDs, disquete.</pre>
 ● Memória de trabalho.
 Guarda dados e programas enquanto estão sendo processados.
 ● RAM acima de 4GB: É imperativo o uso de arquitetura X64. Num computador de 4 de RAM para arquitetura 32-bit (processador), ao colocarmos mais 4, ele não vai "enxergar".
-<h3>Memória secundária e terciária</h3>
+
+</h2>Memória secundária e terciária</h2>
 Elas são parecidas, veja:
 
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/35-Desktop-Hard-Drive.jpg/220px-35-Desktop-Hard-Drive.jpg" width="120" />Secundária</strong>:
@@ -36,7 +39,8 @@ Elas são parecidas, veja:
 
 <strong>Terciária</strong>:
 ● Secundária mas que depende de montagem, é o caso de fitas magnéticas, discos ópticos.
-<h3>Armazenamento Temporário</h3>
+
+</h2>Armazenamento Temporário</h2>
 <img class="alignleft" src="https://images.easytechjunkie.com/black-microprocessors.jpg" width="120" />
 
 ● Memória <em>Cache</em>: Memória do microprocessador. Trabalha numa velocidade tão alta quanto ele consegue, ou seja, está interligada diretamente nos processadores.
@@ -58,9 +62,11 @@ Elas são parecidas, veja:
 ● Cache de disco. Memória incluída na placa lógica do HD, que armazena as últimas trilhas lidas.
 ● Memória física.
 ● Memória virtual: técnica que usa a memória secundária como uma <em>cache</em> para armazenamento secundário. Consiste em recursos de hardware e software.
-<h3>Endereço de memória</h3>
+
+</h2>Endereço de memória</h2>
 ● Identificador único para um local de memória no qual um processador (ou outro dispositivo) pode armazenar pedaços de dados. Usa-se na memória física e na memória virtual.
-<h3><span dir="ltr" role="presentation">Hierarquia de Memória</span></h3>
+
+</h2><span dir="ltr" role="presentation">Hierarquia de Memória</span></h2>
 <img src="https://files.passeidireto.com/778dfe07-756e-4471-9709-d2a5c864da76/bg3.png" width="320" />
 😃 Note que na base da pirâmide nós temos os <a href="https://joesynth.wordpress.com/2021/11/27/dispositivos-de-entrada-e-saida/">dispositivos de entrada/saída</a>; coisas como teclado, <em>mouse</em>...
 
