@@ -1,6 +1,4 @@
-
-
-Social news website
+# Social news website
 
 Olá!
 
@@ -33,9 +31,5 @@ Site de notícias sociais com foco em ciência da computação e empreendedorism
 🔗️ fark.com
 Um site comunitário criado por que permite aos membros comentar diariamente uma série de artigos de notícias de vários sites. Há temas como entretenimento, esportes, geek, política e negócios. O autor diz que as histórias são selecionadas sem preconceito político intencional, tentando artigos de extrema esquerda e de extrema direita. Enfim... é o que ele diz!
 
-
-
 É isso! Grande abraço.  
 \o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
