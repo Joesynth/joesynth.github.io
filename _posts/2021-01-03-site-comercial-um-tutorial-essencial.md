@@ -437,21 +437,12 @@ Nos <a href="https://joesynth.wordpress.com/2024/09/14/telegram-grupos-interessa
 
 Outra dica? Leia o artigo <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">Site Comercial - Um Tutorial Essencial</a>.
 
-É isso! Grande abraço... sucesso!
-🔗️ Ouça Joe S no Bandcamp:
-<a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
+É isso!  
+Grande abraço... sucesso!  
+\o_  
 
-\o_
 <!--
 -https://exseempresas.com.br/seo-marketing/
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/2021/12/12/e-commerce/">E-commerce: os softwares</a>!
-○ <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">Software de linha de comando</a>.
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
