@@ -18,9 +18,11 @@ Abaixo, um breve tutorial passando pelos seguintes temas:
  	<li>Características.</li>
  	<li>fingerprint.</li>
 </ul>
-<h3>O que é segurança da informação?</h3>
+
+<h2>O que é segurança da informação?<h2>
 <blockquote>É a área do conhecimento que protege os ativos de informação contra acessos não autorizados, alterações indevidas ou, ainda, a sua indisponibilidade. (Sêmola)</blockquote>
-<h3>Termos comuns</h3>
+ 
+<h2>Termos comuns<<h2>
 <strong>Ameaça</strong> Tudo aquilo que vai contra os princípios da segurança.
 <strong>Hacker</strong> Pessoa que busca falhas de segurança e ajuda a empresa a resolvê-las.
 <strong>Cracker</strong> Um "<em>hacker</em> do mal", portanto utiliza de seus conhecimentos para causar danos. Pode acessar nosso computador para furtar dados.
@@ -28,7 +30,8 @@ Abaixo, um breve tutorial passando pelos seguintes temas:
 Outro termo é LGPD (Lei Geral de Proteção de Dados Pessoais).
 
 Vide <a href="https://joesynth.wordpress.com/2021/12/27/js-y/"><em>hacker</em> e <em>cracker</em></a>.
-<h3>Ferramentas de segurança da informação</h3>
+
+<h2>Ferramentas de segurança da informação<h2>
 - <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">Firewall</a>.
 - <a href="https://joesynth.wordpress.com/2021/11/28/software-antivirus/">Antivírus</a>.
 - Softwares de monitoramento de rede.
@@ -36,7 +39,8 @@ Vide <a href="https://joesynth.wordpress.com/2021/12/27/js-y/"><em>hacker</em> e
 - Controle de acesso.
 - Criptografia e protocolos de segurança.
 - Treinamentos de segurança (equipe, funcionários).
-<h3>Princípios da segurança</h3>
+ 
+<h2>Princípios da segurança<h2>
 Confidencialidade, integridade, disponibilidade, autenticidade.
 
 Características, conceitos.
@@ -56,12 +60,15 @@ Garantia de que a informação seja autentica; documentos autênticos, verdadeir
 quem realmente diz ser.
 - Recurso: Login e senha, assinatura digital.
 - Exemplo: pessoa se passa por outra; assim, a autenticidade foi ferida.
-<h3>Privacidade e Legalidade</h3>
+
+<h2>Privacidade e Legalidade<h2>
 <h6>Privacidade</h6>
 Controlar e restrigir acesso ao legítimo proprietário da informação. Algo relacionado a Confidencialidade.
 <h6>Legalidade</h6>
 Estar em harmonia com as normas e leis de um estado, país.
-<h3>Criptografia (codificação)</h3>
+ 
+<h2>Criptografia (codificação)<h2>
+ 
 <h6>Garante...</h6>
 A confidencialidade (sigilo) na informação (dados).
 <h6>Uso...</h6>
@@ -80,7 +87,9 @@ Usa-se chaves diferentes, onde uma criptografa e outra decodifica, fazendo um pa
 - Algoritmo RSA, ECDSA.
 <h6>Algoritmo de Hash</h6>
 Resumo: MD5, SHA. Usados em métodos específicos.
-<h3>Assinatura Digital</h3>
+
+<h2>Assinatura Digital<h2>
+ 
 <h6>Garante...</h6>
 - Autenticidade (a pessoa que assina é a própria, é quem diz ser).
 - Integridade (a assinatura é referene a tal documento, mensagem, transação).
@@ -96,14 +105,18 @@ Resumo: MD5, SHA. Usados em métodos específicos.
 - ICP Brasil: é oficial e dá validade jurídica. Assim, futuramente a pessoa que
 assinou não tem como dizer que não foi ela, pois o meio jurídico não concordará. Ou seja, uma vez assinado, depois não poderá negar perante o meio jurídico.
 - Irretratabilidade: pessoa (ou entidade) não pode negar a autoria da informação.
-<h3>Certificação Digital</h3>
+
+<h2>Certificação Digital<h2>
+ 
 ● Identidade no mundo virtual.
 ● Pode-se criptografar documentos, assinar digitalmente documentos.
 ● Permite a identificação segura do autor de uma mensagem ou transação feita em meios eletrônicos.
 ● CPF ou CNPJ digital (e-CPF, e-CNPJ).
 ● AC (Autoridade Certificadora): é gerado e assinado por uma terceira parte confiável.
 ● Associa uma entidade (pessoa, processo, servidor) a um par de chaves criptográficas.
-<h3>Certificado Digital</h3>
+
+<h2>Certificado Digital<h2>
+ 
 - Permite desenvolver o processo de criptografia.
 - Pode-se tanto criptografar como assinar digitalmente mensagens, documentos, transações.
 <h6>Informações Principais</h6>
@@ -135,7 +148,8 @@ A2, S2, A3, S3, A4, S4: <em>smart card</em> ou <em>token</em>.
 - AR (Autoridade de registro): verifica se tal pessoa é ela mesma.
 - AC (Autoridade Certificadora): gera o certificado.
 - ACT (Autoridade Certificadora do Tempo): diz que o documento fora gerado em tal data.
-<h3>Características</h3>
+
+<h2>Características<h2>
 (Conceitos)
 
 Mecanismos de Autenticação.
@@ -150,7 +164,8 @@ Na análise léxica, em computação, na data 22/11/1977, por ex., as duas barra
 
 <strong>Aquilo que Você Sabe</strong>
 ● Perguntas de segurança, senha.
-<h3>fingerprint</h3>
+
+<h2>fingerprint<h2>
 Ou impressão digital. Quanto a essa parte deixamos abaixo alguns <em>links</em>.
 <pre>https://en.wikipedia.org/wiki/Device_fingerprint
 https://en.wikipedia.org/wiki/Digital_fingerprint
