@@ -1,4 +1,7 @@
-<p>Conheça programas que podem ser considerados vitais para sua marca.<!--more--></p>
+# Softwares de marketing: 77 casos
+
+Conheça programas que podem ser considerados vitais para sua marca.  
+
 <p>Olá!</p>
 <p>É importante que os programadores conheçam <em>softwares</em>, em especial o <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">SL (software livre) e open source</a>; afinal, sendo público, o código pode ser lido e alterado. E sem nos limitarmos aos SLs, listamos aqui aplicações do segmento do MKT digital. A intenção é conhecermos as possibilidades de ferramentas para cada tipo de MKT.</p>
 <p>A lista começa pelos tipos de MKT que agem mais rápido. Note que isso é só para efeito de organização da própria lista, pois cabe, sim, ao profissional de MKT _e não a programadores_ definirem a estratégia de atuação do MKT.</p>
@@ -447,11 +450,11 @@ Interface: API (backend).
 </blockquote>
 <p>Ou seja, o <em>software</em> plug-in "se encaixa" noutro <em>software</em>.</p>
 <p>Portanto, vide o <em>link</em> <a href="https://joesynth.wordpress.com/2021/12/12/wordpress-plugins/">WordPress - Plugins</a>, afinal, muitos (ou todos) dos recursos de MKT aqui mencionados podem ser obtidos no próprio ambiente WordPress. O mesmo vale para o <a href="https://joesynth.wordpress.com/2023/10/18/software-de-gestao-empresarial/">ERP</a> Odoo e o Dolibarr.</p>
-<p>É isso! Grande abraço... sucesso!<br />🔗️ Ouça Joe S no Bandcamp:<br /><a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.</p>
-<p>\o/</p>
-<hr />
-<p><img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" /><br />Veja também:<br />○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.<br />○ <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre e Software Proprietário</a>.<br />○ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">Licença de Software</a>.<br />[oes: tit !][ft:gpd] [orOk]</p>
 
-<!-- wp:paragraph -->
+É isso! Grande abraço... sucesso.  
+\o/  
+
+
+
 <p></p>
 <!-- /wp:paragraph -->
