@@ -232,18 +232,13 @@ Para finalizar este tutorial, mais duas dicas:
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Instale pela <a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Veja <a href="https://joesynth.wordpress.com/2024/09/14/telegram-grupos-interessantes/">77 Grupos de Telegram</a>.
 
-Então é isso! Grande abraço.
+Então é isso!  
+Grande abraço.  
+\o_  
 
-\o_
 <!--
 -https://www.youtube.com/watch?v=uHUrGH_IopU&amp;t=146
 -https://youtu.be/uHUrGH_IopU?si=YhzOoglKlcpT469H
 -->
-
-🔗️ Ouça Joe S no Bandcamp: <a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
 
 [oes: tit !]
