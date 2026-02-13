@@ -1,8 +1,7 @@
 # Lógica de programação e algoritmos
 
-xx
+Olá!
 
-x
 <h6>Lógica de Programação</h6>
 <h3>Lógica</h3>
 <pre>Lógica, matemática, filosofia.
@@ -40,13 +39,10 @@ comprar suco no mercado
 [RECONFIRMAR SE ESSE TEMA PERTECE AO TÍTULO PRINCIPAl DO ARTIGO]
 <pre>ft:boson
 </pre>
-x
+
 <h5>O que é lógica de programação</h5>
 [RECONFIRMAR SE ESSE TEMA PERTECE AO TÍTULO PRINCIPAl DO ARTIGO]
-<pre>ft:boson
-</pre>
-x
-
+<!-- ft:boson-->
 
 
 É isso! Grande abraço.  
