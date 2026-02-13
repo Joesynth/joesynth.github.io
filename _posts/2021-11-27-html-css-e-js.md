@@ -189,7 +189,5 @@ Bela história e introdução na web:
 <strong>Tag</strong> fechamento obrigatória.  
 <strong>Elemento vazio</strong> deve ser fechado.  
 
-
-\o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
+É isso!  
+\o/  
