@@ -91,8 +91,7 @@ Sistema de gestão comercial com PDV, dentre outros recursos.
 🖥️ Windows, aplicativo para Android e iOS.  
 🔗️ <a href="http://smartpos.net.br">smartpos.net.br</a>  
 
-<hr />
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png?w=300" alt="Criação de sites profissionais" width="310" />
+
 
 
 <h2>💸️ FMS (SGF)</h2>
@@ -311,6 +310,3 @@ https://gestaoclick.com.br/blog/qual-a-diferenca-entre-crm-e-erp/
 https://sebrae.com.br/sites/PortalSebrae/ufs/sp/programas/sebrae-conecta-marketup,4511374bddedd710VgnVCM100000d701210aRCRD#:~:text=Nosso%20ERP%20%C3%A9%20um%20sistema,finalizar%20vendas%20e%20utilizar%20os
  -->
 
-<hr />
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
