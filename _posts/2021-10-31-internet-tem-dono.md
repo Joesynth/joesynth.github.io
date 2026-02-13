@@ -1,7 +1,4 @@
-
-
-
-Internet tem dono?
+# Internet tem dono?
 
 Quem é o dono da internet? Descubra agora!
 
@@ -46,17 +43,12 @@ O "QG" fica nos EUA, mas também há escritórios na França, Japão e China.
 Claro que para tudo isso funcionar é necessário sistemas operacionais.
 Portanto vale a pena ler "<a href="https://joesynth.wordpress.com/2021/10/30/gigantes-da-tecnologia-sistemas-operacionais/">Gigantes da Tecnologia: Sistemas Operacionais</a>".
 
-\o/
+É isso!  
+\o/  
+
 <!--
 Internet IPv4, IANA, g1.globo.com
 IANA,ICANN, ufes.br
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
-○ <a href="https://joesynth.wordpress.com/2021/12/27/musica-internet-no-brasil/">Música &amp; Internet no Brasil</a>.
 [oes: tit !]
