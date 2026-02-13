@@ -1,8 +1,6 @@
-
-Console do desenvolvedor: Firefox
+# Console do desenvolvedor: Firefox
 
 Tutorial.
-
 
 Olá!
 
@@ -35,13 +33,8 @@ Ctrl Shift K
 ⚠️ Google <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">Chromium</a>:
 F12, ao abrir clique na guia Console.
 
-É isso! Grande abraço e paz do Senhor.
+É isso!  
+Grande abraço e paz do Senhor.  
 \o/
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
