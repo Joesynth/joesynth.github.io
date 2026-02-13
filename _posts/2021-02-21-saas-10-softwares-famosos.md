@@ -65,8 +65,6 @@ Atendimento ao cliente.
 
 <strong>MRR</strong> (<em>Monthly Recurring Revenue</em> - receita recorrente mensal): métricas para avaliar a saúde do negócio no modelo SaaS, pois mede a soma de todas as entradas recorrentes originadas de assinaturas do serviço. O MRR serve para o empresário ter maior previsibilidade sobre o faturamento do mês e planejar suas estratégias e custos de maneira que não prejudique a saúde financeira.
 
-É isso! Abraço.
+É isso! Abraço.  
 \o/  
 
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
