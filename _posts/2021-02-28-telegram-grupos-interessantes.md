@@ -196,10 +196,10 @@ Esse cuidado não é restrito às redes sociais; e na verdade, deveríamos ter e
 
 Veja também <a href="https://joesynth.wordpress.com/2025/07/06/telegram-tutorial/">Tutorial Telegram - 7 motivos para usar em sua empresa</a>.
 
-É isso!
-Grande abraço.
+É isso!  
+Grande abraço.  
+\o_  
 
-\o_
 
 <!-- Outros:
 Milícia RJ News.
@@ -235,10 +235,5 @@ Psicologia Livros
 Grupo Duplo Expresso
  -->
 
-<hr />
 
-<a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" /></a>
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
