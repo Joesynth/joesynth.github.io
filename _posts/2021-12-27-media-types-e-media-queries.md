@@ -1,13 +1,7 @@
-Media Types e Media Queries
+# Media Types e Media Queries
 
-xx
+Olá!
 
-x
-
-
-<hr>
-
-<h2>Media Types e Media Queries</h2>
 <h3>Media Types</h3>
 Direcionam um bloco css pra um determinado tipo de meio de acesso. Abaixo os mais comuns:
 <table width="100%" border="1">
@@ -93,13 +87,13 @@ Criação começa nos dispositivos de telas menores e conforme a tela aumenta re
         background: blue;    
     }
 }
-</pre>
+</pre>  
+
+
 Alguns exemplos (Todos CSS2).
 <em>media="all" /&gt; </em> é para todos os dispositivos.
 <em>media="print" /&gt; </em> é para criar um CSS para impressão.
 <em>media="tv" /&gt; </em> é para dispositivos TV.
-
-x
 
 
 
