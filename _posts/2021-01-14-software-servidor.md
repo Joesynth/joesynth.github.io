@@ -137,20 +137,14 @@ Do ano de 2009, é para Linux, Windows e outros <a href="https://joesynth.wordpr
 Servidor web local.
 JavaScript, HTML.
 
-É isso!
-Abç.
+É isso!  
+Abç.  
+\o_  
 
-\o_
 <!--
 https://5cta.eb.mil.br/images/5cta/normasti/Port_n_007_DCT.pdf
 https://bdex.eb.mil.br/jspui/bitstream/123456789/4573/1/TCC%20Cad%205056%20Trindade%20-%20CM3.pdf
 https://www.vivaolinux.com.br/artigo/A-distribuicao-Slackware-Linux
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
