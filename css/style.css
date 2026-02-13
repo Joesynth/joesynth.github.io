@@ -71,12 +71,12 @@ main { display: flex; flex-direction: column; padding: 20px; gap: 20px; }
 article { display: flex; gap: 15px; align-items: flex-start; }
 .art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
 
-/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
-h5, h6 { font-size: 1em; letter-spacing: 1.3px;}
-h2, h4, h5, h6 { padding-top: 3em;}
-strong { font-size: 0.9em;}
-
+													/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
 h1, h2, h3, h4, h5, h6 { color: var(--cor-escura); }
+h2, h4, h5, h6 { padding-top: 3em; letter-spacing: 1.2px}		/*h1 usado no topo de cada artigo .md, e h3 somente na página principal. */
+h5, h6 { font-size: 1em; }	/* alguns artigos vieram do WP, e lá foi usado h5, daí igualamos ao h6*/
+
+strong { font-size: 0.9em;}
 
 footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
 
