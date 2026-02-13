@@ -153,7 +153,10 @@ npm install pg
 npm install sqlite3
 npm install firebase --save (firebase)
 </pre>
-\o/
+
+
+É isso!  
+\o_  
 
 <!--
 -https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649
@@ -181,7 +184,3 @@ npm install firebase --save (firebase)
 // Produtos disponíveis no mercado: Orientados a objeto (Comparativo) · Relacionais (Comparativo) · Orientados a documento · NoSQL · NewSQL
 
 -->
-
-<hr />
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
