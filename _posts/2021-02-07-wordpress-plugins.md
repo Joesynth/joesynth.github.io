@@ -250,10 +250,9 @@ Telegram (Nov0!)
 <pre>WP Telegram (Auto Post and Notifications) <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Replain <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Telegram Bot &amp; Channel</pre>
 .
 
-É isso! Grande abraço... sucesso!
-🔗️ Ouça Joe S no Bandcamp:
-<a href="http://www.joesynth.bandcamp.com">JoeSynth.bandcamp.com</a>.
-\o_
+É isso! Grande abraço... sucesso!  
+\o_  
+
 <!--
 -https://full.services/melhores-servicos-plugins-de-webinar-para-wordpress/
 -ft:https://softlabbd.com/online-radio-player-plugins-for-wordpress/
@@ -262,11 +261,4 @@ Telegram (Nov0!)
 -https://www.wpexplorer.com/wordpress-push-notification-plugins/
 -->
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
-https://www.wpexplorer.com/wordpress-push-notification-plugins/
