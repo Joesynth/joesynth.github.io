@@ -1,6 +1,4 @@
-
-
-Google Adwords e AdSense
+# Google Adwords e AdSense
 
 <h2>Google Adwords e AdSense</h2>
 .
@@ -144,14 +142,8 @@ CTR = _________________________ X 100%
 </span></span>        <span id="result_box" class="short_text" lang="pt"><span class="">número de impressões</span></span></pre>
 ###
 
-Veja também <a href="///home/joe/appjoB/profissionais-de-informatica.html"> Profissionais de Informática</a>.
 
-xxx
+É isso.  
+\o/  
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-Veja também:
-○ <a href="https://joesynth.wordpress.com/curso-sintese-sonora/">Curso Síntese Sonora Ilustrada</a>.
 [oes: tit !]
