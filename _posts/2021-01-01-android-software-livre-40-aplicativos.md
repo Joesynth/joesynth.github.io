@@ -50,71 +50,78 @@ Sintetizador de voz com suporte a vários idiomas, inclusive russo.
 Echo
 Grava áudio em <em>background</em>.
 
-<img class="alignleft" src="https://ftp.fau.de/fdroid/repo/icons/org.schabi.newpipelegacy.120.png" width="60" />NewPipe
+**NewPipe**.
 🔗️https://newpipe.net/
 Substitui o YouTube mas sem precisar de uma conta Google. Baixar vídeo, acelerar, são alguns recursos.
+
 <h5>Navegador (Browser)</h5>
-DuckDuckGo Privacy Browser
-🔗️https://duckduckgo.com/app
+
+**DuckDuckGo Privacy Browser**.
 Privacidade, simplificada.
+🔗️https://duckduckgo.com/app
 
-Privacy Browser
-🔗️https://www.stoutner.com/privacy-browser-android/
+**Privacy Browser**.
 Um navegador web que respeita a sua privacidade.
+🔗️https://www.stoutner.com/privacy-browser-android/
 
-Zirco Browser
-🔗️https://archive.softwareheritage.org/browse/origin/http://zirco-browser.googlecode.com/svn//directory/
+**Zirco Browser**.
 Navegador com bloqueador de anúncios.
+🔗️https://archive.softwareheritage.org/browse/origin/http://zirco-browser.googlecode.com/svn//directory/
 
-Thor.
+**Thor**.
+
+
 <h5>Jogos e afins</h5>
-<img class="alignleft" src="https://ftp.fau.de/fdroid/repo/com.dozingcatsoftware.bouncy/en-US/icon_LCN_OECV-fBHC-WNoBRQ39REnkPq8T8w_4X9aQ5uRAc=.png" width="60" />Vector Pinball
-🔗️https://github.com/dozingcat/Vector-Pinball
+
+<img class="alignleft" src="https://ftp.fau.de/fdroid/repo/com.dozingcatsoftware.bouncy/en-US/icon_LCN_OECV-fBHC-WNoBRQ39REnkPq8T8w_4X9aQ5uRAc=.png" width="60" />**Vector Pinball**.
 Pinball com gráficos vetoriais simples e ste <em>layouts</em> de mesa, usando uma biblioteca de física para simulação precisa.
+🔗️https://github.com/dozingcat/Vector-Pinball
 
-<img class="alignleft" src="https://f-droid.org/repo/icons-640/com.nicobrailo.pianoli.15.png" width="60" />PianOli
-🔗️https://github.com/nicolasbrailo/PianOli
+<img class="alignleft" src="https://f-droid.org/repo/icons-640/com.nicobrailo.pianoli.15.png" width="60" />**PianOli**.
 App bem interessante, serve para manter seu dispositivo protegido contra toques aleatórios de um bebê. Simples!
+🔗️https://github.com/nicolasbrailo/PianOli
 
-Dolphin Emulator
-🔗️https://dolphin-emu.org/
+**Dolphin Emulator**.
 Emulador de Nitendo.
+🔗️https://dolphin-emu.org/
 
-Tttris
-🔗️https://archive.softwareheritage.org/browse/origin/http://tttris.googlecode.com/svn//directory/
+**Tttris**.
 Tetris (clone).
+🔗️https://archive.softwareheritage.org/browse/origin/http://tttris.googlecode.com/svn//directory/
 
-CrossWords
-🔗️http://xwords.sourceforge.net/android.php
+**CrossWords**.
 Um jogo semelhante ao Scrabble.
+🔗️http://xwords.sourceforge.net/android.php
 
-JustChess
-🔗️https://gitlab.com/alaskalinuxuser/app_JustChess
+**JustChess**.
 Para um ou dois jogadores.
+🔗️https://gitlab.com/alaskalinuxuser/app_JustChess
 
-Moonlight Game Streaming
-🔗️https://moonlight-stream.org/
+**Moonlight Game Streaming**.
 Para jogar jogos do seu PC no Android (NVIDIA ou SunshineStream).
+🔗️https://moonlight-stream.org/
 
-Gridle
+**Gridle**.
+Jogo de palavras.
 🔗️https://github.com/billthefarmer/gridle
-Jogo de palavras.
 
-Gurgle
+**Gurgle**.
+Jogo de palavras.
 🔗️https://github.com/billthefarmer/gurgle
-Jogo de palavras.
 
-Chip8
-🔗️https://github.com/dkanada/chip-emulator
+**Chip8**.
 Emulator Chip8.
+🔗️https://github.com/dkanada/chip-emulator
 
-PaddleTennis
-🔗️https://gitlab.com/rogerbassons/PaddleTennisAndroid
+**PaddleTennis**.
 Pong (clone).
+🔗️https://gitlab.com/rogerbassons/PaddleTennisAndroid
 
-MSnake
+**MSnake**.
 Clássico jogo da cobrinha.
+
 <h5>Mercado financeiro</h5>
+
 <img class="alignleft" src="https://f-droid.org/repo/icons-640/nitezh.ministock.80.png" width="60" />Ministocks
 🔗️https://github.com/niteshpatel/ministocks
 Um <em>widget</em> de preço de ações, e que usa dados financeiros provenientes do Yahoo Finance.
@@ -185,5 +192,6 @@ Emulador de calculadoras MK, da União Soviética.
 E ainda incluem: Termux, Acode.
 
 \o/
+
 
 [oes: tit !]
