@@ -9,7 +9,8 @@ Podemos pensar nisso como "uma nova forma de apresentar a programação de compu
 Linguagem de programação textual, como se diz.
 
 É aí que entra a VPL, pois com ela as pessoas que nunca programaram podem criar aplicativos; e para isso usa-se s<span id="page10R_mcid98" class="markedContent"><span dir="ltr" role="presentation">ímbolos gráficos</span></span>.
-<h3>VPL (Visual Programming Language)</h3>
+
+<h2>VPL (Visual Programming Language)</h2>
 <span style="color: #0000ff"><em>Linguagem de Programação Visual</em></span>
 <h5>Música</h5>
 <img class="size-medium wp-image-4045 alignleft" src="https://joesynth.files.wordpress.com/2019/05/rea_mix.png?w=300" alt="" width="300" height="169" />
@@ -18,7 +19,8 @@ Linguagem de programação textual, como se diz.
 Bem falado aqui no <em>blog Joesynth</em>, há até uma <a href="https://joesynth.wordpress.com/category/reaktor/">página do Reaktor</a>.
 Com ele criamos baterias eletrônicas, sintetizadores, efeitos etc. Um instrumento feito nele pode funcionar num <em>top</em> programa de estúdio.
 
-[caption id="attachment_10471" align="alignleft" width="300"]<img class="size-medium wp-image-10471" src="https://joesynth.files.wordpress.com/2020/11/jeff_mcclintock_synthedit.png?w=300" alt="" width="300" height="214" /> Jeff McClintock SynthEdit[/caption]
+
+<img class="size-medium wp-image-10471" src="https://joesynth.files.wordpress.com/2020/11/jeff_mcclintock_synthedit.png?w=300" alt="" width="300" height="214" />Jeff McClintock SynthEdit
 
 🇳🇿 Jeff McClintock <strong>SynthEdit</strong>.
 Outra opção é o <em>Synthedit</em>, mas existe outros ambientes musicais semelhantes a ele e o <em>Reaktor</em>; é o caso do Max, Pd, Kyma...
@@ -29,6 +31,7 @@ Veja também <a href="https://joesynth.wordpress.com/2021/11/05/synthedit/">Synt
 Que tal brincar de fazer <em>app</em> e instalar no Android?
 O <em>App Inventor</em> é ótimo pra isso: aprender programação construindo <em>softs</em>, desde os mais simples até os mais sofisticados.
 Parecido com o <em>App Inventor</em> há o <em>Scratch</em>, o <em>Snap!</em> etc.
+
 <h5>Games e afins</h5>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Unity_2020_UI.png/300px-Unity_2020_UI.png" width="300" />🇩🇰 🇺🇸 <strong>Unity</strong>.
 Unity Technologies.
