@@ -25,7 +25,7 @@ Um acervo de <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e
 <strong>📜️</strong> <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Licença de software</a>.
 ⬇️ Download ou aquisição do software.</pre>
 🤔️ Ubuntu Software: loja de <strong>Softwares Livres</strong> do sistema operacional Ubuntu.
-<h3>Jogos</h3>
+<h4>Jogos</h4>
 Buscamos organizar a grande variedade de jogos no mais simples possível, como jogos de memória, os clássicos, RPG etc.
 <h6>Memória</h6>
 <strong><img class="alignleft" src="https://gramatoys.wordpress.com/wp-content/uploads/2016/07/genius.jpg" width="120" />BlinKen</strong>.
@@ -161,7 +161,7 @@ Há foco em combate e exploração de masmorras profundas.
 <pre>● rogue: um dos precursores do gênero <em>roguelike</em>, com combate procedural e exploração de masmorras.
 
 </pre>
-<h3>Música</h3>
+<h4>Música</h4>
 <img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrK12NxkLdSH-PtBbb6g8OEMLgwxaDlgUnIQ&amp;s" width="80" />
 
 <strong>Minuet</strong>.
@@ -173,7 +173,7 @@ Que tal criar ritmos, melodias e até sons praticamente brincando? O próprio te
 ⬇️ Ubuntu Software.
 
 🤔️ Veja mais em <a href="https://joesynth.wordpress.com/2020/05/06/software-tracker/">music tracker</a> e <a href="https://joesynth.wordpress.com/2025/07/04/milkytracker-tutorial/">tutorial Milktracker</a>.
-<h3>Informática</h3>
+<h4>Informática</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tux_typing_2_screen_shot_1.png/500px-Tux_typing_2_screen_shot_1.png" width="120" /><strong>Tux Type</strong> (Tux Typing).
 Para uma criança aprender a digitar. Foi criado para dar habilidade de digitação, além de ser divertido.
 ⬇️ Ubuntu Software.
@@ -185,10 +185,10 @@ Tipo Logo (uma linguagem de programação), é um ambiente educacional para apre
 <pre>● Ktouch – Treinamento de digitação (reconhecimento do teclado).
 ● iKids/Akou/Guri (Joe S) - inglês dedicado a informática/ programação.
 ● Laby - Para aprender a programar com formigas e teias de aranha. É preciso tirar uma formiga de um labirinto, evitar teias de aranha, mover pedras etc. Pode-se utilizar <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagem</a> C, C++ etc.</pre>
-.
+
 
 <a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone  wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" height="308" /></a>
-<h3>Português, matemática, idiomas</h3>
+<h4>Português, matemática, idiomas</h4>
 <h6>Português e outros idiomas</h6>
 <strong><img class="alignleft" src="https://cdn.kde.org/screenshots/kanagram/kanagram.png" width="120" />Kanagram</strong>.
 Um quebra-cabeças de ordenação de palavras.
@@ -250,15 +250,15 @@ Geometria interativa.
 - Kali – Pavimentações.
 - Modellus - lida com modelos matemáticos via tabelas, gráficos, animações _o que ajuda a entender melhor o que se passa.
 </pre>
-.
-<h3>Exercício de múltipla escolha</h3>
+
+<h4>Exercício de múltipla escolha</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Keduca.png/250px-Keduca.png" width="120" /> Keduca</strong>.
 Lançado no ano 2000, trata-se de testes interativos com questões de multipla escolha.
 <strong>📜️</strong> GPL.
 <pre>● Jclic – Para confecção de exercícios (multipla escolha).
 ● KWordQuiz – Testes e Exames: Software com editor de questões de múltipla escolha e/ou perguntas e respostas.</pre>
-.
-<h3>Universo e geografia</h3>
+
+<h4>Universo e geografia</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Stellarium_v24.3.png/330px-Stellarium_v24.3.png" width="120" />Stellarium</strong>.
 Que tal um planetário?
 Vale lembrar que esse software já ganhou prêmio!
@@ -287,8 +287,8 @@ Mais exemplos desses tipos de <em>softwares</em>:
 - Grass – Sistema de Informação Geográfica.
 - TkGeomap – Dados Geográficos.
 - Xrmap – mapa da Terra bem completo em relação a detalhes, como rios, por exemplo.</pre>
-.
-<h3>Química</h3>
+
+<h4>Química</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chemtool.png/330px-Chemtool.png" width="120" />Chemtool</strong>.
 Permite desenhar estruturas químicas, bem como salvar em imagens tipo SVG, PNG, etc.
 <strong>📜️</strong> GPL.
@@ -309,8 +309,8 @@ Lançado no ano de 2000, lida com moléculas em 3d.
 
 - Katomix – Jogo de química para se construir moléculas a partir de átomos.
 - KmolCalc- Aplicativo para cálculo de quantidade de partículas (Mol) em uma quantidade de matéria.</pre>
-.
-<h3>Física</h3>
+
+<h4>Física</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Screenshot_of_step.png/250px-Screenshot_of_step.png" width="120" /> Step</strong>:
 É um simulador interativo de física. Você coloca corpos e forças sobre eles em uma cena, e inicia a simulação de como o sistema evolui de acordo com as leis da física. Tente mudar as propriedades dos corpos e forças (mesmo durante a simulação) e veja como elas influenciam na evolução do sistema.
 <pre>- Freeducfisic- Seção do freeduc com softwares livres de física. (em francês).
@@ -319,8 +319,8 @@ Lançado no ano de 2000, lida com moléculas em 3d.
 Projeto que utiliza simulações de fenômenos de física; e visa fornecer novas ferramentas didáticas que facilitem o aprendizado de Física no Ensino Médio.
 ✍️ Desenvolvido em conjunto com o Laboratório de Pesquisa e Desenvolvimento em Ensino de Matemática e das Ciências – LIMC / UFRJ
 </pre>
-.
-<h3>Desenhar e pintar</h3>
+
+<h4>Desenhar e pintar</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tux_Paint.png/500px-Tux_Paint.png" width="120" />TuxPaint</strong>.
 O programa de pintura próprio para desenho infantil. Embora para essa finalidade pode ser utilizado noutras disciplinas.
 ⬇️ Ubuntu Software.
@@ -328,7 +328,7 @@ O programa de pintura próprio para desenho infantil. Embora para essa finalidad
 ⬇️ Ubuntu Software.
 Semelhante ao Paint do Windows.</pre>
 <blockquote>Esses <em>softwares</em> podem ser a primeira experiência de '<em>design</em> gráfico' para num futuro a criança lidar com ferramentas mais avançadas, como <a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">GIMP</a> e <a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Inkscape</a>.</blockquote>
-<h3>Gestão escolar</h3>
+<h4>Gestão escolar</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Italc_logo.png" width="60" />
 
 <strong>iTALC</strong>.
@@ -343,8 +343,8 @@ Destinado aos professores para gerenciar notas dos alunos. Cadastra-se os estuda
 <pre>- Gnuteca – gestão de biblioteca.
 - Sagu – para gestão escolar.
 </pre>
-.
-<h3>Multitarefa e outros aplicativos úteis</h3>
+
+<h4>Multitarefa e outros aplicativos úteis</h4>
 <h6>Compartilhar arquivos</h6>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/100px-Telegram_2019_Logo.svg.png" width="60" height="60" />
 
@@ -379,8 +379,8 @@ Embora famoso como aplicativo de mensagens, ele é bem mais que isso. Instalado 
 <pre>-https://www.gnu.org/software/free-software-for-education.pt-br.html
 
 ⛲️https://softwarelivrenaeducacao.wordpress.com/softwares-livres-educacionais/</pre>
-<h3>🎉️ Bônus!
-Edubuntu</h3>
+<h4>🎉️ Bônus!
+Edubuntu</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Edubuntu-logo-new.svg/250px-Edubuntu-logo-new.svg.png" width="310" /><strong>Edubuntu</strong>.
 É o poderoso sistema operacional Ubuntu aliádo à educação _portanto salas de aula, escolas e mesmo lares onde os pais dão especial importância ao saber. Foi desenvolvido em colaboração com professores. A configuração do sistema operacional Edubuntu permite definir do nível pré-escolar até o superior. Exemplos de aplicações ou recursos que podemos encontrar nele:
 <pre>● iTalc ● KStarts ● Kalzium ● KPercentage ● KBruch ● Tux4Kids ● GCompris ● Schooltool Calendar ● LTSP (para trabalho remoto)</pre>
