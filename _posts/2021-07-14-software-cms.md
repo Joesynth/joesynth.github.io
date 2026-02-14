@@ -37,11 +37,11 @@ Usa banco de dados MongoDB; Node.
 Escrito em PHP, é uma famosa plataforma pra [e-commerce](/site-comercial-um-tutorial-essencial).  
 Licença: OSL.  
 
-**Outros programas**:  
 
-    Django CMS.
-    Ghost (JavaScript/Node.js).
-    🇫🇷 PrestaShop.
+
+**Django CMS**.
+**Ghost** (JavaScript/Node.js).
+**🇫🇷 PrestaShop**.
 
 👉 Semelhante ao CMS há o <em>enterprise content management</em> (ECM) e o <em>web content management</em> (WCM).
 
