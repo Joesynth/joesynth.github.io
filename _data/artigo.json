@@ -1,5 +1,11 @@
 [
   {
+    "href": "quem-usa-linux.html",
+    "src": "image/linux.png",
+    "h3": "Quem usa o Linux?",
+    "p": "Veja as instituições mais poderosas que utilizam o sistema operacional do pinguim, no Brasil e no exterior."
+  },
+  {
     "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
     "h3": "Nano",
