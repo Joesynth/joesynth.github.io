@@ -16,7 +16,7 @@ Lembrando, embora mostramos <em>freeware</em> também, note que esses são progr
  	<li>Outros casos.</li>
  	<li>Podcast.</li>
 </ul>
-<h3>Open-source</h3>
+<h4>Open-source</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/160px-Nextcloud_Logo.svg.png" width="99" height="70" />Nextcloud</strong>.
 💾️ Variável; 512MB é o padrão e pode ser aumentado.
 Pode ser instalado ou usado como <a href="https://joesynth.wordpress.com/2021/12/27/saas-10-softwares-famosos/">SaaS</a>.
@@ -67,8 +67,8 @@ Lida com compartilhamento de arquivos e pode-se fazer <em>upload</em> de arquivo
 Há foco em privacidade e segurança.
 📜️ Apache 2.0, GPL.
 
-.
-<h3>Freeware</h3>
+
+<h4>Freeware</h4>
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/120px-01_mega_logo.svg.png" width="120" />Mega</strong> (service).
 💾️ 20GB (modo gratuito).
 Aceita <em>upload</em> de áudio mp3, ogg. Pode-se criar pastas para organizar o conteúdo.
@@ -82,12 +82,12 @@ Não há restrições quanto ao período de armazenamento dos arquivos.
 Os usuários podem compartilhar <em>links</em> para <em>download</em> de arquivos com outras pessoas.
 🔗️ disk.yandex.com
 📜️ Freeware.
-<h3>Outros casos</h3>
+<h4>Outros casos</h4>
 Lembrando, algumas plataformas servem para quem cria <em>podcasts</em>, enquanto outras são voltadas para quem precisa armazenar e compartilhar arquivos.
 
 <strong>Syncthing</strong> 📜️ Open-source.
 <strong>Pydio</strong> 📜️ GNU AGPL; vide GitHub.
-<h3>Podcast</h3>
+<h4>Podcast</h4>
 Plataformas em Softwares Livres (ou não) voltadas para <em>podcasts</em>.
 
 <strong>EVOCA</strong>.
