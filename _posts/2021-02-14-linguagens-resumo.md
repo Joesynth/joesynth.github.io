@@ -14,10 +14,16 @@ Passaremos pelos seguintes temas:
  	<li>GCC.</li>
  	<li>Linguagens: resumo.</li>
 </ul>
+
+
 <h3>Exemplos de linguagens</h3>
+
 Fortran, <a href="https://joesynth.wordpress.com/2024/03/29/linguagem-c-um-tutorial-essencial/">C</a>, Pascal, <a href="https://joesynth.wordpress.com/2021/12/27/o-que-e-javascript/">JavaScript</a>, Assembly....
+
 <h3>Alto nível e baixo nível</h3>
+
 São os dois tipos de linguagens de programação.
+
 <h6><img class="" src="https://www.ssla.co.uk/wp-content/uploads/2020/10/Low-Level-Developer-1.png" width="479" height="316" />
 Baixo Nível</h6>
 <span style="color: #0000ff"> <em>low level</em></span>.
@@ -25,6 +31,7 @@ Baixo Nível</h6>
 São geralmente mais próximas do código de máquina e, portanto, oferecem maior controle sobre o <em>hardware</em>. São frequentemente usadas para programar sistemas operacionais, drivers de dispositivos e outras aplicações de nível de sistema.
 👍️ Ofereçam maior controle e desempenho.
 👎️ Geralmente exigem mais tempo e esforço para escrever código e depurá-lo.
+
 <h6>Alto nível</h6>
 <span style="color: #0000ff"><em>high level</em></span>.
 
@@ -57,9 +64,13 @@ Modula-2</td>
 </tbody>
 </table>
 .
+
 <h3>C: alto ou baixo nível?</h3>
+
 A linguagem <a href="https://joesynth.wordpress.com/2024/03/29/linguagem-c-um-tutorial-essencial/">C</a> é uma das principais para conhecermos. Por vezes vemos gente se referindo à C como baixo nível, e outras pessoas dizendo que é alta. Em suma, ela combina características de linguagens de alto nível com linguagens de baixo nível. Ela pode ser considerada de nível intermediário.
+
 <h3>Linguagem de Marcação</h3>
+
 <a href="https://joesynth.wordpress.com/2021/12/12/html-o-que-e-exatamente/">HTML</a> Tim B. Lee.
 🇬🇧 d.90.
 Interpretada.
@@ -75,15 +86,20 @@ Interpretada.
 
 <a href="https://joesynth.wordpress.com/2021/11/27/editor-de-markdown/">Markdown</a>.
 🇺🇲️ 2004.
+
 <h3>Linguagem de Script</h3>
+
 <em><span style="color: #0000ff">scripting language, script language</span></em>.
 
 Ex.: AppleScript, ColdFusion, CoffeeScript, <a href="https://joesynth.wordpress.com/2021/12/27/o-que-e-javascript/">JavaScript</a>, Lua, Perl, <a href="https://joesynth.wordpress.com/2021/11/13/php/">PHP</a>, Python, Ruby, Tcl, <a href="https://joesynth.wordpress.com/2021/11/27/shell-scripting/">Shell Scripting</a>, VBScript, PowerShell.
 <pre>Python é uma linguagem muito usada também em robótica.</pre>
+
 <h6>O que é uma linguagem de script?</h6>
 É qualquer linguagem que for usada para escrever um <em>script</em>. E script?
 Digamos que, se formos escrever uma aplicação inteira e executarmos de forma independente, não será um <em>script</em>. Por outro lado, podemos entender que o <a href="https://joesynth.wordpress.com/2021/12/27/o-que-e-javascript/">JavaScript</a> estende a habilidade do <em><a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">browser</a></em> dando características adicionais à página, portanto é um <em>script</em>.
+
 <h3>Linguagem Compilada ou Interpretada</h3>
+
 <strong>Código fonte</strong> É escrito por você em tal linguagem. Ele tem o conjunto de palavras, símbolos escritos de forma ordenada, instruções...
 
 A princípio, você desenvolvedor ou programador escreve esse código fonte por um Editor de Texto. Depois, para executá-lo, pode ter atitudes diferentes conforme o tipo de linguagem que usou para escrever o código fonte.
@@ -124,7 +140,9 @@ Linux (C)</td>
 </table>
 </div>
 Há mais detalhes e que podem ser vistos no <a href="https://joesynth.wordpress.com/2021/12/27/asdf/">stack overflow</a>, por ex.
+
 <h3>GCC</h3>
+
 🤔️ Richard Stallman.
 1987.
 ✏️ C, C++.
@@ -140,7 +158,9 @@ Lida com linguagem C, C++ e outras. Cada um dos compiladores de linguagem é um 
 
 Em si, o GCC usa outras ferramentas adicionais, muitas instaladas por padrão em muitas distribuições Linux (mas que, normalmente, não estão presentes nas instalações do Windows)
 <pre>C++ é uma linguagem muito usada também em robótica.</pre>
+
 <h3>Linguagens: resumo</h3>
+
 Legenda:
 <pre><strong>C/I</strong> Compilada ou Interpretada  
 <strong>De</strong> Declarativo <strong>Es</strong> Estruturada <strong>Im</strong> Imperativo <strong>Fun</strong> Funcional <strong>Mul</strong> Multiparadigma <strong>Re</strong> reflective (reflection)
