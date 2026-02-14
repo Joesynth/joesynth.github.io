@@ -19,7 +19,7 @@ Antigamente, comprava-se uma máquina de escrever para escrevermos nossos textos
 
 E o tal do <em>on-premises</em>? Enquanto o SaaS tá na nuvem e é disponibilizado como serviço, o <em>on-premises</em> é um modelo em que o cliente compra o produto <em>software</em> ou o licenciamento. Ele é instalado localmente na empresa _esta fazendo o gerenciamento ou manutenção. Ex.: navegadores (Chrome, Firefox...) e emails (Thunderbird, Outlook).
 
-###### Dez SaaS conhecidos
+## Dez SaaS conhecidos
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Conta_azul_institucional-01.png/200px-Conta_azul_institucional-01.png" width="120" />🇧🇷️ <strong>Conta Azul</strong>.  
 Sistema de gestão financeira na nuvem.  
@@ -36,6 +36,7 @@ Um streaming de áudio, músicas.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/170px-Netflix_2015_logo.svg.png" width="120" height="33" /> 🇱🇷️ <strong>Netflix</strong>.  
 Um <em>streaming</em> de vídeos, provendo filmes e séries de televisão.  
 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/220px-GitHub_logo_2013.svg.png" width="120" />🇱🇷️ <strong>GitHub</strong>.  
 Famosa entre programadores, oferece serviço de hospedagem na Internet para desenvolvimento de <em>software</em> e controle de versão.  
 
@@ -48,7 +49,7 @@ Uma família de <em>softwares</em> que inclui Word, Outlook e Excel.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dropbox_Logo_01.svg/200px-Dropbox_Logo_01.svg.png" width="120" />🇱🇷️ <strong>Dropbox</strong>.  
 Armazenamento de arquivos no estilo computação em nuvem (<em>cloud computing</em>).  
 
-###### Outras opções
+## Outras opções
 
 🇧🇷️ <strong>VTEX</strong>.  
 Multinacional brasileira com plataforma de e-commerce na nuvem (e clientes como Walmart e Sony).  
@@ -59,7 +60,7 @@ Software de automação de <em>marketing</em> digital.
 🇩🇰️ <strong>Zendesk</strong>.  
 Atendimento ao cliente.  
 
-###### Métricas para a empresa que lida com o SaaS
+## Métricas para a empresa que lida com o SaaS
 
 <strong>CAC</strong> (<em>Customer Acquisition Cost</em>): métrica que mostra o custo de aquisição de clientes, ou seja, quanto o negócio está investindo para conquistar cada novo cliente. Essa métrica, comparada ao LTV, ajuda a entender se os investimentos estão valendo a pena ou se estão altos demais em relação ao seu retorno.
 
