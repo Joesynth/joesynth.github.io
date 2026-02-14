@@ -1,8 +1,6 @@
 # Defesa: antivírus, firewall e afins
 
 
-
-
 Tutorial básico, ideal para estudantes e concurseiros.
 
 
@@ -80,11 +78,6 @@ Protege a máquina contra ameaças na rede externa e de outras máquinas na rede
 
 Veja <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">firewall: ferramentas</a>.
 
-<hr />
-
-<img class="alignnone size-full wp-image-19277" src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="640" height="360" />
-
-<hr />
 
 <h3>Antimalware</h3>
 <span style="color:#0000ff">Antivírus</span>.
