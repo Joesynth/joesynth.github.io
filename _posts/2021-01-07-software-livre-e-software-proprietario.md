@@ -1,5 +1,6 @@
 # Software livre e software proprietário
 
+
 Tutorial vital para alunos, concurseiros e todo cidadão. _Software_ quanto ao que de fato é livre; a aquisição, tipos de licença...  
   
   
@@ -22,7 +23,7 @@ Olá!
 <li><strong>Dicas e links</strong>.</li>
 <li><strong>Um pouco de história</strong>.</li>
 </ul>
-<h3>Introdução</h3>
+<h4>Introdução</h4>
 <pre><span class="Y2IQFc" lang="pt">  Legenda e Minidicionário
 💰️ dinheiro, preço...
 📜️ licença
@@ -53,7 +54,7 @@ Olá!
 </tr>
 </tbody>
 </table>
-<pre>A 'receita' inteira do sistema operacional Linux está acessível _ou seja, o seu código-fonte. Vide:<br /><span class="Y2IQFc" lang="pt">- <a href="https://joesynth.wordpress.com/2020/12/14/repositorio-o-que-e/">respositório</a>;</span><br />- kernel Linux: -<em>https://www.kernel.org/doc/html/next/process/programming-language.html</em><br /><br />🤔️ Devido a isso o sistema operacional Linux <span class="Y2IQFc" lang="pt">pode ser estudado, examinado, modificado por qualquer pessoa</span>; e por isso há várias <a href="https://joesynth.wordpress.com/2021/10/31/linux-ubuntu/">versões de Linux</a>.<em><span style="color: #808080"><br /></span></em></pre>
+<pre>A 'receita' inteira do sistema operacional Linux está acessível _ou seja, o seu código-fonte. Vide:<br /><span class="Y2IQFc" lang="pt">- respositório;</span><br />- kernel Linux: -<em>https://www.kernel.org/doc/html/next/process/programming-language.html</em><br /><br />🤔️ Devido a isso o sistema operacional Linux <span class="Y2IQFc" lang="pt">pode ser estudado, examinado, modificado por qualquer pessoa</span>; e por isso há várias versões de Linux.<em><span style="color: #808080"><br /></span></em></pre>
 <h6>Software Livre &amp; Software Proprietário</h6>
 <p><span style="color: #0000ff"><span class="Y2IQFc" lang="pt">◼</span> software livre ou <em>free software</em></span>.<br /><span style="color: #0000ff"><span class="Y2IQFc" lang="pt">◼</span> software proprietário (<em>proprietary software</em>) ou software privado; software privativo ou não livre</span>.</p>
 <p><img class="size-medium wp-image-69488 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" /></p>
@@ -64,12 +65,12 @@ Olá!
 <table>
 <tbody>
 <tr>
-<td><small><strong><em>software</em> livre</strong> 🎈️<br />💸️ Preço: Custo zero, via de regra. <br />🤔️ Pode haver custo de suporte técnico, caso de um software específico por exemplo. <br />🛡️ Segurança: se houver 'vírus' todos ficarão sabendo já que o código é público.<br />😎️ Marketing: são desconhecidos. Não há campanhas de <em>marketing</em> para fazer as pessoas usarem. <br />👥️ Usuários: Utilizado por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a> (programadores, técnicos de TI...); militares, governos; grandes corporações.</small></td>
-<td><small><strong>software proprietário</strong> 🔒️<br />💸️ Preço: Pode ter custo zero para instalar.<br />🤔️ Custo zero pode ser uma estratégia do modelo de negócios da empresa.<br />✔️ Pode oferecer algo específico, por exemplo, uma grande variedade de <a href="https://joesynth.wordpress.com/2020/11/30/o-que-e-um-plugin-vst/">plugins</a> (caso do software de música Cubase).<br />😎️ Marketing: são famosos por criarem largas estratégias de distribuição, publicidade; em especial as grandes marcas.<br />👥️ Usuários: o indivíduo comum, a população em geral; pequenas empresas ou comuns.<br /></small></td>
+<td><small><strong><em>software</em> livre</strong> 🎈️<br />💸️ Preço: Custo zero, via de regra. <br />🤔️ Pode haver custo de suporte técnico, caso de um software específico por exemplo. <br />🛡️ Segurança: se houver 'vírus' todos ficarão sabendo já que o código é público.<br />😎️ Marketing: são desconhecidos. Não há campanhas de <em>marketing</em> para fazer as pessoas usarem. <br />👥️ Usuários: Utilizado por profissionais de informática (programadores, técnicos de TI...); militares, governos; grandes corporações.</small></td>
+<td><small><strong>software proprietário</strong> 🔒️<br />💸️ Preço: Pode ter custo zero para instalar.<br />🤔️ Custo zero pode ser uma estratégia do modelo de negócios da empresa.<br />✔️ Pode oferecer algo específico, por exemplo, uma grande variedade de plugins (caso do software de música Cubase).<br />😎️ Marketing: são famosos por criarem largas estratégias de distribuição, publicidade; em especial as grandes marcas.<br />👥️ Usuários: o indivíduo comum, a população em geral; pequenas empresas ou comuns.<br /></small></td>
 </tr>
 </tbody>
 </table>
-<p>📚️ Sugestão leitura: <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">Software Servidor</a>.</p>
+
 <h6><em>Freeware <span style="color: #0000ff">- software gratuito (soft grátis)</span></em></h6>
 <p>Quer um docinho grátis?</p>
 <blockquote>
@@ -91,8 +92,8 @@ Olá!
 ✔️ Redistribuído sem nenhuma restrição.</pre>
 <p>Ou seja, o usuário tem a liberdade de executar, acessar e modificar o código-fonte, além de redistribuir cópias (com ou sem modificações)</p>
 <p><span class="Y2IQFc" lang="pt">💰️</span> <strong>Venda é permitida</strong>! Entretanto as mesmas liberdades são válidas para o comprador.<br /><span class="Y2IQFc" lang="pt">🛠️</span> Código aberto (ou <em>open source</em>): quase todos os programas de código aberto são de fato livres.</p>
-<p><a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" /></a></p>
-<h3>🔒️ Software proprietário</h3>
+
+<h4>🔒️ Software proprietário</h4>
 <pre>⭐ nascimento<br />💰 uso, como ganha dinheiro o autor<br />🧠 ideia central</pre>
 <p>.</p>
 <table>
@@ -145,10 +146,10 @@ Olá!
 <tr>
 <td style="text-align: left">
 <p><span class="Y2IQFc" lang="pt"><span class="Y2IQFc" lang="pt"> 🕖️ Limitação de tempo, recursos<br />📝️ Via de regra programa é fornecido só na sua forma binária, ou seja, o programa executável.<br /></span></span><span class="Y2IQFc" lang="pt"><span class="Y2IQFc" lang="pt">⚖️ Protegido, geralmente; isto é, via de regra autor tem direitos autorais.<br />📝️ Pode não ter código aberto<br />🚀️ Distribuido de forma grátis pelo autor, mas autor exige pagamento após um período de teste.<br /></span></span></p>
-<p><img class="alignleft" src="https://www.saashub.com/images/app/service_logos/51/50ac94366f5d/large.png" width="28" /><a href="https://joesynth.wordpress.com/2021/11/05/synthedit/">SynthEdit</a> .<br /><span class="Y2IQFc" lang="pt">◼ WinZip.</span></p>
+<p><img class="alignleft" src="https://www.saashub.com/images/app/service_logos/51/50ac94366f5d/large.png" width="28" />SynthEdit.<br /><span class="Y2IQFc" lang="pt">◼ WinZip.</span></p>
 </td>
 <td style="text-align: left"><span class="Y2IQFc" lang="pt"><span class="Y2IQFc" lang="pt">◼ Sem limitações de tempo, recursos<br />◼ Via de regra proprietário, produto comercial; <br />⚖️ É do autor, geralmente; que renuncia os royalties de uso, mas não aos direitos autorais. <br />📝️ Pode não ter código aberto.<br />📝️ Usuário sem acesso ao código fonte.<br />😐️ Usuário só tem o direito de uso.<br />🚀️ Distribuido de forma grátis pelo autor.</span></span>
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/120px-Adobe_Acrobat_DC_logo_2020.svg.png" width="28" />Acrobat Reader<br /><del>Internet Explorer</del><br /><del>MSN Messenger</del> <br /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png" width="90" /><br /><a href="https://joesynth.wordpress.com/2023/11/06/rede-social-open-source/">YouTube</a>.<br /><a href="https://joesynth.wordpress.com/2023/11/06/rede-social-open-source/">Instagram</a>.</p>
+<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/120px-Adobe_Acrobat_DC_logo_2020.svg.png" width="28" />Acrobat Reader<br /><del>Internet Explorer</del><br /><del>MSN Messenger</del> <br /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png" width="90" /><br />YouTube.<br />Instagram.</p>
 </td>
 </tr>
 </tbody>
@@ -177,7 +178,7 @@ Olá!
 <tbody>
 <tr>
 <td style="text-align: center"><strong>registerware</strong><br />permite usuário baixar após um registro. <br /><span class="Y2IQFc" lang="pt">😎️</span> O endereço de e-mail fornecido é usado ​​para promover atualizações, versões do soft, enviar anúncios de terceiros.</td>
-<td style="text-align: center"><strong>freeware para uso privado</strong>: oferece versões separadas:<br />◼ para usuário particular (software gratuito) _em geral também se pede registro.<br />◼ para uso comercial (software pago). Ex.: programas de <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">firewall</a> e <a href="https://joesynth.wordpress.com/2021/12/12/antivirus-firewall/">antivírus</a>.</td>
+<td style="text-align: center"><strong>freeware para uso privado</strong>: oferece versões separadas:<br />◼ para usuário particular (software gratuito) _em geral também se pede registro.<br />◼ para uso comercial (software pago). Ex.: programas de firewall e antivírus.</td>
 </tr>
 </tbody>
 </table>
@@ -215,7 +216,7 @@ Olá!
 <p>⚠️ Nota!</p>
 <p><strong>SaaS</strong> (Software as a service - Software como serviço): É acessível tomando como base o modelo cliente-servidor; é baseado em "nuvem".<br /><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/170px-Netflix_2015_logo.svg.png" width="80" /> O cliente utiliza o <em>software</em> (via <em>internet</em>) e paga um valor pelo serviço. O termo SaaS está mais associado a forma como é entregue o software _assinatura do serviço_, sendo a licença uma consequência disso. Ex.:</p>
 <pre>Netflix, Google Drive.</pre>
-<h3>📄️ Licença de software</h3>
+<h4>📄️ Licença de software</h4>
 <p><span class="Y2IQFc" lang="pt"><strong>Licença Proprietária</strong>:</span> podemos ver relatos do software proprietário surgindo com licença dese tipo _é o caso do Spotify.</p>
 
 ###### EULA 
@@ -223,7 +224,7 @@ Olá!
 <img class="alignleft" src="https://tprojects.schneider-electric.com/GeoSCADAHelp/Geo%20SCADA%202020/Content/SystemInstallationGuide/Figures/enduserlicenseagreement_PROD.png" width="120" /> Normalmente presente no software privado, é aquele "quadradinho" que damos "ok" concordando com os termos ali escritos. O assunto é polêmico vista o poder que se chegou do autor (corporações) do software.
 Vide [EULA](/eula).
 
-<h3><span class="Y2IQFc" lang="pt"><strong>📝️</strong></span> Open Source e Closed Source</h3>
+<h4><span class="Y2IQFc" lang="pt"><strong>📝️</strong></span> Open Source e Closed Source</h4>
 <p>Termos associados aos softwares no que tange o código. Lembra a história da receita no início deste tutorial?</p>
 <h6>Open Source - <span style="color: #0000ff">Código Aberto<br /></span></h6>
 <p>Software grátis (a maioria). Modelo que permite que qualquer um consulte, examine ou modifique o produto. Ou seja, acesso ao código-fonte (com possibilidade de modificá-lo). Instale e copie o programa inúmeras vezes.</p>
@@ -244,7 +245,7 @@ Vide [EULA](/eula).
 </blockquote>
 <p>Ou seja, o código (do <em>software</em>) não é compartilhado com o público _isso na intenção (de quem criou) de ninguém olhar ou alterar.</p>
 <p>Mesmo uma empresa que oferece seu software de graça pode não mostrar o código. Alega-se que assim evita-se o plágio, afinal, alguém pode mudar o nome dos autores e pôr o seu.</p>
-<h3>🎈️ FOSS</h3>
+<h4>🎈️ FOSS</h4>
 <p><span style="color: #0000ff"><em>Free and Open-Source Software</em>, Software de Código Livre e Aberto</span>.</p>
 <p><img class="size-medium wp-image-68613 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/software_livre.png?w=300" alt="" width="300" height="169" /></p>
 <p>O <strong><em>software livre e de código aberto</em></strong> é uma aplicação que qualquer pessoa tem o direito de...<br />✔️ usar <br />✔️ cópiar<br />✔️ estudar <br />✔️ mudar e melhorar</p>
@@ -252,7 +253,7 @@ Vide [EULA](/eula).
 <p><img class="alignleft" src="https://cdn.geekboots.com/geek/linux-vs-windows-vs-mac-meta-1655409657451.jpg" width="150" />É comum que <strong><em>soft livre e de código aberto</em></strong> seja compatível com sistemas operacionais Linux, Mac e Windows, e mesmo Android ou outros.</p>
 <p>Há diversos tipos de softwares FOSS, incluindo...<br />◼ sistema operacional para computador <em>desktop</em> ou <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">servidor</a>,<br />◼ aplicações para empresa, escritório, multimídia/arte;<br />◼ <a href="https://joesynth.wordpress.com/2021/11/28/software-de-rede/">soft de rede</a> (como <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">firewall</a>),<br />◼ <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">editor de código-fonte</a>,<br />◼ <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">software de linha de comando</a>.</p>
 <p>Clique no <em>link</em> para conhecer os <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">softwares livres e abertos mais famosos</a>, inclusive com detalhes sobre eles.</p>
-<h3>FOSS vs CSPS</h3>
+<h4>FOSS vs CSPS</h4>
 <p><span style="color: #0000ff"><em>CSPS (Closed Source Proprietary Software)</em></span>.</p>
 <p>Comparação entre ambos. Abaixo, relações envolvendo código-fonte, execução, etc.</p>
 <table>
@@ -292,7 +293,7 @@ Vide [EULA](/eula).
 <p><strong>Exemplos:</strong></p>
 <pre><strong><img class="size-medium wp-image-69488 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" />FOSS</strong>          <strong>CSPS</strong><br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Audacity</a>    | FL Studio<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Ardour</a>      | Cubase<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">LibreOffice</a> | 365<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Firefox</a>     | Chrome<br /><a href="https://joesynth.wordpress.com/2023/11/06/rede-social-open-source/">Mastodon</a>    | Instagram<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">GIMP</a>        | Photoshop<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Telegram</a>    | Whatsapp<br />Ubuntu      | Windows<br />Mint        | MacOs</pre>
 <p><em>*Telegram versão cliente</em>.</p>
-<h3>Resumo, comparações e afins</h3>
+<h4>Resumo, comparações e afins</h4>
 <pre><em>Commercial</em><br />Proprietário<br />Misto<br />Software Livre e Freeware</pre>
 <h6>commercial software <span style="color: #0000ff">software comercial</span></h6>
 <p>Software feito para venda ou fins comerciais. Pode ser:</p>
@@ -323,8 +324,8 @@ Vide [EULA](/eula).
 <p><img class="alignleft" src="https://www.researchgate.net/publication/43180999/figure/fig1/AS:203189006671879@1425455442282/Chao-Kueis-Diagram-different-categories-of-software-6.png" width="320" /> Note na coluna...<br /><strong>Free Software</strong> (Software Livre) domínio público, GPL, <em>open source</em>...<br /><strong>Proprietário</strong>: <em>closed</em>, <em>shareware</em>.</p>
 <p>.</p>
 <p><a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" /></a></p>
-<h3>📄️ Licenças e afins...</h3>
-<h3>Copyright e Public Domain (PD)</h3>
+<h4>📄️ Licenças e afins...</h4>
+<h4>Copyright e Public Domain (PD)</h4>
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/220px-Copyright.svg.png" width="30" height="30" /></p>
 <p><strong><em>Copyright</em></strong> é o direito legal exclusivo de usar, copiar e distribuir um trabalho criativo.</p>
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cc-public_domain_mark_white.svg/150px-Cc-public_domain_mark_white.svg.png" width="30" height="30" /> <strong>Public Domain</strong> (PD) é o termo em inglês que se refere a domínio público.</p>
@@ -344,7 +345,7 @@ Vide [EULA](/eula).
 </tbody>
 </table>
 <p>Nessa situação o software de domínio público pode ser visto como <em>software livre</em>.</p>
-<h3>Copyleft</h3>
+<h4>Copyleft</h4>
 <p>"<em>All rights reversed</em>", "Todos os direitos invertidos".</p>
 <p><strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/800px-Copyleft.svg.png" alt="" width="30" height="30" /></strong>Um arranjo pelo qual um trabalho pode ser usado, modificado e distribuído gratuitamente; na condição de que qualquer coisa derivada dele é vinculada pela mesma condição. O autor continua sendo dono, mas sua obra pode ser utilizada/modificada/redistribuida por outras pessoas.<br />⌛️ Anos 70. Permitida a cópia, cópia autorizada, ou livre direito de cópia. Pode-se copiar e modificar, por exemplo. Está associada às liberdades para:</p>
 <p>◼ utilizar o trabalho; <br />◼ realizar pesquisas a respeito, estudar o trabalho; <br />◼ compartilhar e copiar; <br />◼ fazer alterações e posterior distribuição.</p>
@@ -378,15 +379,15 @@ Vide [EULA](/eula).
 <h6><em>Copyleft</em> vs <em>Permissive</em>: ao longo do tempo</h6>
 <p><img class="alignleft" src="http://www.vinayiyengar.com/wp-content/uploads/2020/09/itemeditorimage_5e287f7dbbf1c.jpg" width="400" height="225" /></p>
 <p>Note no quadro que:<br /><strong>2012</strong>: havia 59% de uso de licença <em>copyleft</em>_quase dois terços.<br /><strong>2019</strong>: o número caiu para 33%, portanto 1/3 de copyleft.</p>
-<h3>Creative Commons</h3>
+<h4>Creative Commons</h4>
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/800px-Cc.logo.circle.svg.png" alt="" width="32" height="32" /><strong>🇺🇸</strong> <strong>Creative Commons</strong><em> (</em>CC).<br />⌛️ Início ano 2000.<br />Organização sem fins lucrativos. É uma das várias licenças públicas de direitos autorais que permitem a distribuição gratuita de uma "obra" protegida por direitos autorais. Uma licença CC é usada quando um autor deseja conceder a outras pessoas o direito de compartilhar, usar e desenvolva uma obra que eles (o autor) criaram.<br />A <em>CC</em> fornece uma flexibilidade de autor  _por ex., ele pode optar por permitir apenas usos não comerciais de uma determinada obra. Além, protege a  pessoa que usa ou redistribui obra de um autor de preocupações com violação de direitos autorais, desde que respeitem as condições estabelecidas, especificado na licença pela qual o autor distribuiu o trabalho.</p>
 <p><strong>Creative Commons: tipos de licenças</strong>.<br /><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cc-by_new.svg/75px-Cc-by_new.svg.png" width="29" height="29" /> <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/75px-Cc-sa.svg.png" width="30" height="30" /> <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cc-nc.svg/75px-Cc-nc.svg.png" width="29" height="29" /> <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cc-nd.svg/75px-Cc-nd.svg.png" width="29" height="29" /></p>
 <pre><strong>Creative Commons: exemplos</strong>.<br /><a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Audacity</a>, sites (como Wikipedia‎, gnu.org, Mozilla website, RationalWiki.org, Stack Overflow), livros (vários de Eric S. Raymond).</pre>
 <p>Mais sobre <em>Copyleft</em>: [<em>https://pt.wikipedia.org/wiki/Copyleft</em>]</p>
-<h3>Comparações e estatísticas</h3>
+<h4>Comparações e estatísticas</h4>
 <h5><em>Copyright</em> vs <em>Copyleft</em> vs <em>Permissive</em> vs <em>CC</em></h5>
 <p><img class="" src="https://joesynth.files.wordpress.com/2021/11/d5f45-0pj3xhsctqeje4k03.png" width="439" height="287" /></p>
-<h3>Organizações</h3>
+<h4>Organizações</h4>
 <p>A FSF e a OSI são as principais organizações internacionais responsáveis pela proteção e promoção do software livre.</p>
 <h6>FSF  <em>- Free Software Foundation</em></h6>
 <blockquote>
@@ -417,10 +418,10 @@ Vide [EULA](/eula).
 ◼ Eclipse Foundation
 </pre>
 <pre><a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Audacity</a>, Firefox, <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">GIMP</a>, Thunderbird</pre>
-<h3>Dicas e links</h3>
+<h4>Dicas e links</h4>
 <p>Livro: <em>O Futuro dos Preços</em> (Chris Anderson, mesmo autor de “A Cauda Longa”).</p>
 <p><em>Links</em> relacionados ao tema:<br />- <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-20-sites/">Marketplace</a>.<br />- <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>.<br />- <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Software livre: 21 softs</a> (que você deve conhecer).<br />- <a href="https://joesynth.wordpress.com/2021/12/27/saas-10-softwares-famosos/">SaaS</a>.</p>
-<h3>📚️ Um pouco de história</h3>
+<h4>📚️ Um pouco de história</h4>
 <pre>- software livre, software proprietário, GPL<br />- shareware e freemium<br />- FSI vs OSI<br />- <em>Copyleft</em> vs <em>Permissive</em>: ao longo do tempo</pre>
 <h6>software livre, software proprietário, GPL</h6>
 <blockquote>
