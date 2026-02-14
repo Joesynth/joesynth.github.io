@@ -323,7 +323,8 @@ Vide [EULA](/eula).
 <p><strong>Diagrama de Chao-Kuei</strong>:</p>
 <p><img class="alignleft" src="https://www.researchgate.net/publication/43180999/figure/fig1/AS:203189006671879@1425455442282/Chao-Kueis-Diagram-different-categories-of-software-6.png" width="320" /> Note na coluna...<br /><strong>Free Software</strong> (Software Livre) domínio público, GPL, <em>open source</em>...<br /><strong>Proprietário</strong>: <em>closed</em>, <em>shareware</em>.</p>
 <p>.</p>
-<p><a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" /></a></p>
+
+
 <h4>📄️ Licenças e afins...</h4>
 <h4>Copyright e Public Domain (PD)</h4>
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/220px-Copyright.svg.png" width="30" height="30" /></p>
