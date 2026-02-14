@@ -17,6 +17,7 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
  	<li>Inbound MKT (marketing de atração).</li>
  	<li>MKT: Custos.</li>
 </ul>
+
 ## MKT Digital: Principais objetivos
  
 Aumentar as vendas.
@@ -29,8 +30,6 @@ Gerar visitas ao site.
 Aumentar o número de seguidores da marca.
 Gerar visualizações para vídeos.
 
-<hr />
-
 ## Teia e  Método 8ps
 
 <img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamO4HdRcHpWAm_2x7fCw7j9EAZE1CNffGFKtClS_kdvDi2WpNSXPMMCyGQDH-RzavzpE&amp;usqp=CAU" width="310" height="222" />
@@ -40,11 +39,11 @@ Note que no centro nós temos o 'monitoramento' e nas pontas <em>mailing</em>, c
 
 .
 
-<img src="https://www.jornalcontabil.com.br/wp-content/uploads/2015/01/8ps.png" width="349" /> Estratégia digital: os 8ps do <em>marketing digital</em>.
+<img src="https://miro.medium.com/1*wXcBy2Z8DlMluorh7owcQQ.jpeg" width="310" /> Estratégia digital: os 8ps do <em>marketing digital</em>.
 
 <img class="" src="http://papodebuteco.net/wp-content/uploads/2011/07/8ps-conrado-adolpho.jpg" width="472" height="269" />
 
-<hr />
+
 
 ## MKT digital - estratégias
 
@@ -77,7 +76,7 @@ Co-marketing.
 <strong>Pop-ups</strong>.
 <strong>Produção de Vídeo</strong>.
 
-<hr />
+
 
 ## Termos relacionados ao marketing digital
 
@@ -103,7 +102,7 @@ Co-marketing.
 - Ferramentas (como Google Webmasters Tools, <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Google Analytics</a>).</pre>
 ⛲ wikipedia/SEBRAE.
 
-<hr />
+
 
 ## Content marketing <span style="color: #0000ff"><em>mrk de conteúdo</em></span>
 O objetivo é oferecer conteúdos de valor para atrair visitantes. [ft: IA]
@@ -133,7 +132,7 @@ Seja impresso ou digital, esse fluxo seguido com qualidade vai garantir que o co
     |_ Observar a repercussão visando continuar a promoção nas próximas semanas.</pre>
 Há ferramentas com os<a href="https://joesynth.wordpress.com/2021/12/12/wordpress-plugins/"> plug-ins do Wordpress</a>  que podem ajudar.
 
-<hr />
+
 
 ## Outbound Marketing
 Método antigo com técnicas de venda direta e publicidade para atingir um público amplo.
@@ -153,7 +152,7 @@ Divide o time de vendas em:
 <strong>Farmers</strong>: responsáveis por manter o engajamento do cliente.</pre>
 ft:IA
 
-<hr />
+
 
 ## Inbound MKT (marketing de atração)
 <blockquote>O inbound se baseia na educação do público.</blockquote>
@@ -307,7 +306,7 @@ Demais etapas seguem e além da venda; pensando em satisfação, qualidade e eng
 - <strong>Ferramentas como Google Trends</strong>: Entender as tendências e necessidades do mercado.</pre>
 .
 
-<hr />
+
 
 ## MKT: Custos
 
