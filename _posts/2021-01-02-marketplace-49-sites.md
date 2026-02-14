@@ -62,12 +62,6 @@ Referência em atendimento, o Magazine Luiza expandiu seus negócios com o <em>m
 • <strong>Buscapé</strong> - também é um <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">comparador de preços</a>.
 . <strong>Via Varejo</strong> (Casas Bahia, Extra e Ponto Frio.).
 
-<hr />
-
-https://youtu.be/IEK4n6eiImQ
-
-<hr />
-
 <h2>Marketplace de nicho</h2>
 Aqui o cliente chega até você com uma intenção de compra bem mais focada.
 <h6>Nicho: roupa, moda, esporte</h6>
@@ -199,11 +193,7 @@ Animações, consultoria, call centers, desenvolvimento, vendedores...
 
 Ainda na área de redação há várias (por ex. Contentools, Meu Redator, <a href="https://crowd.br.com/">Crowd</a> e Textbroker.
 
-<hr />
 
-https://youtu.be/8RQCK2wUTXc
-
-<hr />
 
 <h2>Mais marketplaces!?</h2>
 <img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/f149a-8badea_8373b36dbd3044fa933e0599b01836b0mv2.png" width="60" height="60" />• <strong>HP</strong>.
