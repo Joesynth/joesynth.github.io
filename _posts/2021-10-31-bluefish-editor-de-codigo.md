@@ -8,7 +8,7 @@ Olá!
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2021/10/bluefish_editor_de_codigo.png" alt="Bluefish editor de codigo" width="310" />
 
 Vamos falar sobre o editor de texto Bluefish.
-<h3>Você conhece o Bluefish?</h3>
+<h4>Você conhece o Bluefish?</h4>
 <img class="alignleft" title="Bluefish" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/800px-Bluefish-icon.svg.png" alt="Editor de texto Bluefish" width="120" height="120" />
 
 ✏️ Seu ano de nascimento é 1997.
@@ -20,7 +20,7 @@ Possui recursos como:
 - Emoji;
 - Autocompletion;
 - Bookmark.
-<h3>Instalação e Configuração</h3>
+<h4>Instalação e Configuração</h4>
 <h5>Instalação</h5>
 Acesse:
 <pre>bluefish.openoffice.nl.download.html</pre>
@@ -34,11 +34,11 @@ Acesse:
     habilite para aparecer no menu principal (Document, Language mode)
   &gt; font &amp; colors, editor font. Tamanho da fonte...
 </pre>
-<h3>Gerenciador de Arquivos</h3>
+<h4>Gerenciador de Arquivos</h4>
 É a grande área vertical na esquerda da tela. Note que bem no canto inferior esquerdo há um ícone de uma pasta.
 
 <img class="img-responsive" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bluefish_%28text_editor%29.png" alt="Bluefish - Gerenciador de Arquivos" />
-<h3>Atalhos no Bluefish</h3>
+<h4>Atalhos no Bluefish</h4>
 Leia <a href="https://joesynth.wordpress.com/2021/10/31/atalhos-do-teclado/">Atalhos do </a><a href="https://joesynth.wordpress.com/2021/10/31/atalhos-do-teclado/">Teclado</a>.
 
 Além dos atalhos mencionados no artigo acima acima, podemos citar:
@@ -88,7 +88,7 @@ CtrlN, CtrlShifN     New, new window (novo BF)
 CtrlW, CtrlShiftW    Fechar documento, fechar tudo
 CtrlQ                Quit
 </pre>
-<h3>Atalhos no Bluefish: o robô explica!</h3>
+<h4>Atalhos no Bluefish: o robô explica!</h4>
 <div class="col-sm-6">
 
 Um simpático robô explica os atalhos básicos do Bluefish, ele foi criado com linguagem JavaScript. Confira!
