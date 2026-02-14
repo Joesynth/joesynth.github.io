@@ -32,7 +32,7 @@ Não usa &lt; ou &gt;. Só abre tag.
 🔗️ https://pugjs.org/
 Nova versão do Jade.
 
-<img class="alignleft" src="https://techdoma.in/images/overview-of-ejs-templating-engine.png" width="120" />⚫️ <strong>EJS</strong> (<em>Embedded JavaScript Templates</em>).
+⚫️ <strong>EJS</strong> (<em>Embedded JavaScript Templates</em>).
 🔗️ ejs.co
 🔗️ ectjs.com
 🔗️ embeddedjs.com
