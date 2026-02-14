@@ -1,5 +1,6 @@
 # Wordpress - Plugins
 
+
 Turbine seu site! Veja o tutorial completo sobre plugins.
 
 Criou seu site? Já tem alguma experiência com ele?
@@ -21,7 +22,7 @@ Separamos vários para você conhecer, organizados da seguinte forma:
  	<li>Outros Plugins.</li>
 </ul>
 <pre>🎉️ Grátis. São os verificados. Isto é, pode haver outros grátis nesta lista e não sabemos.</pre>
-<h3>Multimídia</h3>
+<h4>Multimídia</h4>
 <strong>Imagem</strong> (Galeria, <em>slider</em>, etc).
 <pre><strong>NextGen Gallery</strong> 🎉️ Crie galerias de fotos mais elaboradas.
 <strong>Meta Slider</strong> 🎉️ Crie sliders (imagens rotativas) otimizados para SEO.
@@ -39,7 +40,7 @@ Radio Player (SoftLab) <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b">
 <strong>Vídeo</strong>.
 <pre><strong>YouTube</strong> Permite o <em>embed</em> mais fácil de vídeos hospedados no YouTube. Também a criação de galerias e até transmissão ao vivo.</pre>
 .
-<h3>Dinheiro</h3>
+<h4>Dinheiro</h4>
 <strong>Pix</strong> (pagamentos ).
 <pre><strong>PagHiper</strong> (Pix e Boleto bancário): foco em doação para aumentar arrecadações de instituições.
 <strong>GiveWP</strong>: seu site em um sistema de doação.
@@ -51,7 +52,7 @@ Radio Player (SoftLab) <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b">
 <pre>WP Simple Pay <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> WPForms <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Easy Digital Downloads <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> MemberPress <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> WooCommerce <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> LearnDash <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Stripe Payments 
 </pre>
 .
-<h3>Comunicação e <em>marketing</em></h3>
+<h4>Comunicação e <em>marketing</em></h4>
 Plug-ins para diálogo ou alguma relação com os usuários, e mesmo <em>marketing</em>.
 
 <strong>Tráfego do Site</strong>: estatísticas sobre visitantes, posicionamento nos principais buscadores.
@@ -148,7 +149,7 @@ HubSpot</strong> CRM para pequenas empresas. Gere melhor seus leads e automatiza
 - opt-in duplo (confirmação em duas etapas) para e-mails.</pre>
 <strong>Push notificações</strong>:
 <pre>OneSignal | WonderPush | Smart Notifications (Premium) | Gravitec.net | Fire Push (Premium) | PushAssist | Beamer | LetsPush (Premium) | iZooto Web Push Notification | Subscribers</pre>
-<h3>Google: o "chefe"!</h3>
+<h4>Google: o "chefe"!</h4>
 O Google tem grande influência na internet. Vide <a href="https://joesynth.wordpress.com/2025/01/19/qual-e-o-poder-do-google/">o poder do Google</a>.
 <pre><strong>The Events Calendar</strong> 🎉️ Acrescenta calendário de eventos, mostra onde e quando sua marca estará. Permite linkar os compromissos do calendário direto com o seu Google Agenda e outras ferramentas.<strong>
 Wptouch Mobile</strong> 🎉️ Cria um layout perfeito para ser aberto em dispositivos móveis, como tablets e smartphones, para que seu site ganhe pontos com o Google e com os usuários.
@@ -157,14 +158,14 @@ Wptouch Mobile</strong> 🎉️ Cria um layout perfeito para ser aberto em dispo
 <strong>Cache</strong>: Acelera o carregamento do seu site, portanto está relacionado a uma melhor experiência do seu usuário. Assim, pode-se ganhar pontos com o Google.
 <pre><strong>W3 Total Cache</strong> 🎉️
 <strong>WP Fastest Cache</strong> 🎉️</pre>
-<h3>Distribuição (de conteúdo)</h3>
+<h4>Distribuição (de conteúdo)</h4>
 Vide JetPack.
 
 <strong>Posts, agendar</strong>:
 Isso é nativo do WP, e pode ser utilizado com informativos.
 
 Vide "<strong>mídia social - automação</strong>"
-<h3>Automação</h3>
+<h4>Automação</h4>
 Uncanny Automator
 Permite criarmos fluxos de trabalho avançados para economizar tempo e reduzir erros, sem escrever nenhum código. Ajuda a administrar seu blog com mais eficiência. Semelhante ao Zapier.
 Alternativa? Thrive Automator (totalmente gratuito)
@@ -184,7 +185,7 @@ Análise para WordPress, utilizado por milhões de sites.
 
 SeedProd
 Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
-<h3>Segurança e Backup</h3>
+<h4>Segurança e Backup</h4>
 <strong>Segurança</strong>.
 <pre><strong>Wordfence Security</strong> 🎉️ Sistema de firewall, login em duas etapas e muito mais.
 <strong>All in One WP Security and Firewall</strong> 🎉️ Diz ser a solução definitiva em proteção de sites WordPress. Ferramentas para fortalecer senha, identifica atividade suspeita e bloqueia tentativas excessivas de login.</pre>
@@ -192,8 +193,8 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 <pre><strong>WP Clone</strong> 🎉️ Para quem precisa copiar, migrar ou apenas quer fazer do seu site em WordPress .
 <strong>UpdraftPlus WordPress Backup</strong> 🎉️ Compatível com serviços de cloud, FTP e outras aplicações.
 <strong>Backup Upup</strong> 🎉️ Lida com FTP, pastas na nuvem, email.</pre>
-.
-<h3>Layout</h3>
+
+<h4>Layout</h4>
 <em>Layouts</em> prontos, criação.
 <pre><strong>Page Builder</strong> 🎉️
 <strong>WP Maintenance Mode</strong> 🎉️ Restringir o acesso durante período de construção do site ou fazendo alguma modificação estrutural. Plugin cria telas de manutenção e construção para esses momentos.
@@ -201,8 +202,8 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 <strong>WP Google Maps</strong> 🎉️ O tema que você escolheu não tem conexão com o Google Maps? Este recurso acrescenta o mapa para você e permite ao visitante traçar rotas e fazer pesquisas na região.
 <strong>WooSidebars</strong> 🎉️ Ajuda a criar barras laterais com as informações e páginas mais importantes do seu site.
 <strong>Insert headers and footers</strong> 🎉️ Dê detalhes de profissional ao seu site mesmo nunca tendo feito um site antes! O plugin lhe ajuda a incluir códigos extras e acrescentar outras funcionalidades na parte de cima ou de baixo do seu site.</pre>
-.
-<h3>ERP/CRM/FMS/PDV</h3>
+
+<h4>ERP/CRM/FMS/PDV</h4>
 <pre>PDV
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> wePOS – Point Of Sale (POS) for WooCommerce
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> WooCommerce POS – Point of Sale
@@ -223,7 +224,7 @@ ERP
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> WP ERP - CRM, RH, Contabilidade <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">🇧🇷</span></span></span> Zetta ERP (ZettaBrasil) - NFe, DRE, arquivo etc <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Worksuite WP – ERP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> CRM ERP Business Solution
 
 </pre>
-<h3>Outros Plugins</h3>
+<h4>Outros Plugins</h4>
 <strong>Shortcodes ultimate</strong> 🎉️ Reduza o volume de código do seu site e crie novos elementos para suas páginas com esses plugins que oferecem um pacote completo de shortcodes.
 <strong>TablePress</strong> 🎉️ Criar e gerenciar tabelas e pôr em posts, páginas, <em>widgets</em> etc; e até exportar (em HTML, Excel...).
 <strong>All-in-one WP Migration</strong> 🎉️ Mova posts, páginas e até mesmo seu próprio site de um lugar para o outro com este plugin simples e intuitivo criado especificamente para migração em WordPress.
