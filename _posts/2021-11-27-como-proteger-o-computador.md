@@ -1,7 +1,4 @@
-
-
-
-Como proteger o computador?
+# Como proteger o computador?
 
 ... E a sí mesmo? Veja um tutorial completo sobre <em>bots</em>, <em>hoax</em>...
 
@@ -104,7 +101,7 @@ um computador de usuário na rede.
 "Sequestra" arquivos para serem devolvidos mediante pagamento.
 👹 Você pode ter que pagar algo para reavêr seus arquivos.
 
-<hr />
+
 
 <h2>Spam</h2>
 <em>Spam</em> é mensagem eletrônica não solicitada, normalmente enviada a muitas pessoas.
@@ -150,7 +147,7 @@ Ataque semelhante ao DoS; ataque em sistema servidor para parar de funcionar (ne
 seu serviço).
 👹 Ataque simultâneo devido uso de <em>botnet</em>, pela sobre carga o servidor para.
 
-<hr />
+
 
 <h2>Golpes</h2>
 Temos: <em>phishing</em>, <em>pharming</em> e <em>hoax</em>.
