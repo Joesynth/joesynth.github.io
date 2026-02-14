@@ -1,5 +1,6 @@
 # Internet tem dono?
 
+
 Quem é o dono da internet? Descubra agora!
 
 
@@ -12,24 +13,28 @@ E é bem por aí! Vamos aqui "dar nome aos bois" e conhecer melhor quem está "p
 Ela é tão poderosa que é capaz de juntar nela mesma várias linguagens, como texto, imagem, vídeo, som, rádio, jogos...
 
 Os norte-americanos foram os criadores e tudo que é referente à Web está ligado a eles. Seja na parte física ou de <em>softs</em>, implementações ou padronizações, a maioria (quase que absoluta) da estrutura central está por conta deles: os "pais" da internet.
-<h3>ITU / ISO</h3>
-<h3><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISO_Logo_%28Red_square%29.svg/330px-ISO_Logo_%28Red_square%29.svg.png" width="40" /></h3>
+<h2>ITU / ISO</h2>
+<h2><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ISO_Logo_%28Red_square%29.svg/330px-ISO_Logo_%28Red_square%29.svg.png" width="40" /></h2>
 🇨🇭 <strong>ISO</strong>: É um órgão não governamental, global, e que tem muito haver com o <a href="https://joesynth.wordpress.com/2021/11/28/modelo-osi/">OSI Model</a> (as 7 camadas da internet).
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/International_Telecommunication_Union_logo.svg/150px-International_Telecommunication_Union_logo.svg.png" width="40" />🇨🇭 <strong>ITU</strong>: Está ligada à telecomunicações em geral, inclusive satélites.
 
 Com exceção dessas duas, a ISO e a ITU, quase todos os demais nomes que aqui estão encontram-se em território dos EUA.
-<h3>Os 13 servidores</h3>
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASAAmes.gif/135px-NASAAmes.gif" width="49px" /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Icann_logo.svg/375px-Icann_logo.svg.png" width="49px" /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/US-DefenseInformationSystemsAgency-Logo.svg/300px-US-DefenseInformationSystemsAgency-Logo.svg.png" width="49px" /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Internet_Systems_Consortium_logo.png/300px-Internet_Systems_Consortium_logo.png" width="49px" /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/ARL_Logo_March_2012.png" width="49px" />
+<h2>Os 13 servidores</h2>
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASAAmes.gif/135px-NASAAmes.gif" width="49px" />
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Icann_logo.svg/375px-Icann_logo.svg.png" width="49px" />
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/US-DefenseInformationSystemsAgency-Logo.svg/300px-US-DefenseInformationSystemsAgency-Logo.svg.png" width="49px" /> 
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Internet_Systems_Consortium_logo.png/300px-Internet_Systems_Consortium_logo.png" width="49px" />
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/ARL_Logo_March_2012.png" width="49px" />
 
 <strong>ARC, ICANN, DISA, ISC e ARL</strong>. São algumas instituições que possuem servidores raiz. Sim, a internet tem servidores principais e que são num total de 13, sendo que destes somente três não ficam na terra do <em>Batman</em> e do <em>jazz</em>, os EUA. Aliás, esses super servidores funcionam com um <em>software</em> chamado <a href="https://joesynth.wordpress.com/2021/11/28/software-de-rede/">BIND</a>, que também é feito por uma delas: a ISC.
 
 Há mais outros servidores e ficam espalhados pelo globo, dezenas deles _e um está no Brasil.
-<h3>IPs</h3>
+<h2>IPs</h2>
 Além dos 13 servidores centrais outra questão estratégica são os IPs. Certamente você já deve ter ouvido falar que todo computador possui um "endereço de protocolo de internet", IP.
 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Internet_Assigned_Numbers_Authority_logo.svg/250px-Internet_Assigned_Numbers_Authority_logo.svg.png" width="60" />🇺🇸 <strong>IANA</strong>: É a organização que faz a supervisão dos IPs. Ela é dos anos 80 está ligada ao Governo Federal dos EUA. Para apoio na distribuição de números, o IANA algumas regiões mundiais, como por exemplo a LACNIC (Uruguai) e a APNIC (Austrália).
-<h3>IETF e W3c</h3>
+<h2>IETF e W3c</h2>
 <img class="alignleft" src="https://cyberstability.org/wp-content/uploads/2018/07/ietflogo.gif" width="49px" />
 
 🇺🇸 <strong>IETF</strong>: Já este é um grupo técnico, voltado à pesquisa e também conta com a presença de fabricantes, fornecedores.
