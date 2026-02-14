@@ -1,5 +1,8 @@
 # Media Types e Media Queries
 
+- Media Types
+- Media Queries
+
 Olá!
 
 <h3>Media Types</h3>
@@ -99,5 +102,3 @@ Alguns exemplos (Todos CSS2).
 
 É isso! Grande abraço.  
 \o/
-
-<img src="https://joesynth.files.wordpress.com/2021/10/aprenda_programacao.png" alt="Aprenda Programação - HTML - JS - CSS" width="310" />
