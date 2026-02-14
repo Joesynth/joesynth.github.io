@@ -147,7 +147,8 @@ Cada formato de arquivo tem uma extensão, e esta é aquele nome no final de cad
 minhaFoto.<strong>jpg</strong></pre>
 Leia o artigo "<a href="///home/joe/appjoB/o-que-e-extensao-de-arquivo.html">o que é extensão de arquivo</a>" e conheça as principais extensões de formatos de arquivos de texto, imagem, áudio e vídeo.
 <h2>💽️ Hardware</h2>
-<h3>CPU</h3>
+
+<h4>CPU</h4>
 <span style="color: #0000ff"><em>Central Processing Unit</em>, <span id="page3R_mcid5"><span dir="ltr" role="presentation">Unidade Central de Processamento;</span></span></span>
 <span style="color: #0000ff"><em>μP, microprocessor</em>, microprocessador;</span>
 <span style="color: #0000ff"><em>central processor, main processor</em>; processador</span><em>.
@@ -207,8 +208,8 @@ b) Micro 64 com SO 32: funciona, mas não "enxerga" mais de 4 de RAM, ou seja, o
 🇷🇺️ Mikron. 
 🇬🇧 ARM (projeta [<em>design</em>] para Apple, Samsung, Qualcomm...) 
 🇮🇳️ IIT Madras/SCL.</pre>
-.
-<h3>MPU</h3>
+
+<h4>MPU</h4>
 <span style="color: #0000ff">Microprocessor Unit; microprocessador</span>.
 
 "<em>a central processing unit when referring to digital signal processors</em>". [ft:en.wiki]
@@ -218,7 +219,7 @@ b) Micro 64 com SO 32: funciona, mas não "enxerga" mais de 4 de RAM, ou seja, o
 ◾Projetista pode decidir a quantidade de RAM, ROM, e ports de I/O.
 
 ◾Uso geral; expansível, versatilidade.
-<h3>Coprocessor <span style="color: #0000ff">coprocessador</span></h3>
+<h4>Coprocessor <span style="color: #0000ff">coprocessador</span></h4>
 DSP e GPU são tipos de processador. Podem ser vistos como um extra para o processamento principal do computador, caso o usuário precise.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ic-photo-Motorola--DSP56001AFC27--%2856000-DSP%29.JPG/800px-Ic-photo-Motorola--DSP56001AFC27--%2856000-DSP%29.JPG" width="60" height="60" />
@@ -229,7 +230,8 @@ DSP e GPU são tipos de processador. Podem ser vistos como um extra para o proce
 <pre>🇺🇸 Intel | Amd | Nvidia (GeForce2 MX-400)</pre>
 <strong>iGPU</strong>: processador gráfico integrado ao processador principal (a CPU).
 <pre>🇺🇸 Intel | Amd | Nvidia</pre>
-<h3>Placa-mãe</h3>
+
+<h4>Placa-mãe</h4>
 <em><span style="color: #0000ff">motherboard, mobo, main circuit board, mainboard</span></em>.
 
 <img class="alignleft" src="https://images.saymedia-content.com/.image/t_share/MTc0MDY1NDE4ODEyNTMyMTY5/the-motherboard-components.jpg" width="300" />
@@ -312,7 +314,8 @@ Você pode ver mais detalhes sobre isso em "<a href="https://joesynth.wordpress.
 - ROM (memória somente leitura)
 - memória programável (EPROM, EEPROM ou flash).
 Alterar o firmware de um dispositivo armazenado na ROM requer a substituição física do chip de memória – embora um chip possa ser projetado para não ser removido após a fabricação.
-<h3>Placa de vídeo ou áudio</h3>
+
+<h4>Placa de vídeo ou áudio</h4>
 Conectam-se à placa-mãe.
 
 <strong>placa de vídeo</strong>:
@@ -324,7 +327,7 @@ Conectam-se à placa-mãe.
 Antigamente era necessário uma placa, mesmo para um som a nível doméstico. Hoje os PCs já possuem algo, mas no caso de áudio dedicado (estúdio) veja <a href="https://joesynth.wordpress.com/2019/06/02/melhor-interface-de-audio/">Melhor Interface de Áudio</a>.
 
 ⚠️ On-board: refere-se a placa de vídeo (ou de som) embutida na própria placa-mãe.
-<h3>SoC</h3>
+<h4>SoC</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Geode_GXLV233.jpg/500px-Geode_GXLV233.jpg" width="120" /><span style="color: #0000ff">System on a Chip - sistema em um chip</span>.
 O dispositivo SoC quase sempre inclui...
 ● CPU, a unidade de processamento central,
@@ -352,8 +355,8 @@ Memory (SDRAM): 256 ou 512 MiB.
 -https://en.wikipedia.org/wiki/Microcontroller
 -https://en.wikipedia.org/wiki/System_on_a_chip
 -https://en.wikipedia.org/wiki/Central_processing_unit</pre>
-.
-<h3>MCU</h3>
+
+<h4>MCU</h4>
 <span style="color: #0000ff">Microcontroller Unit - μC microcontrolador</span>.
 
 <img class="alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/cpu_mcu.png" alt="cpu, mcu" width="149" height="137" /> Um CI que é um pequeno computador. É menos soffisticado que um SoC.
@@ -403,7 +406,8 @@ O Arduino pode ler variáveis físicas, como entrada de luz em um sensor, o toqu
 - Handyboard (MIT).</pre>
 <strong>Microcontrolador para projetos mais avançados</strong>: pode ser utilizado um microcontrolador como o STM32, que tem maior poder de processamento e recursos.
 <strong>Softwares de programação</strong>? ROS (Robot Operating System) e VEXcode são plataformas de programação muito utilizadas na robótica.
-<h3>FPGA</h3>
+
+<h4>FPGA</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Xerox_ColorQube_8570_-_Main_controller_-_Xilinx_Spartan_XC3S400A-0205.jpg/330px-Xerox_ColorQube_8570_-_Main_controller_-_Xilinx_Spartan_XC3S400A-0205.jpg" width="120" />
 
 Circuitos integrados, porém não fixos; no sentido de serem específicos para aplicações (ASICs), mas sim podem ser programados para realizar diferentes funções lógicas. São programados em linguagens como HDL, por exemplo. Podem ter microprocessador. Marcas conhecidas:
@@ -412,7 +416,7 @@ Circuitos integrados, porém não fixos; no sentido de serem específicos para a
 
 <a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" /></a>
 <h2>🚀️ Processo de boot</h2>
-<h3>BIOS vs UEFI</h3>
+<h4>BIOS vs UEFI</h4>
 <span style="color: #0000ff"><strong>B</strong>asic <strong>I</strong>nput/<strong>O</strong>utput <strong>S</strong>ystem</span>. Sistema Básico de Entrada/Saída: Micros utilizam memória para armazenar a BIOS.
 
 ROM: memória não-volátil
@@ -469,7 +473,7 @@ Diz se o <em>hardware</em> está funcionando bem. Se o <em>hardware</em> funcion
 ● O processador não está utilizável.
 
 Finalizado o POST, e concluído com sucesso, será carregado o SO.
-<h3>Bootloader</h3>
+<h4>Bootloader</h4>
 <span style="color: #0000ff"><em> boot loader, bootstrap loader</em></span>.
 <span style="color: #0000ff">carregador de boot, carregador de inicialização</span>.
 
@@ -496,7 +500,7 @@ Escrito em Assembly, C; licença GPL.
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">Um pacote de <em>bootloader</em> do Projeto GNU; uma implementação de referência da Especificação Multiboot (da <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">FSF</a>). Dá ao usuário a opção de inicializar um dos vários SOs num computador configurado para <em>multiboot</em> ou selecionar uma configuração de kernel específica disponível nas partições de um SO específico.
 🤔️ Lilo: é outro gerenciador usado no Linux
 </span></span></span>
-<h3>Computador: ligando...o boot</h3>
+<h4>Computador: ligando...o boot</h4>
 <pre><strong>Nota!</strong>
 ● Memória principal: ao ligar o computador ela está vazia.</pre>
 <strong>Procedimento de boot: a parte do firmware/BIOS</strong>.
@@ -523,8 +527,8 @@ Essa foi uma visão bem geral do processo de boot.
 <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Legacy_BIOS_boot_process_fixed.png/960px-Legacy_BIOS_boot_process_fixed.png" width="480" height="113" />
 <pre>-https://blog.bbbaterias.com.br/bios-e-uefi-na-placa-mae-o-que-sao-e-como-funcionam/
 -https://www.freecodecamp.org/portuguese/news/uefi-x-bios-qual-e-a-diferenca/</pre>
-.
-<h3>Ligando- resumo</h3>
+
+<h4>Ligando- resumo</h4>
 <img class="alignleft" src="https://s3.amazonaws.com/iphonecde/BIOSUEFI.JPG" width="310" />Usuário: liga o botão do PC.
 ● BIOS: Inicialização do hardware, feita pelo firmware do sistema.
 ● Programa que é responsável pela escolha do SO a ser carregado.
@@ -577,7 +581,7 @@ c) VFAT - virtual FAT.
 d) blocagem de disco.
 e) pastas ou diretórios.
 </pre>
-.
+
 <h2>📜️ Um pouco de história</h2>
 <h6>Microprocessor</h6>
 🇺🇸 <b>Intel 4004</b>, 71
@@ -601,7 +605,7 @@ input/output (I/O) [entrada/saída; E/S)
 Ou pick, é uma família de <em>microcontrollers</em>.</pre>
 <h6>DSP</h6>
 Vide <a href="https://joesynth.wordpress.com/2020/05/13/o-que-e-dsp/">O Que É DSP</a>?
-<h3>Fontes</h3>
+<h4>Fontes</h4>
 <img class="" src="https://i1.wp.com/joesynth.files.wordpress.com/2017/09/dic_b1.jpg" width="400" height="433" />
 
 <img class="alignleft" src="https://i0.wp.com/joesynth.files.wordpress.com/2017/09/dic_a.jpg" width="400" height="546" />
@@ -610,7 +614,7 @@ Livro Dic. dos Usuários de Micro Computadores, 1990/92, Editora Campos.
 
 ● *ft:wiki. ● ¨ft:morimoto, Apple I, 6502 da motorola, 4K RAM, 1Mhz ; no wiki é MOS tec mesmo a fab. ● °MR.Sawaya ● **ft:site steinberg.
 
-Veja também "<a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>".
+
 
 É isso!  
 \o_
