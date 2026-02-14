@@ -2,7 +2,6 @@
 
 Conheça o Linux: o sistema mais robusto do mercado, usado até pelo Exército.
 
-- Quem usa o Linux?
 - Linux vs. Windows
 - Governo e Exército Brasileiro: caso de exemplo
 - Segurança
@@ -11,6 +10,7 @@ Conheça o Linux: o sistema mais robusto do mercado, usado até pelo Exército.
 - Softwares: a variedade
 - Mais pontos a considerar
 - Conhecendo o Linux
+- Quem usa o Linux?
 
 
 Olá!
@@ -20,67 +20,8 @@ Custo? Desempenho? A segurança? A estabilidade? Facilidade de uso?
 Neste artigo passaremos por interface gráfica, compatibilidade; bem como esses outros termos citados.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" width="40" />Vamos aqui fazer um pequeno resumo sobre esse SO, o Linux, para buscar deixar mais claro do quanto ele é importante, seja você uma pessoa comum, grande empresa, instituição, etc.
-<h2>Quem usa o Linux?</h2>
 
 
-###### Linux nos países: quem usa?
-
-🇺🇸 Órgãos de Estado / Instituições não governamental:
-● NASA ● FAA ● Wikipedia.  
-🇺🇸 Corporações ou bigTechs que utilizam o SO do pinguim.
-● Google ● Facebook ● Microsoft.
-🇺🇸 Finanças:  
-● Bolsa de Valores (NYSE).
-
-🇫🇷 França:  
-● Parlamento.
-🇯🇵 Japão:
-● Trem-bala.
-🇪🇸 Espanha:
-● Barcelona, anos atrás já estava previsto migrar seus sistemas para software ivre, sendo o objetivo possuir total controle tecnológico sobre os sistemas.
-
-
-###### Linux no Brasil: quem usa?
-
-🇧🇷 Instituições/empresas no Brasil
-
-Alguns exemplos.
-🇧🇷 Órgãos de Estado / Indústria bélica / Instituições
-● E-mail - Exército ● VPN-Marinha ● Unicamp (TEleduc) ● UFPR ● Rede municipal de SP ● Rede municipal de Belo Horizonte ● Furnas ● Eletrobras ● Ministério da Cultura ● Projeto de Gerenciamento Genético de Rebanho - Embrapa.
-<strong>
-🇧🇷
-Comércio/Varejista</strong>: Casas Bahia  Colombo ● Lojas Americanas (Pontos de Caixa) ● Renner...
-
-<strong>Telecomunicações, Internet/Imprensa</strong>: ● Brasil Telecom ● Infraestrutura do Portal – Terra ● Folha (infra-estrutura) ● UOL.
-
-<strong>Educação</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Estácio de Sá (Graduação em Software Livre) 
-
-<strong>Eletrodoméstico e Equipamento de Comunicação</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Digitro.
-
-<strong>Bancos</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Banco do Brasil <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Caixa Econômica <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> HSBC...
-
-<strong>Logística/Transporte</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Varig <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Metro SP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Gol...
-
-
-
-###### TOP500
-
-No <em>ranking</em> dos 500 supercomputadores o Linux é o sistema operacional que impera.
-
-🔗 https://en.wikipedia.org/wiki/TOP500#Architecture_and_operating_systems
-
-⚠️ [Atualização] Desde 2017 todos são Linux.
-
-###### A internet
-
-A própria internet utiliza computadores centrais, os 13 <a href="https://joesynth.wordpress.com/2021/10/31/internet-tem-dono/">servidores</a>, em que o <em>software</em> principal é exatamente para sistema Linux. 
-<h6>Você usa Linux!</h6>
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samsung_Galaxy_Note_series_20140614.jpg/800px-Samsung_Galaxy_Note_series_20140614.jpg" width="120" height="72" /> Se você usa um celular Android lembre que esse SO é uma adaptação do Linux, feita pela Google.
-
-Mesmo que seu computador seja um <em>desktop</em> com Windows e você está acessando a Web, ainda sim estará indiretamente utilizando o Linux (por conta dos servidores que mencionamos).
-
-👉 Mesmo em Cuba, uma nação vista de forma diferente, também usa Linux.
-Será uma conspiração!? Claro que não!
 
 ## Linux vs. Windows 
 
@@ -186,6 +127,11 @@ Referindo-se a uma empresa...
 <em>"De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema</em>."<em>[AMAN, 2018]</em>
 <h2>Conhecendo o Linux</h2>
 Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja Linux.
+
+<h2>Quem usa o Linux?</h2>
+
+Em suma, o topo da pirâmide do conhecimento humano ou do poder, como forças armadas, Estados, corporações, universidades. No geral, mais de 95% das pessoas não usam Linux. Pra quem tem noção de história, isso pode não ser alarmante, vista que os poderos nunca gostaram da população tendo o suprassumo do próprio conhecimento.
+Veja [Quem usa o Linux](/quem-usa-linux).
 
 É isso!  
 Grande abraço.  
