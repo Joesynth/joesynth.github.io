@@ -12,6 +12,7 @@ Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
  	<li>Um pouco de história.</li>
  	<li>Mais links sobre o tema.</li>
 </ul>
+
 <h2>O que é Markdown? Quem Usa?</h2>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />
 
@@ -31,6 +32,7 @@ E se você gosta de tecnologia, ou principalmente programação, a Markdown pode
 Continue lendo esse tutorial e veja abaixo!
 <h6>Quem usa Markdown?</h6>
 A linguagem markdown é utilizada em mensagens instantâneas, fóruns <em>online</em>, <em>software</em> colaborativo, páginas de documentação e arquivos 'leia-me'. Eu mesmo, ao escrever neste <em>blog</em>, uso Markdown.
+
 <h2>💾️ Arquivo Markdown</h2>
 A extensão do nome do arquivo é .<em>md</em> ou .<em>markdown</em>, isso num editor.
 Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
@@ -44,6 +46,7 @@ Fácil!
 Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo <em>Markdown Documentation</em> (ou seja, <em>readme.md</em>).
 <h2>Softwares e plug-ins</h2>
 Basicamente temos softs editores e plug-ins de Markdown.
+
 <h6>Software editor Markdown</h6>
 Como dito, um editor de texto bem simples (como Bloco de Notas ou Gedit) é usado para lidarmos com a Markdown _embora haja programas mais avançados e que lidam também com ela.
 
@@ -75,6 +78,7 @@ Concorrente do Evernote, nos permite escrever Markdown e HTML, inclusive tabelas
 Usado para escrever Markdown, bem como converter na visualisação HTML.
 <h6>Soft CLI</h6>
 Vide <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
+
 <h6>Plug-ins (renderização - visualização)</h6>
 Um editor que escreva o código é uma coisa, renderizar é outra! Veja alguns casos:
 
@@ -107,6 +111,7 @@ Usado para escrever Markdown.
 ⚫️ Jekyll.
 Gerador de site estático que pega arquivos Markdown e cria um site HTML.</pre>
 Também há <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
+
 <h2>Sabores!</h2>
 Aplicativos Markdown implementam versões ligeiramente diferentes da Markdown; são os chamados 'sabores'. Esses 'sabores' são como dialetos de uma linguagem _algo como português carioca e de Lisboa, por ex.
 <h6>CommonMark</h6>
@@ -123,7 +128,7 @@ Swift.
 <h6><em>GFM (GitHub Flavored Markdown)</em></h6>
 Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
 
-.
+
 <h2>Markdown - Guia Rápido</h2>
 <h6>Básico (CommonMark, Wordpress)</h6>
 <pre>Parágrafo
@@ -160,7 +165,8 @@ Imagem? Basta pôr uma exclamação antes.
 ![Image](http://url/a.png) # Imagem.</pre>
 <h6>Tabela (GFM)</h6>
 É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
-<pre>| Fruta | Verdura |  # 'head' da tabela.
+<pre>
+ | Fruta | Verdura |  # 'head' da tabela.
 | --- | --- |
 | uva | hortelã |
 </pre>
@@ -181,18 +187,23 @@ Mesclar.
 | uva | uva | uva |
 
 </pre>
+
 <h6>id e class (identificação única ou genérica)</h6>
 Use '#' ou '.' dentro de chaves, e ao final um nome.
 <pre>MeuParágrafo {#identificador}
 MeuParágrafo {.minhaClasse}</pre>
+
 <h6>Emojis</h6>
 Sintaxe: dois pontos, nome em inglês, dois pontos.
-<pre>:heart: # ❤️
+
+
+<pre>
+ :heart: # ❤️
 :grin: # 😄️
 :angry: # 😠️
 :star: # ⭐️
 :fire: # 🔥️
-:+1:  # 👍️ é o famoso <em>like</em>!
+:point_right:  # 👉
 :hand: # 🖐️
 :clap: # 👏️
 :walking: # 🚶‍♀️️
@@ -200,6 +211,7 @@ Sintaxe: dois pontos, nome em inglês, dois pontos.
 :cat: # 😺️
 :mouse: # 🐭️
 </pre>
+
 Outros inclui <em>shit</em>, <em>blush</em>, -1, <em>smiley</em>...
 Lista com dezenas: https://gist.github.com/rxaviers/7360908
 <h2>Analisador (parser)</h2>
