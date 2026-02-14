@@ -32,12 +32,12 @@ Embora falamos em 77, a lista vai um pouco além, devido atualizações. Então.
  	<li>🤔️ Outros.</li>
 </ul>
 <pre>⭐️ Meus favoritos!</pre>
-<h3>🎉️ Diversão / Entretenimento</h3>
+<h2>🎉️ Diversão / Entretenimento</h2>
 <pre><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Janela para a Rússia - curiosidades
 ⭐️ Papo filosófico - conversas sobre o pensar humano _um dos melhores grupos do Telegram.
-<span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> TT Primas: namoro voltado a mulheres gordinhas, +40, fotos...
+<span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> <del>TT Primas: namoro voltado a mulheres gordinhas, +40, fotos...</del>
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Flamengo <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Fluminense <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Botagogo</pre>
-<h3>🎮️ Games</h3>
+<h2>🎮️ Games</h2>
 <img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5SGSYQn-pGDZ-4oPsljjpTKFpsf45OfbRQ&amp;s" width="80" /><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">● Minetest bigworld server.
 ● Roblox Brasil.
 ● 🇷🇺 PlayStation News
@@ -49,7 +49,7 @@ Embora falamos em 77, a lista vai um pouco além, devido atualizações. Então.
 <a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" /></a>
 
 .
-<h3>🔥️ Tecnologia</h3>
+<h2>🔥️ Tecnologia</h2>
 <h5>🤖️ <em>Robótica, eletrônica e linguagem</em></h5>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/250px-Arduino_Uno_-_R3.jpg" width="120" /><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Arduino Br.
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Arduino, Raspberry, Ele...
@@ -105,7 +105,7 @@ Leia o tutorial <a href="https://joesynth.wordpress.com/2021/11/28/software-livr
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Universidade dos Dados.
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Jornada Cibernética.
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">🇨🇭</span></span></span> SwissDevJobs.ch - empregos reais com salários na Suíça.
-<h3>🌍️ Mídia e Visão de Mundo</h3>
+<h2>🌍️ Mídia e Visão de Mundo</h2>
 ⭐️ Outras Palavras
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">⭐️ Luiz Felipe Pondé</span></span></span>
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">⭐️ Clóvis de Barros Filho
@@ -117,13 +117,14 @@ Leia o tutorial <a href="https://joesynth.wordpress.com/2021/11/28/software-livr
 🇺🇾 El País Uruguai 🇺🇾 El Observador
 🇦🇷 La Naction 🇨🇱 La Tercera</span></span></span>
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" width="80" /> <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">🇸🇪 Dagens Nyheter - canal em russo</span></span></span>.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" width="80" /> <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">🇫🇷 ⭐️ RFI Brasil  
+🇸🇪 Dagens Nyheter - canal em russo</span></span></span>.
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">🇬🇧 ⭐️ BBC News Brasil 🇬🇧 BBC News (UK) 🇬🇧 ⭐️ The Guardian 🇬🇧 Reuters Russia
 🇳🇱 The Moscow Times
 🇩🇪 ⭐️ DW Brasil (unofficial) 🇩🇪 Der Spiegel 🇩🇪 Bild
 🇨🇭 ⭐️ SWI swissinfo.ch em Português</span></span></span>
 
-🇫🇷 ⭐️ RFI Brasil 🇫🇷 ⭐️ Le Monde Diplomatique Brasil 🇫🇷 France 24 🇫🇷 France 24 English 🇫🇷 France 24 Español
+🇫🇷 ⭐️ Le Monde Diplomatique Brasil 🇫🇷 France 24 🇫🇷 France 24 English 🇫🇷 France 24 Español
 🇮🇹 ⭐️ Vatican News em Português 🇮🇹 La Repubblica
 🇪🇸 El País América 🇪🇸 El País América Colombia
 
@@ -139,9 +140,9 @@ Leia o tutorial <a href="https://joesynth.wordpress.com/2021/11/28/software-livr
 <h5>🌞️ Religião / Mística</h5>
 <pre><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Hermetismo Tradicional <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Biblioteca Judaica <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Web Ateus</pre>
 .
-<h3>✍️ Educação / Universidade / Concurso</h3>
+<h2>✍️ Educação / Universidade / Concurso</h2>
 <pre><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Licenciaturas UNIVESP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Estudantes UNIVESP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Bacharelados UNIVESP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Alunos UNIVESP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> T22 Univesp 2022 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Fiocruz Concurso 2024 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> CONCURSOS BR: canal com recomendação de outros (como RECEITAS_BR, LEITURA_BR etc).</pre>
-<h3>🎵️ Arte</h3>
+<h2>🎵️ Arte</h2>
 <em><img class="alignleft" src="https://www.sos.com.br/Lib/Redimensiona.ashx?img=noticia/20191129091542105.jpg&amp;w=768&amp;h=600" width="120" /></em><strong><em>Designer</em> gráfico</strong>.
 <span lang="pt">●</span> GIMP Brasil
 <span lang="pt">●</span> Inkscape BR
@@ -167,7 +168,7 @@ Leia o tutorial <a href="https://joesynth.wordpress.com/2021/11/28/software-livr
 ● Kraftwerk Discography
 ●</span></span></span> Hot Chili Peppers
 <pre>🤔️ Como um grupo ou canal de Tele também é um HD em nuvem, é comum compartilhar músicas e músicas, bem como ouvir.</pre>
-<h3>🤔️ Outros</h3>
+<h2>🤔️ Outros</h2>
 <pre><small><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">&gt; <strong>Estado</strong>
 ●</span></span></span> Ministério da Defesa
 <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Ministério da Saúde
