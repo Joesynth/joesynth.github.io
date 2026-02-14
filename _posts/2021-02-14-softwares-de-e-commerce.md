@@ -22,7 +22,7 @@ Indo direto ao ponto, separamos sete ferramentas sólidas para você escolher em
 🔗️ link do fabricante.
 🖥️ plataforma, servidor.
 📜️ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">licença de software</a>.</pre>
-<h3>🇫🇷 <strong>PrestaShop </strong></h3>
+<h4>🇫🇷 <strong>PrestaShop </strong></h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prestashop.svg/220px-Prestashop.svg.png" width="100" />✏️ Bruno Leveque e Igor Schlumberger, 2007.
 Por ser um <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">open source</a>, é utilizado em milhares de lojas ao redor do mundo e disponível em dezenas de idiomas; tendo como parceria, por exemplo, o PayPal. Tem um <em>layout</em> (exibição do site) básico, mas os usuários podem instalar ou desenvolver outros, claro, sem alterar seu conteúdo.
 
@@ -30,7 +30,7 @@ Por ser um <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-softwar
 🔗️ www.prestashop.com
 🖥️ Servidor.
 📜️ OSL.
-<h3>🇺🇲️ OpenCart</h3>
+<h4>🇺🇲️ OpenCart</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/OpenCart_logo.svg/110px-OpenCart_logo.svg.png" width="150" />✏️ Daniel Kerr, 2009.
 Muitos de seus cadastros são ilimitados (produtos, fabricantes etc), tendo também suporte a várias moedas, temas, formas de pagamento, <a href="https://joesynth.wordpress.com/2020/04/07/o-que-e-um-plug-in/">plugins</a>, etc.
 
@@ -38,7 +38,7 @@ Muitos de seus cadastros são ilimitados (produtos, fabricantes etc), tendo tamb
 🔗️ www.opencart.com
 🖥️ Servidor.
 📜️ Software livre 🎈️(<a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>).
-<h3>🇺🇲️ Zen Cart</h3>
+<h4>🇺🇲️ Zen Cart</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/ZenCart_Logo.png/150px-ZenCart_Logo.png" width="150" />
 
 ✏️ Zen Ventures, 2003/2006.
@@ -47,13 +47,13 @@ Muitos de seus cadastros são ilimitados (produtos, fabricantes etc), tendo tamb
 🔗️ www.zen-cart.com
 🖥️ Servidor.
 📜️ Software livre 🎈️(<a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>).
-<h3>🇦🇷️ Nuvemshop</h3>
+<h4>🇦🇷️ Nuvemshop</h4>
 Fundada em 2011,  é voltada aos pequenos e médios empreendedores _empresas que precisam de infraestrutura no campo de tecnologia, <em>marketing</em>, logística etc. A plataforma é líder na América Latina, sendo que mais da metade de seus negócios está aqui mesmo no Brasil. Tem planos básicos gratuitos e indo até os mais completos.
 
 🔗️ nuvemshop.com.br/
 🔗️ tiendanube.com
 🖥️ SaaS.
-<h3>🇺🇲️ Magento</h3>
+<h4>🇺🇲️ Magento</h4>
 <strong><img class="alignleft" src="https://aheadworks.com/media/uploads/2015/12/magento-logo.png" width="100" /></strong>✏️ Varien, Magento Inc, 2008, Cross-platform.
 Da Adobe, adota o princípio <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">open source</a>. É a plataforma de <em>e-commerce</em> mais utilizada, a mais popular e com milhares de lojas espalhadas em dezenas de países. Personalizar <em>layouts</em> ou lidar com <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a> é uma das possibilidades.
 
@@ -62,15 +62,15 @@ Da Adobe, adota o princípio <a href="https://joesynth.wordpress.com/2021/11/28/
 🖥️ Servidor.
 📜️ OSL.
 
-.
-<h3>🇺🇸 WooCommerce</h3>
+
+<h4>🇺🇸 WooCommerce</h4>
 <img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwejT8NW2GMrRnLZbgfMLfaHjOkUzVszPSA&amp;s" width="120" />Um <a href="https://joesynth.wordpress.com/2020/04/07/o-que-e-um-plug-in/"><em>plug-in</em></a> <em>open source</em> de <em>e-commerce</em> para o ambiente <a href="https://joesynth.wordpress.com/2021/12/12/wordpress/">WordPress</a>, seja para comércio <em>online</em> de pequeno ou grande porte.
 
 Fácil de instalar e de personalizar, tornou-se popular. É utilizado, por exemplo, pela Editora Abril, dona das revistas Quatro Rodas e Superinteressante.
 
 🖥️ Servidor.
 📜️ Software Livre 🎈️
-<h3>🇧🇪️ Website eCommerce</h3>
+<h4>🇧🇪️ Website eCommerce</h4>
 <img class="alignleft" src="https://bsscommerce.com/magento/blog/wp-content/uploads/2022/04/odoo-cases-2.png" width="310" />
 
 Tal como o <em>WooCommerce</em> do WordPress, é um módulo que 'se encaixa' no <em>software</em> principal, neste caso o <a href="https://joesynth.wordpress.com/2023/10/18/software-de-gestao-empresarial/">ERP</a> Odoo.
@@ -80,8 +80,8 @@ Tanto o <em>WooCommerce</em> quanto o <em>Website eCommerce</em> permitem criar 
 🖥️ Servidor, SaaS.
 📜️ Software Livre 🎈️ (versão Community do Odoo).
 
-.
-<h3>🌟️ Dica!</h3>
+
+<h4>🌟️ Dica!</h4>
 Há tempos é possível que uma pessoa comum crie um site, o que pode ser um bom exercício tecnológico ou até por curiosidade ou diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Nos <a href="https://joesynth.wordpress.com/2024/09/14/telegram-grupos-interessantes/">grupos de Telegram</a>, pode-se contratar prestadores de serviços experientes e das mais diversas áreas. Nós do <em>blog</em> JoeSynth também fazemos este serviço. <a href="https://joesynth.wordpress.com/contato/">Fale Conosco</a>!
 
 Outra dica? Leia o artigo <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">Site Comercial - Um Tutorial Essencial</a>.  
