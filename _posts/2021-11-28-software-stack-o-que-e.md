@@ -1,5 +1,6 @@
 # Software stack: o que é?
 
+
 Conheça esse tipo de <em>software</em>, seja no caso do Node.js ou outros.
 
 
@@ -14,7 +15,7 @@ Legenda:
 🔗️ link.
 🖥️ plataforma.
 📜️ licença.
-<h3>Node.js</h3>
+<h4>Node.js</h4>
 Note que cada <em>stack</em> dessas usa, por exemplo, o <a href="https://joesynth.wordpress.com/2021/11/28/frameworks-para-nodejs/">framework</a> Express.
 
 <img class="alignleft" title="MEAN" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Meanstack-624x250.jpg/450px-Meanstack-624x250.jpg" alt="MEAN" width="120" />⚫️ <strong>MEAN</strong>.
@@ -28,7 +29,7 @@ Ou seja, uma MEAN onde substitui-se Angular por React.
 
 ⚫️ <strong>PERN</strong>.
 Postgres Express React e Node.
-<h3>WAMP</h3>
+<h4>WAMP</h4>
 Para WAMP nós temos o seguinte significado:
 <strong>W</strong>indows,
 <strong>A</strong>pache (servidor),
@@ -56,7 +57,7 @@ Um conjunto WAMP, portanto com Windows, Apache...
 Servidor l<span class="text-primary">ocal gratuito; servidor Apache, base de dados MySql, PHP.
 Permite tornar <em>seucomputador</em> num servidor Web para testes, antes de publicar na internet.
 </span>
-<h3>Outras stack</h3>
+<h4>Outras stack</h4>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/345px-Xampp_logo.svg.png" width="120" /> ⚫️ <strong>XAMPP</strong>.
 ✏️ Apache Friends
 🔗️ apachefriends.org.
