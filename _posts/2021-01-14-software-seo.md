@@ -164,11 +164,11 @@ Pesquisa e otimização de conteúdo.</pre>
 <h6>Yahoo! Site Explorer (Yahoo!)</h6>
 Concorrente do <em>Open Site Explore</em>.
 
-<hr />
+
 
 <img class="alignnone  wp-image-64376" src="https://joesynth.wordpress.com/wp-content/uploads/2024/12/joe_s_gestao_de_conteudo.png" alt="joe_s_gestao_de_conteudo" width="480" height="477" />
 
-<hr />
+
 
 <h2>Palavras-chave</h2>
 <strong>ahrefs.com/pt/keyword-difficulty</strong> Ver se a dificuldade de uma palavra, se 'média' por ex. Serviço grátis.
@@ -184,10 +184,10 @@ Concorrente do <em>Open Site Explore</em>.
 
 <strong>ryrob.com/keyword-tool/</strong> | grátis | Volume, difficulty
 
-<hr />
+
 
 <h2>Marketing digital: ferramentas</h2>
-<h3>Ferramentas para Rede Social</h3>
+<h2>Ferramentas para Rede Social</h2>
 <h6>Facebook for developers</h6>
 <pre>developers.facebook.com/tools/debug/</pre>
 🤔️ Debug.
