@@ -19,7 +19,7 @@ Então... sem demoras, vamos aos <em>softwares</em> livres!
  	<li>Programação.</li>
  	<li>Brinde! Outros software.</li>
 </ul>
-<h3>Casa, diversão e lazer</h3>
+<h4>Casa, diversão e lazer</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="60" height="62" />🇺🇸  <strong>Firefox</strong>.
 Um <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">navegador</a> Web (<em>web browser</em>) muito utilizado em todo globo; tanto por pessoas comuns como por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>. Já vem instalado por padrão no <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a> ou Lubuntu _embora, claro, você possa instalar noutro sistema se quiser.
 🖥️ Linux, Mac, Windows, Android.
@@ -40,7 +40,7 @@ Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streami
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a> e outras semelhantes.
 🔗️videolan.org/vlc/
 ⬇️ Ubuntu Software, Play Store.
-<h3>Arte, <em>design</em>, multimídia</h3>
+<h4>Arte, <em>design</em>, multimídia</h4>
 <img class="alignleft" src="https://crisponairblog.files.wordpress.com/2016/09/audacity.jpg?w=300" width="60" height="59" />🇺🇸 <strong>Audacity</strong> (CMU - Universidade).
 Um <a href="https://joesynth.wordpress.com/2020/04/18/softs-de-edicao-de-audio/">editor de áudio</a>, também permitindo mixagem em várias pistas, tal como os antigos <a href="https://joesynth.wordpress.com/2021/11/13/estudio-de-gravacao-caseiro-em-fita/">portastudios</a>.
 🖥️ MacOS, Linux, Windows.
@@ -96,7 +96,7 @@ Streaming.
 🔗 obsproject.com
 💽 github.com/obsproject/obs-studio
 ⬇️ Ubuntu Software.
-<h3>Educação</h3>
+<h4>Educação</h4>
 <img class="alignleft" src="https://nsltecnologia.com.br/wp-content/uploads/2019/07/i-educar.png" width="120" />🇧🇷 <strong>i-Educar</strong>.
 Gestão escolar. É possível cadastro de alunos, emissão de certificados e diplomas, relatórios etc.
 🖥️ Linux, Windows.
@@ -106,7 +106,7 @@ Gestão escolar. É possível cadastro de alunos, emissão de certificados e dip
 💽 github.com/portabilis/i-educar
 🔗 ieducar.org/
 ⬇️ ️ softwarepublico.gov.br
-<h3>Empresas/escritório</h3>
+<h4>Empresas/escritório</h4>
 Conforme o ISF (Instituto Sem Fronteiras), 73% das grande empresas e 31% das pequenas utilizam <em>software</em> livre. Há multa para a empresa que usa <em>software</em> pirata, e evidentemente isso influencia.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_Logo%2C_2018.svg/65px-Thunderbird_Logo%2C_2018.svg.png" width="61" height="60" />🇺🇸  <strong>Thunderbird</strong>.
@@ -144,7 +144,7 @@ O '<em>DoliDroid</em>' é uma versão para você usar no Android e que acessa o 
 🔗️ dolibarr.org
 💽️ sourceforge.net/projects/dolibarr/files/
 ⬇️ <a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a> (DoliDroid).
-<h3>Internet</h3>
+<h4>Internet</h4>
 O próprio funcionamento da Web em muito tem a ver com <em>software</em> livre. Aqui temos servidor, banco de dados, FTP....
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />○ <strong>Apache</strong>.
@@ -169,7 +169,7 @@ Um <a href="https://joesynth.wordpress.com/2021/11/28/software-cms/">CMS</a>, ma
 XAMPP (<span class="Y2IQFc" lang="pt">📜️; Apache, MySQL...</span>).
 FileZilla (<span class="Y2IQFc" lang="pt">📜️GPL</span>, FTP).
 BIND (<span class="Y2IQFc" lang="pt">📜️MPL; anos 80; servidor de protocolo DNS</span>).</pre>
-<h3>Programação</h3>
+<h4>Programação</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/64px-Bluefish-icon.svg.png" width="59" height="59" />🇳🇱️ <a href="https://joesynth.wordpress.com/2021/10/31/bluefish-editor-de-codigo/">Bluefish</a>.
 Nascido na década de 1990, o software do simpático peixinho é um <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-html/">editor de códigos</a> para desenvolvedores. Lida com linguagens como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">JS, CSS, HTML</a>...
 <span class="Y2IQFc" lang="pt">📜️</span>  <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
@@ -178,7 +178,7 @@ Nascido na década de 1990, o software do simpático peixinho é um <a href="htt
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" width="88" />🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-git/">Git</a>.
 Bem conhecido de programadores, ele rastreia alterações em qualquer conjunto de arquivos.
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
-<h3>Brinde! Outros softwares livres</h3>
+<h4>Brinde! Outros softwares livres</h4>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Satoshi_Nakamoto.jpg/220px-Satoshi_Nakamoto.jpg" width="120" />○ <strong>Bitcoin Core</strong>.
 Esse programa é um caso curioso de <em>software</em> gratuito e código aberto, sendo que ele verifica os pagamentos.
 O <span class="Y2IQFc" lang="pt"><em>software</em> (de criptomoeda) foi publicado por Satoshi Nakamoto (foto da </span><span class="Y2IQFc" lang="pt">estátua em Budapeste</span><span class="Y2IQFc" lang="pt">).
