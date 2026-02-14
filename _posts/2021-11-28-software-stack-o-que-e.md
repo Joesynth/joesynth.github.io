@@ -23,7 +23,7 @@ Note que cada <em>stack</em> dessas usa, por exemplo, o <a href="https://joesynt
 Usa MongoDB, Express, AngularJS e Node.js.
 O MongoDB é banco de dados orientado a documentos; enquanto no Node.js temos o ambiente de execução JavaScript.
 
-<img src="https://static.javatpoint.com/blog/images/mern-stack.png" width="120" />⚫️ <strong>MERN</strong>.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjUqDob5lqGBj6b0tCxntv6zmZp67aUn6Nw&s" width="120" />⚫️ <strong>MERN</strong>.
 MongoDB, Express, React e Node.js.
 Ou seja, uma MEAN onde substitui-se Angular por React.
 
