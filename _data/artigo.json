@@ -1,5 +1,11 @@
 [
   {
+    "href": "licenca-de-software.html",
+    "src": "image/ti.png",
+    "h3": "Licença de software",
+    "p": "Softwares fazem parte do nosso dia a dia, então fique informado sobre as licenças deles."
+  },
+  {
     "href": "quem-usa-linux.html",
     "src": "image/linux.png",
     "h3": "Quem usa o Linux?",
