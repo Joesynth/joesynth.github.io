@@ -1,10 +1,15 @@
 # Quem usa o Linux?
 
-
+- Linux no Brasil: quem usa?
+- Linux noutros países: quem usa?
+- TOP500
+- A internet
+- Você usa Linux!
+- Por que Usar Linux?
 
 <img class="https://joesynth.wordpress.com/wp-content/uploads/2021/10/linux_ubuntu.png" width="310" />
 
-###### Linux no Brasil: quem usa?
+## Linux no Brasil: quem usa?
 
 🇧🇷 Instituições/empresas no Brasil
 
@@ -25,7 +30,7 @@ Comércio/Varejista</strong>: Casas Bahia  Colombo ● Lojas Americanas (Pontos 
 
 <strong>Logística/Transporte</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Varig <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Metro SP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Gol...  
 
-###### Linux noutros países: quem usa?
+## Linux noutros países: quem usa?
 
 🇺🇸 Órgãos de Estado / Instituições não governamentais:
 ● NASA ● FAA ● Wikipedia.  
@@ -49,7 +54,7 @@ Será uma conspiração!? Claro que não!
 
 
 
-###### TOP500
+## TOP500
 
 No <em>ranking</em> dos 500 supercomputadores o Linux é o sistema operacional que impera.
 
@@ -59,13 +64,14 @@ No <em>ranking</em> dos 500 supercomputadores o Linux é o sistema operacional q
 
 
 
-###### A internet
+## A internet
 
 A própria internet utiliza computadores centrais, os [13 servidores](/internet-tem-dono), em que o <em>software</em> principal é exatamente para sistema Linux. 
 
 Mesmo que seu computador seja um <em>desktop</em> com Windows e você esteja acessando a Web, ainda sim estará indiretamente utilizando o Linux. Um exemplo prático disso é o site da Google (o google.com), que nós acessamos para fazer pesquisas, e ele (obviamente) usa Linux.
 
-<h6>Você usa Linux!</h6>
+## Você usa Linux!
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samsung_Galaxy_Note_series_20140614.jpg/800px-Samsung_Galaxy_Note_series_20140614.jpg" width="120" height="72" /> Se você usa um celular Android lembre que esse SO é uma adaptação do Linux, feita pela Google.
 
 Como constatar? No seu celular, acesse o terminal (Termux) e digite o comando: 
@@ -76,8 +82,9 @@ Ele dará como resposta...
 
     Linux
 
+<h6>Por que Usar Linux?</h6>
 
-[Por que Usar Linux?](/por-que-usar-linux) Clique no link e entenda o motivo pelo qual faz com que só "os grandões" usem o sistema o Linux.
+O assunto é especial, então clique no link [Por que Usar Linux?](/por-que-usar-linux) e entenda o motivo pelo qual faz com que só "os grandões" usem o sistema Linux.
 
 É isso. Grande abraço.
 \o/
