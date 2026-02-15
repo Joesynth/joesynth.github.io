@@ -23,6 +23,7 @@ Olá!
 <li><strong>Dicas e links</strong>.</li>
 <li><strong>Um pouco de história</strong>.</li>
 </ul>
+
 <h4>Introdução</h4>
 <pre><span class="Y2IQFc" lang="pt">  Legenda e Minidicionário
 💰️ dinheiro, preço...
@@ -33,11 +34,17 @@ Olá!
 💾️ exemplo de software.
 
 </span></pre>
+
 <h6>Como é feito um programa?</h6>
+
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Illustrated_recipes%3B_%27Minted_Pineapple%27%2C_%27Quick_Tomato_Mold%27_Wellcome_L0072307.jpg" width="100" /><strong>✍️ A receita</strong>:<br />É uma série de passos para realizar uma tarefa. Uma receita de comida (foto) tem as instruções que formam a própria comida. Fazer uma receita para resolver um problema é outro exemplo.<br />Você mesmo pode criar uma tendo uma simples folha de papel e escrevendo os ingredientes, passos a seguir, comentários.</p>
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/C_Hello_World_Program.png/402px-C_Hello_World_Program.png" width="140" /></p>
 <p><span class="Y2IQFc" lang="pt"><strong>📝️ Código-fonte</strong>:<br />Instruções que formam o programa. Equivale a receita de comida, mas no lugar da folha de papel (para escrever) usa-se o <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">editor de textos</a> (foto). E enquanto uma receita de comida é escrita no nosso idioma, o português, o código-fonte é escrito em uma <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagem de programação</a> (coisas como C, JavaScript....).</span></p>
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Binary_executable_file2.png" width="120" /><strong>Programa Executável</strong>: código que pode ser executado pelo sistema operacional. Na prática, do código-fonte o <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">programador</a> cria o programa executável (.exe) _este sim, tem linguagem de máquina.</p>
+
 <p><img class="alignleft" src="https://t1.uc.ltmcdn.com/pt/posts/6/8/2/como_fazer_limonada_286_600.jpg" width="80" height="88" /> <strong>Quem é o dono da receita da limonada?</strong> Ninguém! Afinal, qualquer pessoa pode pegar limões, misturar com água e açúcar. E churrasco? Não dá no pasto! É outro caso onde os ingredientes e a receita está acessível a todos.</p>
 <p><strong>Posso ter minha versão de limonada?</strong> Óbvio! Qualquer um poderia, por exemplo, dar um toque pessoal com açúcar mascavo, bater no liquidificador etc.</p>
 <p>Você já parou para pensar que a maioria absoluta do conhecimento humano é público? Ninguém tem a 'patente' da limoda, churrasco, pipa... ligação de fios etc. Isso é a evolução da sabedoria antiga que passa por mecânica, matemática, lógica... Porém, se uma empresa pode criar uma marca de 'suco de limão', também pode criar uma marca de <em>software</em>.</p>
@@ -55,8 +62,11 @@ Olá!
 </tbody>
 </table>
 <pre>A 'receita' inteira do sistema operacional Linux está acessível _ou seja, o seu código-fonte. Vide:<br /><span class="Y2IQFc" lang="pt">- respositório;</span><br />- kernel Linux: -<em>https://www.kernel.org/doc/html/next/process/programming-language.html</em><br /><br />🤔️ Devido a isso o sistema operacional Linux <span class="Y2IQFc" lang="pt">pode ser estudado, examinado, modificado por qualquer pessoa</span>; e por isso há várias versões de Linux.<em><span style="color: #808080"><br /></span></em></pre>
+
 <h6>Software Livre &amp; Software Proprietário</h6>
+
 <p><span style="color: #0000ff"><span class="Y2IQFc" lang="pt">◼</span> software livre ou <em>free software</em></span>.<br /><span style="color: #0000ff"><span class="Y2IQFc" lang="pt">◼</span> software proprietário (<em>proprietary software</em>) ou software privado; software privativo ou não livre</span>.</p>
+
 <p><img class="size-medium wp-image-69488 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" /></p>
 <p>[<span style="color: #808080"><em>Foto: softwares livre (à esquerda) e não livres (à direita)</em></span>]<br />Tal como o Ubuntu, o navegador Firefox é software livre. <br />Por outro lado, o Chrome é proprietário (da Google).</p>
 <p><strong>Características do software livre e do software proprietário</strong>:</p>
@@ -71,14 +81,18 @@ Olá!
 </tbody>
 </table>
 
+
 <h6><em>Freeware <span style="color: #0000ff">- software gratuito (soft grátis)</span></em></h6>
+
 <p>Quer um docinho grátis?</p>
 <blockquote>
 <p>🤔️ Pense em freeware como doce grátis, amostra grátis. Você ganha o doce e pode comer à vontade; porém, não a receita de o fazer.</p>
 </blockquote>
 <p><span class="Y2IQFc" lang="pt">Disponível gratuitamente, mas é software proprietário (na maioria das vezes).</span></p>
 <p>Veja mais em software proprietário.</p>
+
 <h6><em>Free software</em> (software livre)</h6>
+
 <p><span style="color: #0000ff"><em>free software (software libre): software livre</em></span>.</p>
 <p>"livre como na liberdade de expressão".</p>
 <blockquote>
@@ -92,6 +106,7 @@ Olá!
 ✔️ Redistribuído sem nenhuma restrição.</pre>
 <p>Ou seja, o usuário tem a liberdade de executar, acessar e modificar o código-fonte, além de redistribuir cópias (com ou sem modificações)</p>
 <p><span class="Y2IQFc" lang="pt">💰️</span> <strong>Venda é permitida</strong>! Entretanto as mesmas liberdades são válidas para o comprador.<br /><span class="Y2IQFc" lang="pt">🛠️</span> Código aberto (ou <em>open source</em>): quase todos os programas de código aberto são de fato livres.</p>
+
 
 <h4>🔒️ Software proprietário</h4>
 <pre>⭐ nascimento<br />💰 uso, como ganha dinheiro o autor<br />🧠 ideia central</pre>
@@ -132,7 +147,9 @@ Olá!
 <p>Shareware, freeware, adware, freemium:  cada um é <span lang="pt">tipicamente</span> um software proprietário<span lang="pt">, <span class="Y2IQFc" lang="pt">produto comercial. O custo zero para o usuário obter é comum, por ser uma tática das empresas/MKT.</span></span></p>
 </blockquote>
 <p>.</p>
+
 <h6>shareware vs freeware - modelo de negócio do software</h6>
+
 <p>  <strong>código-fonte</strong>: fechado, tipicamente.</p>
 <p>Quanto ao uso pelo usuário, o dono do software (o autor) determina...</p>
 <pre><span class="Y2IQFc" lang="pt">legenda:<br />⚖️ direito </span>🚀️ distribuição <span class="Y2IQFc" lang="pt">💰️</span> custo<br />🕖️ tempo<br />📝️ <br />🤑️ autor: desenvolvedor, <span class="Y2IQFc" lang="pt">escritor</span> (do código)<br />😐️ usuário (do software).<br />📝️<br /><span class="Y2IQFc" lang="pt">📝️ código, código-fonte.</span></pre>
@@ -146,9 +163,11 @@ Olá!
 <tr>
 <td style="text-align: left">
 <p><span class="Y2IQFc" lang="pt"><span class="Y2IQFc" lang="pt"> 🕖️ Limitação de tempo, recursos<br />📝️ Via de regra programa é fornecido só na sua forma binária, ou seja, o programa executável.<br /></span></span><span class="Y2IQFc" lang="pt"><span class="Y2IQFc" lang="pt">⚖️ Protegido, geralmente; isto é, via de regra autor tem direitos autorais.<br />📝️ Pode não ter código aberto<br />🚀️ Distribuido de forma grátis pelo autor, mas autor exige pagamento após um período de teste.<br /></span></span></p>
+
 <p><img class="alignleft" src="https://www.saashub.com/images/app/service_logos/51/50ac94366f5d/large.png" width="28" />SynthEdit.<br /><span class="Y2IQFc" lang="pt">◼ WinZip.</span></p>
 </td>
 <td style="text-align: left"><span class="Y2IQFc" lang="pt"><span class="Y2IQFc" lang="pt">◼ Sem limitações de tempo, recursos<br />◼ Via de regra proprietário, produto comercial; <br />⚖️ É do autor, geralmente; que renuncia os royalties de uso, mas não aos direitos autorais. <br />📝️ Pode não ter código aberto.<br />📝️ Usuário sem acesso ao código fonte.<br />😐️ Usuário só tem o direito de uso.<br />🚀️ Distribuido de forma grátis pelo autor.</span></span>
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/120px-Adobe_Acrobat_DC_logo_2020.svg.png" width="28" />Acrobat Reader<br /><del>Internet Explorer</del><br /><del>MSN Messenger</del> <br /> <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png" width="90" /><br />YouTube.<br />Instagram.</p>
 </td>
 </tr>
@@ -183,7 +202,9 @@ Olá!
 </tbody>
 </table>
 <p>.</p>
+
 <h6>adware vs freemium</h6>
+
 <p>São tipos de <em>shareware</em>.</p>
 <table>
 <tbody>
@@ -202,6 +223,7 @@ Olá!
 <p><strong>Freemium</strong>: Exemplos:<br />◼ Pode-se baixar um jogo e ir jogando, sem gastar nada. Na medida em que se desenvolve mais na brincadeira torna-se interessante a compra _exatamente para se obter mais algum poder no contexto do jogo em si. <br />◼ Tem-se recursos básicos, gratuitos com anúncios e controle limitado; enquanto recursos adicionais (sem comerciais) são oferecidos via assinatura paga. Caso do <span class="Y2IQFc" lang="pt"><span lang="pt">Spotify. </span></span></p>
 <p>Fremium: veja mais em <strong>Um Pouco de História</strong>.</p>
 <p><strong>Adware</strong></p>
+
 <p><img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFqVuv5NjDTxocsBH2TAJlbPJ11LrKizzkg&amp;usqp=CAU" width="80" />Adware <em>Advertisement software</em>, <em>soft</em> de propaganda, <em>software</em> de anúncio.</p>
 <p>Aqui temos marketing, literalmente! O soft apresenta propagandas:</p>
 <p><strong>Adware legítimo</strong>: <br />a) Propagandas de si mesmo.<br /><img class="alignleft" src="https://r1.community.samsung.com/t5/image/serverpage/image-id/3159432iF0308C0983544CE4/image-size/large?v=v2&amp;px=999" width="140" /></p>
@@ -209,6 +231,7 @@ Olá!
 <p>[<span style="color: #808080"><em>foto: TIM, propaganda irritante</em></span>]<br /><strong>Excesso de anúncios</strong>: pode ocorrer de forma  irritante, mas também, pode ser uma estratégia proposital para clicarmos nele _daí até agir como <em><a href="https://joesynth.wordpress.com/2021/11/27/como-proteger-o-computador/">spyware</a></em> (coletando dados).</p>
 <p>Há quem considere o <em>adware</em> como <em><a href="https://joesynth.wordpress.com/2021/11/27/como-proteger-o-computador/">malware</a></em>.</p>
 <blockquote>
+
 <p><img class="alignleft" src="https://gartic.com.br/imgs/mural/w4/w4ll_3/arapuca.png" width="120" />Software proprietário grátis: seria uma arapuca?</p>
 </blockquote>
 <p>Como vimos, o custo zero para o usuário pode resultar em certas práticas utilizadas pelo fornecedor do <em>software</em>:<br />◼ ser vigiado 👀️<br />◼ ser alvo de forte publicidade até adquirir a versão paga do <em>software</em> 🤑️<br />◼ sofrer propagandas abusivas 😡️</p>
@@ -216,6 +239,7 @@ Olá!
 <p>⚠️ Nota!</p>
 <p><strong>SaaS</strong> (Software as a service - Software como serviço): É acessível tomando como base o modelo cliente-servidor; é baseado em "nuvem".<br /><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/170px-Netflix_2015_logo.svg.png" width="80" /> O cliente utiliza o <em>software</em> (via <em>internet</em>) e paga um valor pelo serviço. O termo SaaS está mais associado a forma como é entregue o software _assinatura do serviço_, sendo a licença uma consequência disso. Ex.:</p>
 <pre>Netflix, Google Drive.</pre>
+
 <h4>📄️ Licença de software</h4>
 <p><span class="Y2IQFc" lang="pt"><strong>Licença Proprietária</strong>:</span> podemos ver relatos do software proprietário surgindo com licença dese tipo _é o caso do Spotify.</p>
 
@@ -224,9 +248,12 @@ Olá!
 <img class="alignleft" src="https://tprojects.schneider-electric.com/GeoSCADAHelp/Geo%20SCADA%202020/Content/SystemInstallationGuide/Figures/enduserlicenseagreement_PROD.png" width="120" /> Normalmente presente no software privado, é aquele "quadradinho" que damos "ok" concordando com os termos ali escritos. O assunto é polêmico vista o poder que se chegou do autor (corporações) do software.
 Vide [EULA](/eula).
 
+
 <h4><span class="Y2IQFc" lang="pt"><strong>📝️</strong></span> Open Source e Closed Source</h4>
 <p>Termos associados aos softwares no que tange o código. Lembra a história da receita no início deste tutorial?</p>
+
 <h6>Open Source - <span style="color: #0000ff">Código Aberto<br /></span></h6>
+
 <p>Software grátis (a maioria). Modelo que permite que qualquer um consulte, examine ou modifique o produto. Ou seja, acesso ao código-fonte (com possibilidade de modificá-lo). Instale e copie o programa inúmeras vezes.</p>
 <p>Não abrange as mesmas liberdades que o software livre, como definido pela OSI.</p>
 <blockquote>
@@ -238,21 +265,27 @@ Vide [EULA](/eula).
 ◼ fundanção <a href="https://joesynth.wordpress.com/2021/11/28/o-que-e-ide/">Eclipse</a> (soft Eclipse). 
 ◼ OW2 (comunidade europeia que desenvolve <em>middleware</em>). <strong>Outros</strong>: 
 ◼ Organização Apache Software Foundation (servidor Web Apache).</pre>
+
 <h6>Closed Source <span style="color: #0000ff">- Código Fechado (ou proprietário)</span></h6>
+
 <p>Oposto do código aberto, é o código fechado.</p>
 <blockquote>
 <p>Programa de computador que o código-fonte não é publicado. O modelo código-fechado é o preferido das empresas para vender seus softwares.</p>
 </blockquote>
 <p>Ou seja, o código (do <em>software</em>) não é compartilhado com o público _isso na intenção (de quem criou) de ninguém olhar ou alterar.</p>
 <p>Mesmo uma empresa que oferece seu software de graça pode não mostrar o código. Alega-se que assim evita-se o plágio, afinal, alguém pode mudar o nome dos autores e pôr o seu.</p>
+
 <h4>🎈️ FOSS</h4>
 <p><span style="color: #0000ff"><em>Free and Open-Source Software</em>, Software de Código Livre e Aberto</span>.</p>
+
 <p><img class="size-medium wp-image-68613 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/software_livre.png?w=300" alt="" width="300" height="169" /></p>
 <p>O <strong><em>software livre e de código aberto</em></strong> é uma aplicação que qualquer pessoa tem o direito de...<br />✔️ usar <br />✔️ cópiar<br />✔️ estudar <br />✔️ mudar e melhorar</p>
 <p><strong>Por que código-fonte aberto?</strong> O próprio código-fonte, que é o <em>soft</em> em si, é compartilhado abertamente para as pessoas poderem voluntariamente melhorar a aplicação. Assim, se você é um <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">programador</a> pode ler (estudar) o código do <em>soft</em> e mesmo alterar se quiser. Portanto, no que tange 'estudo, mudança e melhoria' o código-fonte disponibilizado é vital.</p>
+
 <p><img class="alignleft" src="https://cdn.geekboots.com/geek/linux-vs-windows-vs-mac-meta-1655409657451.jpg" width="150" />É comum que <strong><em>soft livre e de código aberto</em></strong> seja compatível com sistemas operacionais Linux, Mac e Windows, e mesmo Android ou outros.</p>
 <p>Há diversos tipos de softwares FOSS, incluindo...<br />◼ sistema operacional para computador <em>desktop</em> ou <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">servidor</a>,<br />◼ aplicações para empresa, escritório, multimídia/arte;<br />◼ <a href="https://joesynth.wordpress.com/2021/11/28/software-de-rede/">soft de rede</a> (como <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">firewall</a>),<br />◼ <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">editor de código-fonte</a>,<br />◼ <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">software de linha de comando</a>.</p>
 <p>Clique no <em>link</em> para conhecer os <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">softwares livres e abertos mais famosos</a>, inclusive com detalhes sobre eles.</p>
+
 <h4>FOSS vs CSPS</h4>
 <p><span style="color: #0000ff"><em>CSPS (Closed Source Proprietary Software)</em></span>.</p>
 <p>Comparação entre ambos. Abaixo, relações envolvendo código-fonte, execução, etc.</p>
@@ -293,9 +326,12 @@ Vide [EULA](/eula).
 <p><strong>Exemplos:</strong></p>
 <pre><strong><img class="size-medium wp-image-69488 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" />FOSS</strong>          <strong>CSPS</strong><br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Audacity</a>    | FL Studio<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Ardour</a>      | Cubase<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">LibreOffice</a> | 365<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Firefox</a>     | Chrome<br /><a href="https://joesynth.wordpress.com/2023/11/06/rede-social-open-source/">Mastodon</a>    | Instagram<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">GIMP</a>        | Photoshop<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Telegram</a>    | Whatsapp<br />Ubuntu      | Windows<br />Mint        | MacOs</pre>
 <p><em>*Telegram versão cliente</em>.</p>
+
 <h4>Resumo, comparações e afins</h4>
 <pre><em>Commercial</em><br />Proprietário<br />Misto<br />Software Livre e Freeware</pre>
+
 <h6>commercial software <span style="color: #0000ff">software comercial</span></h6>
+
 <p>Software feito para venda ou fins comerciais. Pode ser:</p>
 <table>
 <tbody>
@@ -310,87 +346,44 @@ Vide [EULA](/eula).
 </tbody>
 </table>
 <p><strong>proprietary software <span style="color: #0000ff">software proprietário</span></strong>: São os que abordamos no início deste tutorial.</p>
+
 <h6>Misto</h6>
+
 <p>As distribuições de <em>software</em> consideradas proprietárias podem de fato incorporar um modelo de "fonte mista", incluindo <em>software</em> livre e não livre na mesma distribuição.</p>
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Simh-pdp11-unix-sysiii.png/300px-Simh-pdp11-unix-sysiii.png" width="150" /> <em>Foto: Unix</em>. 🔗️opengroup.org<br />A maioria, se não todos os sistemas UNIX, agrupan componentes de código aberto (como <a href="https://joesynth.wordpress.com/2021/11/28/software-de-rede/">BIND</a>, Sendmail, X Window System, DHCP etc) junto com um kernel e utilitários de sistema exclusivamente proprietários.</p>
+
 <h6>Software Livre e Freeware</h6>
+
 <p>⚠️ <strong>Free Software ≠ Freeware</strong>: a palavra <strong><em>free</em></strong> em português pode significar tanto <strong>livre</strong> como <strong>grátis</strong>.</p>
+
 <h6>FOSS e Freeware</h6>
+
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Open-source-vs-freeware.svg/800px-Open-source-vs-freeware.svg.png" alt="" width="140" height="175" /></p>
 <p>Lembrando!<strong><br />FOSS</strong>: <br />Abrange tanto o software livre como o software de código aberto.<br /><strong>Freeware</strong>: <br />É distribuído livremente, mas não temos acesso ao código-fonte (que é fechado).</p>
+
 <h6>FOSS e proprietário</h6>
+
+
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Software_Categories_expanded.svg/640px-Software_Categories_expanded.svg.png" width="310" /> <em>ft: wikipedia</em>.</p>
 <p><strong>Diagrama de Chao-Kuei</strong>:</p>
+
 <p><img class="alignleft" src="https://www.researchgate.net/publication/43180999/figure/fig1/AS:203189006671879@1425455442282/Chao-Kueis-Diagram-different-categories-of-software-6.png" width="320" /> Note na coluna...<br /><strong>Free Software</strong> (Software Livre) domínio público, GPL, <em>open source</em>...<br /><strong>Proprietário</strong>: <em>closed</em>, <em>shareware</em>.</p>
 <p>.</p>
 
 
-<h4>📄️ Licenças e afins...</h4>
-<h4>Copyright e Public Domain (PD)</h4>
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/220px-Copyright.svg.png" width="30" height="30" /></p>
-<p><strong><em>Copyright</em></strong> é o direito legal exclusivo de usar, copiar e distribuir um trabalho criativo.</p>
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cc-public_domain_mark_white.svg/150px-Cc-public_domain_mark_white.svg.png" width="30" height="30" /> <strong>Public Domain</strong> (PD) é o termo em inglês que se refere a domínio público.</p>
-<pre><strong>pd</strong>:
-<img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/220px-SQLite370.svg.png" width="79" height="38" />SQLite (Banco de Dados) ◼ Youtube-dl ◼ SHA-3</pre>
-<h6>software livre vs software público</h6>
-<table>
-<tbody>
-<tr>
-<td>software livre</td>
-<td>software público</td>
-</tr>
-<tr>
-<td>está associado a licenças como GPL e BSD</td>
-<td>surge quando se passa vários anos e se torna um bem comum, conforme as leis de proteção de direitos do autor.</td>
-</tr>
-</tbody>
-</table>
-<p>Nessa situação o software de domínio público pode ser visto como <em>software livre</em>.</p>
-<h4>Copyleft</h4>
-<p>"<em>All rights reversed</em>", "Todos os direitos invertidos".</p>
-<p><strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Copyleft.svg/800px-Copyleft.svg.png" alt="" width="30" height="30" /></strong>Um arranjo pelo qual um trabalho pode ser usado, modificado e distribuído gratuitamente; na condição de que qualquer coisa derivada dele é vinculada pela mesma condição. O autor continua sendo dono, mas sua obra pode ser utilizada/modificada/redistribuida por outras pessoas.<br />⌛️ Anos 70. Permitida a cópia, cópia autorizada, ou livre direito de cópia. Pode-se copiar e modificar, por exemplo. Está associada às liberdades para:</p>
-<p>◼ utilizar o trabalho; <br />◼ realizar pesquisas a respeito, estudar o trabalho; <br />◼ compartilhar e copiar; <br />◼ fazer alterações e posterior distribuição.</p>
-<p>Anos 80, Richard Stallman foi um dos responsáveis pela popularização inicial do termo <em>copyleft</em>.</p>
-<p>💾️ Usada na Wikipedia (Fundação Wikimedia).</p>
-<blockquote>
-<p>"Muitas licenças de software livre não são copyleft"</p>
-</blockquote>
-<p>[ft:https://pt.wikipedia.org/wiki/Copyleft#Aplicando_o_copyleft]</p>
-<h6>Copyleft: as licenças</h6>
-<p>Há <em>copyleft</em> forte e fraca: Exemplos:</p>
-<pre><strong>forte</strong>   | <strong>fraca</strong> <br />GNU GPL | LGPL<br />        | MPL<br />        | AGPL<br />        | EPL<br /><strong>outras</strong><br />EUPL</pre>
-<p><img class="alignleft" src="https://www.whitesourcesoftware.com/wp-content/media/2021/04/GPL-e1435820834468.jpg" width="181" height="74" /></p>
-<p>No caso específico da GNU GPL temos o <em>free software</em> associado à ‘Família GPL’. A GPL está baseada nas 4 liberdades, os comportamentos de:</p>
-<pre>- <em>run</em> executar o software;<br />- <em>study</em> estudar;<br />- <em>share</em> compartilhar;<br />- <em>modify</em> modificar (o soft).</pre>
-<p><strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1024px-GPLv3_Logo.svg.png" alt="" width="80" height="40" /> <span class="text-primary">GNU GPL </span></strong>(<em>GNU General Public License</em>) ou GPL: Licença Pública Geral GNU.<br />⌛️ 1989, Richard Stallman.<br />🔗️ gnu.org<br />Fora inicialmente criada para o Projeto GNU. É aprovada pela FSF e OSI.</p>
-<pre><a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Audacity</a>, <a href="https://joesynth.wordpress.com/2021/11/28/editor-nano/">Nano</a>, <a href="https://joesynth.wordpress.com/2020/05/11/bash-shell/">Bash</a>, <a href="https://joesynth.wordpress.com/2023/11/06/termux/">Termux</a>, <a href="https://joesynth.wordpress.com/2021/10/31/bluefish-editor-de-codigo/">Bluefish</a>, <a href="https://joesynth.wordpress.com/2024/03/29/linguagem-c-um-tutorial-essencial/">GCC</a>, <a href="https://joesynth.wordpress.com/2021/11/27/notepad-plus-plus/">Notepad++</a>, <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">OpenShot</a>. Vide também FOSS.</pre>
-<p>⚠<a href="https://joesynth.wordpress.com/2021/12/12/linux/">️Ubuntu</a>: licença GPL; embora há uma ou outra parte proprietária.<br />[<em>Para "GPL" neste caso vide wikipedia alemã e japonesa, e para "free software" wikipedia em inglê</em>s]</p>
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LGPLv3_Logo.svg/1280px-LGPLv3_Logo.svg.png" alt="" width="82" height="36" /></p>
-<p><span class="text-primary"><strong>GNU LGPL</strong> (<em>GNU Lesser General Public License</em>).<br />🔗️gnu.org/copyleft/lesser.html<br /></span>⌛️ Anos 90. É aprovada pela FSF e OSI.<br />Usada em bibliotecas de <em>software</em>, mas também <em>softwares</em>.<br />💾️  <a href="https://joesynth.wordpress.com/2020/02/20/o-que-e-ffmpeg/">FFmpeg</a> , Qt (FOSS) e outros.</p>
-<p><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/1920px-GFDL_Logo.svg.png" alt="" width="82" height="28" /> <strong><span class="text-primary">GNU FDL</span></strong> (<em>GNU Free Documentation License</em>) - Licença GNU de Documentação Livre.<br />🔗️gnu.org/licenses/gfdl.html<br />É aprovada pela FSF. Licença para documentos e textos livres publicada pela FSF.<br />💾️  wikibooks.org</p>
-<p><span class="text-primary"><strong>MPL</strong> (<em>Mozilla Public License</em>).<br />É <em>copyleft</em> (parcial); é aprovada pela FSF e OSI.</span><br />💾️ Maioria dos <em>softwares</em> Mozilla (que é o caso do <a href="https://joesynth.wordpress.com/2021/11/27/console-do-desenvolvedor/">Firefox</a>) e muitos outros.</p>
-<p><strong>EPL</strong>.<br />Ex. de <em>software</em>: Eclipse.</p>
-<h6>Permissive</h6>
-<p>Ao invés de proteções <em>copyleft</em> tem-se restrições mínimas.</p>
-<p><strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/1024px-MIT_logo.svg.png" alt="" width="79" height="41" /> MIT License</strong>.<br /><span class="text-primary">Licença MIT </span> Ou licença X e ainda X11 fora criada pelo MIT.<br />É aprovado pela FSF e OSI.<br />💾️  <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>, App Inventor.</p>
-<p><span class="text-primary"><strong>Licença BSD</strong>.<br /></span>💾️  Usada nos sistemas operacionais BSD.</p>
-<p>Outros casos: X11 License e ISC.</p>
-<h5><em>P</em><em>ermissive vs </em><em>Copyleft</em></h5>
-<p><img class="alignnone" src="https://joesynth.files.wordpress.com/2021/11/65878-0nbx3uw8ugxqghyzi.png" width="441" height="289" /></p>
-<h6><em>Copyleft</em> vs <em>Permissive</em>: ao longo do tempo</h6>
-<p><img class="alignleft" src="http://www.vinayiyengar.com/wp-content/uploads/2020/09/itemeditorimage_5e287f7dbbf1c.jpg" width="400" height="225" /></p>
-<p>Note no quadro que:<br /><strong>2012</strong>: havia 59% de uso de licença <em>copyleft</em>_quase dois terços.<br /><strong>2019</strong>: o número caiu para 33%, portanto 1/3 de copyleft.</p>
-<h4>Creative Commons</h4>
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/800px-Cc.logo.circle.svg.png" alt="" width="32" height="32" /><strong>🇺🇸</strong> <strong>Creative Commons</strong><em> (</em>CC).<br />⌛️ Início ano 2000.<br />Organização sem fins lucrativos. É uma das várias licenças públicas de direitos autorais que permitem a distribuição gratuita de uma "obra" protegida por direitos autorais. Uma licença CC é usada quando um autor deseja conceder a outras pessoas o direito de compartilhar, usar e desenvolva uma obra que eles (o autor) criaram.<br />A <em>CC</em> fornece uma flexibilidade de autor  _por ex., ele pode optar por permitir apenas usos não comerciais de uma determinada obra. Além, protege a  pessoa que usa ou redistribui obra de um autor de preocupações com violação de direitos autorais, desde que respeitem as condições estabelecidas, especificado na licença pela qual o autor distribuiu o trabalho.</p>
-<p><strong>Creative Commons: tipos de licenças</strong>.<br /><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cc-by_new.svg/75px-Cc-by_new.svg.png" width="29" height="29" /> <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cc-sa.svg/75px-Cc-sa.svg.png" width="30" height="30" /> <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cc-nc.svg/75px-Cc-nc.svg.png" width="29" height="29" /> <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cc-nd.svg/75px-Cc-nd.svg.png" width="29" height="29" /></p>
-<pre><strong>Creative Commons: exemplos</strong>.<br /><a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Audacity</a>, sites (como Wikipedia‎, gnu.org, Mozilla website, RationalWiki.org, Stack Overflow), livros (vários de Eric S. Raymond).</pre>
-<p>Mais sobre <em>Copyleft</em>: [<em>https://pt.wikipedia.org/wiki/Copyleft</em>]</p>
-<h4>Comparações e estatísticas</h4>
-<h5><em>Copyright</em> vs <em>Copyleft</em> vs <em>Permissive</em> vs <em>CC</em></h5>
-<p><img class="" src="https://joesynth.files.wordpress.com/2021/11/d5f45-0pj3xhsctqeje4k03.png" width="439" height="287" /></p>
+
+<h4>Licenças e afins...</h4>
+
+Temos nomes como GPL, BSD etc.
+O tema é amplo, então leia [Licença de Software](/licenca-de-software).
+
 <h4>Organizações</h4>
 <p>A FSF e a OSI são as principais organizações internacionais responsáveis pela proteção e promoção do software livre.</p>
+
 <h6>FSF  <em>- Free Software Foundation</em></h6>
+
 <blockquote>
 <p>"<em> uma organização que defende o modelo de software livre, sugere que, para entender o conceito, é necessário "pensar em livre como em liberdade de expressão, não como cerveja grátis</em>". " (wikipedia, pt).</p>
 </blockquote>
@@ -407,7 +400,9 @@ Vide [EULA](/eula).
 ◼ Eclipse,
 ◼ Apache (Servidor; Licença Apache-2.0),</pre>
 <p>Veja também: https://en.wikipedia.org/wiki/Free_Software_Foundation_Europe.</p>
+
 <h6>OSI</h6>
+
 <p>Organização criada para incentivar uma aproximação de entidades comerciais com o software livre.</p>
 <blockquote>
 <p>OSI usa o termo "código aberto" sob ótica puramente técnica, evitando (propositadamente) questões éticas.</p>
@@ -419,21 +414,31 @@ Vide [EULA](/eula).
 ◼ Eclipse Foundation
 </pre>
 <pre><a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Audacity</a>, Firefox, <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">GIMP</a>, Thunderbird</pre>
+
 <h4>Dicas e links</h4>
 <p>Livro: <em>O Futuro dos Preços</em> (Chris Anderson, mesmo autor de “A Cauda Longa”).</p>
 <p><em>Links</em> relacionados ao tema:<br />- <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-20-sites/">Marketplace</a>.<br />- <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>.<br />- <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Software livre: 21 softs</a> (que você deve conhecer).<br />- <a href="https://joesynth.wordpress.com/2021/12/27/saas-10-softwares-famosos/">SaaS</a>.</p>
+
 <h4>📚️ Um pouco de história</h4>
 <pre>- software livre, software proprietário, GPL<br />- shareware e freemium<br />- FSI vs OSI<br />- <em>Copyleft</em> vs <em>Permissive</em>: ao longo do tempo</pre>
+
 <h6>software livre, software proprietário, GPL</h6>
+
 <blockquote>
 <p>No início o software era livre.</p>
 </blockquote>
 <p>Século passado o <em>software</em> era livre. Os computadores eram grandalhões, utilizados pelo governo (dos EUA) e grandes empresas. Nessa época o <em>software</em> não era visto como algo separado do <em>hardware</em> (como é nos dias atuais). O programa, o '<em>soft</em>,' era entregue junto com o código-fonte (e até mesmo só o código-fonte).</p>
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Altair_8800_and_Model_33_ASR_Teletype.jpg/500px-Altair_8800_and_Model_33_ASR_Teletype.jpg" width="140" />Altair 8800 (<strong>🇺🇸 </strong>MITS, anos 70).<br />Computador pessoal ou desktop.<br />Foi um dos primeiros e utilizava processador Intel 8080.<br />Havia o Altair BASIC, um software interpretador (vendido separado).</p>
+
 <p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg/220px-Richard_Stallman_at_LibrePlanet_2019.jpg" width="80" height="104" />Foi nos anos 80 que Richard Stallman, funcionário do Laboratório de IA do MIT (EUA), viu numa impressora uma falha no <em>software</em> _<em>software</em> proprietário nesse caso. Tentou corrigir mas sem sucesso: a empresa não liberou o código-fonte. Stallman reagiu a isso criando uma forma legal de garantir que possamos desfrutar do direito de copiar, redistribuir e modificar <em>software</em>. É a licença GPL.</p>
+
 <h6>shareware e freemium</h6>
+
 <p>Anos 80 a indústria de <em>softs</em> criou o <strong><em>freemium</em></strong> como uma estratégia de tempo limitado (ou de recursos limitados). Conhecida como estratégia <strong><em>shareware</em></strong>, nesse modelo de negócios a versão gratuita (e limitada) do produto (o <em>soft</em> em si) era disponibilizada às pessoas na esperança que algumas fariam a atualização.</p>
+
 <h6>FSF vs OSI</h6>
+
 <table>
 <tbody>
 <tr>
