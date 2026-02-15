@@ -1,5 +1,7 @@
 # 21 Softwares livres mais famosos
 
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/software_livre.png" width="320" />
+
 Os <em>softwares</em> que todos deveríamos usar, inclusive sua empresa! E saiba porque.  
 
 Os especialistas afirmam: <em>software</em> livre é a opção mais segura e barata.
@@ -11,22 +13,29 @@ Nota: no caso do celular Android, é recomendável que se instale um software qu
 
 Então... sem demoras, vamos aos <em>softwares</em> livres!
 <ul>
- 	<li>Casa, diversão e lazer.</li>
- 	<li>Arte, design, multimídia.</li>
- 	<li>Educação.</li>
- 	<li>Empresas/escritório.</li>
- 	<li>Internet.</li>
- 	<li>Programação.</li>
- 	<li>Brinde! Outros software.</li>
+ 	<li>Casa, diversão e lazer</li>
+ 	<li>Arte, design, multimídia</li>
+ 	<li>Educação</li>
+ 	<li>Empresas/escritório</li>
+ 	<li>TI (Tecnologia da Informação)</li>
+ 	<li>Brinde! Outros software</li>
 </ul>
+
 <h4>Casa, diversão e lazer</h4>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/120px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="100" /> 🇩🇪 Mastodon.
+É uma rede social sem fins lucrativos, e em harmonia com as regras de proteção de dados (GDPR). Dentre tantos idiomas, é compatível com o nosso português. As postagens são chamadas de "toots".
+Repositório: github.com/mastodon/mastodon
+📜️ AGPL, outras.
+🔗️ joinmastodon.org
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="60" height="62" />🇺🇸  <strong>Firefox</strong>.
 Um <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">navegador</a> Web (<em>web browser</em>) muito utilizado em todo globo; tanto por pessoas comuns como por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>. Já vem instalado por padrão no <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a> ou Lubuntu _embora, claro, você possa instalar noutro sistema se quiser.
 🖥️ Linux, Mac, Windows, Android.
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">MPL</a>.
 🔗️mozilla.org/en-US/firefox/new/
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/330px-Minetest_logo.svg.png" width="60" height="120" />Minetest (Luanti).
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/330px-Minetest_logo.svg.png" width="60" />Minetest (Luanti).
 Jogo ao estilo Minecraft.
 🖥️ MacOS, Linux, FreeBSD, Android, Windows.
 📜️ GPL, outras.
@@ -40,7 +49,9 @@ Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streami
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a> e outras semelhantes.
 🔗️videolan.org/vlc/
 ⬇️ Ubuntu Software, Play Store.
+
 <h4>Arte, <em>design</em>, multimídia</h4>
+
 <img class="alignleft" src="https://crisponairblog.files.wordpress.com/2016/09/audacity.jpg?w=300" width="60" height="59" />🇺🇸 <strong>Audacity</strong> (CMU - Universidade).
 Um <a href="https://joesynth.wordpress.com/2020/04/18/softs-de-edicao-de-audio/">editor de áudio</a>, também permitindo mixagem em várias pistas, tal como os antigos <a href="https://joesynth.wordpress.com/2021/11/13/estudio-de-gravacao-caseiro-em-fita/">portastudios</a>.
 🖥️ MacOS, Linux, Windows.
@@ -96,7 +107,9 @@ Streaming.
 🔗 obsproject.com
 💽 github.com/obsproject/obs-studio
 ⬇️ Ubuntu Software.
+
 <h4>Educação</h4>
+
 <img class="alignleft" src="https://nsltecnologia.com.br/wp-content/uploads/2019/07/i-educar.png" width="120" />🇧🇷 <strong>i-Educar</strong>.
 Gestão escolar. É possível cadastro de alunos, emissão de certificados e diplomas, relatórios etc.
 🖥️ Linux, Windows.
@@ -106,7 +119,9 @@ Gestão escolar. É possível cadastro de alunos, emissão de certificados e dip
 💽 github.com/portabilis/i-educar
 🔗 ieducar.org/
 ⬇️ ️ softwarepublico.gov.br
+
 <h4>Empresas/escritório</h4>
+
 Conforme o ISF (Instituto Sem Fronteiras), 73% das grande empresas e 31% das pequenas utilizam <em>software</em> livre. Há multa para a empresa que usa <em>software</em> pirata, e evidentemente isso influencia.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Thunderbird_Logo%2C_2018.svg/65px-Thunderbird_Logo%2C_2018.svg.png" width="61" height="60" />🇺🇸  <strong>Thunderbird</strong>.
@@ -144,23 +159,25 @@ O '<em>DoliDroid</em>' é uma versão para você usar no Android e que acessa o 
 🔗️ dolibarr.org
 💽️ sourceforge.net/projects/dolibarr/files/
 ⬇️ <a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a> (DoliDroid).
-<h4>Internet</h4>
+
+<h4>TI (Tecnologia da Informação)</h4>
+
 O próprio funcionamento da Web em muito tem a ver com <em>software</em> livre. Aqui temos servidor, banco de dados, FTP....
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />○ <strong>Apache</strong>.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />○ 🇺🇸 Apache.
 Nascido nos anos 90, o Apache é um dos softwres livres mais conhecidos. Ele é o mais utilizado <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">software servidor</a> Web, título disputado com o Nginx.
 <span class="Y2IQFc" lang="pt">📜️</span> Apache 2.0.
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="88" />○ <strong>MySQL</strong>.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="88" />○ 🇸🇪 MySQL.
 Criado anos 90, lida com <a href="https://joesynth.wordpress.com/2021/11/28/banco-de-dados-principais-softwares/">banco de dados</a>.
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>...
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/112px-7ziplogo.svg.png" width="60" height="34" /> 🇷🇺 <strong>7-Zip</strong>.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/112px-7ziplogo.svg.png" width="60" height="34" /> 🇷🇺 7-Zip.
 Compactador de arquivo com suporte a vários formatos; um <em>software</em> bem-vindo para fazer <em>backup</em>.
 🖥️ MacOS, Linux, Windows...
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">LGPL</a>...
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="58" height="58" />○ <strong>WordPress</strong>.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="58" height="58" />○ 🇺🇸 WordPress.
 Um <a href="https://joesynth.wordpress.com/2021/11/28/software-cms/">CMS</a>, mas também um <em>blog</em>. Aliás, o <em>blog</em> JoeSynth utiliza WordPress; bem como a Globo e a BBC, dentre muitas empresas.
 🖥️ MacOS, Linux, Windows...
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
@@ -169,16 +186,18 @@ Um <a href="https://joesynth.wordpress.com/2021/11/28/software-cms/">CMS</a>, ma
 XAMPP (<span class="Y2IQFc" lang="pt">📜️; Apache, MySQL...</span>).
 FileZilla (<span class="Y2IQFc" lang="pt">📜️GPL</span>, FTP).
 BIND (<span class="Y2IQFc" lang="pt">📜️MPL; anos 80; servidor de protocolo DNS</span>).</pre>
-<h4>Programação</h4>
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/64px-Bluefish-icon.svg.png" width="59" height="59" />🇳🇱️ <a href="https://joesynth.wordpress.com/2021/10/31/bluefish-editor-de-codigo/">Bluefish</a>.
-Nascido na década de 1990, o software do simpático peixinho é um <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-html/">editor de códigos</a> para desenvolvedores. Lida com linguagens como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">JS, CSS, HTML</a>...
-<span class="Y2IQFc" lang="pt">📜️</span>  <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
-⬇️ <a href="https://joesynth.wordpress.com/2021/12/25/xx/">Ubuntu Software</a>.
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" width="88" />🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-git/">Git</a>.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/64px-Bluefish-icon.svg.png" width="59" height="59" />🇳🇱️ Bluefish.
+Nascido na década de 1990, o software do simpático peixinho é um editor de códigos para desenvolvedores. Lida com linguagens como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">JS, CSS, HTML</a>...
+<span class="Y2IQFc" lang="pt">📜️</span>  <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
+⬇️ Ubuntu Software.
+
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" width="88" />🇺🇸 Git.
 Bem conhecido de programadores, ele rastreia alterações em qualquer conjunto de arquivos.
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
+
 <h4>Brinde! Outros softwares livres</h4>
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Satoshi_Nakamoto.jpg/220px-Satoshi_Nakamoto.jpg" width="120" />○ <strong>Bitcoin Core</strong>.
 Esse programa é um caso curioso de <em>software</em> gratuito e código aberto, sendo que ele verifica os pagamentos.
 O <span class="Y2IQFc" lang="pt"><em>software</em> (de criptomoeda) foi publicado por Satoshi Nakamoto (foto da </span><span class="Y2IQFc" lang="pt">estátua em Budapeste</span><span class="Y2IQFc" lang="pt">).
@@ -195,13 +214,11 @@ Um <em>software</em> que trabalha com animação 2D.
 🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.
 Um ambiente de JavaScript.
 É utilizado por Microsoft, Netflix, PayPal, Yahoo!...
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">MIT License</a>.
-<pre><img class="alignleft" src="https://img.icons8.com/color/2x/virtualbox.png" width="40" />VirtualBox (<span class="Y2IQFc" lang="pt">📜️</span>, virtualization).
+📜️ MIT License.
 
-</pre>
-Veja também:
-- <a href="https://joesynth.wordpress.com/2023/10/18/erp-e-pdv/">ERP e PDV</a>.
-- <a href="https://joesynth.wordpress.com/2023/10/18/jogo-open-source/">7 jogoss open-source</a>.
+<img class="alignleft" src="https://img.icons8.com/color/2x/virtualbox.png" width="60" />🇩🇪 VirtualBox.
+📜️ GPL (não somente!).
+
 
 
 É isso! Grande abraço.
