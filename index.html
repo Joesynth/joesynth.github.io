@@ -14,3 +14,15 @@ title: Joe S - Início
         </article>
     </a>
 {% endfor %}
+
+{% for item in site.data.artigo %}
+    <a href="{{ item.href }}">
+        <article>
+            <img src="{{ item.src }}" alt="Artigo" class="art-img">
+            <div class="art-content">
+                <h3>{{ item.h3 }}</h3>
+                <p>{{ item.p }}</p>
+            </div>
+        </article>
+    </a>
+{% endfor %}
