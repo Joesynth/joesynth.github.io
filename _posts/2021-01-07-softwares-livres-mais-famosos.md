@@ -1,4 +1,4 @@
-# 21 Softwares livres mais famosos
+# 7 Softwares livres mais famosos
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/software_livre.png" width="320" />
 
@@ -105,7 +105,7 @@ Editor de vídeo leve.
 ⚫ Cinerella - editor de vídeo.  
 ⚫ Kdenlive - editor de vídeo, similar ao Movie Maker.  
 
-Música? Veja [DAW softwares grátis](/https://joesynth.wordpress.com/2021/11/13/daw-software-gratis/), um artigo lá do blog Joesynth Wordpress.  
+Música? Veja [DAW softwares grátis](https://joesynth.wordpress.com/2021/11/13/daw-software-gratis/), um artigo lá do blog Joesynth Wordpress.  
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/120px-OBS_Studio_Logo.svg.png" width="58" height="58" />• <strong>OBS Studio</strong>.  
 Streaming.  
