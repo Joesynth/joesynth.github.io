@@ -1,0 +1,30 @@
+---
+layout: default
+title: Joe S - Início
+---
+
+{% for item in site.data.smarketing %}
+    <a href="{{ item.href }}">
+        <article>
+            <img src="{{ item.src }}" alt="Artigo" class="art-img">
+            <div class="art-content">
+                <h3>{{ item.h3 }}</h3>
+                <p>{{ item.p }}</p>
+            </div>
+        </article>
+    </a>
+{% endfor %}
+
+{% include mkt2.html %}
+
+{% for item in site.data.smarketing %}
+    <a href="{{ item.href }}">
+        <article>
+            <img src="{{ item.src }}" alt="Artigo" class="art-img">
+            <div class="art-content">
+                <h3>{{ item.h3 }}</h3>
+                <p>{{ item.p }}</p>
+            </div>
+        </article>
+    </a>
+{% endfor %}
