@@ -81,6 +81,12 @@ Além de jogos, lida com realidade virtual, filmes animados, edição de vídeo.
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 ⬇️ Ubuntu Software.  
 
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/60px-Synfig_logo.svg.png" width="40" height="57" />○ <strong>Synfig</strong>.  
+Um <em>software</em> que trabalha com animação 2D.  
+🖥️ Linux, MacOS e Windows.  
+<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
+⬇️ Ubuntu Software.  
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/120px-Inkscape_Logo.svg.png" width="60" height="60" />○ <strong>Inkscape</strong>.  
 Editor de imagens que lida com vetor.  
 🖥️ Linux, MacOS e Windows.  
@@ -145,6 +151,14 @@ O '<em>DoliDroid</em>' é uma versão para você usar no Android e que acessa o 
 
 O próprio funcionamento da Web em muito tem a ver com <em>software</em> livre. Aqui temos servidor, banco de dados, FTP...  
 
+🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.  
+Um ambiente de JavaScript.  
+É utilizado por Microsoft, Netflix, PayPal, Yahoo!...  
+📜️ MIT License.  
+
+<img class="alignleft" src="https://img.icons8.com/color/2x/virtualbox.png" width="60" />🇩🇪 VirtualBox.  
+📜️ GPL (não somente!).  
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />○ 🇺🇸 Apache.  
 Nascido nos anos 90, o Apache é um dos softwres livres mais conhecidos. Ele é o mais utilizado <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">software servidor</a> Web, título disputado com o Nginx.  
 <span class="Y2IQFc" lang="pt">📜️</span> Apache 2.0.  
@@ -169,8 +183,6 @@ Um <a href="https://joesynth.wordpress.com/2021/11/28/software-cms/">CMS</a>, ma
     FileZilla (<span class="Y2IQFc" lang="pt">📜️GPL</span>, FTP).  
     BIND (<span class="Y2IQFc" lang="pt">📜️MPL; anos 80; servidor de protocolo DNS</span>).
 
-
-
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/64px-Bluefish-icon.svg.png" width="59" height="59" />🇳🇱️ Bluefish.  
 Nascido na década de 1990, o software do simpático peixinho é um editor de códigos para desenvolvedores. Lida com linguagens como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">JS, CSS, HTML</a>...  
 <span class="Y2IQFc" lang="pt">📜️</span>  <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
@@ -189,19 +201,9 @@ O <span class="Y2IQFc" lang="pt"><em>software</em> (de criptomoeda) foi publicad
 📜️ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">MIT License</a>.  
 </span>
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/60px-Synfig_logo.svg.png" width="40" height="57" />○ <strong>Synfig</strong>.  
-Um <em>software</em> que trabalha com animação 2D.  
-🖥️ Linux, MacOS e Windows.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
-⬇️ Ubuntu Software.  
 
-🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.  
-Um ambiente de JavaScript.  
-É utilizado por Microsoft, Netflix, PayPal, Yahoo!...  
-📜️ MIT License.  
 
-<img class="alignleft" src="https://img.icons8.com/color/2x/virtualbox.png" width="60" />🇩🇪 VirtualBox.  
-📜️ GPL (não somente!).  
+
 
 
 É isso! Grande abraço.
