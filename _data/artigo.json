@@ -12,9 +12,15 @@
     "p": "Veja as instituições mais poderosas que utilizam o sistema operacional do pinguim, no Brasil e no exterior."
   },
   {
+    "href": "por-que-usar-linux.html",
+    "src": "image/linux.png",
+    "h3": "Por que usar Linux?",
+    "p": "Um guia elementar."
+  },
+  {
     "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
-    "h3": "Nano",
+    "h3": "Nano: editor de códigos",
     "p": "Um tutorial vital do editor de códigos Nano, presente no Ubuntu e na maioria dos Linux."
   },
   {
@@ -80,7 +86,7 @@
   {
     "href": "bluefish-editor-de-codigo.html",
     "src": "image/linguagem.png",
-    "h3": "Bluefish editor de códigos",
+    "h3": "Bluefish: editor de códigos",
     "p": "Instalação, configuração e muito mais sobre esse belo editor de códigos."
   },
   {
@@ -121,7 +127,7 @@
   },
   {
     "href": "software-livre-e-software-proprietario.html",
-    "src": "image/linux.png",
+    "src": "image/.png",
     "h3": "Software livre e software proprietário",
     "p": "Sim, existe software público ou feito em comunidade, colaboração. Mas o que difere dos softwares privados?"
   },
@@ -168,18 +174,6 @@
     "p": "Vamos entender um pouco do que se trata o tal do CLI?"
   },
   {
-    "href": "web-servidores-brasileiros.html",
-    "src": "image/rede.png",
-    "h3": "Web: servidores brasileiros",
-    "p": "No Brasil há vários servidores e neste artigo listamos alguns, inclusive históricos."
-  },
-  {
-    "href": "uber-ifood-o-que-sao-essas-empresas.html",
-    "src": "image/rede.png",
-    "h3": "Uber/iFood: o que são essas empresas?",
-    "p": "No contexto da tecnologia, veja o que são essas empresas."
-  },
-  {
     "href": "unicode.html",
     "src": "image/design.png",
     "h3": "Unicode?",
@@ -190,18 +184,6 @@
     "src": "image/ti.png",
     "h3": "Boas práticas na internet",
     "p": "Quais os bons comportamentos que devemos adotar na web?"
-  },
-  {
-    "href": "private.html",
-    "src": "image/rede.png",
-    "h3": "Ifood: poder",
-    "p": "O poder do iFood, um exemplo de onde chegou a tecnologia."
-  },
-  {
-    "href": "wordpress-plugins.html",
-    "src": "image/ti.png",
-    "h3": "Wordpress plugins",
-    "p": "O ambiente Wordpress é super poderoso na web, e conhecermos os plugins pode nos dar ainda mais ganhos."
   },
   {
     "href": "linguagens-resumo.html",
@@ -381,12 +363,6 @@
     "href": "game-tutorial.html",
     "src": "image/ti.png",
     "h3": "Game: tutorial",
-    "p": "Um guia elementar."
-  },
-  {
-    "href": "por-que-usar-linux.html",
-    "src": "image/linux.png",
-    "h3": "Por que usar Linux?",
     "p": "Um guia elementar."
   },
   {
