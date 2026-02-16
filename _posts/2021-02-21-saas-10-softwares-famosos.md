@@ -1,4 +1,4 @@
-# SaaS: 10 softwares famosos
+# SaaS: 7 softwares famosos
 
 SaaS (<span style="color: #0000ff"><em>Software as a service</em></span>) Software como serviço<em>.</em>
 
