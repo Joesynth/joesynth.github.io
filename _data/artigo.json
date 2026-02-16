@@ -18,12 +18,6 @@
     "p": "Um tutorial vital do editor de códigos Nano, presente no Ubuntu e na maioria dos Linux."
   },
   {
-    "href": "comercio-digital-dicas.html",
-    "src": "image/comercio.png",
-    "h3": "Comércio digital: dicas",
-    "p": "Muita informação hoje em dia? Veja um guia vital de ferramentas para micro empresas ou MEI."
-  },
-  {
     "href": "backup.html",
     "src": "image/db.png",
     "h3": "Backup",
@@ -52,18 +46,6 @@
     "src": "image/ti.png",
     "h3": "Noções de Informática",
     "p": "Estudante, concurseiro? Tutorial de <em>hardware</em> e <em>software</em> simples e fácil; além de tecnologias, exercícios..."
-  },
-  {
-    "href": "eula.html",
-    "src": "image/comercio.png",
-    "h3": "EULA: poder e polêmicas",
-    "p": "Acordo de Licença de Usuário Final: o 'quadradinho' que sempre confirmamos quando instalamos um software."
-  },
-  {
-    "href": "seo-on-page.html",
-    "src": "image/mkt.png",
-    "h3": "SEO On Page",
-    "p": "Tutorial: o que é exatamente SEO On Page?"
   },
   {
     "href": "gedit.html",
@@ -120,12 +102,6 @@
     "p": "O que essa rede tem de diferente do Facebook, Instagram ou o Mastodon?"
   },
   {
-    "href": "marketplace-49-sites.html",
-    "src": "image/mkt.png",
-    "h3": "Marketplace: 49 sites",
-    "p": "Veja uma bela coleção de sites comerciais e que podem expandir os horizontes de sua empresa."
-  },
-  {
     "href": "opcoes-ao-google-drive.html",
     "src": "image/foss.png",
     "h3": "Opções ao Google Drive",
@@ -138,28 +114,10 @@
     "p": "Conheça os tipos de memórias de computador, veja detalhes..."
   },
   {
-    "href": "o-que-e-crm.html",
-    "src": "image/mkt.png",
-    "h3": "O que é CRM?",
-    "p": "Descubra a importância desse tipo de ferramenta para sua empresa, hoje em dia vital."
-  },
-  {
-    "href": "software-de-gestao-empresarial.html",
-    "src": "image/comercio.png",
-    "h3": "Software de gestão empresarial",
-    "p": "Fique esperto nos tipos de softwares de gestão para sua empresa, vital atualmente."
-  },
-  {
     "href": "profissionais-de-informatica.html",
     "src": "image/ti.png",
     "h3": "Profissionais de informática",
     "p": "Quais as opções de áreas de trabalho para quem gosta (ou ama) tecnologia?"
-  },
-  {
-    "href": "site-comercial-um-tutorial-essencial.html",
-    "src": "image/comercio.png",
-    "h3": "Site comercial: um tutorial essencial",
-    "p": "Tudo o que vocẽ precisa saber sobre ter um site, vital nos dias atuais."
   },
   {
     "href": "software-livre-e-software-proprietario.html",
@@ -178,18 +136,6 @@
     "src": "image/foss.png",
     "h3": "Softwares livres mais famosos",
     "p": "Conheça os softwares livres mais populares."
-  },
-  {
-    "href": "softwares-de-marketing-77-casos.html",
-    "src": "image/mkt.png",
-    "h3": "Softwares de marketing: 77 casos",
-    "p": "Uma coleção com dezenas de softwares de marketing, muitos vitais para sua empresa."
-  },
-  {
-    "href": "software-seo.html",
-    "src": "image/mkt.png",
-    "h3": "Softwares SEO",
-    "p": "Um panoroma sobre esse tipo de software que é de grande importância para sua empresa."
   },
   {
     "href": "software-servidor.html",
@@ -228,12 +174,6 @@
     "p": "No Brasil há vários servidores e neste artigo listamos alguns, inclusive históricos."
   },
   {
-    "href": "telegram-tutorial-7-motivos-para-usar-na-sua-empresa.html",
-    "src": "image/comercio.png",
-    "h3": "Telegram tutorial: 7 motivos para usar na sua empresa",
-    "p": "Indo além de um mero app de mensagens, saiba as razões para utilizá-lo na sua empresa."
-  },
-  {
     "href": "uber-ifood-o-que-sao-essas-empresas.html",
     "src": "image/rede.png",
     "h3": "Uber/iFood: o que são essas empresas?",
@@ -270,12 +210,6 @@
     "p": "Um panorama das principais linguagens usadas em computação."
   },
   {
-    "href": "softwares-de-e-commerce.html",
-    "src": "image/comercio.png",
-    "h3": "Softwares de e-commerce",
-    "p": "Um acervo das principais ferramentas para uma loja virtual."
-  },
-  {
     "href": "private.html",
     "src": "image/ti.png",
     "h3": "Estruturas de dados",
@@ -292,12 +226,6 @@
     "src": "image/ti.png",
     "h3": "Saas: 10 softwares famosos",
     "p": "Cada vez mais comuns, veja casos conhecidos."
-  },
-  {
-    "href": "private.html",
-    "src": "image/mkt.png",
-    "h3": "Google - fatores de ranqueamento",
-    "p": "Conheça as leis do Google e tenha mais chances de sucesso na web, se adequando."
   },
   {
     "href": "private.html",
@@ -342,12 +270,6 @@
     "p": "Um guia básico."
   },
   {
-    "href": "software-cms.html",
-    "src": "image/mkt.png",
-    "h3": "Software CMS",
-    "p": "Conheça esses softwares de TI, que impactam tanto no e-commerce quanto no marketing."
-  },
-  {
     "href": "hardware-de-rede.html",
     "src": "image/rede.png",
     "h3": "Hardware de rede",
@@ -358,12 +280,6 @@
     "src": "image/rede.png",
     "h3": "Rede",
     "p": "Um guia rápido."
-  },
-  {
-    "href": "private.html",
-    "src": "image/comercio.png",
-    "h3": "B2B",
-    "p": "Conheça mais sobre B2B."
   },
   {
     "href": "firewall-ferramentas.html",
@@ -418,18 +334,6 @@
     "src": "image/linguagem.png",
     "h3": "Frameworks",
     "p": "Saiba mais sobre os frameworks."
-  },
-  {
-    "href": "private.html",
-    "src": "image/mkt.png",
-    "h3": "Google Adwords",
-    "p": "Um guia elementar."
-  },
-  {
-    "href": "private.html",
-    "src": "image/mkt.png",
-    "h3": "Google Adwords e Adsense",
-    "p": "Um guia elementar."
   },
   {
     "href": "json.html",
@@ -498,18 +402,6 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "marketing-digital.html",
-    "src": "image/mkt.png",
-    "h3": "Marketing digital",
-    "p": "Um guia elementar."
-  },
-  {
-    "href": "private.html",
-    "src": "image/mkt.png",
-    "h3": "Message scheduler Whatsapp",
-    "p": "Um guia elementar."
-  },
-  {
     "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Deploy",
@@ -557,10 +449,4 @@
     "h3": "API: o que é?",
     "p": "Um guia elementar."
   },
-  {
-    "href": "o-que-e-social-news.html",
-    "src": "image/mkt.png",
-    "h3": "Social News: o que é?",
-    "p": "Um guia elementar."
-  }
 ]
