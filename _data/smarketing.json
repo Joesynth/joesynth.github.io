@@ -6,6 +6,30 @@
     "p": "Tutorial: o que é exatamente SEO On Page?"
   },
   {
+    "href": "private.html",
+    "src": "image/rede.png",
+    "h3": "Ifood: poder",
+    "p": "O poder do iFood, um exemplo de onde chegou a tecnologia."
+  },
+  {
+    "href": "uber-ifood-o-que-sao-essas-empresas.html",
+    "src": "image/rede.png",
+    "h3": "Uber/iFood: o que são essas empresas?",
+    "p": "No contexto da tecnologia, veja o que são essas empresas."
+  },
+  {
+    "href": "web-servidores-brasileiros.html",
+    "src": "image/rede.png",
+    "h3": "Web: servidores brasileiros",
+    "p": "No Brasil há vários servidores e neste artigo listamos alguns, inclusive históricos."
+  },
+  {
+    "href": "wordpress-plugins.html",
+    "src": "image/ti.png",
+    "h3": "Wordpress plugins",
+    "p": "O ambiente Wordpress é super poderoso na web, e conhecermos os plugins pode nos dar ainda mais ganhos."
+  },
+  {
     "href": "marketplace-49-sites.html",
     "src": "image/mkt.png",
     "h3": "Marketplace: 49 sites",
