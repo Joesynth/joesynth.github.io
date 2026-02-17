@@ -24,6 +24,12 @@
     "p": "Veja os 7 sistemas operacionais que todo cidadão deveria conhecer."
   },
   {
+    "href": "linux-interfaces.html",
+    "src": "image/linux.png",
+    "h3": "Linux: interfaces",
+    "p": "Que tal escolher a "cara" do seu computador?."
+  },
+  {
     "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
     "h3": "Nano: editor de códigos",
@@ -212,7 +218,7 @@
   {
     "href": "saas-7-softwares-famosos.html",
     "src": "image/ti.png",
-    "h3": "Saas: 10 softwares famosos",
+    "h3": "Saas: 7 softwares famosos",
     "p": "Cada vez mais comuns, veja casos conhecidos."
   },
   {
