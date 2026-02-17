@@ -58,9 +58,11 @@ Indicado pra desktop.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lubuntu.svg/250px-Lubuntu.svg.png" width="120" />
 **Lubuntu**.  
-Ubuntu com ambiente gráfico LXDE, sendo um Ubuntu mais "leve" para netbooks, PCs antigos.  
+Ubuntu com ambiente gráfico [LXDE ou LXQt](/linux-interfaces), sendo um Ubuntu mais "leve" para netbooks, PCs antigos.  
 ● 32 ou 64 bits.  
 🔗️ lubuntu.net  
+
+🤔 **Xubuntu** é outra distribuição semelhante. Ambos, Xubuntu e Lubuntu, utilizam o mesmo núcleo (*kernel*) do Ubuntu.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/250px-Fedora_logo_%282021%29.svg.png" width="120" />🇺🇸 Fedora.  
 Baseada no Red Hat. Há cinco edições (vide software servidor).  
@@ -88,17 +90,24 @@ Derivada do Mandriva.
 🇫🇷 <del>Mandriva</del>.  
 Derivada do Red Hat Linux.  
 
-🇨🇦 **Arch Linux**.  
+🇨🇦 **Arch Linux** (ano 2002).  
 
 🇺🇸 ****Gentoo**.  
 
 <img class="alignleft" src="https://www.opensourcefeed.org/assets/images/logo/rosa-logo.jpeg" width="79" height="23" />🇷🇺 **ROSA**.  
+Do ano de 2010, é originada da Mandriva.
 🔗️rosalinux.ru/  
 📜️ GPL (embora haja proprietária).  
 
-🇷🇺 **ROSA Linux Marathon**.  
+**ROSA Linux Marathon**.  
+Uma edição (ou versão) do ROSA.  
 ● 32 ou 64 bits.  
 🔗️rosalab.com  
+
+**ROSA Desktop (Fresh)**.  
+Compatível com português e vários ambientes gráficos, como o KDE.  
+
+> "...a ROSA Desktop também recebeu avaliações favoráveis de várias publicações on-line não russas. O site de tecnologia alemão Golem.de elogiou a ROSA por sua estabilidade e suporte de hardware, enquanto o LinuxInsider.com chamou a ROSA de "uma verdadeira potência"." [wikipedia]
 
 🎈️ Há distros dedicadas à segurança (como a Kali), bem como software servidor e até firewall ou celular (Ubuntu Touch/UBPorts).  
 
@@ -113,7 +122,7 @@ Na década de 90 já se tinha distribuições, como é o caso da Debian e a Red 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/IanMurdock_%28cropped%29.jpg/250px-IanMurdock_%28cropped%29.jpg" width="80" /> Ian Murdock, que curiosamente, nasceu na Alemanha.
 
-🇺🇸 **Slackware**: uma distribuição respeitadíssima e presente até os dias atuais, onde o usuário de fato tem controle do sistema.  
+🇺🇸 **Slackware**: uma distribuição respeitadíssima e presente até os dias atuais, onde o usuário tem total controle do sistema.  
 
 
 É isso! Abraço.  
