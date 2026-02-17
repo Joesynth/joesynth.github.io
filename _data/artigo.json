@@ -30,6 +30,12 @@
     "p": "Que tal escolher a 'cara' do seu computador?."
   },
   {
+    "href": "software-livre-as-comunidades.html",
+    "src": "image/foss.png",
+    "h3": "Software livre: as comunidades",
+    "p": "Conheça o suprassumo do trabalho colaborativo em TI, no Brasil e no mundo."
+  },
+  {
     "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
     "h3": "Nano: editor de códigos",
