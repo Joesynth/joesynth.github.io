@@ -21,27 +21,34 @@ Escrito: C++.
 📜 GPL.  
 
 **GNOME**:  
-Ubuntu, Red Hat, Debian, Debian, SUSE...  
+Ex: ● Ubuntu ● Red Hat ● Debian ● Debian ● SUSE...  
 
 **Unity**:  
-Usada Ubuntu.  
+Ex: ● Ubuntu.  
 
 **Cinnamon**:  
-Usada pelo Linux Mint, é bem parecida com o Windows.  
+É bem parecida com o Windows.  
+Ex: ●  Linux Mint.
 
 **Xfce**:
 Pretende ser rápido e leve, mas ainda visualmente atraente e fácil de usar. Esse ambiente de trabalho foi projetado para incorporar a filosofia tradicional do Unix de modularidade e reutilização, bem como a adesão a padrões; especificamente, aqueles definidos em freedesktop.org.  
-Ex:  ● Xubuntu ● Slackware ● MX Linux ● Pentoo ● Gentoo ● Manjaro ● Kali Linux.  
+Ex: ● Xubuntu ● Slackware ● MX Linux ● Pentoo ● Gentoo ● Manjaro ● Kali Linux.  
 Anos 90, escrito em C.  
 📜 GPL.  
 
 **LXDE**:  
 Um ambiente de trabalho com requisitos de recursos relativamente baixos, portanto adequado para computadores pessoais mais antigos ou com recursos limitados, como <em>netbook</em> ou computadores com *sistema em um chip*.  
-● Lubuntu (ou LXQt dependendo do ano) ● Raspberry Pi OS.  
+Ex: ● Lubuntu (dependendo da versão) ● Raspberry Pi OS.  
 Escrito em C.  
 📜 GPL.  
 
+**LXQt**:
+Posterior ao LXDE, também é um ambiente leve, portanto bem-vindo para PCs antigos.
+Ex: ● Lubuntu ● ROSA Desktot
+
 **Fluxbox**.  
+Outra opção de interface leve, sendo possível usar em várias distros Linux.
+Ex: ● Arch Linux ● Debian ● Gentoo ● Slackware.
 
 
 É isso!
