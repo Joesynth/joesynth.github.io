@@ -1,7 +1,10 @@
 # Quem usa o Linux?
 
-- Linux no Brasil: quem usa?
-- Linux noutros países: quem usa?
+Olá!
+Apresentamos aqui alguns casos do sistema operacional Linux. Mas, fazendo um "spoiler", já avismos: são todas as áreas onde está presente (de fato) o conhecimento humano.
+
+- Brasil: quem usa?
+- Outros países: quem usa?
 - TOP500
 - A internet
 - Você usa Linux!
@@ -9,7 +12,7 @@
 
 <img class="https://joesynth.wordpress.com/wp-content/uploads/2021/10/linux_ubuntu.png" width="310" />
 
-## Linux no Brasil: quem usa?
+## Brasil: quem usa?
 
 🇧🇷 Instituições/empresas no Brasil
 
@@ -30,15 +33,19 @@ Comércio/Varejista</strong>: Casas Bahia  Colombo ● Lojas Americanas (Pontos 
 
 <strong>Logística/Transporte</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Varig <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Metro SP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Gol...  
 
-## Linux noutros países: quem usa?
+## Outros países: quem usa?
 
-🇺🇸 Órgãos de Estado / Instituições não governamentais:
-● NASA ● FAA ● Wikipedia.  
+🇺🇸 Instituições não governamentais:
+● Wikipedia.  
+🇺🇸 Órgãos de Estado / Militar / Espaço
+● NASA ● FAA ● Urna eletrônica (algumas regiões) ● computadores de bordo ● robôs
 🇺🇸 Corporações ou bigTechs que utilizam o SO do pinguim.
 ● Google ● Facebook ● Microsoft.
 🇺🇸 Finanças:  
 ● Bolsa de Valores (NYSE).
 
+🇧🇪 Bélgica
+● Urna eletrônica (algumas regiões) ● defesa ● Agência Belga de Desenvolvimento etc..
 🇫🇷 França:  
 ● Parlamento.
 🇯🇵 Japão:
@@ -48,10 +55,6 @@ Comércio/Varejista</strong>: Casas Bahia  Colombo ● Lojas Americanas (Pontos 
 
 🇨🇺 Cuba
 ● Mesmo neste país, uma nação vista de forma diferente, também usa Linux.  
-
-Será uma conspiração!? Claro que não!
-
-
 
 
 ## TOP500
@@ -84,7 +87,11 @@ Ele dará como resposta...
 
 <h6>Por que Usar Linux?</h6>
 
-O assunto é especial, então clique no link [Por que Usar Linux?](/por-que-usar-linux) e entenda o motivo pelo qual faz com que só "os grandões" usem o sistema Linux.
+Seria uma conspiração todas potências, como EUA, China e Rússia usarem Linux!? Claro que não!
+
+
+
+O assunto é especial e todo cidadão deveria saber, então clique no link [Por que Usar Linux?](/por-que-usar-linux) e entenda o motivo pelo qual faz com que só "os grandões" usem o sistema Linux, e vocẽ não!
 
 É isso. Grande abraço.
 \o/
