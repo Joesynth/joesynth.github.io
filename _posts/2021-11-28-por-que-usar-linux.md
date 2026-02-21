@@ -28,7 +28,10 @@ Neste artigo passaremos por interface gráfica, compatibilidade; bem como esses 
 ###### motivos a considerar a escolha
 Linux e Windows são os principais sistemas operacionais para <em>desktops</em> e <em>notebooks</em>.
 
-Cita-se como fatores relevantes para se escolher entre um ou outro a "segurança, desempenho e custo". <em>[AMAN, 2018]</em>
+Cita-se como fatores relevantes para se escolher entre um ou outro a...
+
+> "segurança, desempenho e custo". [AMAN, 2018]
+
 Será mesmo? E quem não tem referências?
 
 ###### Diferenças: o GNU/Linux
@@ -36,18 +39,18 @@ Será mesmo? E quem não tem referências?
 É um sistema livre, não se precisa pagar pela licença e é um sistema de código fonte aberto.
 
 Em si...
-"<em>o GNU/Linux não é uma empresa, não existe uma empresa responsável ou uma estrutura física. O que existe é uma comunidade, na qual os conhecimentos são compartilhados para quem quiser.</em>" [AMAN, 2018]
+
+> "o GNU/Linux não é uma empresa, não existe uma empresa responsável ou uma estrutura física. O que existe é uma comunidade, na qual os conhecimentos são compartilhados para quem quiser." [AMAN, 2018]
 
 O próprio SO foi criado por diversas pessoas de forma comunitária.
 
 ###### Diferenças: o Microsoft Windows
 
-"de propriedade privada, sua licença possui um valor".
-<em>[AMAN, 2018]</em>
+> "de propriedade privada, sua licença possui um valor". [AMAN, 2018]
 
 Como mais acima, custo é só um dos pontos a se considerar, mas há outros.
 
-"<em>No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações.</em>" [AMAN, 2018]
+> "No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações." [AMAN, 2018]
 
 Ou seja, o sistema operacional <em>Windows</em> é um <em>soft</em> com único dono: a Microsoft. E sendo ela a proprietária do sistema, só ela pode atualizá-lo.
 
@@ -87,45 +90,74 @@ A adoção do sistema livre GNU/Linux está ocorrendo de forma gradual, no Exér
 
 E motivos que levaram o governo a adotar o software livre estão no fato de se reduzir os custos com renovação de software, gerar o desenvolvimento do conhecimento na área, além de ampliar a concorrência.
 
-> "<em>Para o Exército Brasileiro e para o governo brasileiro, o parque computacional deveria respeitar a questão da segurança, principalmente levar em consideração os princípios básicos da segurança, que consiste na confidencialidade, integridade e disponibilidade. A confidencialidade consiste em garantir que somente pessoas autorizadas tenham acesso aqueles documentos ou informações segundo o Diretor de TI da SAEB e fundador do portal GSTI, Fernando Palma. Isso pode ser feito através de controle de acesso, autenticações e etc. Para isso, o sistema operacional utilizado não pode conter backdoor." [AMAN, 2018]</em>
-<em>"O Exército adotou o plano de migração para software livre e dentre as inúmeras recomendações uma delas é a utilização do Ubuntu para os desktops, pois é desenvolvido com base no Debian, já alcançou certo grau de maturidade e é de fácil utilização</em>."
-<em>[AMAN, 2018]</em>.
+> "Para o Exército Brasileiro e para o governo brasileiro, o parque computacional deveria respeitar a questão da segurança, principalmente levar em consideração os princípios básicos da segurança, que consiste na confidencialidade, integridade e disponibilidade. A confidencialidade consiste em garantir que somente pessoas autorizadas tenham acesso aqueles documentos ou informações segundo o Diretor de TI da SAEB e fundador do portal GSTI, Fernando Palma. Isso pode ser feito através de controle de acesso, autenticações e etc. Para isso, o sistema operacional utilizado não pode conter backdoor." [AMAN, 2018]
+
+
+> "O Exército adotou o plano de migração para software livre e dentre as inúmeras recomendações uma delas é a utilização do Ubuntu para os desktops, pois é desenvolvido com base no Debian, já alcançou certo grau de maturidade e é de fácil utilização." [AMAN, 2018]
 
 <h2>Segurança</h2>
 
-<h6>O código fonte</h6>
-É imprescindível. Uma das formas de medir a segurança de um software é analisar o código fonte com o intuito de descobrir possíveis falhas (até backdoors). Segundo Jansen Sena, “O código-fonte aberto pode realmente ser analisado por qualquer programador e este é o ponto forte do ponto de vista da segurança. Se muitos programadores têm acesso ao mesmo código, a probabilidade de se ter problemas de segurança deve ser menor.”(2009, p. 336)
+###### O código fonte
+
+É imprescindível. Uma das formas de medir a segurança de um software é analisar o código fonte com o intuito de descobrir possíveis falhas (até backdoors).
+
+> “O código-fonte aberto pode realmente ser analisado por qualquer programador e este é o ponto forte do ponto de vista da segurança. Se muitos programadores têm acesso ao mesmo código, a probabilidade de se ter problemas de segurança deve ser menor.” [Jansen Sena, 2009, p. 336]
 
 Com relação à segurança do software proprietário pode-se dizer que o fato da não disponibilização do código fonte do software, faz com que, o software seja uma caixa preta. Ou seja, não dá para averiguar se é, ou não, realmente confiável [...]. Uma das premissas da segurança diz que...
 <blockquote>A segurança nunca deve ser baseada na obscuridade.</blockquote>
 O fato de possuir código fonte aberto, permite que programadores do mundo todo olhem e procure por erros ou falhas e permite corrigi-las em curto espaço de tempo em relação ao sistema operacional Windows, para <em>desktops</em> e <em>notebook</em>. As chances de apresentar algum erro caem drasticamente, tornando o sistema mais seguro.
 
 O exemplo do Debian.
-"<em>Outro ponto que vale ressaltar é o fato do código fonte do Debian estar disponibilizado gratuitamente para quem quiser, dessa maneira fica praticamente impossível a comunidade inserir alguma backdoor ou software malicioso no sistema, porque inúmeros programadores analisarão o código fonte e certamente o descobrirão, se ele existir. O sistema não é uma caixa-preta, não fere os princípios da segurança e nem faz uso da segurança baseada na obscuridade.</em>" [AMAN, 2018]
-<h6>Quantidade de malware e SO</h6>
+
+> "Outro ponto que vale ressaltar é o fato do código fonte do Debian estar disponibilizado gratuitamente para quem quiser, dessa maneira fica praticamente impossível a comunidade inserir alguma backdoor ou software malicioso no sistema, porque inúmeros programadores analisarão o código fonte e certamente o descobrirão, se ele existir. O sistema não é uma caixa-preta, não fere os princípios da segurança e nem faz uso da segurança baseada na obscuridade." [AMAN, 2018]
+
+
+###### Quantidade de malware e SO
+
 O Linux é responsável por uma pequena parcela dos SOs utilizados pelo usuário, a quantidade de vírus existente é pequena quando comparado ao Windows, uma vez que os cibercriminosos escolherão fazer um vírus para um sistema operacional de maior uso pelos usuários domésticos. O GNU/Linux como SO para <em>desktops</em> e <em>notebooks</em> possui vírus, no entanto, em proporção bem menor que o Windows.
 
 Debian (segurança-programas maliciosos): por se tratar de um SO livre para <em>desktops</em> e <em>notebooks</em>, podemos considerar o Debian menos vulnerável do que o sistema da Microsoft. Ele leva vantagem sobre o Windows, uma vez que este último possui grande quantidade de vírus _devido diariamente surgir novos programas maliciosos. Note que, em <em>desktops</em> e <em>notebooks</em>, a quantidade de usuários que utilizam o Windows é bem superior à quantidade de pessoas que utilizam o sistema Debian GNU/Linux, por isso os crakers preferem fazer vírus para o Windows.
-<h6>O foco do desenvolvedor: é vender ou manter a segurança?</h6>
-<em>"Vale ressaltar ainda que dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser </em><em>vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa."</em> <em>[AMAN, 2018]</em>
-<h2>Quem controla o sistema? O desenvolvedor ou o usuário?</h2>
+
+###### O foco do autor: vender ou manter a segurança?
+
+Quanto ao desenvolvedor...
+
+> "Vale ressaltar ainda que dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser </em><em>vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa." [AMAN, 2018]
+
+<h2>Quem controla o sistema? Autor ou o usuário?</h2>
+
 No Debian, assim como em outras distribuições, o usuário tem controle do sistema. O sistema está subordinado ao usuário, qualquer ação que o sistema executará, seja para instalar algum software ou atualizar o próprio Debian, o usuário deve conceder uma autorização. Já no Windows isso não ocorre.
+
 <h2>Estabilidade</h2>
+
 Por ex., "<em>o [Linux] Debian está no mercado há 25 anos, logo nota-se que não é uma distribuição nova, pode-se dizer que alcançou certo nível de maturidade. Esse sistema operacional apresenta quatro versões, que são chamados de “releases”</em>."
 
-"<em>Outro problema que era muito comum há 15 anos, era o fato de que o usuário tinha que procurar os drivers e instalá-lo manualmente, o sistema não reconhecia vários hardwares, era um processo complicado, apenas quem tinha um conhecimento mais avançado sabia instalar os drivers e ainda assim não era fácil. Atualmente não é mais assim, o sistema já reconhece todo o hardware do computador e os drivers já vem embutidos no sistema, de maneira que o usuário final não precisa se preocupar com isso, apenas instala o sistema e começa a usar.</em>" <em>[AMAN, 2018]</em>
+> "Outro problema que era muito comum há 15 anos, era o fato de que o usuário tinha que procurar os drivers e instalá-lo manualmente, o sistema não reconhecia vários hardwares, era um processo complicado, apenas quem tinha um conhecimento mais avançado sabia instalar os drivers e ainda assim não era fácil. Atualmente não é mais assim, o sistema já reconhece todo o hardware do computador e os drivers já vem embutidos no sistema, de maneira que o usuário final não precisa se preocupar com isso, apenas instala o sistema e começa a usar."[AMAN, 2018]
+
 <h2>Softwares: a variedade</h2>
-"<em>existem sim alguns programas que ainda não possuem uma versão alternativa para os usuários das distribuições livres, nesses casos não tem muito que fazer. Com relação aos jogos, o GNU/Linux não tem uma biblioteca variada como a do sistema Windows, mas possui sim alguns grandes nomes. Em se tratando de suítes de escritório, o GNU/Linux conta com o LibreOffice, uma alternativa frente ao MS Office, da Microsoft. O LibreOffice está em sua sexta versão e é uma excelente alternativa, compatível com todos os documentos originados do MS Office e possui todos os recursos que um usuário precisa ter. Quando falamos de editor de imagens, temos como alternativa o Gimp frente o Adobe Photoshop. O Gimp é um bom editor de imagens, tem bastante recursos, atende às necessidades de usuário normal, porém não é muito indicado para um usuário profissional. Se for analisar a parte multimídia, reprodução de áudio, vídeo, foto, gravação de disco e outras tarefas, o GNU/Linux faz o que qualquer outro sistema operacional faria, sem complicação.</em>" <em>[AMAN, 2018]</em>
+
+> "existem sim alguns programas que ainda não possuem uma versão alternativa para os usuários das distribuições livres, nesses casos não tem muito que fazer. Com relação aos jogos, o GNU/Linux não tem uma biblioteca variada como a do sistema Windows, mas possui sim alguns grandes nomes. Em se tratando de suítes de escritório, o GNU/Linux conta com o LibreOffice, uma alternativa frente ao MS Office, da Microsoft. O LibreOffice está em sua sexta versão e é uma excelente alternativa, compatível com todos os documentos originados do MS Office e possui todos os recursos que um usuário precisa ter. Quando falamos de editor de imagens, temos como alternativa o Gimp frente o Adobe Photoshop. O Gimp é um bom editor de imagens, tem bastante recursos, atende às necessidades de usuário normal, porém não é muito indicado para um usuário profissional. Se for analisar a parte multimídia, reprodução de áudio, vídeo, foto, gravação de disco e outras tarefas, o GNU/Linux faz o que qualquer outro sistema operacional faria, sem complicação." [AMAN, 2018]
+
 <h2>Mais pontos a considerar</h2>
-<h6>Licença: grátis ou paga?</h6>
-"<em>O GNU/Linux é disponibilizado gratuitamente. O usuário não precisa pagar por uma licença para poder usar o sistema Debian GNU/Linux. A grande diferença desse sistema é que parte dos programadores que participam do projeto são voluntários. Esses programadores fazem isso porque gostam, não há uma motivação financeira, não é uma empresa que contrata funcionários, programadores, para que esses trabalhem em cima de um sistema operacional. [AMAN, 2018]</em>
-<h6>Marketing</h6>
+
+###### Licença: grátis ou paga?
+
+"O GNU/Linux é disponibilizado gratuitamente. O usuário não precisa pagar por uma licença para poder usar o sistema Debian GNU/Linux. A grande diferença desse sistema é que parte dos programadores que participam do projeto são voluntários. Esses programadores fazem isso porque gostam, não há uma motivação financeira, não é uma empresa que contrata funcionários, programadores, para que esses trabalhem em cima de um sistema operacional. [AMAN, 2018]
+
+###### Marketing
+
 Referindo-se a uma empresa...
-"<em>Há a questão do marketing, se gasta com propagandas a fim de despertar o interesse do usuário.</em>" <em>[AMAN, 2018]</em>
-<h6>Lentidão</h6>
-"<em>O sistema não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez."</em>
-<em>"De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema</em>."<em>[AMAN, 2018]</em>
+
+> "Há a questão do marketing, se gasta com propagandas a fim de despertar o interesse do usuário." [AMAN, 2018]
+
+###### Lentidão
+
+"O sistema não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez."
+
+> "De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema</em>."<em>[AMAN, 2018]
+
 <h2>Conhecendo o Linux</h2>
+
 Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja Linux.
 
 <h2>Quem usa o Linux?</h2>
