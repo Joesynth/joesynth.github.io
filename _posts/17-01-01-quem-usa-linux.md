@@ -1,7 +1,8 @@
 # Quem usa o Linux?
 
 Olá!
-Apresentamos aqui alguns casos do sistema operacional Linux. Mas, fazendo um "spoiler", já avismos: são todas as áreas onde está presente (de fato) o conhecimento humano.
+Apresentamos aqui casos de uso do sistema operacional Linux.  
+E fazendo um "spoiler": ele é utilizado em áreas onde está presente (de fato) o conhecimento humano.
 
 - Brasil: quem usa?
 - Outros países: quem usa?
@@ -12,86 +13,95 @@ Apresentamos aqui alguns casos do sistema operacional Linux. Mas, fazendo um "sp
 
 <img class="https://joesynth.wordpress.com/wp-content/uploads/2021/10/linux_ubuntu.png" width="310" />
 
-## Brasil: quem usa?
+## 🇧🇷 Brasil: quem usa?
 
-🇧🇷 Instituições/empresas no Brasil
+**Militar / Defesa**  
+● E-mail - Exército ● VPN-Marinha ● Digitro  
+**Estado**  
+● Urna eletrônica  
+**Órgãos de Estado / Instituições**  
+● Unicamp (TEleduc) ● UFPR ● Rede municipal de SP ● Rede municipal de Belo Horizonte ● Furnas ● Eletrobras ● Ministério da Cultura ● Projeto de Gerenciamento Genético de Rebanho - Embrapa  
+**Telecomunicações / Internet / Imprensa**  
+● Brasil Telecom ● Infraestrutura do Portal – Terra ● Folha (infra-estrutura) ● UOL
+**Comércio/Varejista**  
+● Casas Bahia  Colombo ● Lojas Americanas (Pontos de Caixa) ● Renner  
+**Educação**  
+● Estácio de Sá (Graduação em Software Livre)  
+**Finanças**  
+Banco do Brasil ● Caixa Econômica ● HSBC  
+**Logística / Transporte**  
+● Varig ● Metro SP ● Gol  
 
-Alguns exemplos.
-🇧🇷 Órgãos de Estado / Indústria bélica / Instituições
-● E-mail - Exército ● VPN-Marinha ● Unicamp (TEleduc) ● UFPR ● Rede municipal de SP ● Rede municipal de Belo Horizonte ● Furnas ● Eletrobras ● Ministério da Cultura ● Projeto de Gerenciamento Genético de Rebanho - Embrapa.
-<strong>
-🇧🇷
-Comércio/Varejista</strong>: Casas Bahia  Colombo ● Lojas Americanas (Pontos de Caixa) ● Renner...
+## 🇺🇸 EUA: quem usa?
 
-<strong>Telecomunicações, Internet/Imprensa</strong>: ● Brasil Telecom ● Infraestrutura do Portal – Terra ● Folha (infra-estrutura) ● UOL.
+**Militar / Defesa / Espaço**  
+● NASA ● FAA ● computadores de bordo ● robôs  
+**Estado**  
+● Urna eletrônica (algumas regiões)  
+**Instituições não governamentais**  
+● Wikipedia  
+**Corporações ou bigTechs**  
+● Google ● Facebook ● Microsoft  
+**Finanças**  
+● Bolsa de Valores (NYSE)  
 
-<strong>Educação</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Estácio de Sá (Graduação em Software Livre) 
+## 🌐 Outros países: quem usa?
 
-<strong>Eletrodoméstico e Equipamento de Comunicação</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Digitro.
-
-<strong>Bancos</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Banco do Brasil <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Caixa Econômica <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> HSBC...
-
-<strong>Logística/Transporte</strong>: <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Varig <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Metro SP <span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> Gol...  
-
-## Outros países: quem usa?
-
-🇺🇸 Instituições não governamentais:
-● Wikipedia.  
-🇺🇸 Órgãos de Estado / Militar / Espaço
-● NASA ● FAA ● Urna eletrônica (algumas regiões) ● computadores de bordo ● robôs
-🇺🇸 Corporações ou bigTechs que utilizam o SO do pinguim.
-● Google ● Facebook ● Microsoft.
-🇺🇸 Finanças:  
-● Bolsa de Valores (NYSE).
-
-🇧🇪 Bélgica
-● Urna eletrônica (algumas regiões) ● defesa ● Agência Belga de Desenvolvimento etc..
-🇫🇷 França:  
-● Parlamento.
-🇯🇵 Japão:
-● Trem-bala.
-🇪🇸 Espanha:
-● Barcelona, anos atrás já estava previsto migrar seus sistemas para software ivre, sendo o objetivo possuir total controle tecnológico sobre os sistemas.
-
-🇨🇺 Cuba
-● Mesmo neste país, uma nação vista de forma diferente, também usa Linux.  
-
+🇧🇪 **Bélgica**  
+● Urna eletrônica (algumas regiões) ● defesa ● Agência Belga de Desenvolvimento  
+🇫🇷 **França** 
+● Parlamento  
+🇯🇵 **Japão**  
+● Trem-bala  
+🇪🇸 **Espanha**  
+Barcelona, anos atrás já estava previsto migrar seus sistemas para software ivre, sendo o objetivo possuir total controle tecnológico sobre os sistemas.
+🇨🇺 **Cuba**  
+Mesmo neste país, uma nação vista de forma diferente, também usa Linux.  
+🇰🇵 ***Coreia do Norte**  
+Usa uma versão especial do Linux.  
 
 ## TOP500
 
-No <em>ranking</em> dos 500 supercomputadores o Linux é o sistema operacional que impera.
+No <em>ranking</em> dos 500 supercomputadores o Linux é o sistema operacional que impera.  
+🔗 https://en.wikipedia.org/wiki/TOP500#Architecture_and_operating_systems  
 
-🔗 https://en.wikipedia.org/wiki/TOP500#Architecture_and_operating_systems
-
-⚠️ [Atualização] Desde 2017 todos são Linux.
-
-
+⚠️ [Atualização] Desde 2017 todos são Linux.  
 
 ## A internet
 
-A própria internet utiliza computadores centrais, os [13 servidores](/internet-tem-dono), em que o <em>software</em> principal é exatamente para sistema Linux. 
+**13 servidores**: os chamados [13 servidores](/internet-tem-dono) são computadores centrais da internet, a maioria absoluta do EUA. Utilizam um *software* principal, que é exatamente para sistemas Linux.  
 
-Mesmo que seu computador seja um <em>desktop</em> com Windows e você esteja acessando a Web, ainda sim estará indiretamente utilizando o Linux. Um exemplo prático disso é o site da Google (o google.com), que nós acessamos para fazer pesquisas, e ele (obviamente) usa Linux.
+**Site google.com**: mesmo que seu computador use sistema Windows e você esteja acessando a Web, ainda sim estará utilizando o Linux sem saber, já que a Google o usa.  
 
 ## Você usa Linux!
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samsung_Galaxy_Note_series_20140614.jpg/800px-Samsung_Galaxy_Note_series_20140614.jpg" width="120" height="72" /> Se você usa um celular Android lembre que esse SO é uma adaptação do Linux, feita pela Google.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samsung_Galaxy_Note_series_20140614.jpg/800px-Samsung_Galaxy_Note_series_20140614.jpg" width="120" height="72" /> Se você usa um celular Android note que ele usa um sistema operacional que é uma adaptação do Linux, feita pela Google.  
 
-Como constatar? No seu celular, acesse o terminal (Termux) e digite o comando: 
+Como constatar? Acesse o terminal do seu celular (aquela 'telinha' preta) e digite o comando:  
 
     uname -a
 
-Ele dará como resposta...
+Ele dará como resposta...  
 
     Linux
 
+
+👉 Talvez sua TV também use Linux.  
+
+
 <h6>Por que Usar Linux?</h6>
 
-Seria uma conspiração todas potências, como EUA, China e Rússia usarem Linux!? Claro que não!
+Como vimos nesses exemplos, o Linux é utilizado em estruturas críticas, seja de Estados, instituições, corporações, empresas.
 
+> “segurança, desempenho e custo” [AMAN, 2018]
 
+A princípio, esses são os motivos, entretanto a questão não termina aí.  
 
-O assunto é especial e todo cidadão deveria saber, então clique no link [Por que Usar Linux?](/por-que-usar-linux) e entenda o motivo pelo qual faz com que só "os grandões" usem o sistema Linux, e vocẽ não!
+🤔 Uma pergunta central é *"por que **você** não usa Linux?"*, vista que ele é o suprassumo dos sistemas, e custa **R$0,00**.  
 
-É isso. Grande abraço.
+Note ainda que, muitos Linux instalados nos computadores, em que citamos, são exatamente um Linux do tipo *desktop*, ou seja, de computador doméstico utilizado por usuário comum. 
+
+O assunto é especial e cidadão deveria saber. Clique no link [Por que Usar Linux?](/por-que-usar-linux) e entenda o motivo pelo qual faz com que só "os grandões" usem o sistema Linux, e vocẽ não!  
+
+É isso. Grande abraço.  
 \o/
