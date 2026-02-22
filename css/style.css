@@ -77,7 +77,7 @@ article { display: flex; gap: 15px; align-items: flex-start; }
 
 													/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
 h1, h2, h3, h4, h5, h6 { color: var(--cor-escura); }
-h2, h4, h5, h6 { padding-top: 3em; letter-spacing: 0.2em}		/*h1 usado no topo de cada artigo .md, e h3 somente na página principal. */
+h2, h4, h5, h6 { padding-top: 3em; letter-spacing: 0.1em}		/*h1 usado no topo de cada artigo .md, e h3 somente na página principal. */
 h5, h6 { font-size: 1.2em; }	/* alguns artigos vieram do WP, e lá foi usado h5, daí igualamos ao h6*/
 
 strong { font-size: 0.9em;}
