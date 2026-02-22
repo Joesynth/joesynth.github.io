@@ -4,12 +4,13 @@ Olá!
 Apresentamos aqui casos de uso do sistema operacional Linux.  
 E fazendo um "spoiler": ele é utilizado em áreas onde está presente (de fato) o conhecimento humano.
 
-- Brasil: quem usa?
-- Outros países: quem usa?
+- Brasil: quem usa Linux?
+- EUA: quem usa Linux?
+- Outros países: quem usa Linux?
 - TOP500
 - A internet
-- Você usa Linux!
-- Por que Usar Linux?
+- Você usa Linux! (mas não sabe)
+- Por que usar Linux?
 
 <img class="https://joesynth.wordpress.com/wp-content/uploads/2021/10/linux_ubuntu.png" width="310" />
 
