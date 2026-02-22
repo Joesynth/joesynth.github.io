@@ -34,58 +34,42 @@ Cita-se como fatores relevantes para se escolher entre um ou outro a...
 
 Será mesmo? E quem não tem referências?
 
-###### Diferenças: o GNU/Linux
+## Linux não é empresa, é comunidade
 
-É um sistema livre, não se precisa pagar pela licença e é um sistema de código fonte aberto.
+###### Software livre (e não proprietário)
 
-Em si...
+Linux é um sistema livre, de fato, não se precisa pagar pela licença.
 
 > "o GNU/Linux não é uma empresa, não existe uma empresa responsável ou uma estrutura física. O que existe é uma comunidade, na qual os conhecimentos são compartilhados para quem quiser." [AMAN, 2018]
 
-O próprio SO foi criado por diversas pessoas de forma comunitária.
+Portanto, o próprio SO foi (e é) criado por diversas pessoas de forma comunitária.
 
-###### Diferenças: o Microsoft Windows
+Quanto ao Windows...
 
-> "de propriedade privada, sua licença possui um valor". [AMAN, 2018]
+> "de propriedade privada, sua licença possui um valor [financeiro]". [AMAN, 2018]
 
-Como mais acima, custo é só um dos pontos a se considerar, mas há outros.
+
+
+
+###### Windows: falta de controle do usuário
 
 > "No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações." [AMAN, 2018]
 
-Ou seja, o sistema operacional <em>Windows</em> é um <em>soft</em> com único dono: a Microsoft. E sendo ela a proprietária do sistema, só ela pode atualizá-lo.
-
-###### Linux vs. Windows : resumo
-<table>
-<tbody>
-<tr>
-<td></td>
-<td>GNU/Linux</td>
-<td>Windows</td>
-</tr>
-<tr>
-<td>Licença</td>
-<td>👍 Não se precisa pagar pela licença.</td>
-<td>👎  possui um valor</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+Ou seja, o sistema operacional <Windows é um *software* com único dono: a Microsoft. Sendo ela a proprietária do sistema, só ela pode atualizá-lo.
 
 
-## Governo e Exército Brasileiro: caso de exemplo
 
-A adoção do sistema livre GNU/Linux está ocorrendo de forma gradual, no Exército Brasileiro _e fatores considerados são:
+
+## Exército Brasileiro: o exemplo
+
+A adoção do sistema livre GNU/Linux está ocorrendo de forma gradual, no Exército Brasileiro. Fatores considerados são:
 ● reduzir despesas com aquisições de licenças,
 ● depender menos de um só fornecedor,
 ● restringir o crescimento do legado baseado em tecnologia proprietária,
-● possuir maior segurança, estabilidade e disponibilidade proporcionada pelo <em>software</em> livre</a>,
+● possuir maior segurança, estabilidade e disponibilidade proporcionada pelo software livre,
 ● desenvolvimento de conhecimento local,
 ● independência tecnológica,
-● possibilidade de auditabilidade dos sistemas e
+● possibilidade de auditabilidade dos sistemas,
 ● eliminação das mudanças periódicas que os modelos fechados impõem com a descontinuidade.
 
 E motivos que levaram o governo a adotar o software livre estão no fato de se reduzir os custos com renovação de software, gerar o desenvolvimento do conhecimento na área, além de ampliar a concorrência.
@@ -96,6 +80,10 @@ E motivos que levaram o governo a adotar o software livre estão no fato de se r
 > "O Exército adotou o plano de migração para software livre e dentre as inúmeras recomendações uma delas é a utilização do Ubuntu para os desktops, pois é desenvolvido com base no Debian, já alcançou certo grau de maturidade e é de fácil utilização." [AMAN, 2018]
 
 <h2>Segurança</h2>
+
+###### Código fonte aberto
+
+Um sistema operacional, em si, é um software de computador, portanto tem um código. O Linux código fonte aberto, Windows fechado.
 
 ###### O código fonte
 
@@ -112,11 +100,16 @@ O exemplo do Debian.
 > "Outro ponto que vale ressaltar é o fato do código fonte do Debian estar disponibilizado gratuitamente para quem quiser, dessa maneira fica praticamente impossível a comunidade inserir alguma backdoor ou software malicioso no sistema, porque inúmeros programadores analisarão o código fonte e certamente o descobrirão, se ele existir. O sistema não é uma caixa-preta, não fere os princípios da segurança e nem faz uso da segurança baseada na obscuridade." [AMAN, 2018]
 
 
-###### Quantidade de malware e SO
+###### Quantidade de malware
 
 O Linux é responsável por uma pequena parcela dos SOs utilizados pelo usuário, a quantidade de vírus existente é pequena quando comparado ao Windows, uma vez que os cibercriminosos escolherão fazer um vírus para um sistema operacional de maior uso pelos usuários domésticos. O GNU/Linux como SO para <em>desktops</em> e <em>notebooks</em> possui vírus, no entanto, em proporção bem menor que o Windows.
 
-Debian (segurança-programas maliciosos): por se tratar de um SO livre para <em>desktops</em> e <em>notebooks</em>, podemos considerar o Debian menos vulnerável do que o sistema da Microsoft. Ele leva vantagem sobre o Windows, uma vez que este último possui grande quantidade de vírus _devido diariamente surgir novos programas maliciosos. Note que, em <em>desktops</em> e <em>notebooks</em>, a quantidade de usuários que utilizam o Windows é bem superior à quantidade de pessoas que utilizam o sistema Debian GNU/Linux, por isso os crakers preferem fazer vírus para o Windows.
+**Crakers preferem fazer vírus para o Windows**:
+A quantidade de usuários que utilizam o Windows é muito maior que as pessoas que adotam o sistema Linux.
+
+Sem dúvida, os programas maliciosos são uma questão de segurança para estarmos atentos.
+
+Debian: por se tratar de um SO livre para desktops e notebooks, podemos considerar o Debian menos vulnerável do que o sistema da Microsoft. Ele leva vantagem sobre o Windows, uma vez que este último possui grande quantidade de vírus _devido diariamente surgir novos programas maliciosos. 
 
 ###### O foco do autor: vender ou manter a segurança?
 
@@ -155,6 +148,29 @@ Referindo-se a uma empresa...
 "O sistema não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez."
 
 > "De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema</em>."<em>[AMAN, 2018]
+
+
+###### Linux vs. Windows : resumo
+
+<table>
+<tbody>
+<tr>
+<td></td>
+<td>GNU/Linux</td>
+<td>Windows</td>
+</tr>
+<tr>
+<td>Licença</td>
+<td>👍 Não se precisa pagar pela licença.</td>
+<td>👎  possui um valor</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 <h2>Conhecendo o Linux</h2>
 
