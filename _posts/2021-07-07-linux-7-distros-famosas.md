@@ -111,7 +111,6 @@ Compatível com português e vários ambientes gráficos, como o KDE.
 
 🎈️ Há distros dedicadas à segurança (como a Kali), bem como software servidor e até firewall ou celular (Ubuntu Touch/UBPorts).  
 
-
 ## Um pouco de história
 
 Na década de 90 já se tinha distribuições, como é o caso da Debian e a Red Hat Linux.
@@ -124,6 +123,9 @@ Na década de 90 já se tinha distribuições, como é o caso da Debian e a Red 
 
 🇺🇸 **Slackware**: uma distribuição respeitadíssima e presente até os dias atuais, onde o usuário tem total controle do sistema.  
 
+🇩🇪 **SUSE**.  
+Inspirado no Slackware.  
 
-É isso! Abraço.  
+É isso!  
+Abraço.  
 \o/
