@@ -1,25 +1,28 @@
 # Por que usar linux?
 
-Conheça o Linux: o sistema mais robusto do mercado, usado até pelo Exército.
+Olá!  
+Conheça o Linux: o sistema mais robusto do mundo, usado desde as escolas até os exércitos.
 
-- Linux vs. Windows
-- Governo e Exército Brasileiro: caso de exemplo
+Seja Linux ou Windows, que fatores devem ser levados em consideração na hora de escolhermos um sistema operacional (SO) para o nosso computador? Aqui abordaremos interface gráfica, compatibilidade e outros temas importante, inclusive a liberdade: será que ela existe mesmo ou é um truque?
+
+Também buscaremos deixar claro o quanto o Linux é importante para o cidadão comum, enquanto para uma instituição ou empresa, considerando ser de grande porte, ele é até vital. 
+
+
+- O exemplo do Exército Brasileiro
+- Empresa vs. comunidade
 - Segurança
-- Quem controla o sistema? O desenvolvedor ou o usuário?
+- Autonomia: quem controla o sistema?
 - Estabilidade
-- Softwares: a variedade
-- Mais pontos a considerar
-- Conhecendo o Linux
+- Softwares no Linux
+- Licença: o preço
+- Vendas e marketing
+- Lentidão
 - Quem usa o Linux?
 
 
-Olá!
 
-Seja Linux ou Windows... Que fatores são levados em consideração na hora de escolher um sistema operacional (SO) para <em>desktop</em>?
-Custo? Desempenho? A segurança? A estabilidade? Facilidade de uso?
-Neste artigo passaremos por interface gráfica, compatibilidade; bem como esses outros termos citados.
 
-Neste tutorial buscamos deixar claro o quanto o Linux é importante para o cidadão comum. No que tange uma instituição ou empresa, considerando ser de grande porte, ele é até vital. 
+
 
 
 ## O exemplo do Exército Brasileiro
@@ -48,7 +51,7 @@ E motivos que levaram o governo a adotar o software livre estão no fato de se r
 
 ###### Linux vs. Windows: como escolher?
 
-Linux e Windows são os principais sistemas operacionais para <em>desktops</em> e <em>notebooks</em>.
+Linux e Windows são os principais sistemas operacionais para desktops e notebooks.
 Cita-se como fatores relevantes para se escolher entre um e outro a...
 
 > "segurança, desempenho e custo". [AMAN, 2018]
@@ -86,32 +89,24 @@ Quanto ao Windows...
 Ou seja, o sistema operacional <Windows é um *software* com único dono: a Microsoft. Sendo ela a proprietária do sistema, só ela pode atualizá-lo.
 
 
-
-
-
-
-
-
-
-
 ## Segurança
 
 ###### código-fonte - segurança
 
 Um sistema operacional, em si, é um software de computador, portanto tem um código.
 
-✔️ Linux código-fonte-aberto  
+✔️ Linux código-fonte aberto  
 ❎ Windows código-fonte fechado  
 
-código-fonte-aberto é algo imprescindível. Isso porque uma das formas de medir a segurança de um software é, exatamente, analisar o código-fonte _para descobrir possíveis falhas, até *backdoors* (um tipo de *malware*).
+código-fonte aberto é algo imprescindível. Isso porque uma das formas de medir a segurança de um software é, exatamente, analisar o código-fonte _para descobrir possíveis falhas, até *backdoors* (um tipo de *malware*).
 
-> “O código-fonte-aberto pode realmente ser analisado por qualquer programador e este é o ponto forte do ponto de vista da segurança. Se muitos programadores têm acesso ao mesmo código, a probabilidade de se ter problemas de segurança deve ser menor.” [Jansen Sena, 2009, p. 336]
+> “O código-fonte aberto pode realmente ser analisado por qualquer programador e este é o ponto forte do ponto de vista da segurança. Se muitos programadores têm acesso ao mesmo código, a probabilidade de se ter problemas de segurança deve ser menor.” [Jansen Sena, 2009, p. 336]
 
 Com relação à segurança do software proprietário pode-se dizer que o fato da não disponibilização do código-fonte do software, faz com que, o software seja uma caixa preta. Ou seja, não dá para averiguar se é, ou não, realmente confiável [...]. Uma das premissas da segurança diz que...
 
 > "[a segurança] nunca deve ser baseada na obscuridade." [SENA, 2009, pag 337]
 
-O fato de possuir código-fonte-aberto, permite que programadores do mundo todo olhem e procure por erros ou falhas e permite corrigi-las em curto espaço de tempo em relação ao sistema operacional Windows, para <em>desktops</em> e <em>notebook</em>. As chances de apresentar algum erro caem drasticamente, tornando o sistema mais seguro.
+O fato de possuir código-fonte aberto, permite que programadores do mundo todo olhem e procure por erros ou falhas e permite corrigi-las em curto espaço de tempo em relação ao sistema operacional Windows, para desktops e notebook. As chances de apresentar algum erro caem drasticamente, tornando o sistema mais seguro.
 
 O exemplo do Debian.
 
@@ -120,7 +115,7 @@ O exemplo do Debian.
 
 ###### Quantidade de malware
 
-O Linux é responsável por uma pequena parcela dos SOs utilizados pelo usuário, a quantidade de vírus existente é pequena quando comparado ao Windows, uma vez que os cibercriminosos escolherão fazer um vírus para um sistema operacional de maior uso pelos usuários domésticos. O GNU/Linux como SO para <em>desktops</em> e <em>notebooks</em> possui vírus, no entanto, em proporção bem menor que o Windows.
+O Linux é responsável por uma pequena parcela dos SOs utilizados pelo usuário, a quantidade de vírus existente é pequena quando comparado ao Windows, uma vez que os cibercriminosos escolherão fazer um vírus para um sistema operacional de maior uso pelos usuários domésticos. O GNU/Linux como SO para desktops e notebooks possui vírus, no entanto, em proporção bem menor que o Windows.
 
 **Crakers preferem fazer vírus para o Windows**:
 A quantidade de usuários que utilizam o Windows é muito maior que as pessoas que adotam o sistema Linux.
@@ -133,73 +128,91 @@ Debian: por se tratar de um SO livre para desktops e notebooks, podemos consider
 
 Quanto ao desenvolvedor...
 
-> "Vale ressaltar ainda que dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser </em><em>vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa." [AMAN, 2018]
+> "Vale ressaltar ainda que dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa." [AMAN, 2018]
 
-## Quem controla o sistema? Autor ou o usuário?
+## Autonomia: quem controla o sistema?
 
-No Debian, assim como em outras distribuições, o usuário tem controle do sistema. O sistema está subordinado ao usuário, qualquer ação que o sistema executará, seja para instalar algum software ou atualizar o próprio Debian, o usuário deve conceder uma autorização. Já no Windows isso não ocorre.
+No Linux o usuário tem o controle do sistema, logo, toma as decisões.
+
+> O sistema está subordinado ao usuário, qualquer ação que o sistema executará, seja para instalar algum software ou atualizar
+[...], o usuário deve conceder uma autorização. Já no Windows isso não ocorre. [AMAN, 2018]
+
+👍 Linux
+👎 Windows
+
 
 ## Estabilidade
 
-Por ex., "<em>o [Linux] Debian está no mercado há 25 anos, logo nota-se que não é uma distribuição nova, pode-se dizer que alcançou certo nível de maturidade. Esse sistema operacional apresenta quatro versões, que são chamados de “releases”</em>."
+> "o [Linux] Debian está no mercado há 25 anos, logo nota-se que não é uma distribuição nova, pode-se dizer que alcançou certo nível de maturidade. Esse sistema operacional apresenta quatro versões, que são chamados de “releases”." [AMAN, 2018]
 
 > "Outro problema que era muito comum há 15 anos, era o fato de que o usuário tinha que procurar os drivers e instalá-lo manualmente, o sistema não reconhecia vários hardwares, era um processo complicado, apenas quem tinha um conhecimento mais avançado sabia instalar os drivers e ainda assim não era fácil. Atualmente não é mais assim, o sistema já reconhece todo o hardware do computador e os drivers já vem embutidos no sistema, de maneira que o usuário final não precisa se preocupar com isso, apenas instala o sistema e começa a usar."[AMAN, 2018]
 
-## Softwares: a variedade
+## Softwares no Linux
 
-> "existem sim alguns programas que ainda não possuem uma versão alternativa para os usuários das distribuições livres, nesses casos não tem muito que fazer. Com relação aos jogos, o GNU/Linux não tem uma biblioteca variada como a do sistema Windows, mas possui sim alguns grandes nomes. Em se tratando de suítes de escritório, o GNU/Linux conta com o LibreOffice, uma alternativa frente ao MS Office, da Microsoft. O LibreOffice está em sua sexta versão e é uma excelente alternativa, compatível com todos os documentos originados do MS Office e possui todos os recursos que um usuário precisa ter. Quando falamos de editor de imagens, temos como alternativa o Gimp frente o Adobe Photoshop. O Gimp é um bom editor de imagens, tem bastante recursos, atende às necessidades de usuário normal, porém não é muito indicado para um usuário profissional. Se for analisar a parte multimídia, reprodução de áudio, vídeo, foto, gravação de disco e outras tarefas, o GNU/Linux faz o que qualquer outro sistema operacional faria, sem complicação." [AMAN, 2018]
+###### Programas em geral
 
-## Mais pontos a considerar
+> "existem sim alguns programas que ainda não possuem uma versão alternativa para os usuários [de Linux], nesses casos não tem muito que fazer." [AMAN, 2018]
 
-###### Licença: grátis ou paga?
+###### Jogos
 
-> "O GNU/Linux é disponibilizado gratuitamente. O usuário não precisa pagar por uma licença para poder usar o sistema Debian GNU/Linux. A grande diferença desse sistema é que parte dos programadores que participam do projeto são voluntários. Esses programadores fazem isso porque gostam, não há uma motivação financeira, não é uma empresa que contrata funcionários, programadores, para que esses trabalhem em cima de um sistema operacional." [AMAN, 2018]
+> "o [Linux] não tem uma biblioteca variada como a do sistema Windows, mas possui sim alguns grandes nomes."
 
-###### Marketing
+###### Escritório
 
-Diferente do software livre _como o Linux, onde o trabalho dos programadores é voluntário_, o software proprietário está intimamente ligado à empresa, que por natureza lida com venda e publicidade.  
+> "o GNU/Linux conta com o LibreOffice, uma alternativa frente ao MS Office, da Microsoft. O LibreOffice está em sua sexta versão e é uma excelente alternativa, compatível com todos os documentos originados do MS Office e possui todos os recursos que um usuário precisa ter."
+
+###### Imagens e multimídia
+
+> "...editor de imagens, temos como alternativa o Gimp frente o Adobe Photoshop. O Gimp é um bom editor de imagens, tem bastante recursos, atende às necessidades de usuário normal, porém não é muito indicado para um usuário profissional. Se for analisar a parte multimídia, reprodução de áudio, vídeo, foto, gravação de disco e outras tarefas, o [Linux] faz o que qualquer outro sistema operacional faria, sem complicação." [AMAN, 2018]
+
+
+
+## Licença: o preço
+
+Grátis ou paga?  
+
+> "O [Linux] é disponibilizado gratuitamente. O usuário não precisa pagar por uma licença para poder usar o sistema [Linux]. A grande diferença desse sistema é que parte dos programadores que participam do projeto são voluntários. Esses programadores fazem isso porque gostam, não há uma motivação financeira, não é uma empresa que contrata funcionários, programadores, para que esses trabalhem em cima de um sistema operacional." [AMAN, 2018]
+
+👍 Linux: grátis 🎈
+👎 Windows: finge ser grátis 🤥
+
+
+
+## Vendas e marketing
+
+No software livre, como é o caso do Linux, o trabalho dos programadores é voluntário, basicamente criar e publicar o software. Bem diferente, o software proprietário está intimamente ligado à empresa, que por natureza lida com venda e publicidade.  
 
 > "Há a questão do marketing, se gasta com propagandas a fim de despertar o interesse do usuário." [AMAN, 2018]
 
-###### Lentidão
+🤥 A mentira é a espada da propaganda _frase que resume a visão de Guy Durandin, onde a mentira não é uma falha pequenininha da propaganda, mas sua ferramenta vital.
+
+## Lentidão
 
 > "O sistema não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez." [AMAN, 2018]
 
 
-> "De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema</em>."<em>[AMAN, 2018]
+> "De acordo com o portal Software Livre mantido pelo Governo Federal (2012), a Procuradoria-Geral do Estado da Paraíba migrou todo seu parque computacional para o software livre. Segundo o gerente Guido Giuseppe, da Sub Gerência de Tecnologia da Informação, que foi emprestado à Procuradoria-Geral do Estado da Paraíba, afirmou que “[...] alguns usuários perceberam que computadores antigos acionados pelo sistema livre funcionava mais rápido do que os que eram acionados pelo sistema não-livre, com a mesma configuração de hardware, [...]”. Mais um aspecto positivo desse sistema."[AMAN, 2018]
 
+No geral, considerando mesmo hardware, Linux leva vantagem sobre Windows. No caso específico do ambiente gráfico, a vantagem do Linux pode ser enorme. É possível o usuário escolher uma das várias [interfaces Linux](/linux-interfaces).  
+
+👍 Linux
+👎 Windows
 
 ## Linux vs. Windows: resumo
 
-<table>
-<tbody>
-<tr>
-<td></td>
-<td>GNU/Linux</td>
-<td>Windows</td>
-</tr>
-<tr>
-<td>Licença</td>
-<td>👍 Não se precisa pagar pela licença.</td>
-<td>👎  possui um valor</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 		 	| Linux 					| Windows |
+| :--- 		| :--- 						| :--- |
+| **Licença** | 👍 Não se precisa pagar pela licença. | 👎 Possui um valor |
 
-## Conhecendo o Linux
-
-Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja Linux.
 
 ## Quem usa o Linux?
 
 Os que detém conhecimento humano usam Linux _em suma, militares, Estados, corporações, universidades. No geral, mais de 95% das pessoas não utilizam Linux.
 Curiosamente, embora o Ubuntu (que é uma versão de Linux) seja utilizado até em robôs no espaço, ele foi criado para uso doméstico, para o usuário comum.
-Veja [Quem usa o Linux](/quem-usa-linux).
+Veja [Quem usa o Linux](/quem-usa-linux).  
+
+
+👉 Para saber sobre sistemas operacionais Linux, versões Linux, estrutura do Linux, veja Linux.
 
 É isso!  
 Grande abraço.  
