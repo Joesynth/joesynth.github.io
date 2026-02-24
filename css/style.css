@@ -82,7 +82,7 @@ h5, h6 { font-size: 1.2em; }	/* alguns artigos vieram do WP, e lá foi usado h5,
 
 strong { font-size: 0.9em;}
 
-blockquote { border-left: 2px solid lightgray; color: darkgray; font-style: italic; margin-left: 1em; padding-left: 1em;}
+blockquote { border-left: 2px solid lightgray; color: gray; font-style: italic; margin-left: 1em; padding-left: 1em;}
 
 footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
 
