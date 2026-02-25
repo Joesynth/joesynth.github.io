@@ -1,12 +1,10 @@
 # Por que usar linux?
 
 Olá!  
-Conheça o Linux: o sistema mais robusto do mundo, usado desde as escolas até os exércitos.
+O Linux é o sistema mais robusto do mundo. Sendo o suprassumo, é usado desde as escolas até os exércitos.
+Entretanto, ele tem grande importante para o cidadão comum; enquanto para uma instituição ou empresa, considerando ser de grande porte, ele é até vital.
 
-Seja Linux ou Windows, que fatores devem ser levados em consideração na hora de escolhermos um sistema operacional (SO) para o nosso computador? Aqui abordaremos interface gráfica, compatibilidade e outros temas importante, inclusive a liberdade: será que ela existe mesmo ou é um truque?
-
-Também buscaremos deixar claro o quanto o Linux é importante para o cidadão comum, enquanto para uma instituição ou empresa, considerando ser de grande porte, ele é até vital. 
-
+Abordaremos os fatores devem ser levados em consideração na hora de escolhermos um sistema operacional (SO) para o nosso computador.  
 
 - O exemplo do Exército Brasileiro
 - Empresa vs. comunidade
@@ -75,8 +73,8 @@ Quanto ao Windows...
 Licença/valor:
 
 | Linux 🎈					| Windows |
-| :--- 						| :--- |
-| 👍 Não se precisa pagar <br />pela licença | 👎 Precisa pagar <br />pela licença |
+| :---: 					| :---: |
+| 👍 Não precisa pagar <br />pela licença | 👎 Precisa pagar <br />pela licença |
 
 
 
@@ -103,7 +101,7 @@ O exemplo do Debian (uma versão de Linux).
 > "Outro ponto que vale ressaltar é o fato do código-fonte do Debian estar disponibilizado gratuitamente para quem quiser, dessa maneira fica praticamente impossível a comunidade inserir alguma backdoor [malware] ou software malicioso no sistema, porque inúmeros programadores analisarão o código-fonte e certamente o descobrirão, se ele existir. O sistema não é uma caixa-preta, não fere os princípios da segurança e nem faz uso da segurança baseada na obscuridade." [AMAN, 2018]
 
 | Linux 🎈	| Windows 	|
-| :--- 		| :--- 		|
+| :---: 	| :---:		|
 |código-fonte <br />👍 aberto|código-fonte <br />👎 fechado|
 
 ###### Quantidade de malware
@@ -123,6 +121,17 @@ Quanto ao desenvolvedor...
 
 > "Vale ressaltar ainda que dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa." [AMAN, 2018]
 
+###### Foco nº1: venda ou segurança?
+
+> "[...] dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa" [AMAN, 2018]
+
+
+###### Windows: falta de controle do usuário
+
+> "No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações." [AMAN, 2018]
+
+Ou seja, o sistema operacional Windows é um *software* com único dono: a Microsoft. Sendo ela a proprietária do sistema, só ela pode atualizá-lo.
+
 ###### Autonomia: quem controla o sistema?
 
 No Linux o usuário tem o controle do sistema, logo, toma as decisões.
@@ -137,28 +146,22 @@ No Linux o usuário tem o controle do sistema, logo, toma as decisões.
 | 👍		| 👎	|
 
 
-###### Windows: falta de controle do usuário
-
-> "No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações." [AMAN, 2018]
-
-Ou seja, o sistema operacional Windows é um *software* com único dono: a Microsoft. Sendo ela a proprietária do sistema, só ela pode atualizá-lo.
-
-
-###### Foco nº1: venda ou segurança?
-
-> "[...] dentro de uma empresa, o software pode ser a única forma de entrada de capital, dessa maneira há uma pressão sobre os programadores. O software precisa ser vendido e para isso nem sempre a segurança desse software é a preocupação principal da empresa" [AMAN, 2018]
-
 
 
 ## Estabilidade
 
 ###### O tempo
 
-> "o [Linux] está no mercado há 25 anos, logo nota-se que não é uma distribuição nova, pode-se dizer que alcançou certo nível de maturidade. Esse sistema operacional apresenta quatro versões, que são chamados de “releases”." [AMAN, 2018]
+📚 Debian = tipo de Linux que é a base para muitos outros, como o Ubuntu.
+
+> "o Debian está no mercado há 25 anos, logo nota-se que não é [um sistema operacional novo], pode-se dizer que alcançou certo nível de maturidade." [AMAN, 2018]
 
 ###### Os drivers
 
-> "Outro problema que era muito comum há 15 anos, era o fato de que o usuário tinha que procurar os drivers e instalá-lo manualmente, o sistema não reconhecia vários hardwares, era um processo complicado, apenas quem tinha um conhecimento mais avançado sabia instalar os drivers e ainda assim não era fácil. Atualmente não é mais assim, o sistema já reconhece todo o hardware do computador e os drivers já vem embutidos no sistema, de maneira que o usuário final não precisa se preocupar com isso, apenas instala o sistema e começa a usar."[AMAN, 2018]
+📚 **driver**: Software que controla um tipo específico de dispositivo de *hardware* conectado ao computador.
+Atua como tradutor entre o dispositivo em si e o sistemas operacional.
+
+> "Outro problema que era muito comum há 15 anos, era o fato de que o usuário tinha que procurar os *drivers* e instalá-lo manualmente, o sistema não reconhecia vários hardwares, era um processo complicado, apenas quem tinha um conhecimento mais avançado sabia instalar os drivers e ainda assim não era fácil. Atualmente não é mais assim, o sistema já reconhece todo o hardware do computador e os drivers já vem embutidos no sistema, de maneira que o usuário final não precisa se preocupar com isso, apenas instala o sistema e começa a usar."[AMAN, 2018]
 
 ## Softwares no Linux
 
@@ -188,8 +191,8 @@ Grátis ou paga?
 
 
 | Linux 🎈	| Windows |
-| :---	 	| :--- |
-| 👍 grátis	| 👎finge ser grátis	|
+| :---: 	| :---: |
+| 👍 grátis	| 👎 finge ser grátis	|
 
 
 
@@ -205,7 +208,7 @@ No software livre, como é o caso do Linux, o trabalho dos programadores é volu
 
 ###### O tempo
 
-> "O sistema não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez." [AMAN, 2018]
+> "O sistema [Linux] não fica lento com o passar do tempo, tem uma rápida inicialização, bom tempo de resposta e fluidez." [AMAN, 2018]
 
 ###### A velocidade
 
