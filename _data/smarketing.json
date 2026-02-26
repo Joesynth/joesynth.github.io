@@ -96,6 +96,18 @@
     "p": "Um guia elementar."
   },
   {
+    "href": "ui-e-ux-2.html",
+    "src": "image/design.png",
+    "h3": "UI e UX (2)",
+    "p": "Práticas feias, mas adotadas."
+  },
+  {
+    "href": "white-hat-e-black-hat.html",
+    "src": "image/cli.png",
+    "h3": "White hat e black hat",
+    "p": "A moral e a tecnologia."
+  },
+  {
     "href": "software-modelo-de-negocio.html",
     "src": "image/comercio.png",
     "h3": "Software: modelo de negócio",
