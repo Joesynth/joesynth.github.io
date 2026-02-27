@@ -1,8 +1,7 @@
 # Microsoft: a dona do seu computador
 
-Olá!
-
-Embora o logotipo da empresa seja uma janela com um ar de liberdade, na prática tem-se o oposto.
+Olá!  
+Embora o logotipo da empresa seja uma janela com um ar de liberdade, na prática tem-se o oposto.  
 
 ###### Acabando com outras empresas
 
@@ -12,12 +11,14 @@ Embora o logotipo da empresa seja uma janela com um ar de liberdade, na prática
 
 ###### Padrões Obscuros (Dark Patterns)
 
-Isso são práticas antiéticas, *hacking*. O foco, no entanto, não é levar vantagem sobre um banco, por exemplo, mas o indivíduo. Um dos tipos de "Padrões Obscuros" é a "Isca e Troca", sendo um dos casos mais sujos tendo ocorrido no Windows.
+Isso são práticas antiéticas, *hacking*. O foco, no entanto, não é levar vantagem sobre um banco, por exemplo, mas o indivíduo. Um dos tipos de "Padrões Obscuros" é a "Isca e Troca", sendo um dos casos mais sujos tendo ocorrido no Windows.  
 
-O "X" é um símbolo universal de "não". É comum vermos numa janela *pop-up* ou banner de propaganda, e ao clicarmos no "xis" automaticamente fecha-se a tela.
+O "X" é um símbolo universal de "não". É comum vermos numa janela *pop-up* ou banner de propaganda, e ao clicarmos no "xis" automaticamente fecha-se a tela.  
 
 Anos atrás, no Windows, ao invés de fechar a janela com o clique do usuário, o sistema seguia em frente fazendo a atualização.
-Mentira sem a menor cerimônia.
+Mentira sem a menor cerimônia.  
+
+Vide [Dark Patterns](/ui-e-ux-dark-patterns).  
 
 
 ###### Antitruste
@@ -49,9 +50,12 @@ No Brasil, juristas e economistas frequentemente citam o Código de Defesa do Co
 ###### Acordos de desconto
 
 A lógica 'se / então':  
+
     se instalar em 50% das máquinas a licença custa $80, em 100% custa $10.  
 
-Isso inviabiliza financeiramente oferecer opções sem o sistema.
+
+Isso inviabiliza financeiramente oferecer opções sem o sistema.  
+
 
 
 ###### Marketing cooperativo
@@ -60,10 +64,10 @@ A Microsoft e a Intel Inside (Intel) paga parte do marketing da fabricante em tr
 
 ###### EEE - Embrace, Extend, and Extinguish
 
-**Abraçar, Estender e Extinguir**:  Isso foi usado internamente pela Microsoft e tornou-se público durante o famoso processo antitruste do Departamento de Justiça dos EUA contra a empresa nos anos 90.
+**Abraçar, Estender e Extinguir**:  Isso foi usado internamente pela Microsoft e tornou-se público durante o famoso processo antitruste do Departamento de Justiça dos EUA contra a empresa nos anos 90.  
 
-**Documentos Halloween**: memorandos internos da Microsoft que vazaram em 1998 e detalhavam exatamente as estratégias para interromper o avanço do software livre e do Linux usando essas técnicas.
-**Guerra dos Navegadores**: o EEE foi usado contra a Netscape (do Navigator, "avô" do Firefox).
+**Documentos Halloween**: memorandos internos da Microsoft que vazaram em 1998 e detalhavam exatamente as estratégias para interromper o avanço do software livre e do Linux usando essas técnicas.  
+**Guerra dos Navegadores**: o EEE foi usado contra a Netscape (do Navigator, "avô" do Firefox).  
 
 
     
@@ -73,27 +77,34 @@ A Microsoft e a Intel Inside (Intel) paga parte do marketing da fabricante em tr
 ###### Capitalismo de Vigilância
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg/250px-Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg" width="120" />Shoshana Zuboff.
-Na análise da psicóloga sobre o Capitalismo de Vigilância, ela discute como bigTechs moldam a infraestrutura digital para que o usuário não tenha escolha real, transformando o sistema operacional em uma "camada de controle" pré-instalada.
+Na análise sobre o Capitalismo de Vigilância, ela discute como bigTechs moldam a infraestrutura digital para que o usuário não tenha escolha real, transformando o sistema operacional em uma "camada de controle" pré-instalada.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/4/48/The_Age_of_Surveillance_Capitalism.jpg" width="100" />
+No livro ela aborda essa questão, não com termos técnicos de TI como "kernel" ou "hardware", mas focando no poder político e econômico que esse controle de infraestrutura confere às Big Techs.
+
+> O capitalismo de vigilância "reivindica unilateralmente a experiência humana como matéria-prima gratuita para tradução em dados comportamentais.
+> *Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data.*"
 
 
-###### O Estado: subsídio inverso?
+**Destituição da Soberania**: Ela descreve isso como um "golpe vindo de cima", onde os indivíduos perdem a soberania sobre seus próprios dispositivos (o "nó") para as plataformas que controlam o sistema operacional.
 
-O Estado forma os profisssionais de altíssimo nível em universidades públicas, que depois vão para corporações. Porém o Estado paga licença para usar o software que ele mesmo ajudou a criar com base numa ciência pública.
+**Sistemas Operacionais como Iscas**: Ela menciona que produtos como o Android não são apenas serviços, mas rotas de fornecimento de dados. O controle do SO é a garantia de que o fluxo de dados nunca pare.
 
-###### O Estado e o mito da "Incapacidade Técnica"
+**Invisibilidade do Controle**: Ela destaca que a autonomia sobre o hardware é projetada para ser invisível ao usuário, que acha que tem controle, enquanto o sistema operacional toma decisões em segundo plano.
 
-Dizer que o Estado não consegue gerir software livre é ignorar que:
-
-A Infraestrutura Crítica já é Linux: servidores do governo, sistemas de satélites, o supercomputadores, sistema de urnas eletrônicas... Tudo Linux. Ou seja, o Estado já possui esses técnicos.
 
 
 ## Microsoft e os seus "código aberto"
 
-De uns anos para cá a empresa mudou o tom.
+De uns anos para cá a empresa mudou o tom, com algumas atitudes no campo do código aberto. 
 
 **Microsoft ElectionGuard**: É um kit de desenvolvimento (SDK) que pode rodar em dispositivos Linux simples para criar urnas que emitem comprovantes criptografados.
 
+Mas é retórica pura, vista o Windows, de fato, ser o dono de cada um dos nossos computadores que compramos numa loja.
 
+
+👉 O hardware só tem vida graças ao SO, sem isso ele é como um gato morto, exceto se extiguir com o tempo.
+Como o Windows dono do hardware, ele não lhe pede licença para monitorar o que você digita, onde clica ou para onde olha. Ele simplesmente toma essa decisão porque ele controla o código base.
 
 
 É isso.
