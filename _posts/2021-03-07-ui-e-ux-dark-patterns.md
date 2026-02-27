@@ -1,41 +1,21 @@
-# Design de UI (Interface) e UX (Experiência)
-
-
-
+# UI e UX: Dark Patterns
 
 
 
 Olá!
 
-No contexto de plataformas, como Uber, 
 
-O design de UI e UX não é feito para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
-
-Os termos tem origem inglesa e praticados por grandes corporações estrangeiras, caso de Uber ou Microsoft.
-Colonização tecnológica? A questão vai além, visto que muitos recursos se enquadram no que se chama, no campo da programação, de [Black Hat](/white-hat-e-black-hat).
+No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
 
 
-Abaixo, principais técnicas utilizadas pelo Donos da Rede, divididas por categoria técnica:
+## Dark Patterns (Padrões Obscuros)
 
+Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que *está de maldade* pensando em ataues financeiros ou em servidores.
 
-###### Psicologia Cognitiva e Behaviorismo
+O "hacker de interface" (ou "black hat UX" ou ainda "black hat UI") é semelhante, mas ataca o indivíduo (usuário ou nó).
 
-O design é projetado para explorar gatilhos biológicos (Dopamina).
-
-| Conceito | Foco Principal | Aplicação em UX/UI |
-| :--- | :--- | :--- |
-| **Behaviorismo** | Ação e Reação (Comportamento) | Botões, notificações e recompensas. |
-| **P. Cognitiva** | Pensamento e Memória (Processamento) | Hierarquia visual, clareza e navegação intuitiva. |
-
-**Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.
-**Recompensa Variável**: O design de "puxar para atualizar" (como uma alavanca de cassino) e o som de notificação de pedido criam um ciclo de ansiedade e prazer.
-**Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.
-
-
-###### Dark Patterns (Padrões Obscuros)
-
-Técnicas de UI desenhadas para enganar ou dificultar ações que não interessam ao Dono da Rede.
+Dark Patterns são técnicas desenhadas para enganar ou dificultar ações que não interessam ao Dono da Rede (uma plataforma, como Uber, por ex.).
 
 
 | Padrão Obscuro | Descrição Técnica | 📱 Implementação na UI | 🚀 Objetivo do Sistema |
@@ -100,10 +80,58 @@ Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.
 
 ###### Arquitetura de Escolha (Nudging)
 
+
 O design não te obriga, mas "empurra" você para a escolha que o sistema deseja.
 
 **Default Option (Opção Padrão)**: O sistema deixa pré-selecionada a opção mais lucrativa para a rede (ex: a rota mais longa ou o seguro mais caro).
 **Ancoragem de Preços**: Mostrar um valor alto primeiro para que o valor seguinte pareça "justo" ou "barato".
+
+
+👉 Design de Fricção Seletiva, Gamificação e Design de Status e Arquitetura de Escolha (Nudging) são três temas prioritariamente do campo de UX. Podem ou não não serem considerados Dark Patterns, conforme uso. Independente disso, tratam da estratégia psicológica, do fluxo da jornada e da intenção de manipular ou guiar o comportamento do indivíduo.  
+
+
+É um confronto assimétrico. O que parece uma conversa pessoal na tela, entre o usuário (ou nó) e o app (do uber, por ex.), é, na verdade, um cara simples numa ponta e noutra um coletivo multidisciplinar _UX designers, programadores (a "peça" central) etc.
+
+Esse grupo multidisciplinar utiliza todo o conhecimento acumulado (por décadas) sobre comportamento humano para desenhar a interface.
+
+A empresa num app, trocando em miúdos, é uma equipe multidisciplinar unida para que o usuário faça o que eles querem.
+
+
+|Ponta da Empresa|Ponta do Usuário (O "Nó")|
+|:---|:---|
+|o coletivo<br />(psicólogos comportamentais, engenheiros de dados, especialistas em marketing)|o indivíduo solitário<br /> (muitas vezes com pressa ou distraído, reagindo em tempo real a estímulos desenhados para explorar suas fraquezas cognitivas)|
+
+
+
+## Psicologia Cognitiva e Behaviorismo
+
+O design é projetado para explorar gatilhos biológicos (Dopamina).
+
+| Conceito | Foco Principal | Aplicação em UX/UI |
+| :--- | :--- | :--- |
+| **Behaviorismo** | Ação e Reação (Comportamento) | Botões, notificações e recompensas. |
+| **P. Cognitiva** | Pensamento e Memória (Processamento) | Hierarquia visual, clareza e navegação intuitiva. |
+
+**Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.
+**Recompensa Variável**: O design de "puxar para atualizar" (como uma alavanca de cassino) e o som de notificação de pedido criam um ciclo de ansiedade e prazer.
+**Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.
+
+
+## Resumo do arsenal de UX "Black Hat"
+
+| Termo | O que ataca? | Tática |
+| :--- | :--- | :--- |
+| **FOMO** | Ansiedade / Medo | Urgência/Escassez falsa |
+| **Confirmshaming**| Ego / Culpa | Frases humilhantes no "Não" |
+| **Roach Motel** | Preguiça / Tempo | Dificultar o cancelamento |
+| **Bait and Switch**| Atenção / Intenção | Enganar o clique |
+| **Hidden Costs** | Comprometimento | Ocultar taxas até o final |
+
+
+## UX Agressiva: O Limite da Persuasão
+
+A UX agressiva utiliza técnicas intensas de persuasão e nudging (arquitetura de escolha) para conduzir o usuário a uma ação, mas não necessariamente mente ou engana. Em suma, ela força a barra, digamos.
+
 
 
 É isso!
