@@ -41,11 +41,13 @@ A diferença principal é a legalidade e o meio:
 
 ###### O alvo atacado
 
-|  | Alvo Principal | Método de Exploração |
-| :--- | :--- | :--- |
-| *Black Hat* | O **sistema / software** | Explora vulnerabilidades no **código** para invadir e extrair dados. |
-| *Dark Patterns* | O **cérebro humano** | Explora vulnerabilidades **psicológicas** (vieses cognitivos) para manipular o comportamento. |
 
+
+|      |black hat |dark patterns |
+|:---:|:---:|:---:|
+|**alvo<br />principal**| o sistema / software|o cérebro humano |
+|**método de<br />exploração**|explora vulnerabilidades<br />no código| explora vulnerabilidades<br />psicológicas (vieses cognitivos) |
+|**para...**|invadir e extrair dados|<br />manipular o comportamento|
 
 👉 Num grupo, se você chamar um *Dark Pattern* de "Design Black Hat", todos vão entender o que você quer dizer: que é algo antiético e malicioso, mas o termo técnico correto e usado na indústria de UX é Dark Patterns.
 
