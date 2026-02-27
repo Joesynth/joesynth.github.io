@@ -96,10 +96,10 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "ui-e-ux-2.html",
+    "href": "ui-e-ux-dark-patterns.html",
     "src": "image/design.png",
-    "h3": "UI e UX (2)",
-    "p": "Práticas feias, mas adotadas."
+    "h3": "UI e UX: Dark Patterns",
+    "p": "Black hat de interfaces: apps comerciais e a maldade."
   },
   {
     "href": "white-hat-e-black-hat.html",
