@@ -37,10 +37,10 @@ Aqui, ela atua no foco e na memória. Quando você sente que "aprendeu" algo nov
 
 | Mecanismo | Base Psicológica | Efeito no Cérebro |
 | :--- | :--- | :--- |
-| **Likes/Corações** | Recompensa Social (Behaviorismo) | Pico de prazer imediato. |
-| **Sequências (Streaks)** | Medo da Perda (Cognitiva) | Ansiedade para não quebrar o ciclo. |
-| **Feed Infinito** | Ausência de Ponto de Parada | Manutenção do estado de transe (fluxo). |
-| **Sininho de Notificação** | Estímulo Condicionado (Pavlov) | Antecipação (Dopamina sobe *antes* do clique). |
+| likes ou<br />corações | Recompensa social (Behaviorismo) | Pico de prazer imediato. |
+| sequências<br />(streaks) | Medo da perda (Cognitiva) | Ansiedade para não quebrar o ciclo. |
+| feed<br />infinito | Ausência de ponto de parada | Manutenção do estado de transe (fluxo). |
+| sininho de <br />notificação | Estímulo condicionado (Pavlov) | Antecipação (dopamina sobe *antes* do clique). |
 
 
 
