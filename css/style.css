@@ -84,18 +84,21 @@ strong { font-size: 0.9em;}
 
 blockquote { border-left: 2px solid lightgray; color: gray; font-style: italic; margin-left: 1em; padding-left: 1em;}
 
+thead { background-color: lightgray; }
+
 /* tab - cor de fundo apenas nas linhas pares */
-tr:nth-child(even) { background-color: lightgreen; }
+tr:nth-child(even) { background-color: snow; }
 
 /* tab - cor de fundo nas linhas ímpares */
-tr:nth-child(odd) { background-color: lightyellow; }
+tr:nth-child(odd) { background-color: silver; }
+
 
 
 pre {
 	border: 1px solid #ccc; 
-	border-radius: 0.25em;  
+	border-radius: 0.33em;  
 	padding: 0.5em; /* Pequena margem interna */ 
-	background: #f9f9f9; /* Fundo leve para contraste */ 
+	background: white; /* Fundo leve para contraste */ 
 	overflow: auto; /* Evita quebra de layout; barra de rolagem */
 }
 	
