@@ -52,7 +52,7 @@ Onde : Estados Unidos.
 **A ideia**?  
 
 
-> **A mente é uma "caixa preta"** que não podemos ver. Portanto, a psicologia deve estudar apenas o comportamento observável (estímulo e resposta.
+> **A mente é uma "caixa preta"** que não podemos ver. Portanto, a psicologia deve estudar apenas o comportamento observável (estímulo e resposta).
 
 
 Os Mentores (Pais Fundadores):  
@@ -94,6 +94,38 @@ Linguista que "destruiu" a ideia de Skinner de que a fala era apenas hábito, pr
 
 👉 A Psicologia Cognitiva venceu a "guerra" acadêmica nos anos 70, mas o Behaviorismo ainda é a base de quase tudo que é feito para gerar engajamento e vício em apps e redes sociais hoje.
 
+## Um pouco de história
+
+###### O experimento de Ivan Pavlov
+
+Realizado no início do século XX, é um dos pilares da psicologia comportamental. No fundo, Pavlov era um fisiologista e estava interessado na digestão, embora sua descoberta sobre o reflexo condicionado transformou a compreensão sobre o aprendizado e o controle do comportamento.
+
+
+<img src="https://media.istockphoto.com/id/157008368/vector/pavlovs-dog.jpg?s=612x612&w=0&k=20&c=zPeF8ZJUj0eeRWPDqeUEifJUsRHAx-vvywuyHKpX5Og=" width="100" /> O cachorro e o sino: o experimento:  
+
+**O estímulo incondicionado (Natural)**: Pavlov observou que, ao apresentar comida a um cão, o animal salivava naturalmente.
+
+    Comida = Estímulo Incondicionado.  
+    Salivação = Resposta Incondicionada (um reflexo biológico que não precisa ser aprendido).  
+
+**O estímulo neutro**: Pavlov introduziu um som (de sino ou metrônomo, por ex.). Inicialmente, ao ouvir o sino, o cão não salivava; apenas aguçava as orelhas. O som era "neutro" para a alimentação.  
+
+**O condicionamento (a associação)**: Pavlov começou a fazer soar o sino imediatamente antes de entregar a comida. Ele repetiu esse processo diversas vezes. O cérebro do cão começou a associar o som à chegada iminente do alimento.  
+
+**O Reflexo Condicionado**: Após várias repetições, Pavlov tocou o sino, mas não entregou a comida. Mesmo assim, o cão salivou abundantemente.  
+
+    Sino = Tornou-se um Estímulo Condicionado.
+    Salivação ao som = Resposta Condicionada.
+
+## Hannah Arendt
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16.jpg/250px-Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16.jpg" width="100" />🇩🇪 Hannah Arendt
+
+###### Por que o experimento de Pavlov era importante para Arendt?
+
+Ela via o "pesadelo" da condição humana na modernidade, pois o experimento prova que é possível contornar a vontade e a razão de um ser vivo. É possível criar reações automáticas através da repetição e do controle do ambiente.
+
+Para Arendt, se a política ou a tecnologia tratam os cidadãos como os cães de Pavlov _oferecendo "sinos" (propaganda, medo etc) para gerar reações automáticas_, a liberdade humana morre. Deixamos de agir por escolha e passamos a reagir por condicionamento.
 
 
 
