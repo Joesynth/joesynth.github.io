@@ -85,10 +85,10 @@ strong { font-size: 0.9em;}
 blockquote { border-left: 2px solid lightgray; color: gray; font-style: italic; margin-left: 1em; padding-left: 1em;}
 
 /* tab - cor de fundo apenas nas linhas pares */
-tr:nth-child(even) { background-color: #f2f2f2; }
+tr:nth-child(even) { background-color: #f8f8f8; }
 
 /* tab - cor de fundo nas linhas ímpares */
-tr:nth-child(odd) { background-color: #ffffff; }
+tr:nth-child(odd) { background-color: #eeeeee; }
 
 pre {
 	border: 1px solid #ccc; 
