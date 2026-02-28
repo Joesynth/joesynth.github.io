@@ -84,6 +84,20 @@ strong { font-size: 0.9em;}
 
 blockquote { border-left: 2px solid lightgray; color: gray; font-style: italic; margin-left: 1em; padding-left: 1em;}
 
+/* tab - cor de fundo apenas nas linhas pares */
+tr:nth-child(even) { background-color: #f2f2f2; }
+
+/* tab - cor de fundo nas linhas ímpares */
+tr:nth-child(odd) { background-color: #ffffff; }
+
+pre {
+	border: 1px solid #ccc; 
+	border-radius: 0.25em;  
+	padding: 0.5em; /* Pequena margem interna */ 
+	background: #f9f9f9; /* Fundo leve para contraste */ 
+	overflow: auto; /* Evita quebra de layout */
+}
+	
 footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
 
 /* Media Queries para Tablet e Notebook */
