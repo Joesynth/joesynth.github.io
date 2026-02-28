@@ -56,7 +56,7 @@ Onde : Estados Unidos.
 
 
 Os Mentores (Pais Fundadores):  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ivan_Pavlov_NLM3.jpg/250px-Ivan_Pavlov_NLM3.jpg" width="100" /> 🇷🇺**Ivan Pavlov**:  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ivan_Pavlov_NLM3.jpg/250px-Ivan_Pavlov_NLM3.jpg" width="100" /> 🇷🇺 **Ivan Pavlov**:  
 Precursor, descobriu o reflexo condicionado (o famoso experimento do cachorro que saliva ao ouvir um sino).  
 Ele era um fisiologista, e não psicólogo de formação.
 🏆 Ivan Pavlov é o "avô" do Behaviorismo. Ele ganhou o Nobel de Medicina em 1904.
@@ -83,14 +83,14 @@ Linguista que "destruiu" a ideia de Skinner de que a fala era apenas hábito, pr
 🇺🇸 **George Miller**: Famoso pelo estudo da memória de curto prazo (o "Número Mágico Sete"). Ele provou que nossa mente tem limites de processamento.  
 
 
-###### Resumo de Origens
+###### Resumo de origens das escolas
 
 
-| Escola | Local de Nascimento - Época Principal | Principal Mentor | Foco |
-| :--- | :--- | :--- | :--- |
-| **Behaviorismo** | 🇺🇸  1910 - 1950 | B.F. Skinner | O que o corpo **faz** (Ação) |
-| **Psicologia Cognitiva** | 🇺🇸  1950 - Presente | Ulric Neisser | O que a mente **processa** (Pensamento) |
-
+|      |Behaviorismo|Psicologia Cognitiva|
+| :---| :--- | :--- |
+|Local de Nascimento<br />Época Principal|🇺🇸  1910 - 1950|🇺🇸  1950 - Presente|
+|Principal<br />Mentor|B.F. Skinner|Ulric Neisser|
+|Foco|O que o corpo **faz** (Ação)|O que a mente **processa** (Pensamento)|
 
 👉 A Psicologia Cognitiva venceu a "guerra" acadêmica nos anos 70, mas o Behaviorismo ainda é a base de quase tudo que é feito para gerar engajamento e vício em apps e redes sociais hoje.
 
