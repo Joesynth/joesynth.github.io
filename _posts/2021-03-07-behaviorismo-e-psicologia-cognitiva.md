@@ -9,7 +9,7 @@ Olá!
 
 ## Introdução
 
-O behaviorismo e a psicologia cognitiva são dois pilares da psicologia moderna vitais no design de UI e UX, inclusive (e infelizmente) no dark patterns.
+O behaviorismo e a psicologia cognitiva são dois pilares da psicologia moderna vitais no design de [UI e UX](/ui-e-ux), inclusive (e infelizmente) também usados nos [dark patterns](/ui-e-ux-dark-patterns).
 
 Lembrando, no contexto de *dark patterns*, temos ataque psicológico. Por que?
 
@@ -94,6 +94,76 @@ Linguista que "destruiu" a ideia de Skinner de que a fala era apenas hábito, pr
 
 👉 A Psicologia Cognitiva venceu a "guerra" acadêmica nos anos 70, mas o Behaviorismo ainda é a base de quase tudo que é feito para gerar engajamento e vício em apps e redes sociais hoje.
 
+
+## Software CRM 
+
+O software [CRM](/o-que-e-crm) é ferramenta chave nesse contexto de behaviorismo e psicologia cognitiva. Ele une essas disciplinas na prática, ou seja, permite que o behaviorismo e a psicologia cognitiva sejam aplicados em escala através do design de UI/UX.
+
+###### Behaviorismo (Ação e Reação)
+
+O CRM registra cada interação do usuário (cliques, compras, tempo de inatividade).
+
+**Aplicação**: Se o usuário não compra há 30 dias (estímulo), o CRM dispara um e-mail com desconto (reforço) para gerar uma nova compra (resposta).
+
+###### Psicologia Cognitiva (Processamento de Informação)
+
+O CRM ajuda a mapear como o usuário percebe o produto e toma decisões.
+
+**Aplicação**: Analisando os dados, entende-se quais informações (textos, imagens) facilitam a decisão de compra e quais geram carga cognitiva (confusão).
+
+###### UI/UX (A Arquitetura de Escolha)
+
+Os dados do CRM moldam a interface (UI) e a experiência (UX).
+
+**Aplicação**: O UX Designer utiliza os dados de comportamento para criar "Nudges" (estímulos) na interface, como botões de "Compre agora" coloridos ou cronômetros de contagem regressiva, guiando o usuário para o objetivo desejado.
+
+Resumo: a psicologia fornece a teoria da mente, o CRM fornece os dados comportamentais, e o UI/UX fornece a interface de controle.
+
+
+
+###### CRM vs. midi: uma analogia
+
+Em termos de extração de dados de comportamento, o CRM equivale ao sintetizador MIDI. Por que a analogia é perfeita? Veja:
+
+**O "Rastro" da Intenção**: Tanto o MIDI quanto o CRM não armazenam apenas o resultado final (a nota musical tocada ou a compra), mas todo o processo que levou até ali: a hesitação, a velocidade, a frequência.
+**A Máquina como Espelho**: O músico "se vê" nos dados MIDI. A empresa "vê" o cliente nos dados do CRM, criando um "duplo digital" do comportamento humano para análise e predição.
+
+No MIDI há o arquivo midi, que contém todas as ações do músico, no caso, suas expressões musicais. O CRM também tem um arquivo que contém as ações do usuário. No caso do CRM, esse "arquivo" não é um único arquivo de extensão .midi ou .json, mas sim um banco de dados relacional ou um data lake que armazena todos os rastros de comportamento do usuário.
+
+A estudiosa Zuboff chama isso de "perfil comportamental" ou "duplo digital".
+
+
+| elemento | na música (MIDI) | na gestão/venda (CRM) |
+| :--- | :--- | :--- |
+| agente | músico | cliente / usuário |
+| ação<br />física | tocar notas, girar botões | clicar botões, navegar, comprar |
+| ação<br />digital | codificação de dados (tom de cada nota, "volume" de cada nota ) | codificação de dados (rastros, tempo) |
+| máquina/<br />interface| sintetizador / DAW (sistema de gravação) | App / Site / Interface UI |
+| produto | ) | perfil do cliente (dados da intenção) |
+
+###### O arquivo digital
+
+Esses sistemas geram um arquivo, tal como existe em qualquer aplicação digital, como áudio (.mp3), vídeo (.mp4), imagem (jpg), .pdf etc.
+
+Note que, sem querer, o músico está criando um produto digital, que é arquivo MIDI. Esse arquivo contém dados da performance musical, ou seja, um produto gerado pelo próprio músico naturalmente à medida que toca seu instrumento. Certamente, o músico está bem mais preocupado com sua música e sua performance, afinal, está fazendo arte.
+
+E o CRM?  
+
+| elemento | na música (MIDI) | na gestão/venda (CRM) |
+| :--- | :--- | :--- |
+| arquivo de<br />armazenamento | .mid` ou `.smf` | Banco de Dados SQL / Data Warehouse |
+| conteúdo<br />do<br />arquivo | notas, "volumes", efeitos, o tempo | cliques, páginas visitadas, tempo de permanência, compras |
+| "expressão"<br />do agente | interpretação musical (intensidade do toque, por ex.) | iIntenção de compra, hesitação, interesse genuíno |
+
+O que o CRM registra: as expressões do usuário:
+
+**Eventos explícitos**: cliques em botões, cadastro em formulários,compras...
+**Eventos implícitos (o superávit)**: quanto tempo o mouse ficou parado sobre um produto sem clicar (hesitação), o horário em que o usuário está mais ativo, a velocidade de rolagem da página (interesse).
+
+
+Veja [CRM](/o-que-e-crm).
+
+
 ## Um pouco de história
 
 ###### O experimento de Ivan Pavlov
@@ -126,6 +196,15 @@ Realizado no início do século XX, é um dos pilares da psicologia comportament
 Ela via o "pesadelo" da condição humana na modernidade, pois o experimento prova que é possível contornar a vontade e a razão de um ser vivo. É possível criar reações automáticas através da repetição e do controle do ambiente.
 
 Para Arendt, se a política ou a tecnologia tratam os cidadãos como os cães de Pavlov _oferecendo "sinos" (propaganda, medo etc) para gerar reações automáticas_, a liberdade humana morre. Deixamos de agir por escolha e passamos a reagir por condicionamento.
+
+## Pensando um pouco!
+
+<img src="https://img.freepik.com/fotos-premium/garoto-menina-crianca-brincando-correndo-no-parque-ao-ar-livre_79295-6646.jpg" width="100" /> Imagine uma criança brincando, correndo. Ela vai pra lá e pra cá. É somente ela e seu instinto de liberdade ou brincar.
+
+Imagine agora que ela tenha seu comportamento previsível, por um estranho. Ao ter o seu comportamento previsivel, ou padronizado por "alguém", esse "alguém" poderia influenciar (ou ate determinar) a brincadeira da criança?
+
+
+Se alguém consegue prever ou padronizar o brincar, o condicionamento substituiu a liberdade (que para o indivíduo era é a capacidade de iniciar algo novo).
 
 
 
