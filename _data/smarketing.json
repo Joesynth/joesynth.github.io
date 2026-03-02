@@ -6,24 +6,6 @@
     "p": "Tutorial: o que é exatamente SEO On Page?"
   },
   {
-    "href": "private.html",
-    "src": "image/rede.png",
-    "h3": "Ifood: poder",
-    "p": "O poder do iFood, um exemplo de onde chegou a tecnologia."
-  },
-  {
-    "href": "uber-ifood-o-que-sao-essas-empresas.html",
-    "src": "image/rede.png",
-    "h3": "Uber/iFood: o que são essas empresas?",
-    "p": "No contexto da tecnologia, veja o que são essas empresas."
-  },
-  {
-    "href": "web-servidores-brasileiros.html",
-    "src": "image/rede.png",
-    "h3": "Web: servidores brasileiros",
-    "p": "No Brasil há vários servidores e neste artigo listamos alguns, inclusive históricos."
-  },
-  {
     "href": "wordpress-plugins.html",
     "src": "image/ti.png",
     "h3": "Wordpress plugins",
@@ -102,12 +84,6 @@
     "p": "Black hat de interfaces: apps comerciais e a maldade."
   },
   {
-    "href": "behaviorismo-e-psicologia-cognitiva.html",
-    "src": "image/design.png",
-    "h3": "Behaviorismo e psicologia cognitiva",
-    "p": "Os dois pilares centrais de UI e UX."
-  },
-  {
     "href": "white-hat-e-black-hat.html",
     "src": "image/cli.png",
     "h3": "White hat e black hat",
@@ -118,24 +94,6 @@
     "src": "image/comercio.png",
     "h3": "Software: modelo de negócio",
     "p": "Conheça truques que podem ser, ao mesmo tempo, vendas e marketing; nomes como shareware, saas..."
-  },
-  {
-    "href": "microsoft.html",
-    "src": "image/comercio.png",
-    "h3": "Microsoft: poder e polêmicas",
-    "p": "A linda janela com ar de liberdade, que nós mantém presos."
-  },
-  {
-    "href": "capitalismo-de-vigilancia.html",
-    "src": "image/comercio.png",
-    "h3": "Capitalismo de vigilância",
-    "p": "O Big Brother e o Big Other."
-  },  
-  {
-    "href": "eula.html",
-    "src": "image/comercio.png",
-    "h3": "EULA: poder e polêmicas",
-    "p": "Acordo de Licença de Usuário Final: o 'quadradinho' que sempre confirmamos quando instalamos um software."
   },
   {
     "href": "software-de-gestao-empresarial.html",
