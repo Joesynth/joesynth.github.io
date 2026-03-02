@@ -28,6 +28,7 @@ Um acervo de <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e
 <h4>Jogos</h4>
 Buscamos organizar a grande variedade de jogos no mais simples possível, como jogos de memória, os clássicos, RPG etc.
 <h6>Memória</h6>
+
 <strong><img class="alignleft" src="https://gramatoys.wordpress.com/wp-content/uploads/2016/07/genius.jpg" width="120" />BlinKen</strong>.
 Memória visual e auditiva. Na verdade, uma versão virtual do antigo brinquedo físico Genius (Simon Says).
 ⬇️ Ubuntu Software.
@@ -35,6 +36,7 @@ Memória visual e auditiva. Na verdade, uma versão virtual do antigo brinquedo 
 - Kard. 
 - Lmemory.</pre>
 <h6>Sandbox</h6>
+
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/512px-Minetest_logo.svg.png" width="80" /></strong>
 
 <strong> Minetest</strong> (Luanti).
@@ -42,11 +44,13 @@ A versão <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-so
 <strong>📜️</strong> GPL e outras.
 ⬇️ Ubuntu Software.
 <h6>Clássico</h6>
+
 <strong><img class="alignleft" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaevvW4VAuray_uFvJPK2J-mDD1AK0L9acJ0f03Js9X1XNGrL9QE72vV3hwIHRCbj5jhOg53W7CP0ZjvUGSygGDcdu1f3rDkWfEkqN3l6unZHWdN0et1OcGZjgeYrTcOrFxniR4buaO2M/w640-h340/Screenshot_20210707_194451.png" width="120" />Xgalaga</strong> (Galaga anos 80).
 Estilo clássico fliperama, é bom para se trabalhar a atenção e o controle do teclado. É o chamado <em>vertical shooter</em>.
 ⬇️ Ubuntu Software (XGalaga++).
 <pre># k- battleship – batalha naval.</pre>
 <h6>Estratégia</h6>
+
 ● <strong>Freeciv</strong>.
 Construindo sua própria civilização.
 <strong>📜️</strong> GPL, AGPL.
@@ -55,6 +59,7 @@ Construindo sua própria civilização.
 ● konquest – um jogo galáctico.
 ● Ksokoban – um jogo milenar.
 <h6>Diversos</h6>
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Khangman001.png/250px-Khangman001.png" width="120" /><strong>KHangMan</strong>.
 Estilo jogo da forca, é para crianças pequenas. Apresenta temas como mar, inverno, abelha e deserto. A criança deve dar palpites corretos para prosseguir bem na brincadeira.
 Palavras em inglês quanto em português.
@@ -77,6 +82,7 @@ Palavras em inglês quanto em português.
 - Gtans – Tangran Chinês
 </pre>
 <h6>Suíte</h6>
+
 <strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gcompris_0.61_screenshot.png/330px-Gcompris_0.61_screenshot.png" width="120" />GCompris</strong>.
 Nascido lá no ano 2000, é um conjunto de softwares de entretenimento educacional para crianças de 2 a 10 anos. São dezenas de atividades sobre geografia, leitura, descoberta do computador etc.
 ✍️ KDE e outros.
@@ -88,8 +94,9 @@ Nascido lá no ano 2000, é um conjunto de softwares de entretenimento educacion
 Pacote de <em>softwares</em> educativos para alunos e pais, criado no início da década de 2000 pelo KDE. Está disponível em dezenas de idiomas.
 ✍️ Projeto KDE Education (ou projeto KDE-Edu).
 <pre>- Childsplay – conjunto de aplicativos para trabalhar com crianças, estilo GCompris.</pre>
-.
+
 <h6>Xadrez e tabuleiro</h6>
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/XBoard_GNUChess.png/250px-XBoard_GNUChess.png" width="120" /><strong>GNU Chess</strong>.
 Nasceu nos anos 80 e é um dos jogos de Xadrez mais tradicionais no Linux.
 <strong>📜️</strong> GPL.
@@ -100,7 +107,17 @@ Nasceu nos anos 80 e é um dos jogos de Xadrez mais tradicionais no Linux.
 # <strong>Tabuleiro</strong> 
 ● Kenobala – Jogo de tabuleiro estilo estratégia , semelhante ao Xadrez e Damas. ● kbackgammon – jogo de gamão ● klickety – jogo de tabuleiro</pre>
 <h6>Terminal (tela preta)</h6>
+
 O terminal está associado a <strong>interface de linha de comando</strong> (<a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-cli/">CLI</a>), aquela 'tela preta' utilizada por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>. Ele pode ser uma ferramenta no aprendizado de informática. Sem vínculo direto com educação, a ideia é se familiarizar com o <a href="https://joesynth.wordpress.com/2021/11/27/dispositivos-de-entrada-e-saida/">teclado do computador</a> _programadores, por ex., o usam bastante (comparado ao <em>mouse</em>).
+
+
+<img src="https://itsfoss.com/content/images/2023/07/ninvaders.png" width="100" />**Ninvaders**:  
+O clássico do final dos anos 70 Space Invaders, mas em CLI.  
+
+    sudo apt update
+    sudo apt install ninvaders
+
+
 
 <img class="alignleft" src="https://itsfoss.com/content/images/2023/04/bastet.svg" width="310" /> <strong>Bastet</strong> (Tetris):
 Raciocínio lógico / quebra-cabeça.
@@ -123,6 +140,11 @@ Agilidade!
 A clássica brincadeira da 'cobrinha'.
 <span style="color: #808080">sudo snap install csnaketerm</span>
 
+
+
+
+
+    
 Abaixo mais outros jogos em CLI.
 <pre># <strong>Raciocínio lógico / quebra-cabeça</strong>.
 - term2048
@@ -131,9 +153,10 @@ Abaixo mais outros jogos em CLI.
 - Backgammon 
 (⬇️ Ubuntu Software).
 # <strong>Outros</strong>
-- Ninvaders: o clássico do final dos anos 70 Space Invaders.
-<code class="mv6bHd"><span style="color: #808080">sudo apt update</span></code> <span style="color: #808080"><code class="mv6bHd">sudo apt install ninvaders</code></span> - Greed: Semelhante a Tron, diriam alguns. - Moon Buggy. - Air Traffic Controller.</pre>
+- .
+<code class="mv6bHd"><span style="color: #808080"></span></code> <span style="color: #808080"><code class="mv6bHd"></code></span> - Greed: Semelhante a Tron, diriam alguns. - Moon Buggy. - Air Traffic Controller.</pre>
 <h6>RPG</h6>
+
 De forma geral, os componentes básicos de um jogo digital são:
 ● o papel ou personagem do jogador;
 ● as regras do jogo;
@@ -190,6 +213,7 @@ Tipo Logo (uma linguagem de programação), é um ambiente educacional para apre
 <a href="https://joesynth.wordpress.com/aprenda-programacao-e-ganhe-o-mundo/"><img class="alignnone  wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" height="308" /></a>
 <h4>Português, matemática, idiomas</h4>
 <h6>Português e outros idiomas</h6>
+
 <strong><img class="alignleft" src="https://cdn.kde.org/screenshots/kanagram/kanagram.png" width="120" />Kanagram</strong>.
 Um quebra-cabeças de ordenação de palavras.
 <strong>🔗️</strong> kde.org
@@ -209,6 +233,7 @@ Um quebra-cabeças de ordenação de palavras.
 </pre>
 .
 <h6>Matemática</h6>
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/TuxMath.png/500px-TuxMath.png" width="120" /><strong>Tux Math</strong> (ou Math Command).
 Jogo ao estilo <em>arcade</em> para praticar 'fatos matemáticos', como aritmética. O Jogador protege a cidade de cometas, daí resolve-se problemas matemáticos que os identificam, para um laser os destruir. Há suporte a múltiplos usuários (útil para escolas), modo multijogador LAN, tutoriais na tela etc.
 ⬇️ Ubuntu Software.
@@ -346,6 +371,7 @@ Destinado aos professores para gerenciar notas dos alunos. Cadastra-se os estuda
 
 <h4>Multitarefa e outros aplicativos úteis</h4>
 <h6>Compartilhar arquivos</h6>
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/100px-Telegram_2019_Logo.svg.png" width="60" height="60" />
 
 <strong>Telegram</strong>.
@@ -359,6 +385,7 @@ Embora famoso como aplicativo de mensagens, ele é bem mais que isso. Instalado 
 
 - Samba – Programa que permite colocar os computadores em rede.
 <h6>Diversos</h6>
+
 <pre>- Ark – compactador/descompactador de arquivos.
 - CmapTools – Mapas conceituais.
 - Linvox – Leitor de tela para cegos (precisa ser emulado).
@@ -387,6 +414,7 @@ Edubuntu</h4>
 <strong>📜️</strong> GPL, ano 2005
 <strong>🔗️</strong>edubuntu.org
 <h6>Instalação</h6>
+
 <strong>DVD de instalação/live</strong>: há dois e você deve escolher um deles para instalar:
 ● PC Intel <a href="https://joesynth.wordpress.com/2021/11/28/nocoes-de-informatica/">x86</a>: se você tiver um processador não-64 bits fabricado pela AMD ou se precisar de suporte total para código de 32 bits, use essa imagem Intel x86.
 ● PC de 64 bits (<a href="https://joesynth.wordpress.com/2021/11/28/nocoes-de-informatica/">AMD64</a>): a opção para computadores baseados na arquitetura AMD64 ou EM64T (por ex. Athlon64, Opteron, EM64T Xeon, Core 2).
