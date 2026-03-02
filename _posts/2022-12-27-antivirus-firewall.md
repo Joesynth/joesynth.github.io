@@ -5,15 +5,11 @@ Tutorial básico, ideal para estudantes e concurseiros.
 
 
 Para nossa defesa devemos lembrar dessas palavras:
-<table border="1" width="100%">
-<tbody>
-<tr>
-<td width="35%"><em>Firewall</em></td>
-<td width="34%"><em>Antimalware</em></td>
-<td width="31%"><em>Antispyware</em></td>
-</tr>
-</tbody>
-</table>
+
+|Firewall|Antimalware|Antispyware|
+
+
+
 Vejamos uma a uma!
 <h3>Firewall</h3>
 <span style="color:#0000ff">parede de fogo</span>.
@@ -35,40 +31,37 @@ Veja <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">f
 O <em>firewall</em> fica entre a rede externa e interna.
 <h5>⚙️ Funcionamento</h5>
 Funcionamento: Tudo que passa de um lado pro outro passa por ele; a proteção é em ambos sentidos. Assim temos:
-<table width="100%">
-<tbody>
-<tr valign="top" bgcolor="#99FFFF">
-<td width="50%">Controla tráfego de dados entre as redes de acordo com regras pré-estabelecidas (políticas de segurança, lê-se regras do <em>firewall</em>).
-O <em>firewall</em> pode ter suas próprias regras pré-definidas e o administrador criar novas regras, o que é comum.</td>
-<td width="50%">Analisa esse tréfego e pode tomar uma ação conforme regras configuradas, podendo bloquear algo.</td>
-</tr>
-</tbody>
-</table>
+
+
+|Controla tráfego de dados entre as redes de acordo com regras pré-estabelecidas (políticas de segurança, lê-se regras do <em>firewall</em>).<br />
+O <em>firewall</em> pode ter suas próprias regras pré-definidas e o administrador criar novas regras, o que é comum.|Analisa esse tréfego e pode tomar uma ação conforme regras configuradas, podendo bloquear algo.|
+
+
+
 <h5>O que protege... e não protege?</h5>
-<table width="100%">
-<tbody>
-<tr valign="top">
-<td bgcolor="#66FF99" width="50%"><strong>Protege</strong>...
+<table >
+<tr yyy="top">
+<td yyy="#66FF99" ><strong>Protege</strong>...
 - Protege contra alguém invadir seu computador.
 - A rede local de ameaças de uma rede externa (como a internet) e de <em>hosts</em> na própria rede.
 - As portas de comunicão.
 - Filtra analisando os pacotes que entram e saem da rede. Ou seja, é um filtro de pacotes.
 - Controla acessos e tráfegos do seu computador, sistema, por meio de regras e a filtragem de dados.
 - É possível cadastrar informações pessoais como CPF, número de cartão; que será impedida de sair do computador, seja por um um <em>hacker</em> tentando invadir ou envio acidental. Assim o <em>firewall</em> equivale a um "porteiro" que verifica o que entra e sai do computador.</td>
-<td bgcolor="#FFCCFF" width="50%"><strong>O que Não protege?</strong>
+<td yyy="#FFCCFF" ><strong>O que Não protege?</strong>
 - Ataques que o atravessem.
 - Ameaças internas (ex: funcionários).
 - <em>Malwares</em> (principalmente na rede interna).</td>
 </tr>
-</tbody>
 </table>
+
 <h5>Tipos de Firewall</h5>
-<table width="100%">
+<table >
 <tbody>
-<tr valign="top" bgcolor="#99FFFF">
-<td width="50%">Filtro de Pacotes.
+<tr yyy="top" yyy="#99FFFF">
+<td >Filtro de Pacotes.
 Filtro de Estado de Sessão (inspeção de estado).</td>
-<td width="50%">Gateway de Aplicação (Proxy).
+<td >Gateway de Aplicação (Proxy).
 UTM (Gerenciamento Unificado de Ameaças).</td>
 </tr>
 </tbody>
