@@ -12,6 +12,8 @@
 <h2>Telas: resoluções de tela</h2>
 <span style="font-size:4em;">📱</span><strong>320×480</strong> <span class="style3">smartphone iPhone [Apple,07].</span>
 
+Outros:  
+
 |||
 |:---|:---|
 |320x200 CGA|320×480 iPhone|
@@ -19,37 +21,6 @@
 |1024x768 XGA|1280x720 HD 720|
 |1920x1080 HD 1080|2560x1600 WQXGA|
 
-
-
-
-
-
-Outros:
-<table border="1" width="100%">
-<tr valign="top">
-<td width="25%">
-<p align="center">320x200
-<em><span class="style3">CGA</span></em>
-640x480
-<em><span class="style3">VGA</span></em></p>
-</td>
-<td width="25%">
-<div align="center">800x600
-<em><span class="style3">SVGA</span></em>
-1024x768
-<em><span class="style3">XGA</span></em></div></td>
-<td width="27%">
-<div align="center">1280x720
-<em><span class="style3">HD 720</span></em>
-1920x1080
-<em><span class="style3">HD 1080</span></em></div></td>
-<td width="23%">
-<div align="center">2560x1600
-<em><span class="style3">WQXGA</span></em>
-<span class="style3">
-</span></div></td>
-</tr>
-</table>
 
 <h2>Design</h2>
 
