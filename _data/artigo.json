@@ -288,18 +288,6 @@
     "p": "Conheça algumas ferramentas de firewall."
   },
   {
-    "href": "ai-ameacado-pela-inteligencia-artificial.html",
-    "src": "image/ti.png",
-    "h3": "AI - Ameaçado pela inteligência artificial?",
-    "p": "O que há de dados sobre a possibilidade de profissionais perderem o emprego por causa da IA?"
-  },
-  {
-    "href": "internet-tem-dono.html",
-    "src": "image/rede.png",
-    "h3": "A internet tem dono?",
-    "p": "Dizem que dono é quem cuida. Será que isso se aplica a web?"
-  },
-  {
     "href": "onde-pesquisar-no-google-errou.html",
     "src": "image/ti.png",
     "h3": "Onde pesquisar? No Google? Errou!",
@@ -442,5 +430,5 @@
     "src": "image/ti.png",
     "h3": "API: o que é?",
     "p": "Um guia elementar."
-  },
+  }
 ]
