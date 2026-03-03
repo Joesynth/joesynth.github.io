@@ -69,7 +69,7 @@ a {
 }
 
 /* Main e Artigos */
-main { display: flex; flex-direction: column; padding: 20px; gap: 20px; }
+main { display: flex; flex-direction: column; padding: 20px; gap: 20px; color: blue;}
 .art-link { text-decoration: none; color: inherit; }
 
 article { display: flex; gap: 15px; align-items: flex-start; }
@@ -82,7 +82,7 @@ h5, h6 { font-size: 1.2em; }	/* alguns artigos vieram do WP, e lá foi usado h5,
 
 strong { font-size: 0.9em;}
 
-blockquote { border-left: 3px solid lightgray; padding-left: 1em; color: gray; font-style: italic; text-decoration: underline; text-underline-offset: 0.2em; text-decoration-color: var(--cor-escura);}
+blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color: gray; font-weight: bold; font-style: italic;}
 
 th { background-color: lightgray; }
 
