@@ -273,6 +273,12 @@
     "href": "rede.html",
     "src": "image/rede.png",
     "h3": "Rede",
+    "p": "Um guia básico."
+  },
+    {
+    "href": "rede-2.html",
+    "src": "image/rede.png",
+    "h3": "Rede",
     "p": "Um guia rápido."
   },
   {
