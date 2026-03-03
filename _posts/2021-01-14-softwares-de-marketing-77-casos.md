@@ -22,49 +22,70 @@ Conheça programas que podem ser considerados vitais para sua marca.
 <li>🤖️ Automação de marketing vs automação de fluxos ⚙️</li>
 <li>💰️ CAC e o CRC -  Custo de Aquisição / Retenção do Cliente</li>
 <li>🔁️ Plugins</li>
+<li>Scheduler</li>
 </ul>
-<p> </p>
+
 <pre>💻 Plataforma<br />📜 Licença<br />🎈 Software livre<br />🔒️ Software proprietário</pre>
-<h2>✉️ E-mail marketing</h2>
+
+## E-mail marketing
+
 <p>Gerenciar lista de e-mail: segmentar,  limpar listas (higiene), automatizar; métricas (taxa de abertura de email, cliques), campanhas etc.<br />⚠️ Thunderbird (Mozilla) - famoso software, mas não serve para esta finalidade. Não gerencia listas grandes, sem automação ou relatórios etc.</p>
 <p>Uso do <em>e-mail</em> para promoção, engajamento, relacionamento com clientes. Boletim informativo (<em>newsletter</em>), envio de mensagens segmentadas para <em>leads</em> e clientes, campanhas, automação (fluxos automatizados).</p>
 <p>🎈 Software Livre<br />● Mautic — automação multicanal (<em>e-mail</em>, redes sociais, CRM).<br />● Listmonk — plataforma moderna de <em>e-mail</em> MKT.<br />● phpList — envio e gerenciamento de <em>newsletters</em>.</p>
 <p>🔒️ Software proprietário<br />● MailChimp (SaaS) - gratuito até 500 contatos / 1000 envios.<br />● MailerLite (SaaS).</p>
 <pre>Outros<br />● Mailtrain — <em>newsletters</em> e campanhas com listas segmentadas.<br />● OpenEMM ● Keila ● MailyHerald <br /><br /></pre>
-<h2>🎵️ Marketing de eventos</h2>
+
+## 🎵️ Marketing de eventos
+
 <p>Divulga produtos ou marcas por meio de feiras, palestras, etc.</p>
 <p>💻 Abaixo, todos são para servidor web, em especia Linux.</p>
 <p>🎈 Software Livre<br />● OSEM - Gestão de conferências e eventos: site do evento, inscrições, submissões, cronograma e relatórios básicos.<br />● Libreǝvent - Sistema livre para bilheteria e controle de eventos. Suporte a plano de assentos, ingressos e pagamentos.<br />● Hi.Events - Plataforma open-source para criação e gestão de eventos. Inclui registro de participantes e relatórios.<br />● Pretix - Sistema completo de venda de ingressos, inscrição, <em>check-in</em> e relatórios. Integra com <em>e-mail</em> e pagamentos.<br />● Attendize - Sistema de bilheteria open-source. Permite criar eventos, vender ingressos e gerenciar participantes.<br />● Mobilizon (Framasoft) - Criação e divulgação de eventos. Voltado a comunidades e coletivos.</p>
-<h2>🤑️ Marketing de afiliados</h2>
+
+## 🤑️ Marketing de afiliados
+
 <p>Vendas com pagamentos de comissões para parceiros.</p>
 <p>🎈 Software Livre<br />● Refferq - software livre (open source) que permite aprovar afiliados, rastrear cliques e conversões em tempo real e configurar regras para comissões (porcentagem, valor fixo etc). Está sob licença MIT e requer hospedagem própria, já que é auto-hospedado.</p>
 <p>🎈 Open source ou SaaS<br />● Numok - plataforma de afiliados open source. Pode ser usada de forma auto-hospedada ou como serviço em nuvem. O foco é a integração com Stripe, permitindo rastrear pagamentos e calcular comissões automaticamente. Indicado para quem já utiliza Stripe em lojas ou produtos digitais.</p>
 <p>🎈 Open source<br />● Weferral - sistema voltado à gestão de afiliados e programas de indicação (“referral”). É flexível e pode ser personalizado para diferentes modelos de negócio, com configurações de níveis de comissão, relatórios etc. Exige instalação e manutenção em servidor próprio.</p>
 <p>🎈 Software livre<br />● eLitius -  servia para rastrear afiliados, criar <em>links</em> e <em>banners</em> ou mesmo calcular comissões, mas foi descontinuado. Não recebe mais atualizações, sendo útil apenas para fins de estudo.</p>
-<h2>✍️ Marketing de conteúdo</h2>
+
+## ✍️ Marketing de conteúdo
+
 <p>Criação de conteúdo.</p>
 <p>Vide SEO.</p>
-<h2>💚 Marketing de causa / institucional</h2>
+
+## 💚 Marketing de causa / institucional
+
 <p><em><span style="color: #0000ff">Cause-related marketing</span></em>.<br />Marca se associa a causa social. Engajamento de comunidades, doações e visibilidade social.</p>
 <p>● Koha — gestão comunitária de bibliotecas, com foco em causas culturais.<br />● CiviCRM — gestão de campanhas e doadores (ONGs, igrejas, fundações).<br />● Open Collective — gestão transparente de fundos e doações.<br />● Open Source Collective — infraestrutura financeira para projetos livres.</p>
 
-<h2>🏬️ Endomarketing (MKT Interno)</h2>
+
+## 🏬️ Endomarketing (MKT Interno)
+
 <p>Abaixo, todas as ferramentas são <em>open-source</em> e relativas à intranet; além de serem baseadas em servidor web, em especial Linux.<br />🎈 Software livre<br />● HumHub. <br />● Open HRMS. <br />● Silverpeas. <br />● My Intranet.</p>
 <p>Vide também Rocket.Chat.</p>
 
-<h2>🔎️ SEO</h2>
+
+## 🔎️ SEO
+
 <p>Melhora o posicionamento natural no Google, isto é, marca aparece nas pesquisas do Google sem ser propaganda paga. Tráfego orgânico, otimização.</p>
 <p>Abaixo, juntamos exemplos de SEO e de MKT de conteúdo.<br />● Ghost — plataforma de <em>blogs</em> e <em>newsletters</em> otimizada para SEO.<br />● Plume — plataforma federada de publicação (ActivityPub).<br />● Hugo — gerador de sites estáticos otimizados para SEO.</p>
 
-<h2>👨‍👩‍👦‍👦️ Marketing de mídia social</h2>
+
+## 👨‍👩‍👦‍👦️ Marketing de mídia social
+
 <p><em><span style="color: #0000ff">Social media marketing</span></em>.<br />Presença, engajamento e gestão de redes sociais.</p>
 <p>● Chatwoot — centraliza conversas de redes sociais e mensageiros.<br />● Touitomamout — sincroniza postagens entre Mastodon, Twitter/X e Bluesky.<br />● Elk — cliente web para Mastodon, ideal para presença descentralizada.<br />● Misskey — rede social livre, pode ser usada para campanhas próprias.<br />● Fossify Social — aplicativo Android para acesso unificado a redes sociais.</p>
 
-<h2>🧠 Marketing de relacionamento</h2>
+
+## 🧠 Marketing de relacionamento
+
 <p>Gestão de contatos, campanhas, fidelização e retenção de clientes.<br />CRM é o termo chave.</p>
 <p>● HubSpot (proprietário).<br />● CiviCRM - para ONGs e instituições, com e-mail e campanhas.<br />● SuiteCRM - CRM corporativo com automação de marketing.<br />● EspoCRM — CRM leve com módulo de campanhas e integrações sociais.</p>
 
-<h2>🔢️ Software híbrido de MKT</h2>
+
+## 🔢️ Software híbrido de MKT
+
 <p>Programa que atua em mais de um tipo de MKT:</p>
 <pre>✉️ E-mail marketing
 👨‍👩‍👦‍👦️ Mídia social
@@ -222,7 +243,9 @@ CRM de relações pessoais/empresariais, interação e integrações sociais.
 
 </pre>
 <p>.</p>
-<h2>👁️ Social listening (escuta social)</h2>
+
+## 👁️ Social listening (escuta social)
+
 <p>Monitorar conversas e menções nas redes sociais e na web sobre uma marca, produto, concorrente. Outro termo é social monitoring.</p>
 <pre>   Software proprietário 🔒️
 ● BuzzSumo - vital em estratégias de marketing de conteúdo e SEO, é uma ferramenta de análise de conteúdo e monitoramento de tendências. Descobre conteúdos populares ou influenciadores, analisa concorrentes, monitorar menções de marca. Plataforma: Web (Windows, macOS, Linux via navegador) Licença Proprietária / comercial - assinatura mensal ou anual (há planos pagos e teste gratuito limitado) Deve-se criar conta em criar uma conta e usar pelo site oficial https://buzzsumo.com
@@ -231,7 +254,9 @@ CRM de relações pessoais/empresariais, interação e integrações sociais.
 ● OSMM (Open Social Media Monitoring) - monitorar palavras-chave em redes sociais (Twitter, Facebook), ou seja, bom para “escutar” menções.<br /><br />Outros: alguns módulos de Matomo ou Mautic (com customização).
 </pre>
 <p>.</p>
-<h2>🤖️ Automação de marketing vs automação de fluxos ⚙️</h2>
+
+## 🤖️ Automação de marketing vs automação de fluxos ⚙️
+
 <table>
 <tbody>
 <tr>
@@ -439,7 +464,9 @@ Interface: API (backend).
 
 </pre>
 <p>.</p>
-<h2>💰️ CAC e o CRC/CEC</h2>
+
+## 💰️ CAC e o CRC/CEC
+
 <p><span style="color: #0000ff">Custo de Aquisição de Clientes</span>.<br /><span style="color: #0000ff">Custo de Retenção ou Custo de Encantamento do Cliente</span>.</p>
 <p>Um software pode ter painéis prontos ou configuráveis para lidar com métricas de CAC e CRC.</p>
 <p>🎈️ Software livre (GPL, AGPL)<br />● SuiteCRM - Pelos dados internos pode-se configurar relatórios e integrações para calcular CAC e CRC. Há como montar gráficos de custo por lead, campanha e cliente, base para o CAC. É ideal para calcular e acompanhar CAC e CRC em organizações de diferentes portes.<br />● Dolibarr (ERP &amp; CRM) — Gerencia clientes, contratos e vendas, dando base para monitorar custos de aquisição e retenção. Software focado em módulos, então sempre é possível mostrar medições, gráficos, dados relativos ao CAC e ao CRC.</p>
@@ -447,13 +474,37 @@ Interface: API (backend).
 <p>🔒 Software proprietário - SaaS</p>
 <p>🇧🇷 (RS) Atendare (CRM) - Via módulo "Analytics" acompanha-se métricas e relatórios de vendas, retendo clientes, produtividade etc<br />● 🇧🇷 Syncalyx (CRM) — Facilita a redução do custo de aquisição com nutrição inteligente de leads e dados de prospecção.<br />● 🇧🇷 Bitrix24 (CRM) - Há relatórios, por ex., que permitem acompanhar métricas de aquisição e retenção de clientes.<br />● Salesforce (CRM) — Permite análise detalhada de CAC e CRC com dashboards e automação de processos.<br />● HubSpot (CRM) — Tem relatórios de aquisição, retenção e engajamento, permitindo calcular CAC e CRC de forma automatizada. Permite medir CAC e CRC a partir de campanhas, conversões e métricas de fidelização.<br />● Zoho CRM — Possui relatórios e integrações que ajudam a medir custos de aquisição e retenção, além de métricas de fidelização. Um indicador que contribui para monitorar custos de aquisição e retenção é o valor de vida do cliente.<br />● Pipedrive (CRM)— focado em gestão de funil de vendas e conversão. Ajuda a otimizar o processo comercial, reduzindo o CAC, e integra-se com ferramentas de pós-venda para analisar CRC</p>
 <p>.</p>
-<h2>🔁️ Plugins</h2>
+
+## 🔁️ Plugins
+
 <p>Lembrando...</p>
 <blockquote>
 <p>"<a href="https://joesynth.wordpress.com/2020/04/07/o-que-e-um-plug-in/">Plug-in</a> é programa que roda dentro de outro programa maior..."</p>
 </blockquote>
 <p>Ou seja, o <em>software</em> plug-in "se encaixa" noutro <em>software</em>.</p>
 <p>Portanto, vide o <em>link</em> <a href="https://joesynth.wordpress.com/2021/12/12/wordpress-plugins/">WordPress - Plugins</a>, afinal, muitos (ou todos) dos recursos de MKT aqui mencionados podem ser obtidos no próprio ambiente WordPress. O mesmo vale para o <a href="https://joesynth.wordpress.com/2023/10/18/software-de-gestao-empresarial/">ERP</a> Odoo e o Dolibarr.</p>
+
+
+
+## Message scheduler Whats
+
+**Whatsapp Scheduler**: Extensão Chrome. Freemium. Navegador precisa estar aberto no horário da execução. Modo pago tem-se funções avançadas (envio em massa/recorrência).
+**Schemess**: Android. Freemium / Ad-supported. Cobra para remover publicidade e liberar agendamentos ilimitados.
+**Wasavi**: Android, Freemium. Grátis para agendamentos simples; cobra por recursos "Pro" (grupos, anexos e suporte em nuvem).
+**SKEDit**: Android. Freemium / SaaS. Talvez o mais robusto e útil para microempresa ou pequena empresa. Assinatura mensal/anual. Possui plano gratuito limitado, mas foca em planos pagos para empresas (Business).
+
+> [UPDATE] Para 2026 o próprio WhatsApp passa a oferecer uma função de agendamento (pressionando o botão de enviar no celular). Então esses apps tendem a se tornar mais plataformas de CRM e Marketing, indo além do mero "agendar", como integração com planilhas etc.
+
+###### FOSS - código aberto - CLI
+
+⚠️ Headless: sem cabeça, sem front-end visíve; software ou navegador que funciona sem interface gráfica (GUI)
+
+**PyWhatKit**: Biblioteca Python; não Headless. Automação de comandos via script. Compatível com Chrome ou Chromium, somente.
+**Baileys**: Biblioteca Node.js; Headless. Sem usar navegador, conecta diretamente aos servidores do WhatsApp via protocolo WebSockets.
+**WhatsApp-web.js**: Biblioteca Node.js; Headless (por padrão). Compatível com FF também. Deve-se manter aberto Node e navegador (embora este possa estar em 2º plano)
+**Mudslide**: Node.js; Headless. CLI para envio direto de mensagens e arquivos.
+**Go-WhatsApp-CLI**: Headless. Binário em Go focado em performance e servidores.
+
 
 É isso! Grande abraço... sucesso.  
 \o/  
