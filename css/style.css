@@ -6,6 +6,7 @@
 body { background-color: #F3F3F3;}
 
 ul li { font-weight: bold;}
+ol li { font-weight: bold;}
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: sans-serif; }
