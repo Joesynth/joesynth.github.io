@@ -505,11 +505,14 @@ Interface: API (backend).
 **Mudslide**: Node.js; Headless. CLI para envio direto de mensagens e arquivos.
 **Go-WhatsApp-CLI**: Headless. Binário em Go focado em performance e servidores.
 
+👉 Se você quer agendar algo, desligar o seu notebook e ir dormir, nenhuma dessas bibliotecas vai funcionar sozinha. O WhatsApp não guarda o seu agendamento nos servidores dele; é o seu script que precisa "acordar" e enviar na hora certa.
+
+👉 Servidor/Nuvem): Aqui que a mágica acontece. Aqui seu computador pessoal pode ser desligado, mas o código está rodando em um Servidor (VPS) que fica ligado 24h por dia em um data center.
 
 É isso! Grande abraço... sucesso.  
 \o/  
 
 
 
-<p></p>
-<!-- /wp:paragraph -->
+
+
