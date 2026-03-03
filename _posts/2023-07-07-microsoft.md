@@ -3,13 +3,15 @@
 Olá!  
 Embora o logotipo da empresa seja uma janela com um ar de liberdade, na prática tem-se o oposto.  
 
-1. Lobby
-2. Autonomia - Windows é quem tem o controle
-3. Taxa Microsoft (Windows Tax)
-4. EEE - Embrace, Extend, and Extinguish
-5. Venda casada
-6. Hacking
-7. Marketing cooperativo
+<ol>
+ <li>Lobby</li>
+ <li>Autonomia - Windows é quem tem o controle</li>
+ <li>Taxa Microsoft (Windows Tax)</li>
+ <li>EEE - Embrace, Extend, and Extinguish</li>
+ <li>Venda casada</li>
+ <li>Hacking</li>
+ <li>Marketing cooperativo</li>
+</ol>
 
 - Temas relacionados
 
