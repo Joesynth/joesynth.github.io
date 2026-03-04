@@ -64,10 +64,12 @@ a {
 
 .nav-links li a {
     color: var(--cor-escura);
-    padding: 12px;
+    padding: 8px;
     display: block;
-    font-weight: bold;
+    //font-weight: bold;
 }
+
+.unicode { font-size: 1.5em;}
 
 /* Main e Artigos */
 main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.4em;}
