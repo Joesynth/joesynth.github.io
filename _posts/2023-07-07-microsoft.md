@@ -5,8 +5,8 @@ Embora o logotipo da empresa seja uma janela com um ar de liberdade, na prática
 
 <ol>
  <li>Lobby</li>
- <li>Autonomia - Windows é quem tem o controle</li>
- <li>Taxa Microsoft (Windows Tax)</li>
+ <li>Autonomia</li>
+ <li>A Taxa Microsoft</li>
  <li>EEE - Embrace, Extend, and Extinguish</li>
  <li>Venda casada</li>
  <li>Hacking</li>
@@ -24,12 +24,11 @@ Livro analisa o histórico processo antitruste, desde nos 90, detalhando como a 
 
 
 
-## Autonomia - Windows é quem tem o controle
+## Autonomia
 
 📚 SO = sistema operacional
- 
-Quem tem controle é quem toma as decisões.
 
+O SO Windows é quem tem o controle, e quem tem controle é quem toma as decisões.
 
 > “No Windows 10 a Microsoft, por padrão, colocou no sistema a obrigatoriedade das atualizações, porém o usuário não tem mais o poder de decidir quando vai atualizar, qual a melhor hora para atualizar, o sistema por si só atualiza e o usuário nem é consultado. O apoderamento de suas informações é feito de maneira automática, sem ao menos consultá-lo. Após coletadas, essas informações são enviadas à Microsoft e ficam armazenadas nos servidores. Observa-se a total falta de controle do usuário sobre o sistema. Não existe mais privacidade, controle sobre o sistema e segurança das informações.” [AMAN, 2018]
 
@@ -37,16 +36,33 @@ Ou seja, o SO Windows é um software com único dono: a Microsoft. Sendo ela a p
 
 Há falta de controle do usuário.
 
-Quando o usuário, que comprou o computador e portanto é o dono, qualquer ação que o sistema execute (seja atualizar, instalar apps...) o usuário é quem concede a autorização _o que não ocorre no Windows.
+Alguém comprou um computador, portanto é o dono; logo qualquer ação importante que o sistema execute (seja atualizar, instalar apps, etc) é este usário quem vai conceder a autorização.
 
-⚠️ Atenção! Isto é o pilar central da segurança.
+⚠️ Isto é um pilar central da segurança.
+
+Essa situação é óbvia, mas não é o ocorre no Windows.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/4/48/The_Age_of_Surveillance_Capitalism.jpg" width="100" /> No livro [A Era do Capitalismo de Vigilância](/capitalismo-de-vigilancia) Shoshana Zuboff vai além. A autora mostra que a autonomia de empresas (como a Microsoft) sobre o [hardware do computador](/nocoes-de-informatica) é o que garante a monitoração.
+
+🤔️ Enquanto um [profissional de informática](/profissionais-de-informatica) vê, no dia a dia, a autonomia técnica do Windows sobre o *hardware*, a estudiosa Shoshana Zuboff vê essa mesma autonomia pela ótica da vigilância e a assimetria de poder de empresas como a Microsoft.
+Para ser autônomo, portanto tomar as decisões, é que o profissional de TI vai usar sistema operacional Linux, e nunca Windows.
 
 
 
-## Taxa Microsoft (Windows Tax)
 
-Economistas e entusiastas do software livre criaram esse termo, descrevendo que, ao comprar um Dell ou HP, você paga obrigatoriamente pela licença embutida. Houve países que teve processos, onde consumidores que ganharam o direito ao reembolso do valor do software ao provarem que instalariam o Linux.
+## A Taxa Microsoft
 
+Taxa de licenciamento escondida, incluída no preço de quase todos os computadores.
+
+<img src="https://i.redd.it/oqk8062mvgbf1.jpeg" widh="120" /> **Usuário de computador: é ingênuo ou bobo?**  
+Economistas e entusiastas do [software livre](software-livre-e-software-proprietario) criaram o termo *Windows Tax* (Taxa Microsoft). Significa que ao comprar um computador, Dell ou HP, você paga obrigatoriamente pela licença embutida. Houve países que teve processos, e consumidores ganharam o direito ao reembolso, do valor do software, ao provarem que instalariam o Linux.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/US_v._Microsoft_Bill_Gates_Color.png/250px-US_v._Microsoft_Bill_Gates_Color.png" width="120" />**USA vs. Microsoft**.  
+O termo Taxa Microsoft ganhou força durante o caso "Estados Unidos vs. Microsoft", isso décadas atrás. Na época, se provou que os contratos com OEMs impediam que fabricantes removessem o Windows para baratear os custos. O tema, de um jeito ou de outro, é visto na literatura:
+**Just for Fun – Linus Torvalds & David Diamond**.  
+**The Cathedral & the Bazaar – Eric S. Raymond**.  
+**Rebel Code: Linux and the Open Source Revolution – Glyn Moody**.  
+**Free as in Freedom – Sam Williams**.  
 
 
 
