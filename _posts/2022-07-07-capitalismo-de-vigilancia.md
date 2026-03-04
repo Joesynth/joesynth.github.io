@@ -36,7 +36,38 @@ A Infraestrutura Crítica já é Linux: servidores do governo, sistemas de saté
 
 ## Relações: 1984, de Orwell
 
-<img src="https://upload.wikimedia.org/wikipedia/pt/7/74/1984cover.jpg" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/pt/7/74/1984cover.jpg" width="100" />1984, Orwell (de 1949)
+
+<img src="https://media.licdn.com/dms/image/v2/C5622AQEsTVQyyWoEUA/feedshare-shrink_800/feedshare-shrink_800/0/1648908944854?e=2147483647&v=beta&t=8qhp-cuGqCzXlnn7u9wnYQb3-XrsSzo4G1tjt7Mgwvk" width="120" />**2 + 2 = 5**, no livro 1984.
+
+xxx
+
+O livro "A Era do Capitalismo de Vigilância" (The Age of Surveillance Capitalism) foi publicado originalmente em 2019.
+
+
+Sim, a relação é direta e explícita.
+
+
+
+Shoshana Zuboff criou o termo "Big Other" (Grande Outro) como uma evolução do conceito de "Big Brother" de George Orwell.
+
+
+
+||Big Brother<br />(1984)|Big Other<br />(Zuboff)|
+| :--- | :---: | :---: |
+|Fonte de<br />Poder|Estado Totalitário|Corporações (Big Tech)|
+|Mecanismo|Vigilância física (câmeras), medo, tortura.|Vigilância digital (dados), algoritmos, nudging|
+|Objetivo|**Submeter** o indivíduo pela força e punição.|**Modificar** o comportamento para lucro (vender previsões).|
+
+
+O "Big Other" é mais sutil:
+
+Enquanto o Big Brother vigiava para punir, o Big Other monitora para prever e manipular. Ele não precisa de força física, pois controla a interface e a infraestrutura (o SO) que molda as escolhas do usuário.
+
+    Resumo: O Big Brother quer que você tenha medo; o Big Other quer que você clique.
+
+🤔️ Será que Big Other usa dados de localização para modificar o comportamento do usuário?
+
 
 
 
