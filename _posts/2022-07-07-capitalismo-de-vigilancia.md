@@ -20,6 +20,17 @@ No livro ela aborda essa questão, não com termos técnicos de TI como [kernel]
 
 **Invisibilidade do Controle**: Ela destaca que a autonomia sobre o hardware é projetada para ser invisível ao usuário, que acha que tem controle, enquanto o sistema operacional toma decisões em segundo plano.
 
+
+## Big Brother vs. Big Other
+
+📚 Grande Irmão
+
+é o líder onipresente e enigmático do regime totalitário que governa a Oceania. Ele personifica a vigilância extrema e o controle absoluto do Estado sobre o indivíduo.
+
+No livro
+1984 de George Orwell, o Big Brother (Grande Irmão) não é uma pessoa real ou física, mas sim uma figura fictícia que personifica o Partido único e ditatorial que governa a Oceania. Ele funciona como um símbolo de vigilância onipresente, autoritarismo e controle total, cujo rosto é estampado em cartazes com a frase: "O Grande Irmão zela por ti"
+
+
 ## Relações: software livre e software proprietário
 
 ###### O Estado: subsídio inverso?
