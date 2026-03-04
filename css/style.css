@@ -70,7 +70,7 @@ a {
 }
 
 /* Main e Artigos */
-main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.3em;}
+main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.4em;}
 .art-link { text-decoration: none; color: inherit; }
 
 article { display: flex; gap: 15px; align-items: flex-start; }
