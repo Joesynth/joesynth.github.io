@@ -5,6 +5,7 @@
 
 Olá! Indo direto ao assunto.
 
+
 📚 SO = sistema operacional. 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg/250px-Shoshana_Zuboff_at_Alexander_von_Humboldt_Institut.jpg" width="120" />🇺🇸 Shoshana Zuboff.
@@ -28,7 +29,7 @@ Trecho original:
 
 ## Big Brother vs. Big Other
 
-📚 Big Brother (Grande Irmão):  Enigmático, é o líder onipresente que governa a Oceania (um megapaís) _isso no livro **1984**, de George Orwell.  
+📚 Big Brother (Grande Irmão):  Enigmático, é o líder onipresente que governa a Oceania (um megapaís) _isso no livro **1984**, de [George Orwell](/orwell).  
 📚 Big Other (Grande Outro): Uma evolução do conceito de "Big Brother", de Orwell. É um termo crido por Zuboff.   
 📚 nudge: v. empurrar (gentilmente).  
 
