@@ -23,17 +23,24 @@ No livro ela aborda essa questão, não com termos técnicos de TI como [kernel]
 
 ## Big Brother vs. Big Other
 
-📚 Grande Irmão
+📚 Big Brother (Grande Irmão)
 
-<img src="https://upload.wikimedia.org/wikipedia/pt/7/74/1984cover.jpg" width="100" /> No livro 1984 (de Orwell, 1949), o Grande Irmão é o líder onipresente e enigmático do regime totalitário que governa a Oceania (um megapaís). Ele personifica a vigilância extrema e o controle absoluto do Estado sobre o indivíduo.
+<img src="https://upload.wikimedia.org/wikipedia/pt/7/74/1984cover.jpg" width="120" /> **1984**, de George Orwell (1949).  
+No livro, o Grande Irmão é o líder onipresente e enigmático do regime totalitário que governa a Oceania (um megapaís). Ele personifica a vigilância extrema e o controle absoluto do Estado sobre o indivíduo.  
 
-> "Big Brother is Watching You"
 
-👉 *"Grande Irmão está observando você"*, ou melhor, *"O Grande Irmão te vigia"*, *"O Grande Irmão zela por ti"* 
+
+<img src="https://m.media-amazon.com/images/I/5145nlnxgmL._AC_UF894,1000_QL80_.jpg" width="120" /> *"**Grande Irmão está observando você**"*, ou ainda, *"O Grande Irmão te vigia"*, *"O Grande Irmão zela por ti"*.  
+O Grande Irmão tem seu cujo rosto estampado em cartazes com esta frase.  
+
+Na prática, ele funciona como um símbolo de vigilância onipresente, autoritarismo e controle total.
 
 
 No livro
-1984 de George Orwell, o Big Brother (Grande Irmão) não é uma pessoa real ou física, mas sim uma figura fictícia que personifica o Partido único e ditatorial que governa a Oceania. Ele funciona como um símbolo de vigilância onipresente, autoritarismo e controle total, cujo rosto é estampado em cartazes com a frase: "O Grande Irmão zela por ti"
+, o Grande Irmão não é uma pessoa real ou física, mas sim uma figura fictícia que personifica o Partido único e ditatorial que governa a Oceania. 
+
+
+
 
 **Big Other: o aparato digital onipresente**.  
 Zuboff argumenta que a autonomia técnica sobre o hardware é o mecanismo que permite o "Big Other" monitorar e modificar o comportamento do usuário.
