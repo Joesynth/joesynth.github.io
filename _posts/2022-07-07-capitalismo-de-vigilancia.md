@@ -1,3 +1,6 @@
+
+
+
 # Capitalismo de Vigilância
 
 Olá! Indo direto ao assunto.
@@ -29,22 +32,27 @@ Trecho original:
 📚 Big Other (Grande Outro): Uma evolução do conceito de "Big Brother", de Orwell. É um termo crido por Zuboff.   
 📚 nudge: v. empurrar (gentilmente).  
 
-**Big Other: o aparato digital onipresente**.  
-Zuboff argumenta que a autonomia técnica sobre o hardware é o mecanismo que permite o "Big Other" monitorar e modificar o comportamento do usuário.  
-
 ||Big Brother|Big Other|
 | :--- | :---: | :---: |
 |fonte de<br />poder|Estado Totalitário<br />(Oceania)|Corporações<br />(Big Tech)|
 |mecanismo|vigilância física<br />(câmeras)|vigilância digital<br />(dados)|
 |aplicação|medo, tortura|algoritmos, nudging|
-|objetivo|**Submeter** o indivíduo pela força e punição.|**Modificar** o comportamento para lucro (vender previsões).|
+|objetivo|submeter o indivíduo pela força e punição.|modificar o comportamento para lucro (vender previsões).|
+
+###### Grande Outro: o aparato digital onipresente
+
+Zuboff argumenta que a autonomia técnica sobre o hardware é o mecanismo que permite o "Grande Outro" monitorar e modificar o comportamento do usuário.  
+
+###### Grande Outro: a sutileza 
+
+|Grande Irmão|Grande Outro|
+|:---|:---|
+|vigiar para punir|monitorar para prever e manipular|
+
+O Grande Outro controla a interface e a infraestrutura (o SO) que molda as escolhas do usuário.
 
 
-O "Big Other" é mais sutil:
-
-Enquanto o Big Brother vigiava para punir, o Big Other monitora para prever e manipular. Ele não precisa de força física, pois controla a interface e a infraestrutura (o SO) que molda as escolhas do usuário.
-
-    Resumo: O Big Brother quer que você tenha medo; o Big Other quer que você clique.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUpjDMu8mF9TTRgUWFLzrpTPPmZbu0wfU4A&s" width="120" />O Grande Irmão quer que você tenha medo, o Grande Outro quer que você clique.
 
 🤔️ Será que Big Other usa dados de localização para modificar o comportamento do usuário?
 
@@ -56,15 +64,9 @@ Enquanto o Big Brother vigiava para punir, o Big Other monitora para prever e ma
   
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUpjDMu8mF9TTRgUWFLzrpTPPmZbu0wfU4A&s" width="120" />  " width="120" />Câmeras "olhando" um cara  
+
 
 <img src="https://flavialefevre.com.br/images/a/3/c/3/1/a3c31bea695f1a19b8bf7e709d1ace68e36c1926-vigilancia-e-democracia.jpeg" width="310" />O gigante com a lupa  
-
-
-<img src="https://podcast.firewallsdontstopdragons.com/wp-content/uploads/2019/01/Ep97-image.jpg" width="120" />**Google...**.  
-<img src="https://english.news.cn/20230219/e8443df4ad8c47eeb0697d5f1e0798c5/20230219e8443df4ad8c47eeb0697d5f1e0798c5_2a0f8b04-91f3-4187-9a37-42713e342bac.jpg" width="120" />**Uncle Sam**.  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBjdmvL9UgfKkjoOrIhXmLlajOCsq1Ia4lw&s" width="120" />  **Uncle's Cam...**.
-<img src="https://preview.redd.it/2084-uncle-sam-is-always-watching-v0-2wwa1rbg79mb1.jpg?width=1080&crop=smart&auto=webp&s=83af9bb7e1cfda13c1ebba866d2f99b33ed0747b" width="120" />**2084 - Uncle Sam...**.  
 
 ♥️ Zuboff é administradora da 5Rights Foundation, uma organização fundada pela Baronesa Beeban Kidron para promover os direitos das crianças online.
 
@@ -85,3 +87,8 @@ Veja também [Microsoft](/microsoft) e [Dark Patterns](/ui-e-ux-dark-patterns).
 
 É isso!
 \o/
+
+
+
+
+
