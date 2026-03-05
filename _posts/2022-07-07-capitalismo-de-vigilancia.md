@@ -10,9 +10,11 @@ Na análise sobre o Capitalismo de Vigilância, ela discute como bigTechs moldam
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5XalKOCVENc-EU9Fc31Mc3S3RiQgG8gGdA&s" width="120" />**A Era do Capitalismo de Vigilância**, 2019.  
 No livro ela aborda essa questão, não com termos técnicos de TI como [kernel](/nocoes-de-informatica) ou [hardware](/nocoes-de-informatica), mas focando no poder político e econômico que esse controle de infraestrutura confere às Big Techs.
 
-> O capitalismo de vigilância "reivindica unilateralmente a experiência humana como matéria-prima gratuita para tradução em dados comportamentais.
-> *Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data.*"
 
+> O capitalismo de vigilância "reivindica unilateralmente a experiência humana como matéria-prima gratuita para tradução em dados comportamentais.
+
+Trecho original:
+*"Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data."*  
 
 **Destituição da Soberania**: Ela descreve isso como um "golpe vindo de cima", onde os indivíduos perdem a soberania sobre seus próprios dispositivos (o "nó") para as plataformas que controlam o sistema operacional.
 
@@ -23,67 +25,19 @@ No livro ela aborda essa questão, não com termos técnicos de TI como [kernel]
 
 ## Big Brother vs. Big Other
 
-📚 Big Brother (Grande Irmão)
-
-<img src="https://upload.wikimedia.org/wikipedia/pt/7/74/1984cover.jpg" width="120" /> **1984**, de George Orwell (1949).  
-No livro, o Grande Irmão é o líder onipresente e enigmático do regime totalitário que governa a Oceania (um megapaís). Ele personifica a vigilância extrema e o controle absoluto do Estado sobre o indivíduo.  
-
-
-
-<img src="https://m.media-amazon.com/images/I/5145nlnxgmL._AC_UF894,1000_QL80_.jpg" width="120" /> *"**Grande Irmão está observando você**"*, ou ainda, *"O Grande Irmão te vigia"*, *"O Grande Irmão zela por ti"*.  
-O Grande Irmão tem seu cujo rosto estampado em cartazes com esta frase.  
-
-Na prática, ele funciona como um símbolo de vigilância onipresente, autoritarismo e controle total.
-
-
-No livro
-, o Grande Irmão não é uma pessoa real ou física, mas sim uma figura fictícia que personifica o Partido único e ditatorial que governa a Oceania. 
-
-
-
+📚 Big Brother (Grande Irmão):  Enigmático, é o líder onipresente que governa a Oceania (um megapaís) _isso no livro **1984**, de George Orwell.  
+📚 Big Other (Grande Outro): Uma evolução do conceito de "Big Brother", de Orwell. É um termo crido por Zuboff.   
+📚 nudge: v. empurrar (gentilmente).  
 
 **Big Other: o aparato digital onipresente**.  
-Zuboff argumenta que a autonomia técnica sobre o hardware é o mecanismo que permite o "Big Other" monitorar e modificar o comportamento do usuário.
+Zuboff argumenta que a autonomia técnica sobre o hardware é o mecanismo que permite o "Big Other" monitorar e modificar o comportamento do usuário.  
 
-
-## Relações: software livre e software proprietário
-
-###### O Estado: subsídio inverso?
-
-O Estado forma os profisssionais de altíssimo nível em universidades públicas, que depois vão para corporações. Porém o Estado paga licença para usar o software (privado) que ele mesmo ajudou a criar com base numa ciência pública.
-
-###### O Estado e o mito da "Incapacidade Técnica"
-
-Dizer que o Estado não consegue gerir [software livre](/software-livre-e-software-proprietario) é ignorar que:
-
-A Infraestrutura Crítica já é Linux: servidores do governo, sistemas de satélites, os supercomputadores, sistema de urnas eletrônicas... Tudo Linux. Ou seja, o Estado já possui esses técnicos.
-
-
-
-## Relações: 1984, de Orwell
-
-
-
-<img src="https://media.licdn.com/dms/image/v2/C5622AQEsTVQyyWoEUA/feedshare-shrink_800/feedshare-shrink_800/0/1648908944854?e=2147483647&v=beta&t=8qhp-cuGqCzXlnn7u9wnYQb3-XrsSzo4G1tjt7Mgwvk" width="120" />**2 + 2 = 5**, no livro 1984.
-
-xxx
-
-O livro "A Era do Capitalismo de Vigilância" (The Age of Surveillance Capitalism) foi publicado originalmente em 2019.
-
-
-Sim, a relação é direta e explícita.
-
-
-
-Shoshana Zuboff criou o termo "Big Other" (Grande Outro) como uma evolução do conceito de "Big Brother" de George Orwell.
-
-
-
-||Big Brother<br />(1984)|Big Other<br />(Zuboff)|
+||Big Brother|Big Other|
 | :--- | :---: | :---: |
-|Fonte de<br />Poder|Estado Totalitário|Corporações (Big Tech)|
-|Mecanismo|Vigilância física (câmeras), medo, tortura.|Vigilância digital (dados), algoritmos, nudging|
-|Objetivo|**Submeter** o indivíduo pela força e punição.|**Modificar** o comportamento para lucro (vender previsões).|
+|fonte de<br />poder|Estado Totalitário<br />(Oceania)|Corporações<br />(Big Tech)|
+|mecanismo|vigilância física<br />(câmeras)|vigilância digital<br />(dados)|
+|aplicação|medo, tortura|algoritmos, nudging|
+|objetivo|**Submeter** o indivíduo pela força e punição.|**Modificar** o comportamento para lucro (vender previsões).|
 
 
 O "Big Other" é mais sutil:
@@ -112,7 +66,20 @@ Enquanto o Big Brother vigiava para punir, o Big Other monitora para prever e ma
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrBjdmvL9UgfKkjoOrIhXmLlajOCsq1Ia4lw&s" width="120" />  **Uncle's Cam...**.
 <img src="https://preview.redd.it/2084-uncle-sam-is-always-watching-v0-2wwa1rbg79mb1.jpg?width=1080&crop=smart&auto=webp&s=83af9bb7e1cfda13c1ebba866d2f99b33ed0747b" width="120" />**2084 - Uncle Sam...**.  
 
-♥️ Zuboff é administradora da 5Rights Foundation, uma organização fundada pela Baronesa Beeban Kidron para promover os direitos das crianças online. 
+♥️ Zuboff é administradora da 5Rights Foundation, uma organização fundada pela Baronesa Beeban Kidron para promover os direitos das crianças online.
+
+## Relações: software livre e software proprietário
+
+###### O Estado: subsídio inverso?
+
+O Estado forma os profisssionais de altíssimo nível em universidades públicas, que depois vão para corporações. Porém o Estado paga licença para usar o software (privado) que ele mesmo ajudou a criar com base numa ciência pública.
+
+###### O Estado e o mito da "Incapacidade Técnica"
+
+Dizer que o Estado não consegue gerir [software livre](/software-livre-e-software-proprietario) é ignorar que:
+
+A Infraestrutura Crítica já é Linux: servidores do governo, sistemas de satélites, os supercomputadores, sistema de urnas eletrônicas... Tudo Linux. Ou seja, o Estado já possui esses técnicos.
+
 
 Veja também [Microsoft](/microsoft) e [Dark Patterns](/ui-e-ux-dark-patterns).
 
