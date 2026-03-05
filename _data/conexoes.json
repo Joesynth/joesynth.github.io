@@ -3,7 +3,7 @@
     "href": "ai-ameacado-pela-inteligencia-artificial.html",
     "src": "image/ti.png",
     "h3": "AI - Ameaçado pela inteligência artificial?",
-    "p": "O que há de dados sobre a possibilidade de profissionais perderem o emprego por causa da IA?"
+    "p": "O que há de dados sólidos sobre a possibilidade de profissionais perderem o emprego por causa da IA?"
   },
   {
     "href": "internet-tem-dono.html",
@@ -13,21 +13,21 @@
   },
   {
     "href": "capitalismo-de-vigilancia.html",
-    "src": "image/t2.png",
+    "src": "image/ti2.png",
     "h3": "Capitalismo de vigilância",
     "p": "O Big Brother e o Big Other."
   },
-    {
+  {
+    "href": "pawel.html",
+    "src": "image/ti2.png",
+    "h3": "Pawel Kuczynski",
+    "p": "As ilustrações de um artista que nos fazem pensar sobre tecnologia."
+  },
+  {
     "href": "wasp.html",
     "src": "image/ti.png",
     "h3": "WASP",
     "p": "O que esta sigla tem a ver com etnia e tecnologia?"
-  },
-    {
-    "href": "pawel.html",
-    "src": "image/ti2.png",
-    "h3": "Pawel Kuczynky",
-    "p": "O artista do campo da ilustração que nos fazer pensar sobre tecnologia."
   },
   {
     "href": "private.html",
@@ -63,6 +63,6 @@
     "href": "eula.html",
     "src": "image/comercio.png",
     "h3": "EULA: poder e polêmicas",
-    "p": "Acordo de Licença de Usuário Final: o 'quadradinho' que sempre confirmamos quando instalamos um software."
+    "p": "O tal 'quadradinho' que sempre clicamos para confirmar a instalação de um app."
   }
 ]
