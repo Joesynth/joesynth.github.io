@@ -54,7 +54,7 @@ Para ser autônomo, portanto tomar as decisões, é que o profissional de TI vai
 
 Taxa de licenciamento escondida, incluída no preço de quase todos os computadores.
 
-<img src="https://i.redd.it/oqk8062mvgbf1.jpeg" widh="120" /> **Usuário de computador: é ingênuo ou bobo?**  
+<img src="https://i.redd.it/oqk8062mvgbf1.jpeg" width="120" /> **Usuário de computador: é ingênuo ou bobo?**  
 Economistas e entusiastas do [software livre](software-livre-e-software-proprietario) criaram o termo *Windows Tax* (Taxa Microsoft). Significa que ao comprar um computador, Dell ou HP, você paga obrigatoriamente pela licença embutida. Houve países que teve processos, e consumidores ganharam o direito ao reembolso, do valor do software, ao provarem que instalariam o Linux.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/US_v._Microsoft_Bill_Gates_Color.png/250px-US_v._Microsoft_Bill_Gates_Color.png" width="120" />**USA vs. Microsoft**.  
