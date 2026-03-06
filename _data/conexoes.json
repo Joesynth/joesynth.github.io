@@ -30,6 +30,12 @@
     "p": "O que esta sigla tem a ver com etnia e tecnologia?"
   },
   {
+    "href": "private.html",
+    "src": "image/cerebro.png",
+    "h3": "Arendt",
+    "p": "A ciência e a burocracia tentando tratar a sociedade como um grande experimento?"
+  },  
+  {
     "href": "internet-tem-dono.html",
     "src": "image/rede.png",
     "h3": "A internet tem dono?",
