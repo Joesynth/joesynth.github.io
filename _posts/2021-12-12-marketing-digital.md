@@ -104,33 +104,8 @@ Co-marketing.
 
 
 
-## Content marketing <span style="color: #0000ff"><em>mrk de conteúdo</em></span>
-O objetivo é oferecer conteúdos de valor para atrair visitantes. [ft: IA]
-<pre><img class="alignleft" src="https://contently.com/wp-content/uploads/2015/07/1897_Furrow_Front_Page_1897.jpg" width="80" />📜️ <strong>Um pouco de história.</strong>
 
-Surgiu no séc. XIX com a revista The Furrow (Companhia John Deere). A revista ensina fazendeiros a tornarem suas fazendas mais lucrativas.</pre>
-<h6>MKT de conteúdo - Estratégias</h6>
-<strong>Objetivo?</strong> Promover a informação e com uma fácil interpretação pelo público pré-definido (seja online ou não).
-<strong>Propósito</strong>: ampliar o envolvimento com a marca ou captar novos clientes.
-<strong>Conteúdo</strong>: é o item principal no MKT de conteúdo.
-<strong>Apresentação</strong> (do conteúdo): usa-se diversos suportes, seja antigos (infográficos, revistas impressas ou vídeos) ou mais recente (por ex.: e-mails, blogs, redes sociais, ebooks, webinars).
-<pre>🤔️ webinars: apresentação virtual (como palestra online), seminário.</pre>
-<h6>Quem vai liderar a estratégia do MKT de conteúdo?</h6>
-Um projeto bem estruturado de MKT de conteúdo passa por certas fases:
-<pre>- planejamento do conteúdo,
-- produção do material (texto, audiovisual),
-- publicação final.</pre>
-Seja impresso ou digital, esse fluxo seguido com qualidade vai garantir que o conteúdo original produzido alcance o seu objetivo inicial.
-<h6>Profissionais chave</h6>
-<pre>Redator (blogueiro, redator Web etc) | gerente de mídia social | especialista em <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a> | designer</pre>
-⛲ ft:https://pt.wikipedia.org/wiki/Marketing_de_conte%C3%BAdo
-<h6>MKT de conteúdo: como fazer?</h6>
-<pre>- <strong>Público-alvo</strong>: Entenda ele (as suas personas).
-- <strong>Produção/time</strong>: Defina quem vai produzir os conteúdos. Se puder, tenha um time de produção de conteúdo. Veja <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>.
-- <strong>Distribuição</strong>:
-    |_ Distribuír criando engajamento,compartilhamento _e por consequência mais audiência).
-    |_ Observar a repercussão visando continuar a promoção nas próximas semanas.</pre>
-Há ferramentas com os<a href="https://joesynth.wordpress.com/2021/12/12/wordpress-plugins/"> plug-ins do Wordpress</a>  que podem ajudar.
+
 
 
 
@@ -143,7 +118,9 @@ Cold call.
 Google Ads (banners de anúncio).
 E-mails marketing.
 Pop-ups (promoções em lojas online).</pre>
-<h6>Outbound 2.0</h6>
+
+###### Outbound 2.0
+
 Metodologia de Aaron Ross, que revolucionou os resultados da Salesforce.
 Baseia-se na segmentação e especialização do time de vendas
 Divide o time de vendas em:
@@ -155,12 +132,16 @@ ft:IA
 
 
 ## Inbound MKT (marketing de atração)
-<blockquote>O inbound se baseia na educação do público.</blockquote>
+
+<blockquote>O inbound se baseia na 'educação' do público.</blockquote>
+
 Primeiro ele atrai os clientes e depois os engaja. Antigamente vender era o pilar central de qualquer firma. Hoje, mais que vender, tornar clientes promotores da marca/ideia é o céu de uma empresa.
 <pre><img class="alignleft" src="https://books.google.com.br/books/content?id=VKwD8lKzeEoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;imgtk=AFLRE711rbCdGey-LcPwIse06gF7_UH9aEsyiRPlWSRSMVpVNV4F9Nb87nEHYv07vX-4eADBGVAvV4KAl2DeHlwJVoTbZsF_Lu-vf5UaJvTBciIWzPdWUdFsJ_nXbX9ysCeCYZaq9GHd" width="80" />📜️ <strong>Um pouco de história</strong>.
 Em 2006 surgiu o <em>inbound marketing</em> nos EUA com Brian Halligan e Dharmesh Shah. Eles também fundaram a HubSpot, uma empresa de automação de marketing e vendas. Em 2009 o termo 'inbound' ganhou força com o livro <strong><em>Inbound Marketing: seja encontrado usando o Google, a mídia social e os blogs</em></strong> (foto).
 </pre>
-<h6>Atrair, converter e encantar</h6>
+
+###### Atrair, converter e encantar
+
 O <em>inbound</em> tem um conjunto de estratégias usadas para atrair e conquistar clientes no meio digital. Esse é o foco. Além da atração usa-se o desejo, criar necessidade _daí <em>marketing</em> de atração.
 
 Conteúdo é o truque, que no geral é usado para chamar a atenção das pessoas para o produto/ serviço/ marca/ ideia.  Quando um cliente procura por um produto e se vê diante do <em>SeuConteúdo</em> tem aí a apresentação do <em>SeuProduto</em> / serviço / marca/ ideia.
@@ -168,13 +149,17 @@ Conteúdo é o truque, que no geral é usado para chamar a atenção das pessoas
 - explicar uma questão;
 - tirar uma dúvida;
 - solucionar algo.</pre>
-<h6>Inbound: a mensagem</h6>
+
+###### Inbound: a mensagem
+
 <img class="alignleft" src="https://cdn.statically.io/img/marketingconteudo.com/wp-content/uploads/2016/09/Inbound-vs-Outbound-1.jpg?quality=70&amp;f=auto" width="309" height="161" />
 
 Como dito, no inbound '<em>o cliente é quem procura pelo produto'</em>. Ou seja, é uma estratégia onde os clientes vêm  até a sua empresa atraídos pela sua mensagem.
 
 Bom, mas onde está essa mensagem? No conteúdo que a empresa publica _canais como blogs, redes sociais e o site (que equivale a sede de SuaEmpresa).
-<h6>Inbound MKT, Content MKT, <strong>Outbound MKT: diferenças</strong></h6>
+
+###### Inbound MKT, Content MKT, <strong>Outbound MKT: diferenças</strong>
+
 <strong>Inbound MKT vs content MKT</strong>: Como dito, inbound usa conteúdo; mas não é a mesma coisa que MKT de conteúdo.
 
 A diferença? O MKT de conteúdo visa um conteúdo relevante ao leitor, podendo gerar resultados financeiros ou não. Já o <em>inbound</em> não foca só no conteúdo, mas em outros pontos também. Por ex.:
@@ -246,18 +231,26 @@ Inbound MKT equivale a cabeça e o MKT de conteúdo um de seus braços.
 </tr>
 </tbody>
 </table>
-<h6>Inbound MKT: Marketing de conteúdo</h6>
+
+###### Inbound MKT: Marketing de conteúdo
+
 Segue a metodologia do <em>Inbound</em> (a jornada do comprador e o funil de vendas) e assim consegue gerar conteúdo de qualidade para adquirir e educar clientes. Segundo uma regra de ouro na atual publicidade:
+
 <blockquote>Se você tem mais dinheiro do que talento, deveria investir no marketing tradicional. Se tem mais talento do que dinheiro, deveria se centrar no MKT de Conteúdo.</blockquote>
+
 Por que?
 <pre>- <strong>Leads</strong>: leads gerados por conteúdo são 8 vezes mais propensos a fechar negócios.
 - <strong>Visibilidade e autoridade</strong>: consumidores procuram seu produto/serviço em ferramentas de busca (Google em suma). A boa estratégia de conteúdo lhe possibilita aparecer nos resultados e receber atenção e reputação <em>online</em>.</pre>
 ⛲ SEBRAE.
-<h6>Inbound - ferramentas e benefícios</h6>
+
+###### Inbound - ferramentas e benefícios
+
 Para atrair clientes por meio de canais on-line utiliza-se ferramentas como...
 <pre>marketing de conteúdo | <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a> | estratégias em redes sociais</pre>
 Benefícios do <em>inbound</em> MKT? Destaca-se:
+
 <blockquote>Possibilitar um alcance e uma visibilidade maior.</blockquote>
+
 Outros são:
 <pre>- <strong>Encontrar o público certo</strong>: uma das técnicas é definir a persona para produzir conteúdo de qualidade e direcionado.
 - <strong>Aproximação com os clientes</strong>: pessoas chegam até você por meio de conteúdo relevante sobre o seu produto/ serviço/ ideia.
@@ -269,15 +262,25 @@ Outros são:
    - Clientes sentem-se confiantes para fechar negócio.
    - Educação é via conteúdo relevante, útil.
 - <strong>Ticket médio maior</strong>: devido à educação há resultados melhores em relação aos leads que não passam por esse processo de educação.</pre>
-<h6></h6>
-<h6>Inbound: o estranho, o visitante, o lead e o cliente</h6>
+
+###### 
+
+
+###### Inbound: o estranho, o visitante, o lead e o cliente
+
+
 <blockquote>Transformar estranhos em visitantes, visitantes em leads, leads em clientes.</blockquote>
+
 No Inbound Marketing esta transformação é um dos seus principais objetivos.
 
 <strong>Landing page</strong>: páginas de conversão: visa converter visitantes em <em>leads</em> ou clientes. [vide 'geração de leads' e 'landing page' na wiki].
 <pre>Landing page: formulário que o visitante põe os dados dele e em troca é oderecido (pelo SeuSite) algo (um e-book, uma oferta...). Agora ele passa a ser um lead, isto é, ele te deu a permissão para você entrar em contato com ele ou enviar detalhes do seu produto/ serviço/ ideia.</pre>
-<h6></h6>
-<h6>Inbound: funil de vendas</h6>
+
+###### 
+
+
+###### Inbound: funil de vendas
+
 Temos 4 etapas: aprendizado e descoberta, reconhecimento do problema ou necessidade, consideração da solução e decisão de compra. Funil com as etapas da jornada do comprador, e todas etapas no contexto de conteúdo.
 
 <img class="alignleft" src="https://sebrae.com.br/Sebrae/Portal%20Sebrae/Artigos/Imagens/xinfografico_47.png.pagespeed.ic.OXf2OtOwTu.png" width="480" height="263" />
@@ -290,14 +293,20 @@ Temos 4 etapas: aprendizado e descoberta, reconhecimento do problema ou necessid
 O funil de vendas chega ao final quando os potenciais clientes fecham o negócio e se transformam em clientes. Perceba que você vai levando, direcionando seu potencial cliente com estratégias de <em>marketing</em> digital. Cada etapa pede uma ação específica.
 
 ⛲ SEBRAE.
-<h6>Inbound: funil - após vender fidelizar</h6>
+
+###### Inbound: funil - após vender fidelizar
+
 <img class="alignleft" src="https://www.ocpublicidade.com.br/wp-content/uploads/2019/05/funil.png" width="480" />Note que em Atrair (no topo) temos blog, redes sociais e SEO; por ex. Depois da 3ª etapa (Vender) ainda temos Fidelizar e Analisar.
-<h6>Inbound: funil - engajamento, promotores</h6>
+
+###### Inbound: funil - engajamento, promotores
+
 <strong><img class="alignleft" src="https://lh5.googleusercontent.com/4hR4kNDxKuR8w03Qb8zLR_iQYfwBaZGLrmSVu-T-xEWY5El5MFf1zwtjo2zzdOEFWSwNINPWHZZWhk7riQk1PM20Vqy171cIa6OjPSWc9p4vwLNcFM__ecFeVT6wlUO4QaAoL970" width="480" />Atrair</strong> (estranhos para virar visitantes), obter tráfego (via blog, site, redes sociais, buscadores etc.
 <strong>Converter</strong> (visitantes em contatos), obter <em>leads</em>, incentivar o visitante a dar um dado sobre ele que possa ser útil para fechar uma compra, uso de CTA (Chamada para Ação).
 
 Demais etapas seguem e além da venda; pensando em satisfação, qualidade e engajamento.
-<h6>Inbound - estratégias - resumo</h6>
+
+###### Inbound - estratégias - resumo
+
 <pre>- <strong>Produção de conteúdo</strong>: criar conteúdo relevante e de qualidade (vídeos, e-books, infográficos e webinars.
 - <strong>Otimização da taxa de conversão</strong>: uso de técnicas de CRO (Conversion Rate Optimization) melhorando a taxa de conversão em <em>leads</em>.
 - <strong>Nutrição de leads</strong>: Manter um relacionamento com os potenciais clientes (ajudar a resolver problemas e identificar oportunidades)
@@ -312,9 +321,6 @@ Demais etapas seguem e além da venda; pensando em satisfação, qualidade e eng
 
 Um site com recursos importantes ao MKT é mais caro (<em>landing page</em>, <em>blog</em>...). Há <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">softwares SEO</a> que também são pagos (embora muito pode-se fazer com os grátis). Entretanto pessoas capacitadas não é barato. Vide [profissionais de informática](/profissionais-de-informatica)  e lá tem um capítulo voltado ao MKT.
 
-## Marketing da Cauda Longa?
-
-<img src="https://rezised-images.knhbt.cz/1920x1920/70037330.jpg" width="120" /> O livro A Cauda Longa (The Long Tail) está associado a ideia de nicho. Diz a teoria que a internet permite vender menos unidades de uma enorme variedade de produtos de nicho, superando o foco dos 'hits' do mercado de massa. Ou seja, temos a venda de itens pouco procurados, mas que no total geram alto volume de vendas. Focar na diversidade pode não parecer nenhuma novidade, porém aqui o marketing digital e o SEO (palavras-chave) surgem como grandes ferramentas. 
 
 É isso!  
 Grande abraço, sucesso.  
