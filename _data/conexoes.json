@@ -6,12 +6,6 @@
     "p": "O que há de dados sólidos sobre a possibilidade de profissionais perderem o emprego por causa da IA?"
   },
   {
-    "href": "internet-tem-dono.html",
-    "src": "image/rede.png",
-    "h3": "A internet tem dono?",
-    "p": "Dizem que dono é quem cuida. Será que isso se aplica a web?"
-  },
-  {
     "href": "capitalismo-de-vigilancia.html",
     "src": "image/ti2.png",
     "h3": "Capitalismo de vigilância",
@@ -24,10 +18,22 @@
     "p": "As ilustrações de um artista que nos fazem pensar sobre tecnologia."
   },
   {
+    "href": "private.html",
+    "src": "image/ti2.png",
+    "h3": "Orwell: 1984",
+    "p": "Da ficção a realidade."
+  },
+  {
     "href": "wasp.html",
     "src": "image/ti.png",
     "h3": "WASP",
     "p": "O que esta sigla tem a ver com etnia e tecnologia?"
+  },
+  {
+    "href": "internet-tem-dono.html",
+    "src": "image/rede.png",
+    "h3": "A internet tem dono?",
+    "p": "Dizem que dono é quem cuida. Será que isso se aplica a web?"
   },
   {
     "href": "private.html",
@@ -111,7 +117,7 @@
     "href": "microsoft.html",
     "src": "image/ti3.png",
     "h3": "Microsoft: a dona do seu computador",
-    "p": "A janela que com 'ar' de liberdade, mas que nós mantém presos."
+    "p": "Os truques do sistema operacional da 'janelinha' que, com 'ar' de liberdade, nós mantém presos."
   },
   {
     "href": "eula.html",
