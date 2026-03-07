@@ -8,7 +8,7 @@ Vamos aqui passar por termos de TI (tecnologia da informação) para saber de fa
 - Cliente/Serviduber-ifood-o-que-sao-essas-empresasor
 - Usuário
 - Conta/Login
-- UI e UX
+- Behaviorismo e psicologia cognitiva
 - CRM
 - PDV e ERP
 - Software livre e software privado
@@ -24,7 +24,7 @@ Vamos aqui passar por termos de TI (tecnologia da informação) para saber de fa
 
 Comparando, enquanto na matemática temos uma fórmula para resolver um problema, na programação (de um computador) temos um programa para resolver um problema. O programa também não deixa de ser uma fórmula para resolver o problema.
 
-<strong>Algoritmo Trocar Lâmpada</strong>
+**Algoritmo Trocar Lâmpada**
 <pre><code>pegar uma escada;
 posicionar <span class="hljs-selector-tag">a</span> escada debaixo da lâmpada;
 buscar uma lâmpada nova;
@@ -32,7 +32,7 @@ subir na escada;
 retirar <span class="hljs-selector-tag">a</span> lâmpada queimada;
 colocar <span class="hljs-selector-tag">a</span> lâmpada nova;
 </code></pre>
-<strong>Aplicação</strong>
+**Aplicação**
 
 👾 O algoritmo tem tudo a ver com softwares de computador; e, um software (ou aplicativo) possui não só uma rotina e sim... várias! Algoritmos podem ser utilizados em muitas áreas. Por exemplo:
 
@@ -45,7 +45,7 @@ colocar <span class="hljs-selector-tag">a</span> lâmpada nova;
 - Redes sociais
 - Software livre e software privado
 
-<strong>Empresas/Apps que usam</strong>
+**Empresas/Apps que usam**
 
 Facebook, Youtube, Spotify são alguns casos; e evidentemente, com o Uber e o iFood não seria diferente. Embora essas empresas sejam grandes sites ou applicativos, mesmo a simples calculadora do seu celular também está baseada em algoritmos.
 
@@ -59,16 +59,18 @@ Veja <a href="https://joesynth.wordpress.com/2021/12/27/logica-de-programacao-e-
 
 <img class="alignleft" src="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.1.5.png" width="310" />
 
-<strong>Servidor</strong> (server) é o computador onde o site está hospedado _e é ele quem serve o conteúdo (de informações) para o cliente.
-<strong>Cliente</strong> (client) é quem acessa o sistema (o site) _ou seja: o usuário. Pode ser um computador do tipo Desktop, celular etc.
+|Servidor|Cliente|
+|:---:|:---:|
+|💻<br />É o computador onde o site está hospedado na 'nuvem'|👤️<br />É quem acessa o sistema (o site), ou seja: o usuário|
+|é ele quem serve o conteúdo (de informações) para o cliente|Pode ser um computador do tipo Desktop, celular etc|
 
 ## 👤️ Usuário
 
 O usuário é quem acessa um sistema, é o 'cliente' no contexto cliente/servidor. Na rede de computadores, nos servidores é gerenciado arquivos bem como os próprios usuários. Gerenciar usuários é uma das tarefas comuns na administração de sistemas.
 
-<strong>Grupos</strong>: um grupo (ou mais) pode ser criado pelo (profissional) administrador de redes quando há muitos usuários ou alguma segmentação é necessária (departamentos, divisões etc.); isso ajuda na organização. Por exemplo, podemos ter no sistema duma empresa os grupos "diretores" e"operadores".
+**Grupos**: um grupo (ou mais) pode ser criado pelo (profissional) administrador de redes quando há muitos usuários ou alguma segmentação é necessária (departamentos, divisões etc.); isso ajuda na organização. Por exemplo, podemos ter no sistema duma empresa os grupos "diretores" e"operadores".
 
-<strong>Permissões</strong>: grupos podem ter permissões diferentes, e definir essas permissões é uma etapa importante no gerenciamento. Nas permissões se diz o que cada grupo está autorizado a fazer. No exemplo dado acima, o grupo "diretores" é dado o poder de editar arquivos, enquanto o time de "operadores" somente poderá ler (mas sem poder editar).
+**Permissões**: grupos podem ter permissões diferentes, e definir essas permissões é uma etapa importante no gerenciamento. Nas permissões se diz o que cada grupo está autorizado a fazer. No exemplo dado acima, o grupo "diretores" é dado o poder de editar arquivos, enquanto o time de "operadores" somente poderá ler (mas sem poder editar).
 
 Portanto, um grupo serve para segmentar usuários bem como dizer o que estas pessoas estarão autorizadas a fazer. Pode-se definir uma hierarquia adicionando regras, e assim é possível que um grupo tenha muita autonomia enquanto outro bem menos. Para mais sobre esse tema veja <a href="https://joesynth.wordpress.com/2020/05/11/bash-shell/">Bash Shell</a>.
 
@@ -80,11 +82,13 @@ Portanto, um grupo serve para segmentar usuários bem como dizer o que estas pes
 
 É comum colocarmos nossa senha e e-mail (ou outro dado) para entrarmos num sistema (um site, um aplicativo etc). Mas quando uma pessoa está logada, como ela é (ou o que é) exatamente para o sistema?
 
-Há usuário comum e o chamado <strong>root</strong> (que é o <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">administrador do sistema</a>). Dentro do sistema de computador um usuário pode aparecer "marcado" com um 'cifrão' ou 'sustenido' (jogo da velha).
+Há usuário comum e o chamado **root** (que é o <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">administrador do sistema</a>). Dentro do sistema de computador um usuário pode aparecer "marcado" com um 'cifrão' ou 'sustenido' (jogo da velha).
 <pre><code><span class="hljs-variable">$ </span><span class="hljs-title class_">Isso</span> indica usuário comum.
 <span class="hljs-comment"># Indica que é o root.</span>
 </code></pre>
-Enquanto você e eu somos usuários comuns, diferentemente, o <strong>root</strong> tem direitos administrativos _o que lhe possibilita lidar com questões como instalar programas, segurança, e até ter acesso a pasta (ou diretório como se diz tecnicamente) onde está instalado o próprio sistema operacinal de computador (normalmente <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Linux</a>, que é semelhante ao Windows dos computadores caseiros). Vide <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profisionais de informática</a>.
+Enquanto você e eu somos usuários comuns, diferentemente, o **root** tem direitos administrativos _o que lhe possibilita lidar com questões como instalar programas, segurança, e até ter acesso a pasta (ou diretório como se diz tecnicamente) onde está instalado o próprio sistema operacinal de computador (normalmente <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Linux</a>, que é semelhante ao Windows dos computadores caseiros). Vide <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profisionais de informática</a>.
+
+Tenha uma noção básica de [rede de computadores](rede), clique no *link*.
 
 ## Behaviorismo e psicologia cognitiva
 
@@ -101,9 +105,7 @@ Enquanto você e eu somos usuários comuns, diferentemente, o <strong>root</stro
 |Meio pelo qual o usuário interage e controla um dispositivo.|O *UX Design* está associado com a experiência (e sentimentos) do usuário, que será alcançada com a UI|
 |🎛️<br />(botões, menus etc)|😀|
 
-###### Software CRM
 
-Ferramenta chave nesse contexto de behaviorismo e psicologia cognitiva. Ele une essas disciplinas na prática, ou seja, permite que essa psicologia moderna seja aplicada em escala (através do design de UI/UX).
 
 ###### 🤔 A realidade crua
 
@@ -116,9 +118,19 @@ O UI/UX é um poderoso recurso utilizado por uma empresa para ter seus usuários
 
 ## 📊️ CRM
 
-Gestão de relacionamento com o cliente. Normalmente via análise de dados, administra-se interações com os clientes. Para isso obtém-se dados de vários canais de comunicação; como o site da empresa, e-mail, materiais de marketing, mídias sociais etc. O foco do CRM são as vendas (inclusive não concluídas) e visa otimizar o relacionamento comercial _embora influencie o marketing também.
+📚 Gestão de relacionamento com o cliente - *Customer Relationship Management*.  
 
-O iFood utiliza o CRM Salesforce (o mesmo utilizado pela Globo); e assim gerencia o relacionamento com restaurantes, por exemplo, bem como otimiza vendas, atendimento e marketing. A partir do momento que alguém está inscrito num sistema (ou seja, deu seu email ou nome por exemplo) todas suas ações (como cliques) são rastreadas _inclusive até havendo um histórico.
+No contexto do **comportamentalismo** e da **psicologia cognitiva**, ele é uma ferramenta chave. Capaz de unir essas disciplinas na prática, permite que essa psicologia moderna seja aplicada em escala (através do design de UI/UX).  
+
+Na verdade, um software de **gestão de relacionamento com o cliente** tem seu foco nas vendas (inclusive não concluídas) e visa otimizar o relacionamento comercial _embora influencie o *marketing* também.  
+
+Normalmente via análise de dados, administra-se interações com os clientes. Para isso obtém-se dados de vários canais de comunicação (o site da empresa, mídias sociais, e-mail, materiais de *marketing* etc).  
+
+<img src="image/ti2.png" width="120" />A partir do momento que alguém está inscrito num sistema (ou seja, deu seu email ou nome por exemplo) todas suas ações (como cliques) são rastreadas _inclusive havendo um histórico.  
+
+**Salesforce**: é o CRM utilizado pelo iFood (também pela Globo). Gerencia o relacionamento com restaurantes, por exemplo, bem como otimiza vendas, atendimento e *marketing*.  
+
+Leia mais em [O Que É CRM](/o-que-e-crm).
 
 ## PDV e ERP
 
@@ -134,19 +146,19 @@ Existem softwares específicos de ERP, bem como CRM e PDV. São sofisticados e l
 
 ## 🐧 Software Livre &amp; Software Privado
 
-<img class="alignleft" src="https://t1.uc.ltmcdn.com/pt/posts/6/8/2/como_fazer_limonada_286_600.jpg" width="100" /> <strong>Quem é o dono da receita da limonada?</strong> Ninguém, né! Afinal, qualquer pessoa é capaz de pegar limões, misturar com água e açúcar. Um churrasco, uma pipa, um balão... são mais casos onde os ingredientes ou a receita de se fazer todos conhecem. Mesmo que tenhamos alguma dificuldade podemos consultar um amigo ou um livro, por exemplo. A maioria absoluta do conhecimento humano é público, portanto ninguém tem a patente da limoda, do chucarrasco...
+<img class="alignleft" src="https://t1.uc.ltmcdn.com/pt/posts/6/8/2/como_fazer_limonada_286_600.jpg" width="100" /> **Quem é o dono da receita da limonada?** Ninguém, né! Afinal, qualquer pessoa é capaz de pegar limões, misturar com água e açúcar. Um churrasco, uma pipa, um balão... são mais casos onde os ingredientes ou a receita de se fazer todos conhecem. Mesmo que tenhamos alguma dificuldade podemos consultar um amigo ou um livro, por exemplo. A maioria absoluta do conhecimento humano é público, portanto ninguém tem a patente da limoda, do chucarrasco...
 E se uma empresa quiser criar uma marca de 'suco de limão'? É possível também _inclusive utilizando até um receita popular de limonada, mas claro, dando uma embalagem bonita, divulgando o produto etc. Aí teríamos uma 'limonada' da marca tal, de uma empresa específica.
 
 <img class="wp-image-62527 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2024/10/software_livre_proprietario.png" alt="Software Livre - Software Proprietário" width="310" height="174" />
 
-Com os softwares não é diferente. O Windows é um um produto da marca Microsoft _portanto um <strong>software privado</strong>, particular (tal como Instagram, Spotify, Uber...). Já o Ubuntu é público (bem como Telegram, LibreOffice, Firefox etc) e então dizemos que é <strong>software livre</strong>.  Tanto o <strong>software livre</strong> como o <strong>software privado</strong> (proprietário) têm vantagens e desvantagens. Veja: <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">software livre e proprietário</a>.
+Com os softwares não é diferente. O Windows é um um produto da marca Microsoft _portanto um **software privado**, particular (tal como Instagram, Spotify, Uber...). Já o Ubuntu é público (bem como Telegram, LibreOffice, Firefox etc) e então dizemos que é **software livre**.  Tanto o **software livre** como o **software privado** (proprietário) têm vantagens e desvantagens. Veja: <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">software livre e proprietário</a>.
 
 Num mundo ideal as pessoas estariam utilizando o software livre nas atividades cotidianas; tarefas simples como escrever, conversar, fotografar (inclusive tendo mais segurança devido ser um software de código público, então mais difícil de ocorrer vírus ou coletas de dados maliciosas). Entretanto no mundo real os softwares proprietários _em especial de grandes marcas_ têm um grande poder para nos influenciar a usar (estratégias de marketing sofisticadas, bem cmo distribuição, modelo de négocio etc.
 <h6>Open Source e Closed Source</h6>
 <span style="color: #0000ff">Código Aberto</span> e <span style="color: #0000ff">Código Fechado</span>.
 
-<img class="alignleft" src="https://www.researchgate.net/publication/342677669/figure/fig1/AS:909554170753025@1593866021738/Dijkstras-Algorithm-Source-Code.ppm" width="140" height="104" /> Basicamente, um software de computador é criado com um software também, um <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">Editor de Texto</a>. No editor escreve-se 'a receita' com todos os passos e recursos que o app irá fazer. Esse texto é o <strong>código-fonte</strong> (tal como na imagem), e, pode ser <strong>público</strong> ou <strong>fechado</strong>. Quem cria o código e disponibilizada de forma pública permite que qualquer outra pessoa leia a 'receita' inteira _que fica acessível na internet. Já o código-fechado é restrito, sendo o modelo utilizado tipicamente por empresas.<strong>
-</strong>
+<img class="alignleft" src="https://www.researchgate.net/publication/342677669/figure/fig1/AS:909554170753025@1593866021738/Dijkstras-Algorithm-Source-Code.ppm" width="140" height="104" /> Basicamente, um software de computador é criado com um software também, um <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">Editor de Texto</a>. No editor escreve-se 'a receita' com todos os passos e recursos que o app irá fazer. Esse texto é o **código-fonte** (tal como na imagem), e, pode ser **público** ou **fechado**. Quem cria o código e disponibilizada de forma pública permite que qualquer outra pessoa leia a 'receita' inteira _que fica acessível na internet. Já o código-fechado é restrito, sendo o modelo utilizado tipicamente por empresas.**
+**
 <table>
 <tbody>
 <tr>
@@ -188,7 +200,7 @@ Leia também [software livre e proprietário](/software-livre-e-software-proprie
 
 ⚠️ Só em visitarmos um site um sistema pode obter alguma informação nossa, mesmo sem clicarmos e fazermos nada. Há um exercício de programação, passado para estudantes de informática, em que o aluno deve criar uma página de internet que mostre ao visitante do site seus próprios dados. Quando o usuário (neste caso o visitante) entra nesta página na internet é mostrado os seus próprios dados (navegador que usa, endereço de IP e até o próprio sistema operacional).
 Link do exercício: <a href="https://joesynth.github.io/SeusDados/">https://joesynth.github.io/SeusDados/</a>
-<strong>Nota</strong>: neste exercício seus dados não são coletados, sendo só mostrados na tela.
+**Nota**: neste exercício seus dados não são coletados, sendo só mostrados na tela.
 
 
 ## 🏬 Marketplace
