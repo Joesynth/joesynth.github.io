@@ -40,7 +40,19 @@
     "src": "image/cerebro.png",
     "h3": "Os 7 pecados na prática de TI",
     "p": "Eles estão entre nós, na UX."
+  },
+  {
+    "href": "educacao-resolvida.html",
+    "src": "image/cerebro.png",
+    "h3": "Educação resolvida",
+    "p": "Um solução ardilosa."
   },  
+  {
+    "href": "convergencia-digital.html",
+    "src": "image/ti.png",
+    "h3": "Convergência digital",
+    "p": "O tudo em um do mundo digital."
+  }, 
   {
     "href": "internet-tem-dono.html",
     "src": "image/rede.png",
