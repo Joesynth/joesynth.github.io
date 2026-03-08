@@ -144,6 +144,12 @@
     "p": "Os truques do sistema operacional da 'janelinha' que, com 'ar' de liberdade, nós mantém presos."
   },
   {
+    "href": "private.html",
+    "src": "image/ti.png",
+    "h3": "IoT",
+    "p": "Internet das Coisas: sensor, câmera, eletrodoméstico inteligentes."
+  }, 
+  {
     "href": "eula.html",
     "src": "image/comercio.png",
     "h3": "EULA: poder e polêmicas",
