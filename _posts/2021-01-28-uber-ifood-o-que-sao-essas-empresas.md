@@ -55,14 +55,16 @@ Veja <a href="https://joesynth.wordpress.com/2021/12/27/logica-de-programacao-e-
 
 ## 🌐 Cliente/Servidor
 
-<img class="alignleft" src="https://www.racksolutions.com/news//app/uploads/AdobeStock_29162298.jpeg" width="119" height="98" />Normalmente, ambientes de TI corporativos têm grandes computadores (os chamados servidores). Numa rede de computadores há o termo <a href="https://joesynth.wordpress.com/rede-de-computadores/">cliente / servidor</a>, um modelo de funcionamento.
+Numa rede de computadores é um modelo de funcionamento.
+
+<img class="alignleft" src="https://www.racksolutions.com/news//app/uploads/AdobeStock_29162298.jpeg" width="120" />**Servidor**: Normalmente, ambientes de TI corporativos têm grandes computadores. O servidor armazena, processa e fornece dados. Lida com banco de dados, por exemplo.
 
 <img class="alignleft" src="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.1.5.png" width="310" />
 
-|Servidor|Cliente|
-|:---:|:---:|
-|💻<br />É o computador onde o site está hospedado na 'nuvem'|👤️<br />É quem acessa o sistema (o site), ou seja: o usuário|
-|é ele quem serve o conteúdo (de informações) para o cliente|Pode ser um computador do tipo Desktop, celular etc|
+|Servidor|Cliente|Nó|
+|:---:|:---:|:---:|
+|💻<br />É o computador onde o site está hospedado na 'nuvem'|👤️<br />É quem acessa o sistema (o site), ou seja: o usuário|Qualquer dispositivo conectado à rede.|
+|É ele quem serve o conteúdo (de informações) para o cliente|Pode ser um computador do tipo Desktop, celular etc|Pode ser um computador do tipo Desktop, celular etc|
 
 ## 👤️ Usuário
 
