@@ -53,7 +53,9 @@ Facebook, Youtube, Spotify são alguns casos; e evidentemente, com o Uber e o iF
 
 Veja <a href="https://joesynth.wordpress.com/2021/12/27/logica-de-programacao-e-algoritmos/">lógica de programação e algoritmos</a>.
 
-## 🌐 Cliente/Servidor
+## Cliente/Servidor e Usuário
+
+###### 🌐 Cliente/Servidor
 
 Numa rede de computadores é um modelo de funcionamento.
 
@@ -63,34 +65,29 @@ Numa rede de computadores é um modelo de funcionamento.
 
 |Servidor|Cliente|Nó|
 |:---:|:---:|:---:|
-|💻<br />É o computador onde o site está hospedado na 'nuvem'|👤️<br />É quem acessa o sistema (o site), ou seja: o usuário|Qualquer dispositivo conectado à rede.|
-|É ele quem serve o conteúdo (de informações) para o cliente|Pode ser um computador do tipo Desktop, celular etc|Pode ser um computador do tipo Desktop, celular etc|
+|💻 computador dedicado|📱 celular, notebook ou *desktop*...|💻 📱 computador dedicado ou um simples celular|
+|É onde o site está hospedado na 'nuvem'. É ele que serve o conteúdo (de informações) para o cliente|👤️ **Usuário**, ou seja, é quem acessa o sistema (o site) |É qualquer dispositivo conectado à rede.|
 
-## 👤️ Usuário
+O [nó](rede.html) é um termos mais técnico, que foge do dia a dia do cidadão comum.  
+Em suma, um nó (*node*) pode ser um dispositivo computacional de grande porte (como um servidor) ou mesmo um mais simples (como um *modem* caseiro ou *smart camera*).  
 
-O usuário é quem acessa um sistema, é o 'cliente' no contexto cliente/servidor. Na rede de computadores, nos servidores é gerenciado arquivos bem como os próprios usuários. Gerenciar usuários é uma das tarefas comuns na administração de sistemas.
+**MAC Address**: É um identificador único para um dispositivo, portanto cada nó tem um. 
+Equivale ao RG ou CPF de uma pessoa, embora este seja válido em todo território nacional, e o MAC Address em todo planeta.  
 
-**Grupos**: um grupo (ou mais) pode ser criado pelo (profissional) administrador de redes quando há muitos usuários ou alguma segmentação é necessária (departamentos, divisões etc.); isso ajuda na organização. Por exemplo, podemos ter no sistema duma empresa os grupos "diretores" e"operadores".
 
-**Permissões**: grupos podem ter permissões diferentes, e definir essas permissões é uma etapa importante no gerenciamento. Nas permissões se diz o que cada grupo está autorizado a fazer. No exemplo dado acima, o grupo "diretores" é dado o poder de editar arquivos, enquanto o time de "operadores" somente poderá ler (mas sem poder editar).
 
-Portanto, um grupo serve para segmentar usuários bem como dizer o que estas pessoas estarão autorizadas a fazer. Pode-se definir uma hierarquia adicionando regras, e assim é possível que um grupo tenha muita autonomia enquanto outro bem menos. Para mais sobre esse tema veja <a href="https://joesynth.wordpress.com/2020/05/11/bash-shell/">Bash Shell</a>.
 
-⛲ blog.wieczorek.com.br/index.php/2022/06/22/linux-comandos-basicos-para-gerenciamento-de-usuarios
 
-## 🔑️ Conta / Login
+###### 👤️ Usuário
+
+|Usuário com privilégios elevados|Usuário Comum|
+|:---|:---|
+|Gerencia a infraestrutura da rede ou do servidor|Quem consome os dados (no celular ou PC)|
+
+###### 🔑️ Conta / Login
 
 <img class="alignleft" src="https://as1.ftcdn.net/v2/jpg/01/13/24/86/500_F_113248666_aGkURbue1980QWRVcyI3BhIAIoN7YFly.jpg" width="120" height="120" />
 
-É comum colocarmos nossa senha e e-mail (ou outro dado) para entrarmos num sistema (um site, um aplicativo etc). Mas quando uma pessoa está logada, como ela é (ou o que é) exatamente para o sistema?
-
-Há usuário comum e o chamado **root** (que é o <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">administrador do sistema</a>). Dentro do sistema de computador um usuário pode aparecer "marcado" com um 'cifrão' ou 'sustenido' (jogo da velha).
-<pre><code><span class="hljs-variable">$ </span><span class="hljs-title class_">Isso</span> indica usuário comum.
-<span class="hljs-comment"># Indica que é o root.</span>
-</code></pre>
-Enquanto você e eu somos usuários comuns, diferentemente, o **root** tem direitos administrativos _o que lhe possibilita lidar com questões como instalar programas, segurança, e até ter acesso a pasta (ou diretório como se diz tecnicamente) onde está instalado o próprio sistema operacinal de computador (normalmente <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Linux</a>, que é semelhante ao Windows dos computadores caseiros). Vide <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profisionais de informática</a>.
-
-Tenha uma noção básica de [rede de computadores](rede), clique no *link*.
 
 ## Behaviorismo e psicologia cognitiva
 
