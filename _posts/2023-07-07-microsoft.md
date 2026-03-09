@@ -169,5 +169,7 @@ Mas é retórica pura, vista o Windows, de fato, ser o dono de cada um dos nosso
 Como o Windows dono do hardware, ele não lhe pede licença para monitorar o que você digita, onde clica ou para onde olha. Ele simplesmente toma essa decisão porque ele controla o código base.
 
 
+<img src="/image/pawell-fe.png" width="120" />Como se vê, a autoritária Microsoft joga nos dois lados. Com os grandes é *lobby* _"fechamento" como diz nós cariocas_, com os pequenos é o *marketing* de uma janelinha com lindo céu azul. E assim ela cria um mundo dourado, para os presos. 
+
 É isso.
 \o/
