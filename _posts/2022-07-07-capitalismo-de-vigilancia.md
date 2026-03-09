@@ -71,6 +71,8 @@ O Grande Outro controla a interface e a infraestrutura (o SO) que molda as escol
 
 ♥️ Zuboff é administradora da 5Rights Foundation, uma organização fundada pela Baronesa Beeban Kidron para promover os direitos das crianças online.
 
+<img src="https://jornaloexpresso.com/wp-content/uploads/2018/03/jota-camelo.jpg" width="320" />
+
 ## Relações: software livre e software proprietário
 
 ###### O Estado: subsídio inverso?
