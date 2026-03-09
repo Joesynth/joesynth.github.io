@@ -145,7 +145,7 @@
   },
   {
     "href": "software-livre-e-software-proprietario.html",
-    "src": "image/.png",
+    "src": "image/foss.png",
     "h3": "Software livre e software proprietário",
     "p": "Sim, existe software público ou feito em comunidade, colaboração. Mas o que difere dos softwares privados?"
   },
@@ -158,8 +158,8 @@
   {
     "href": "softwares-livres-mais-famosos.html",
     "src": "image/foss.png",
-    "h3": "Softwares livres mais famosos",
-    "p": "Conheça os softwares livres mais populares."
+    "h3": "7 Softwares Livres Perfeitos",
+    "p": "Famosos, e o mundo precisando de justiça e liberdade, eles deveriam fazer parte de todo Linux."
   },
   {
     "href": "software-servidor.html",
