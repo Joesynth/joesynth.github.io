@@ -270,15 +270,15 @@
     "p": "Um guia sobre esse tipo de hardware."
   },
   {
-    "href": "rede.html",
+    "href": "private.html",
     "src": "image/rede.png",
-    "h3": "Rede - básico",
+    "h3": "Rede - Noções Básicas",
     "p": "Um guia básico."
   },
     {
-    "href": "rede-2.html",
+    "href": "private.html",
     "src": "image/rede.png",
-    "h3": "Rede 2 - tutorial",
+    "h3": "Rede 2 - Tutorial",
     "p": "Um guia rápido."
   },
   {
