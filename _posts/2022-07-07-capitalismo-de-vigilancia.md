@@ -71,7 +71,7 @@ O Grande Outro controla a interface e a infraestrutura (o SO) que molda as escol
 
 ♥️ Zuboff é administradora da 5Rights Foundation, uma organização fundada pela Baronesa Beeban Kidron para promover os direitos das crianças online.
 
-<img src="https://jornaloexpresso.com/wp-content/uploads/2018/03/jota-camelo.jpg" width="320" />
+<img src="https://jornaloexpresso.com/wp-content/uploads/2018/03/jota-camelo.jpg" width="320" />Adam Smith, um referência do liberalismo, séc. XVIII, já criticava o poder dos monopólios das corporações. Hoje, *bigTechs* como Meta (Facebook) ou Microsoft, por exemplo, cumprem esse papel de mega empresas com poderes colossais.
 
 ## Relações: software livre e software proprietário
 
