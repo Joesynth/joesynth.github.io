@@ -1,4 +1,4 @@
-# o poder do papel
+# O poder do papel
 
 Na era dos computadores, o ler e o escrever ainda reinam.  
 Não seria exagero se disséssemos que o escrever é lindo filho do milenar pintar.  
@@ -15,7 +15,7 @@ O escrever, quando surgiu, deu às pessoas uma nova ferramenta, esta mais rápid
 
 Seja como for, a magia da pintura e da escrita está nas mãos como órgão extremamente "avançado" do nosso corpo que tem a característica de materializar o que o cérebro pensa. Claro, não são só as mãos, pois ela é o alvo final, vista que muitas partes do corpo podem interagir. Estar em contato com a mente é a grande façanha desse processo.  
 
-<img src="" width="120" />Piazzi (Prof. Pier), que sempre estimulava seus alunos a escrever, em vez de usar computador.
+<img src="https://www.unoeste.br/site/destaques/images/8449g.jpg" width="120" />Piazzi (Prof. Pier), que sempre estimulava seus alunos a escrever, em vez de usar computador.
 
 E como dito, Deus é a única resposta para coisa sublime. 
 
