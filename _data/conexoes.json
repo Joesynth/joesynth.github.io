@@ -18,6 +18,18 @@
     "p": "As ilustrações de um artista que nos fazem pensar sobre tecnologia."
   },
   {
+    "href": "microsoft.html",
+    "src": "image/pawel-fe.png",
+    "h3": "Microsoft: a dona do seu computador",
+    "p": "Os truques do sistema operacional da 'janelinha' que, com 'ar' de liberdade, nós mantém presos."
+  },
+  {
+    "href": "o-poder-do-papel.html",
+    "src": "image/pawel-livro.png",
+    "h3": "O poder do papel",
+    "p": "Na era dos computadores, o ler e o escrever ainda reina."
+  },
+  {
     "href": "private.html",
     "src": "image/ti2.png",
     "h3": "Orwell: 1984",
@@ -136,12 +148,6 @@
     "src": "image/ti.png",
     "h3": "Gigantes da tecnologia: universidades",
     "p": "Conheça as universidades que são 'sinônimos' de tecnologia."
-  },
-  {
-    "href": "microsoft.html",
-    "src": "image/pawell-fe.png",
-    "h3": "Microsoft: a dona do seu computador",
-    "p": "Os truques do sistema operacional da 'janelinha' que, com 'ar' de liberdade, nós mantém presos."
   },
   {
     "href": "private.html",
