@@ -4,13 +4,15 @@
 
 Vamos aqui passar por termos de TI (tecnologia da informação) para saber de fato do que se trata esses aplicativos. Indo direto ao assunto...!
 
-- Algoritmo
-- Cliente/Servidor e Usuário (Conta/Login)
-- Behaviorismo e psicologia cognitiva
-- CRM
-- PDV e ERP
-- Software Livre, Software proprietário e EULA
-- Vigiar, monitorar, controlar
+1. Algoritmo
+2. Cliente/Servidor e Usuário (Conta/Login)
+3. Behaviorismo e psicologia cognitiva
+4. CRM
+5. PDV e ERP
+6. Software Livre, Software proprietário e EULA
+7. Vigiar, monitorar, controlar
+
+ 
 - Convergência digital
 - Marketing digital
   
@@ -246,7 +248,18 @@ Leia sobre [convergência digital](/convergencia-digital).
 
 👉 O *adware* é diferente da autopromoção.  
 
+🤔️ Milhões de pessoas trabalham para mega empresas disfarçadas de um nome de marketing bonito, como "plataforma" ou "cloud" (muvem). A tecnolgia muitas vezes é romantizada, mas serve tanto para o bem quanto o mal. Para o indivíduo trabalhando na "nuvem", simplesmente é uma forma de escravização moderna onde, por um lado, ele ganha pouco (ou até miagalhas) e poroutro bombardeado psicologicamente com o maketing da liberdade _logicamente feito pela "nuvem".
+
+<img src="https://i0.wp.com/piziadas.com/wp-content/uploads/2013/02/lluvia.jpg" width="320" />
+
+🤔️ Outro ponto a se pensar é o fato do Estado ter lado, não raramente é o das corporações. Tal como elas, políticos também amam o [marketing](marketing-digital), onde um dos truques clássicos é "dividir" a população.
+
+<img src="https://i0.wp.com/mariomarcos.files.wordpress.com/2021/05/jc.jpg?ssl=1" width="320" />
+
 👉 Para jovens e crianças sempre é possível se adaptar a essas dificuldades. A educação encarada de frente é o pilar central, aliás, sempre utilizada pelas elites _como o seletro [WASP](/wasp), por exemplo..
+
+
+
 
 É isso!  
 Grande abraço e sucesso.
