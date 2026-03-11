@@ -13,6 +13,7 @@ Vamos aqui passar por termos de TI (tecnologia da informação) para saber de fa
 - Vigiar, monitorar, controlar
 - Marketplace
 - Marketing digital
+  
 
 
 ## 🤖️ Algoritmo
@@ -213,6 +214,14 @@ Link do exercício: <a href="https://joesynth.github.io/SeusDados/">https://joes
 **Nota**: neste exercício seus dados não são coletados, sendo só mostrados na tela.
 
 
+## Convergência digital
+
+É a junção de várias tecnologias em um computador.
+
+<img src="https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/44954/21951179.jpg" width="120" /> Antigamente, era comum que aparelhos fossem algo com uma única finalidade, como uma câmera fotográfica para tirar fotos, uma lanterna para iluminar etc. Hoje, tudo isso e muito mais, está unificado em um celular.
+
+Um app como o Uber, ou o iFood, equivale a termos um mapa da cidade, uma máquina de cartão de crédito, etc.
+
 ## 🏬 Marketplace
 📚 Mercado, feira.  
 
@@ -223,7 +232,11 @@ Link do exercício: <a href="https://joesynth.github.io/SeusDados/">https://joes
 
 Leia sobre [convergência digital](/convergencia-digital).
 
-## 🤩 Marketing Digital
+
+
+
+
+###### 🤩 Marketing Digital
 
 <img src="https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/02/19094628/dicas-de-marketing-digital-o-que-e.jpg" width="310"  />O marketing digital está associado a vários termos, nomes como <a href="https://joesynth.wordpress.com/2021/05/26/seo-on-page/">SEO On Page</a>, <a href="https://joesynth.wordpress.com/2021/05/26/seo-off-page/">SEO Off Page</a>, <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">website</a>, <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">blog</a>, <a href="https://joesynth.wordpress.com/2021/05/26/serp/">SERP</a> _e mesmo as linguagens de computador <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML, CSS e JavaScript</a> têm certa correlação com o marketing digital. Para mais sobre o tema veja: <a href="https://joesynth.wordpress.com/2021/05/31/marketing/">Marketing</a>.
 
