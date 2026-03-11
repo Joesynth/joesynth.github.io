@@ -1,18 +1,15 @@
 # Uber/iFood: o que são essas empresas exatamente?
 
-14 termos comuns de tecnologia para entendermos o que está por trás dessas empresas/marcas.
+7 temas comuns de tecnologia para entendermos o que está por trás dessas empresas/marcas.
 
 Vamos aqui passar por termos de TI (tecnologia da informação) para saber de fato do que se trata esses aplicativos. Indo direto ao assunto...!
 
 - Algoritmo
-- Cliente/Serviduber-ifood-o-que-sao-essas-empresasor
-- Usuário
-- Conta/Login
+- Cliente/Servidor e Usuário (Conta/Login)
 - Behaviorismo e psicologia cognitiva
 - CRM
 - PDV e ERP
-- Software livre e software privado
-- EULA
+- Software Livre, Software proprietário e EULA
 - Vigiar, monitorar, controlar
 - Marketplace
 - Marketing digital
@@ -53,15 +50,17 @@ Facebook, Youtube, Spotify são alguns casos; e evidentemente, com o Uber e o iF
 
 Veja <a href="https://joesynth.wordpress.com/2021/12/27/logica-de-programacao-e-algoritmos/">lógica de programação e algoritmos</a>.
 
+
+
 ## Cliente/Servidor e Usuário
 
 ###### 🌐 Cliente/Servidor
 
 Numa rede de computadores é um modelo de funcionamento.
 
-<img class="alignleft" src="https://www.racksolutions.com/news//app/uploads/AdobeStock_29162298.jpeg" width="120" />**Servidor**: Normalmente, ambientes de TI corporativos têm grandes computadores. O servidor armazena, processa e fornece dados. Lida com banco de dados, por exemplo.
+<img src="https://www.racksolutions.com/news//app/uploads/AdobeStock_29162298.jpeg" width="120" />**Servidor**: Normalmente, ambientes de TI corporativos têm grandes computadores. O servidor armazena, processa e fornece dados. Lida com banco de dados, por exemplo.
 
-<img class="alignleft" src="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.1.5.png" width="310" />
+<img src="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.1.5.png" width="310" />
 
 |Servidor|Cliente|Nó|
 |:---:|:---:|:---:|
@@ -86,12 +85,13 @@ Equivale ao RG ou CPF de uma pessoa, embora este seja válido em todo territóri
 
 ###### 🔑️ Conta / Login
 
-<img class="alignleft" src="https://as1.ftcdn.net/v2/jpg/01/13/24/86/500_F_113248666_aGkURbue1980QWRVcyI3BhIAIoN7YFly.jpg" width="120" height="120" />
+<img src="https://as1.ftcdn.net/v2/jpg/01/13/24/86/500_F_113248666_aGkURbue1980QWRVcyI3BhIAIoN7YFly.jpg" width="120"  />
 
 
 ## Behaviorismo e psicologia cognitiva
 
 ###### Behaviorismo e psicologia cognitiva
+
 📚 Behaviorismo = comportamentalismo.
 
 <img src="/image/cerebro.png" width="120" /> [Comportamentalismo e psicologia cognitiva](/behaviorismo-e-psicologia-cognitiva) são dois pilares da psicologia moderna, vitais nos projetos de [UI e UX](/ui-e-ux).  
@@ -100,15 +100,15 @@ Equivale ao RG ou CPF de uma pessoa, embora este seja válido em todo territóri
 
 |UI|UX|
 |:---:|:---:|
-|*User Interface Design*<br />**Design de Interface do Usuário**|*User Experience*<br />**Experiência do Usuário**|
+|📚 *User Interface*<br />**Interface do Usuário**|📚 *User Experience*<br />**Experiência do Usuário**|
 |Meio pelo qual o usuário interage e controla um dispositivo.|O *UX Design* está associado com a experiência (e sentimentos) do usuário, que será alcançada com a UI|
 |🎛️<br />(botões, menus etc)|😀|
 
 
 
-###### 🤔 A realidade crua
+###### 🤔 A realidade crua!
 
-O UI/UX é um poderoso recurso utilizado por uma empresa para ter seus usuários influenciados. É possível até a dominação num tipo de *hacking* psicológico, como por exemplo, inverter a ação de botões “Sim” e “Não”. Vide [Padrões Obscuros](/ui-e-ux-dark-patterns).
+A **Interface do Usuário** e a **Experiência do Usuário** são um poderosos recursos utilizados por uma empresa para ter os usuários influenciados. É possível até a dominação num tipo de *hacking* psicológico, como por exemplo, inverter a ação dos botões “Sim” e “Não”. Vide [Padrões Obscuros](/ui-e-ux-dark-patterns).
 
 ⚠️ Não estamos afirmando que Uber/iFood pratique *hacking* psicológico, mas sim que tem meios de o fazer, tal como qualquer empresa.
 👉 Para *hacking* vide também [Microsoft](/microsoft).
@@ -135,20 +135,28 @@ Leia mais em [O Que É CRM](/o-que-e-crm).
 
 ###### 💳️ PDV
 
-Ponto de venda, frente de caixa. Tipo de software que permite à empresa gerenciar o caixa, daí fazer vendas, emitir notas etc. Embora o termo PDV esteja associado ao caixa físico de uma loja, um site de <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">e-commerce</a> (como Mercado livre, OLX etc) também nos permite fazer pagamentos via cartão de crédito, por ex.
+📚 Ponto de venda, frente de caixa.  
+
+Tipo de software que permite à empresa gerenciar o caixa, daí fazer vendas, emitir notas etc. Embora o termo PDV esteja associado ao caixa físico de uma loja, um site de <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">e-commerce</a> (como Mercado livre, OLX etc) também nos permite fazer pagamentos via cartão de crédito, por ex.
 
 ###### 🔀️ ERP
 
-Planejamento de Recurso Corporativo. Software que interliga os vários setores de uma empresa (vendas, financeiro, pessoal etc). Isso simplifica os procedimentos, torna as rotinas da empresa mais rápidas.
+📚 Planejamento de Recurso Corporativo.  
+
+Software que interliga os vários setores de uma empresa (vendas, financeiro, pessoal etc). Isso simplifica os procedimentos, torna as rotinas da empresa mais rápidas.
 
 Existem softwares específicos de ERP, bem como CRM e PDV. São sofisticados e lidam com banco de dados, portanto tendo muitas informações sobre produtos, clientes (e até dados sobre o comportamento destes). É claro, aplicações como Uber, iFood e outras podem ter (até mesmo) todos esses recursos de forma embutida. Veja mais em <a href="https://joesynth.wordpress.com/2023/10/18/erp-crm-e-pdv/">ERP, CRM e PDV</a>.
 
-## 🐧 Software Livre &amp; Software Privado
 
-<img class="alignleft" src="https://t1.uc.ltmcdn.com/pt/posts/6/8/2/como_fazer_limonada_286_600.jpg" width="100" /> **Quem é o dono da receita da limonada?** Ninguém, né! Afinal, qualquer pessoa é capaz de pegar limões, misturar com água e açúcar. Um churrasco, uma pipa, um balão... são mais casos onde os ingredientes ou a receita de se fazer todos conhecem. Mesmo que tenhamos alguma dificuldade podemos consultar um amigo ou um livro, por exemplo. A maioria absoluta do conhecimento humano é público, portanto ninguém tem a patente da limoda, do chucarrasco...
+
+## 🐧 Software Livre, Software proprietário e EULA
+
+👉 Software proprietário ou software privado
+
+<img src="https://t1.uc.ltmcdn.com/pt/posts/6/8/2/como_fazer_limonada_286_600.jpg" width="100" /> **Quem é o dono da receita da limonada?** Ninguém, né! Afinal, qualquer pessoa é capaz de pegar limões, misturar com água e açúcar. Um churrasco, uma pipa, um balão... são mais casos onde os ingredientes ou a receita de se fazer todos conhecem. Mesmo que tenhamos alguma dificuldade podemos consultar um amigo ou um livro, por exemplo. A maioria absoluta do conhecimento humano é público, portanto ninguém tem a patente da limoda, do chucarrasco...
 E se uma empresa quiser criar uma marca de 'suco de limão'? É possível também _inclusive utilizando até um receita popular de limonada, mas claro, dando uma embalagem bonita, divulgando o produto etc. Aí teríamos uma 'limonada' da marca tal, de uma empresa específica.
 
-<img class="wp-image-62527 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2024/10/software_livre_proprietario.png" alt="Software Livre - Software Proprietário" width="310" height="174" />
+<img class="wp-image-62527 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2024/10/software_livre_proprietario.png" alt="Software Livre - Software Proprietário" width="310"  />
 
 Com os softwares não é diferente. O Windows é um um produto da marca Microsoft _portanto um **software privado**, particular (tal como Instagram, Spotify, Uber...). Já o Ubuntu é público (bem como Telegram, LibreOffice, Firefox etc) e então dizemos que é **software livre**.  Tanto o **software livre** como o **software privado** (proprietário) têm vantagens e desvantagens. Veja: <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">software livre e proprietário</a>.
 
@@ -156,8 +164,9 @@ Num mundo ideal as pessoas estariam utilizando o software livre nas atividades c
 <h6>Open Source e Closed Source</h6>
 <span style="color: #0000ff">Código Aberto</span> e <span style="color: #0000ff">Código Fechado</span>.
 
-<img class="alignleft" src="https://www.researchgate.net/publication/342677669/figure/fig1/AS:909554170753025@1593866021738/Dijkstras-Algorithm-Source-Code.ppm" width="140" height="104" /> Basicamente, um software de computador é criado com um software também, um <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">Editor de Texto</a>. No editor escreve-se 'a receita' com todos os passos e recursos que o app irá fazer. Esse texto é o **código-fonte** (tal como na imagem), e, pode ser **público** ou **fechado**. Quem cria o código e disponibilizada de forma pública permite que qualquer outra pessoa leia a 'receita' inteira _que fica acessível na internet. Já o código-fechado é restrito, sendo o modelo utilizado tipicamente por empresas.**
+<img src="https://www.researchgate.net/publication/342677669/figure/fig1/AS:909554170753025@1593866021738/Dijkstras-Algorithm-Source-Code.ppm" width="140"  /> Basicamente, um software de computador é criado com um software também, um <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">Editor de Texto</a>. No editor escreve-se 'a receita' com todos os passos e recursos que o app irá fazer. Esse texto é o **código-fonte** (tal como na imagem), e, pode ser **público** ou **fechado**. Quem cria o código e disponibilizada de forma pública permite que qualquer outra pessoa leia a 'receita' inteira _que fica acessível na internet. Já o código-fechado é restrito, sendo o modelo utilizado tipicamente por empresas.**
 **
+
 <table>
 <tbody>
 <tr>
@@ -165,8 +174,8 @@ Num mundo ideal as pessoas estariam utilizando o software livre nas atividades c
 <td style="text-align: center">Código Fechado</td>
 </tr>
 <tr>
-<td><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/200px-Ubuntu-logo-2022.svg.png" width="81" height="28" /></td>
-<td><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/150px-Windows_logo_and_wordmark_-_2021.svg.png" width="80" height="16" /></td>
+<td><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/200px-Ubuntu-logo-2022.svg.png" width="81"  /></td>
+<td><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/150px-Windows_logo_and_wordmark_-_2021.svg.png" width="80"  /></td>
 </tr>
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/120px-Firefox_logo%2C_2019.svg.png" width="30" /></td>
@@ -179,16 +188,18 @@ Num mundo ideal as pessoas estariam utilizando o software livre nas atividades c
 </tbody>
 </table>
 
+###### ☑️ EULA
 
-## ☑️ EULA
+📚 Acordo de Licença do Usuário Final.
 
-<img class="alignleft" src="https://www.enzuzo.com/hubfs/Screen%20Shot%202022-11-17%20at%2010-18%201-png.png" width="140" height="152" />
+<img src="https://www.enzuzo.com/hubfs/Screen%20Shot%202022-11-17%20at%2010-18%201-png.png" width="140"  />
 
-Acordo de Licença do Usuário Final. Contrato de licença de uso de software proprietário, que surge quando instalamos um aplicativo. Ao damos "ok" nos termos que aparecem então concordamos com tudo que está ai.  
+Contrato de licença de uso de software proprietário, que surge quando instalamos um aplicativo. Ao damos "ok" nos termos que aparecem então concordamos com tudo que está ai.  
 O tema é polêmico e abordamos em um tópico específico.  
 
 Vide [EULA](/eula).
 Leia também [software livre e proprietário](/software-livre-e-software-proprietario).
+
 
 
 ## 👁️ Vigiar, monitorar, controlar
@@ -203,16 +214,22 @@ Link do exercício: <a href="https://joesynth.github.io/SeusDados/">https://joes
 
 
 ## 🏬 Marketplace
+📚 Mercado, feira.  
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Mercado_Libre_logo_%28Spanish_version%29.svg/250px-Mercado_Libre_logo_%28Spanish_version%29.svg.png" width="60" height="55" />Um espaço onde prestadores de diferentes serviços encontram clientes para fazer negócio. Mercado Livre, Uber e iFood são alguns casos, mas há muitos outros. Veja <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-50-sites/">marketplace 50 sites</a>.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Mercado_Libre_logo_%28Spanish_version%29.svg/250px-Mercado_Libre_logo_%28Spanish_version%29.svg.png" width="60"  />Um espaço onde prestadores de diferentes serviços encontram clientes para fazer negócio. Mercado Livre, Uber e iFood são alguns casos, mas há muitos outros. Veja <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-50-sites/">marketplace 50 sites</a>.
 
 🤔 O Uber é uma empresa de logística mas que não tem nenhum carro. Por que será?
 
+Leia sobre [convergência digital](/convergencia-digital).
+
 ## 🤩 Marketing Digital
 
-<img class="alignleft" src="https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/02/19094628/dicas-de-marketing-digital-o-que-e.jpg" width="310" height="207" />O marketing digital está associado a vários termos, nomes como <a href="https://joesynth.wordpress.com/2021/05/26/seo-on-page/">SEO On Page</a>, <a href="https://joesynth.wordpress.com/2021/05/26/seo-off-page/">SEO Off Page</a>, <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">website</a>, <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">blog</a>, <a href="https://joesynth.wordpress.com/2021/05/26/serp/">SERP</a> _e mesmo as linguagens de computador <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML, CSS e JavaScript</a> têm certa correlação com o marketing digital. Para mais sobre o tema veja: <a href="https://joesynth.wordpress.com/2021/05/31/marketing/">Marketing</a>.
+<img src="https://s3.amazonaws.com/kp-blog/wp-content/uploads/2018/02/19094628/dicas-de-marketing-digital-o-que-e.jpg" width="310"  />O marketing digital está associado a vários termos, nomes como <a href="https://joesynth.wordpress.com/2021/05/26/seo-on-page/">SEO On Page</a>, <a href="https://joesynth.wordpress.com/2021/05/26/seo-off-page/">SEO Off Page</a>, <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">website</a>, <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">blog</a>, <a href="https://joesynth.wordpress.com/2021/05/26/serp/">SERP</a> _e mesmo as linguagens de computador <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML, CSS e JavaScript</a> têm certa correlação com o marketing digital. Para mais sobre o tema veja: <a href="https://joesynth.wordpress.com/2021/05/31/marketing/">Marketing</a>.
 
-Outro termo é <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">adware</a>, onde o app apresenta propagandas, sendo uma forma de receita para a empresa. Anúncios de adware por vezes são chatos e abusivos, além de, ao clicarmos neles (só para 'fechar' a propaganda) há possibilidade de com isso termos nossos dados coletados. Vale notar que entregadores são público alvo desses anúncios, e ao mesmo tempo trabalham para o app. Como o iFood domina o setor cerca de 80% os entregadores são praticamente obrigados e lidar com esses anúncios, quer gostem ou não. No que tange coleta de dados via cliques em propagandas, esses entregadores podem estar tendo dados coletados até mais de uma vez diariamente _novamente, quer gostem ou não.
+**adware**: O app apresenta propagandas, sendo uma forma de receita para a empresa. Anúncios de adware por vezes são chatos e abusivos, além de, ao clicarmos neles (só para 'fechar' a propaganda) há possibilidade de com isso termos nossos dados coletados. Vale notar que entregadores são público alvo desses anúncios, e ao mesmo tempo trabalham para o app. Como o iFood domina o setor cerca de 80% os entregadores são praticamente obrigados e lidar com esses anúncios, quer gostem ou não. No que tange coleta de dados via cliques em propagandas, esses entregadores podem estar tendo dados coletados até mais de uma vez diariamente _novamente, quer gostem ou não.
+
+👉 O *adware* é diferente da autopromoção.  
 
 👉 Para jovens e crianças sempre é possível se adaptar a essas dificuldades. A educação encarada de frente é o pilar central, aliás, sempre utilizada pelas elites _como o seletro [WASP](/wasp), por exemplo..
 
