@@ -11,7 +11,7 @@ Vamos aqui passar por termos de TI (tecnologia da informação) para saber de fa
 - PDV e ERP
 - Software Livre, Software proprietário e EULA
 - Vigiar, monitorar, controlar
-- Marketplace
+- Convergência digital
 - Marketing digital
   
 
@@ -226,7 +226,9 @@ Um app como o Uber, ou o iFood, equivale a termos um mapa da cidade, uma máquin
 📚 Mercado, feira.  
 
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Mercado_Libre_logo_%28Spanish_version%29.svg/250px-Mercado_Libre_logo_%28Spanish_version%29.svg.png" width="60"  />Um espaço onde prestadores de diferentes serviços encontram clientes para fazer negócio. Mercado Livre, Uber e iFood são alguns casos, mas há muitos outros. Veja <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-50-sites/">marketplace 50 sites</a>.
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Mercado_Libre_logo_%28Spanish_version%29.svg/250px-Mercado_Libre_logo_%28Spanish_version%29.svg.png" width="60"  />Um espaço onde prestadores de diferentes serviços encontram clientes para fazer negócio. O Mercado Livre é um famoso exemplo.
+
+Uber e iFood também são marketplaces, além de estarem inseridos na ideia da convergência digital, tal como o Mercado Livre.
 
 🤔 O Uber é uma empresa de logística mas que não tem nenhum carro. Por que será?
 
