@@ -15,9 +15,8 @@ Embora seja comum se pensar nesse tipo de aplicativo como algo típico de um usu
 5. youtube-dl
 6. Byobu
 7. Bash
+8. 🎉️ Bônus!
 
-
-- Outros
 
 
 ## Lynx (web browser)
@@ -64,20 +63,27 @@ Aqui no *blog* há o tutorial <a href="https://joesynth.wordpress.com/curso-ffmp
 
 ###### VLC Terminal: minitutorial
 
+
 <pre>cvlc -h, --help # Ou vlc --help.
 cvlc --version # Ou vlc --version.</pre>
+
 **Tocar um arquivo**.
+
 <pre>cvlc --no-video /my/video.mp4</pre>
+
 .
+
 <pre>~/pas$ cvlc --no-video e.webm # Toca só áudio do vídeo.
 Note que estamos dentro de 'pas', a pasta que contém o arquivo.
 
 ~$ cvlc --no-video ~/pas/e.webm # Toca um arquivo que está dentro da pasta 'pas', que é filha de home (onde estamos de fato).
 Ou seja, podemos especificar o caminho completo.</pre>
+
 **Tocar playlist**.
 
 -L, --loop, --no-loop # Repete tudo.
 -Z, --random, --no-random # Tocar aleatoriamente os arquivos.
+
 <pre>cvlc -L -Z pas # Toca as músicas da pasta 'pas'. Modo aleatório (opção Z).
 
 vlc --LZ "Party Music" # Onde "Party Music" é a pasta.
@@ -86,6 +92,7 @@ cvlc -L -Z --no-video ~/tes3
 cvlc -L -Z --no-video ~/tes3/
 
 </pre>
+
 Ainda, no que tange o YouTube e o típico VLC, podemos reproduzir vídeos, playlists e baixar vídeo. Veja o dicas <a href="https://uniconverter.wondershare.com.br/vlc/how-to-play-youtube-videos-in-vlc-media-player.html">VLC Media Player</a>.
 
 
@@ -109,57 +116,70 @@ No campo da programação, e lidando com linguagem JS, esse ambiente é voltado 
 
 
 
-## Byobu
+## Byobu (Multiplexer)
 
 É um multiplexador de janelas. Ele é responsável por navegar em diversas janelas. Cada janela pode ter um ou mais terminais (posicionados em diversos lugares da tela). Podemos ter, por ex., uma janela aberta com 3 terminais em execução.
 
 
 ###### Minitutorial
 
-**Instalação**:
-<pre>byobu --version # Verifica se instalado. Se não exibir o número da versão atual, precisamos instalar o software.
+**Instalação**:  
 
-Command 'byobu' not found, but can be installed with # Retorno, sugerindo instalar.
+    byobu --version # Verifica se instalado.
+    Command 'byobu' not found, but can be installed with # Retorno sugerindo instalar.
 
-sudo apt install byobu  # Comando instalação.
+    sudo apt install byobu  # Comando instalação.
+    byobu --version # Verificar versão novamente.
+    byobu version 5.125 # Retorna dizendo a versão.
+    tmux 2.6
 
-byobu --version # Agora digitamos a versão novamente.
+**Iniciando no Byobu - comandos básicos**:  
 
-byobu version 5.125 # Retorna dizendo a versão.
-tmux 2.6</pre>
-**Iniciando no Byobu - comandos básicos**:
-<pre>byobu # A partir desse momento já estamos no Byobu.
-⚠️ Rodapé: há informações como SO, versão do SO, nº de núcleos do processador, janelas etc.
+    byobu # A partir desse momento já estamos no Byobu.
+    ⚠️ Rodapé: há informações como SO, versão do SO, nº de núcleos do processador, janelas etc.
+    man byobu # Página manual da ferramenta, mais informações.
 
-man byobu # Página manual da ferramenta, mais informações.</pre>
-**Terminal: criando/apagando**:
 
-Um terminal pode ser criado na horizontal ou vertical.
-<pre>Shift + F2, Ctrl + F2 # Split. Cria um terminal horizontal, ou vertical.
+**Terminal: criando/apagando**:  
 
-Shift + setinhas # Cursor, movendo.
+Um terminal pode ser criado na horizontal ou vertical.  
 
-Shift + F11 # Toggle. Foco de um terminal ocupando 100% do tamanho da janela (fullscreen).
-⚠️ Observe a letra Z na janela (parte inferior) indicando que existe Zoom aplicado.
-⚠️ Demais terminais não são fechados.
+    Shift + F2, Ctrl + F2 # Split. Cria um terminal horizontal, ou vertical.
 
-Ctrl + D # Fecha o terminal.</pre>
-**Janela: criando/apagando**:
+    Shift + setinhas # Cursor, movendo.
 
-Até o momento, todos os terminais estão sendo executados na mesma janela.
-Pelas janelas podemos navegar entre vários contextos. Cada janela podemos utilizar um conjunto de terminais específicos para um determinado fim e isso facilita a organização das atividades que$
-<pre>F2 # Cria nova janela (lado direito).
+    Shift + F11 # Toggle. Foco de um terminal ocupando 100% do tamanho da janela (fullscreen).
+    ⚠️ Observe a letra Z na janela (parte inferior) indicando que existe Zoom aplicado.
+    ⚠️ Demais terminais não são fechados.
 
-Alt + (←→) # Navegar entre janelas.
+    Ctrl + D # Fecha o terminal.
 
-Ctrl + D # Fecha uma janela (precisamos fechar todos os terminais abertos via este atalho).
+**Janela: criando/apagando**:  
 
-Ctrl + F6 # Idem.</pre>
+Até o momento, todos os terminais estão sendo executados na mesma janela.  
+Pelas janelas podemos navegar entre vários contextos. Cada janela podemos utilizar um conjunto de terminais específicos para um determinado fim e isso facilita a organização das atividades.  
+
+    F2 # Cria nova janela (lado direito).
+
+    Alt + (←→) # Navegar entre janelas.
+
+    Ctrl + D # Fecha uma janela (precisamos fechar todos os terminais abertos via este atalho).
+
+    Ctrl + F6 # Idem.
+
+
+###### Multiplexer - Outros
+
+GNU Screen, Tmux.
+
 
 
 ## Bash
 
 É um dos softwares de CLI mais famosos, inclusive presente (por padrão) no Ubuntu e no Lubuntu, dentre tantas outras *distros*.
+
+
+
 
 
 ## Outros
@@ -168,30 +188,26 @@ Ctrl + F6 # Idem.</pre>
 ###### Programação
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/220px-Npm-logo.svg.png" width="59" height="23" /> 🇺🇸 **NPM**.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/220px-Npm-logo.svg.png" width="59" height="23" />🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.
 ✏️ Isaac Z. Schlueter
 ✏️ npm, Inc. (GitHub/Mcrosoft).
 🔗️ http://www.npmjs.com/
 💽️ http://www.npmjs.com/
 🖥️ Cross-platform.
 📜️ Artistic License 2.0.
-Software que é um gerenciador de pacotes para o Node.js.
+
 
 ###### Editores de texto
 
-<img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" />
-
-🇳🇱 **Vim** (*Vi IMproved*  - VI Melhorado).
+<img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" />🇳🇱 **Vim** (*Vi IMproved*  - VI Melhorado). Editor de texto que pode lidar com JS ou Pynthon, por exemplo.
 ✏️ Bram Moolenaar, Anos 90.
 🔗️ vim.org
 📜️ Vim.
-Editor de texto que pode lidar, por exemplo, com JS ou Pynthon. Vide <a href="https://joesynth.wordpress.com/2021/11/27/vim/">Vim</a>.
 
-<img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/64px-Gnu-nano.svg.png" /> GNU <a href="https://joesynth.wordpress.com/2021/11/28/editor-nano/">Nano</a>.
+<img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/64px-Gnu-nano.svg.png" />GNU Nano. Editor de texto.
 🔗️ nano-editor.org/
 🖥️ Cross-platform.
 📜️ GPL.
-Editor de texto.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/64px-EmacsIcon.svg.png" width="40" height="40" />🇺🇸 GNU **Emacs**.
 🔗️gnu.org/software/emacs/
@@ -204,22 +220,11 @@ Há outros, como por exemplo o Ed.
 -https://www.redhat.com/sysadmin/3-text-editors-compared
 
 
+###### Rede
 
-###### Multiplexer
+Vide software de rede.
 
-GNU Screen, Tmux, Byobu...
-
-
-
-
-## Outros
-
-
-## Rede
-
-Vide <a href="https://joesynth.wordpress.com/2021/11/28/software-de-rede/">software de rede</a>.
-
-## Markdown
+###### Markdown
 
 Glow (inclusive <a href="https://joesynth.wordpress.com/2023/11/06/termux/">Termux</a>), Inlyne, Frogmouth, Mdcat (<a href="https://joesynth.wordpress.com/2021/11/27/editor-de-markdown/">CommonMark</a>), Markdown-CLI.
 Markdown-it (CommonMark; Node).
@@ -228,49 +233,48 @@ Markdown-it (CommonMark; Node).
 
 ⚠️ O <a href="https://joesynth.wordpress.com/2021/11/28/editor-nano/">Nano</a> é capaz de lidar com arquivos .md.
 
-## Conversor
+###### Conversor
 
 pandoc: conversor de texto.
-<pre>pandoc ar.txt -o ar.pdf
-pandoc -f markdown -t html ar.md -o ar.html</pre>
 
-## Game
+    pandoc ar.txt -o ar.pdf
+    pandoc -f markdown -t html ar.md -o ar.html
 
-Vide <a href="https://joesynth.wordpress.com/2023/12/31/softwares-educacionais-livres/">Softwares Educativos Livres</a>.
 
-## Email
+###### Game
+
+Vide Softwares Educativos Livres.
+
+###### Email
 
 Himalaya, NeoMutt, meli, aerc, Alpine.
 
 ## Firewall
 
-Vide <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">Ferramentas Firewall</a>.
+Vide Ferramentas Firewall.
 
-## Ferramentas para sysadmin
+###### Ferramentas para sysadmin
 
-<pre>FileZilla Pro # Uma versão CLI do FileZilla.
-CloneZilla
-Wireshark
-p7zip # 7-zip.
-Netcat
-Mosh</pre>
-*E é isso! <a href="https://joesynth.wordpress.com/sobre/">Joe S</a> é músico/programador e fã de fotografia, bike..*.
 
+    FileZilla Pro # Uma versão CLI do FileZilla.
+    CloneZilla
+    Wireshark
+    p7zip # 7-zip.
+    Netcat
+    Mosh
 
 ⚠️
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸 **Firefox**.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.
 ✏️ Mozilla Foundation.
 🔗️ <a href="http://mozilla.org/en-US/firefox/new/">Firefox</a>.
 💽️ https://hg.mozilla.org/mozilla-central/
 🖥️ Linux, macOS...
 📜️ MPL.
-Embora o famoso navegador Firefox não seja um soft de linha de comando, ele tem o chamado <a href="https://joesynth.wordpress.com/2021/11/27/console-do-desenvolvedor/">console do desenvolvedor</a>, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.
 
 
 
-É isso!  
 \o_  
-
 
 <!--
 https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/
