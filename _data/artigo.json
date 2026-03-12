@@ -6,6 +6,12 @@
     "p": "Softwares fazem parte do nosso dia a dia, então fique informado sobre as licenças deles."
   },
   {
+    "href": "programacao-7-saberes-importantes.html",
+    "src": "image/ti.png",
+    "h3": "Programacao: 7 saberes importantes",
+    "p": "Além de gostar de computador e escrever, o que aprender para ser programador?"
+  },
+  {
     "href": "quem-usa-linux.html",
     "src": "image/linux.png",
     "h3": "Quem usa o Linux?",
@@ -363,7 +369,7 @@
     "href": "banco-de-dados-principais-softwares.html",
     "src": "image/db.png",
     "h3": "Banco de dados: principais softwares",
-    "p": "Um guia elementar."
+    "p": "7 bancos de dados e outras ferramentas importantes de se conhecer."
   },
   {
     "href": "game-tutorial.html",
