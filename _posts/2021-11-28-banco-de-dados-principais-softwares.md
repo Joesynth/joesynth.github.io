@@ -2,6 +2,7 @@
 
 Olá!
 
+
 Apresentamos um conjunto de ferramentas de bancos de dados, seja você programador, MEI ou meramente usuário comum de computador.
 
 Embora nosso foco seja a linguagem JavaScript, aqui temos um repertório de banco de dados que vai das excelências aos mais simples. Fique atento aos nomes!
@@ -17,8 +18,11 @@ Embora nosso foco seja a linguagem JavaScript, aqui temos um repertório de banc
 📜️ licença.
 </pre>
 
-## Banco de dados
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png" alt="banco de dados SQLite" width="120" /> <span class="text-primary"><strong>SQLite</strong>.</span>  
+## 7 Bancos de dados
+
+###### 🇺🇸 SQLite
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/330px-SQLite370.svg.png" alt="banco de dados SQLite" width="120" />  
 D. Richard Hipp.  
 ★ 1995.  
 🖥️  Cross-platform.  
@@ -26,30 +30,39 @@ D. Richard Hipp.
 📜️ Domínio Público 🎈.  
 🔗️ sqlite.org
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="80" /><strong>🇸🇪 MySQL</strong>.  
+###### 🇸🇪 MySQL
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/120px-MySQL_logo.svg.png" width="80" />  
 Pode ser instalado localmente (no seu sistema ou servidor).  
 ✏️ Oracle Corporation ★ 1995.  
 🖥️ Multiplataforma.  
 🔥️ SQL, Node.js; SGBD.  
 👥️ NASA, US Army, US Federal Reserv Bank, Cisco Systems, Facebook, Bradesco, Dataprev...  
 📜️ GPL 🎈.  
-🔗️ MySQL.com  
+🔗️ MySQL.com   
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" width="120" />• <span class="text-primary"><strong>MongoDB</strong>.  
+
+###### 🇺🇸 MongoDB
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" width="120" />
 Não relacional, é uma aplicação de alta performance, orientado a documentos. Armazena grandes arquivos, bem como uma quantidade imensa.  
 🖥️ Multiplataforma.  
 🔥️ NoSQL, json, Node.js, PHP, C#, Java, Perl...  
 👥️  globo.com, Facebook, source forge.  
-📜️ Softwarw Livre 🎈.
-🔗️ mongodb.com
+📜️ Softwarw Livre 🎈.  
+🔗️ mongodb.com  
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/220px-Firebase_Logo.svg.png" width="120" />• <span class="text-primary"><strong>Firebase</strong>.</span>
-J. Tamplin, A. Lee, 2011 / Google.
-🔥️ NoSQL, Java, JavaScript, Node.js, Android, iOS...
-🔗️firebase.google.com
+###### 🇩🇪 Base
 
-• <strong>PostgreSQL</strong>.
+Incluso no pacote LibreOffice, é um software de banco de dados que internamente é SQL, diferentemente do Excel.  
+O Base é um dos melhores programas para substituir planilhas do tipo Excel, devido as limitações delas.  
+
+🤔 Note que a linguagem SQL é a excelência de banco de dados, usada por militares, instituições financeiras e mega corporações.  
+
+
+###### 🇺🇸 PostgreSQL
+
 ✏️ Uni. de Berkeley ★ Anos 80.  
 🖥️ Multiplataforma.  
 🔥️ Node.js, SGBD (Característica).  
@@ -57,41 +70,56 @@ J. Tamplin, A. Lee, 2011 / Google.
 📜️ Softwarw Livre 🎈.  
 🔗️ postgresql.org; postgresql.org.br  
 
-• <strong>Supabase</strong>.  
-Um Firebase, mas de código aberto. Popular, usa PostgreSQL.  
 
-• <strong>Oracle</strong>.  
+###### 🇫🇮 MariaDB
+
+Pode ser instalado localmente no seu sistema ou em um servidor, ou utilizado como um serviço em nuvem.  
+✏️ MariaDB Foundation/2009.  
+🖥️ Linux, OS X etc.  
+📜️ GPL 🎈.  
+🔗️ mariadb.com  
+
+###### 🇺🇸 Oracle
+
 ✏️ Oracle ★ Anos 70.  
 🔥️ SGBD (Característica).  
 🔗️ oracle.com  
 
 
-• <strong>SQL Server</strong>.  
+
+
+## Banco de dados - outros
+
+• **Firebird**.  
+✏️ Fundação FirebirdSQL ★ 2000.  
+🖥️ Multiplataforma.  
+🔥️ SGBD (Característica).  
+📜️ FOSS 🎈.  
+🔗️ firebirdsql.org  
+
+
+• **Firebase**.  
+J. Tamplin, A. Lee, 2011 / Google.  
+🔥️ NoSQL, Java, JavaScript, Node.js, Android, iOS...  
+🔗️firebase.google.com  
+
+
+• **Supabase**.  
+Um Firebase, mas de código aberto. Popular, usa PostgreSQL.  
+
+• **dBASE**[Borland].  
+★ Anos 70.  
+🔥️ SGBD (Característica).  
+👥️ Apple II, Apple Macintosh, PC's IBM.  
+
+• **SQL Server**.  
 ✏️ Microsoft, anos 80.  
 🖥️ Windows, Linux.  
 🔥️ SGBD (Característica).  
 🔗️ microsoft.com/sqlserver  
 
 
-• <strong>dBASE</strong>[Borland].  
-★ Anos 70.  
-🔥️ SGBD (Característica).  
-👥️ Apple II, Apple Macintosh, PC's IBM.  
 
-
-• <strong>Firebird</strong>.  
-✏️ Fundação FirebirdSQL ★ 2000.  
-🖥️ Multiplataforma.  
-🔥️ SGBD (Característica).  
-🔗️ firebirdsql.org  
-
-
-• <strong>🇫🇮 MariaDB</strong>.  
-Pode ser instalado localmente (no seu sistema ou servidor), ou utilizado como um serviço em nuvem.  
-✏️ MariaDB Foundation/2009.  
-🖥️ Linux, OS X etc.  
-📜️ GPL 🎈.  
-🔗️ mariadb.com  
 
 
 ## Banco de dados online
@@ -103,13 +131,11 @@ Note que podem ser pagos ou gratuitos.
     • SQL dbm (para modelagem de dados, compatível com MySQL, PostgreSQL etc).
 
 
-## Softwares e ferramentas de danco de dados
+## Ferramentas de danco de dados
 
-**🇩🇪 Base** (LibreOffice): Software de banco de dados que internamente é SQL _diferente do Excel.
-🤔 Note que a linguagem SQL é a excelência de banco de dados, usada por militares, instituições financeiras e mega corporações.  
-O Base é um dos melhores programas para substituir planilhas do tipo Excel, devido as limitações delas.
 
-**Json**: é um formato de arquivo, na verdade; porém para estruturar dados.  
+**Json**: é um formato de arquivo, útil tutil tem acent
+para estruturar dados.  
 👥️ Usado pelo Banco Central, Exército Brasileiro, Magazine Luiza.  
 😄 Nós aqui no blog também usamos .json!  
 Vide [formato de arquivo de json](/json).  
