@@ -7,16 +7,25 @@ Apresentamos um conjunto de ferramentas de bancos de dados, seja você programad
 
 Embora nosso foco seja a linguagem JavaScript, aqui temos um repertório de banco de dados que vai das excelências aos mais simples. Fique atento aos nomes!
 
-<pre>Legenda:
-✏️ • soft, autor/desenvolvedor.
-★ ano.
-🖥️ plataforma (OS Linux, Mac etc).
-🔥️ tecnologia
-👥️ usuário
-🔗️ site, <em>lnk</em>. 
-💽️ repositório. 
-📜️ licença.
-</pre>
+    Legenda:
+    ✏️ • soft, autor/desenvolvedor
+    ★ ano
+    🖥️ plataforma (OS Linux, Mac etc)
+    🔥️ tecnologia
+    👥️ usuário
+    🔗️ site, *link*
+    💽️ repositório
+    📜️ licença
+
+
+
+- 7 Bancos de dados
+- Banco de dados - outros
+- Banco de dados online
+- Ferramentas de danco de dados
+- Node - módulos
+
+
 
 ## 7 Bancos de dados
 
@@ -37,7 +46,7 @@ Pode ser instalado localmente (no seu sistema ou servidor).
 ✏️ Oracle Corporation ★ 1995.  
 🖥️ Multiplataforma.  
 🔥️ SQL, Node.js; SGBD.  
-👥️ NASA, US Army, US Federal Reserv Bank, Cisco Systems, Facebook, Bradesco, Dataprev...  
+👥️ NASA, US Army, US Federal Reserv Bank, Cisco Systems, Faceb    k, Bradesco, Dataprev...  
 📜️ GPL 🎈.  
 🔗️ MySQL.com   
 
@@ -49,7 +58,7 @@ Pode ser instalado localmente (no seu sistema ou servidor).
 Não relacional, é uma aplicação de alta performance, orientado a documentos. Armazena grandes arquivos, bem como uma quantidade imensa.  
 🖥️ Multiplataforma.  
 🔥️ NoSQL, json, Node.js, PHP, C#, Java, Perl...  
-👥️  globo.com, Facebook, source forge.  
+👥️  globo.com, Faceb    k, source forge.  
 📜️ Softwarw Livre 🎈.  
 🔗️ mongodb.com  
 
@@ -99,9 +108,9 @@ Pode ser instalado localmente no seu sistema ou em um servidor, ou utilizado com
 
 
 • **Firebase**.  
-J. Tamplin, A. Lee, 2011 / Google.  
+J. Tamplin, A. Lee, 2011 / G    gle.  
 🔥️ NoSQL, Java, JavaScript, Node.js, Android, iOS...  
-🔗️firebase.google.com  
+🔗️firebase.g    gle.com  
 
 
 • **Supabase**.  
@@ -121,67 +130,75 @@ Um Firebase, mas de código aberto. Popular, usa PostgreSQL.
 
 
 
-
 ## Banco de dados online
 Note que podem ser pagos ou gratuitos.  
 
-    • Google Cloud.
+    • G    gle Cloud.
     • AWS (Amazon Web Service).
     • Temo IO (baseado em PostgreSQL).
     • SQL dbm (para modelagem de dados, compatível com MySQL, PostgreSQL etc).
 
 
+
+
+
 ## Ferramentas de danco de dados
 
 
-**Json**: é um formato de arquivo, útil tutil tem acent
-para estruturar dados.  
-👥️ Usado pelo Banco Central, Exército Brasileiro, Magazine Luiza.  
-😄 Nós aqui no blog também usamos .json!  
+**🇺🇸 JSON**: É uma tecnologia útil para estruturar dados, também sendo um formato de arquivo (de extensão .json).  
+👥️ Usado pelo Exército Brasileiro, Banco Central, Magazine Luiza.  
+😄 Nós aqui no *blog* JoeSynth também usamos .json!  
+
 Vide [formato de arquivo de json](/json).  
 
-**🇨🇭 phpMyAdmin**: Interface gráfica para MySQL; gerenciador de BD para administração do MySQL pela Internet.
-✏️ Projecto phpMyAdmin,.
-★ Anos 90.
-Administração do MySQL e MariaDB pela Internet.
-🖥️ Multiplataforma. SQl.
-🔥️ Permite exportar dados (CSV, XML, JSON, YAML etc)
-📜️Softwarw Livre 🎈.
-Nota: JSON e YAML permitem algo mais complexo que CSV.
+**🇨🇭 phpMyAdmin**: Interface gráfica para MySQL; gerenciador de BD para administração do MySQL pela Internet.  
+✏️ Projeto phpMyAdmin.  
+★ Anos 90.  
+Administração do MySQL e MariaDB pela Internet.  
+🖥️ Multiplataforma, SQl.  
+🔥️ Permite exportar dados (CSV, XML, JSON, YAML etc).  
+📜️Softwarw Livre 🎈.  
 
-**HeidiSql**: Opção ao phpAdmin. Desktop, não é instalado no servidor. É para quem prefere um app instalado no computador, e parecido ao phpAdmin (gerenciar tabelas e banco de dados).
-🖥️ Linux, Win, Mac.
-🔗️ heidisql.com
+🤔️ JSON e YAML permitem algo mais complexo que CSV.  
 
-**Workbench**: Ferramenta gráfica para MySQL.
-✏️ Oracle Corporation/2003
-🖥️ Windows, OS X, Linux
-🔥️ Permite exportar para Excel.
-🔗️ mysql.com/products/workbench/
+**HeidiSql**: Opção ao phpAdmin. Desktop, não é instalado no servidor. É para quem prefere um app instalado no computador, e parecido ao phpAdmin (gerenciar tabelas e banco de dados).  
+🖥️ Linux, Win, Mac.  
+🔗️ heidisql.com  
 
-**Sequelize**.
-🔥️ ORM MySQL, MariaDB, SQLite, PostgreSQL, Node
-🔗️ sequelizejs.com
+**Workbench**: Ferramenta gráfica para MySQL.  
+✏️ Oracle Corporation/2003 .  
+🖥️ Windows, OS X, Linux.  
+🔥️ Permite exportar para Excel.  
+🔗️ mysql.com/products/workbench/  
+
+
+**Sequelize**.  
+🔥️ ORM MySQL, MariaDB, SQLite, PostgreSQL, Node.  
+🔗️ sequelizejs.com  
 
 **Navicat**.
-🔗️ navicat.com
+🔗️ navicat.com  
 
-**Sequel Pro**.
-🔥️ Node.js
-🔗️ sequelpro.com
+**Sequel Pro**.  
+🔥️ Node.js  
+🔗️ sequelpro.com  
+
+
+
 
 ## Node - módulos
-Módulos possíveis de se instalar em ambiente Node.js.
-<pre>npm install mysql
-npm install mongodb
-npm install mongoose 'mongoose' 	# Faz todo processo de conexão com banco de dados MongoDB.
-npm install pg
-npm install sqlite3
-npm install firebase --save (firebase)
-</pre>
+
+Módulos possíveis de se instalar em ambiente Node.js.  
+
+    npm install mysql
+    npm install mongodb
+    npm install mong    se 'mong    se' # Faz todo processo de conexão com o MongoDB.
+    npm install pg
+    npm install sqlite3
+    npm install firebase --save (firebase)
 
 
-É isso!  
+
 \o_  
 
 <!--
