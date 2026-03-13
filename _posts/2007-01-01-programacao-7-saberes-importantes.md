@@ -8,6 +8,7 @@
 6. RegEx
 7. Console Firefox
 8. 🎉️ Bônus!
+   
 
 
 ## HTML, CSS e JS
@@ -87,10 +88,10 @@ Conhecê-lo é vital para se trabalhar com TI. A própria web "está de pé" no 
 
 <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="120" />🇳🇱 **GitLab**: É uma rede social de programadores. Em vez de publicarmos fotos, como no Instagram, no GitLab postamos códigos de programas que estamos criando.  
 
-Ter uma conta no GitLab é uma ótima experiência para quem está iniciando no mundo da programação. Aliás, mega corporações também o utiliza _embora de forma velada para que ninguém veja seus códigos (caso da IBM, Siemens e NVIDIA).
+Ter uma conta no GitLab é uma ótima experiência para quem está iniciando no mundo da programação. Aliás, mega corporações também o utilizam _embora de forma velada para que ninguém veja seus códigos (caso da IBM, Siemens e NVIDIA).
 
 Um jovem programador encontrar um desenvolvedor de softwares famoso no GitLab é como um desenhista iniciante achar o perfil do ilustrador [Pawel Kuczynski](/pawel) no Instagram.
 
-👉️ O ponto forte do Gitlab não é "seguir" usuários ("famosos") e dar "estrelinhas", mas ser uma ferramenta de trabalho colaborativo, com programadores de qualquer lugar do mundo podendo ajudar num projeto (de software), como o GIMP ou o VLC. 
+👉️ O ponto forte do Gitlab não é "seguir" usuários "importantes" e dar "estrelinhas", mas servir de ferramenta de trabalho colaborativa, com programadores de qualquer lugar do mundo podendo ajudar num projeto (de software), como o GIMP ou o VLC, por exemplo. 
 
 {% include final.html %}
