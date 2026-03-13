@@ -127,7 +127,7 @@ Tal como a HTML, usa-se qualquer editor e, para executar, temos um interpretador
 Pode ser um Editor de Texto simples, IDE, console do *browser* (Firefox, por exemplo) ou em um ambiente chamado Node.js.
 
 ###### O navegador (browser)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" />
+
 A função do navegador é interpretar o JavaScript, ou seja, não precisa compilar. Oferecer ao JavaScript referências aos elementos presentes no *browser*. Se na página há uma imagem, é preciso que o JavaScript consiga acessá-la. Ele só consegue fazer isso com o auxílio do *browser*.
 
 ###### Aplicação
@@ -136,11 +136,10 @@ Na verdade, atualmente, a JS vai bem além de lidar com a web e é possível con
 Podemos, por exemplo, criar uma animação ou fazer um robô falar. Veja o caso dessa simpática "aula" sobre o Editor Bluefish, ministrada por um robozinho!
 
 ###### Softs escritos em JS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="59" height="36" />🇺🇸 Node.js.
-Além de JavaScript utiliza linguagens C e C++.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸  **Firefox**.
-Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo Assembly.
+🇺🇸 **Node.js**: Além de JavaScript utiliza linguagens C e C++.  
+
+🇺🇸 **Firefox**: Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo Assembly.  
 
 ###### Pré-requisitos para aprender JS
 
@@ -149,11 +148,12 @@ Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo Assembly.
 ## Um pouco de história
 
 ## JS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/220px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg" width="100" /> 🇺🇸 Brendan Eich.  
-Programador, ele tem seu nome associado à linguagem JavaScript, ao <span class="Y2IQFc" lang="pt">SpiderMonkey (JavaScript engine); </span>bem como a Netscape e a Mozilla (navegador Firefox).
+
+🇺🇸 **Brendan Eich**: Programador, ele tem seu nome associado à linguagem JavaScript, ao <span class="Y2IQFc" lang="pt">SpiderMonkey (JavaScript engine); </span>bem como a Netscape e a Mozilla (navegador Firefox).
 
 ## HTML
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/220px-Tim_Berners-Lee.jpg" width="120" /> 🇬🇧 Tim Berners Lee, nos anos 90, foi o desenvolvedor da linguagem HTML.
+
+🇬🇧 **Tim Berners Lee**: Nos anos 90, foi o desenvolvedor da linguagem HTML.
 Em 1990 Tim B. Lee criou o protótipo de um navegador para rodar em computador NeXT. O navegador foi chamado WorldWideWeb e depois Nexus, para não confundir com a World Wide Web. Ele usou HTML e HTTP já nesta época.  
 
 Tim B. Lee fez a primeira comunicação bem sucedida entre cliente *http* (ou seja, o navegador) e o servidor, através da internet.
