@@ -54,7 +54,7 @@ Brincando com esse trio de linguagens logo logo conhecerá ainda mais tecnologia
 
 ## HTML: o que é exatamente?
 
-<em>HyperText Markup Language</em>.
+*HyperText Markup Language*.
 Linguagem de Marcação de Hipertexto.
 
 ###### O Que É HTML?
@@ -68,40 +68,43 @@ HTML é uma linguagem do tipo interpretada. Ou seja, basicamente, escrevemos o c
 
 ###### HTML: softwares para escrevermos
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/64px-Gnu-nano.svg.png" width="40" /> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/64px-Bluefish-icon.svg.png" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/69px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="40" /> Vários softwares podem lidar com a HTML para escrevermos nossos códigos, até mesmo o mais simples editor de texto. Mas, é claro, o melhor e você praticar em um mais famoso entre os programadores, como o [Nano](/nano-editor-de-codigos).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gedit-logo-clean.svg/1280px-Gedit-logo-clean.svg.png" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="60" />Qualquer programa editor de textos permite escrevermos códigos HTML. Pode ser desde o editor mais simples, que vem em qualquer computador, até um editor de textos profissional, como o LibreOffice. Entretanto, o "pulo do gato" para começar é usar o [Nano](/nano-editor-de-codigos) ou o [Gedit](/gedit), pois são os editores que reinam no [Linux](/linux).
 
-###### Extensão
+
+###### Extensão e exemplo de código
     
-Os arquivos usam extensão <em>.html</em>.
+Os arquivos HTML usam extensão *.html*. Escreva seu código HTML no seu editor de códigos e salve com esta extensão.
 
-###### Exemplo de código
+Exemplo de código:
 
+    <button>CLIQUE<button/>
 
-    < button > Clique < / button >
 
 
 ###### Web Standards
-Entende-se como <em>Normas para Web </em> e visa uma padronização e a criação de uma <em>Web Universal</em>. Estas recomendações ou normas são produzidas pela <a href="https://joesynth.wordpress.com/2021/10/31/internet-tem-dono/">W3C</a>.
+📚️ Normas para Web
+
+Visa uma padronização e a criação de uma *Web Universal*. Estas recomendações, ou normas, são produzidas pela [W3C](/internet-tem-dono).
 
 ###### O validador
-Soft <em>on-line</em> da W3C de apoio ao desenvolvimento, o qual analisa, detecta e sugere correções de eventuais erros de marcação. O ideal é que durante toda etapa de desenvolvimento da marcação XHTML, esteja sendo submetido ao validador, e corrigindo se houver erros. Crie o hábito de validar com frequência.
+Soft *on-line* da W3C de apoio ao desenvolvimento, o qual analisa, detecta e sugere correções de eventuais erros de marcação. O ideal é que durante toda etapa de desenvolvimento da marcação XHTML, esteja sendo submetido ao validador, e corrigindo se houver erros. Crie o hábito de validar com frequência.
 
 🔗️validator.w3.org/
 
 **WHATWG**
+📚️ *Web Hypertext Application Technology Working Group*.
 
-<em>Web Hypertext Application Technology Working Group</em>.
-
-Fundada por pessoas da Apple, Mozilla e soft Opera. Esta relacionada a desenvolvimento de padrões da Web. Em suma Apple, Google, Microsoft, Mozilla.
+Fundada por pessoas da Apple, Mozilla e software Opera. Está relacionada a desenvolvimento de padrões da Web. Em suma Apple, Google, Microsoft, Mozilla.
 
 🔗️ whatwg.org.
 
 ###### Pré-requisitos para aprender HTML
-Embora não seja algo determinante, é bem-vindo conhecer <a href="https://joesynth.wordpress.com/2021/11/27/tutorial-de-markdown/">Markdown</a>.
+
+Embora não seja algo determinante, é bem-vindo conhecer [Markdown](/programacao-7-saberes-importantes).
 
 ## JavaScript: o que é exatamente?
 
-<img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="60" /> **JavaScript**, ou JS para os íntimos, é uma linguagem para construir páginas <em>web</em>. Essa tecnologia permite maior interatividade entre os documentos <em>web</em> construídos e os internautas.  
+<img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="60" /> **JavaScript**, ou JS para os íntimos, é uma linguagem para construir páginas *web*. Essa tecnologia permite maior interatividade entre os documentos *web* construídos e os internautas.  
 
 🇺🇸 JavaScript, 1995.  
 🔗️ ecma-international.org. (versões; hoje quem mantém, define evoluções).  
@@ -114,15 +117,15 @@ Embora não seja algo determinante, é bem-vindo conhecer <a href="https://joesy
 ###### Tipo de Linguagem
 
 Interpretada e orientada a objetos.
-Lembrando, interpretada significa que a linguagem é <em>client-side</em>; ou seja, é executada no lado do cliente, portanto no computador do próprio usuário, precisamente no <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">navegador</a> (<em>browser</em>).
+Lembrando, interpretada significa que a linguagem é *client-side*; ou seja, é executada no lado do cliente, portanto no computador do próprio usuário, precisamente no <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">navegador</a> (*browser*).
 
 <h6>Software Editor</h6>
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Notepad.png/64px-Notepad.png" width="40" /> Pode ser um Editor de Texto simples, IDE, console do <em>browser</em> (Firefox, por exemplo) ou em um ambiente chamado Node.js.
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Notepad.png/64px-Notepad.png" width="40" /> Pode ser um Editor de Texto simples, IDE, console do *browser* (Firefox, por exemplo) ou em um ambiente chamado Node.js.
 
 ###### O navegador (browser)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" />
-A função do navegador é interpretar o JavaScript, ou seja, não precisa compilar. Oferecer ao JavaScript referências aos elementos presentes no <em>browser</em>. Se na página há uma imagem, é preciso que o JavaScript consiga acessá-la. Ele só consegue fazer isso com o auxílio do <em>browser</em>.
+A função do navegador é interpretar o JavaScript, ou seja, não precisa compilar. Oferecer ao JavaScript referências aos elementos presentes no *browser*. Se na página há uma imagem, é preciso que o JavaScript consiga acessá-la. Ele só consegue fazer isso com o auxílio do *browser*.
 
 ###### Aplicação
 Na verdade, atualmente, a JS vai bem além de lidar com a web e é possível construirmos apllicativos.
@@ -150,7 +153,7 @@ Programador, ele tem seu nome associado à linguagem JavaScript, ao <span class=
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/220px-Tim_Berners-Lee.jpg" width="120" /> 🇬🇧 Tim Berners Lee, nos anos 90, foi o desenvolvedor da linguagem HTML.
 Em 1990 Tim B. Lee criou o protótipo de um navegador para rodar em computador NeXT. O navegador foi chamado WorldWideWeb e depois Nexus, para não confundir com a World Wide Web. Ele usou HTML e HTTP já nesta época.  
 
-Tim B. Lee fez a primeira comunicação bem sucedida entre cliente <em>http</em> (ou seja, o navegador) e o servidor, através da internet.
+Tim B. Lee fez a primeira comunicação bem sucedida entre cliente *http* (ou seja, o navegador) e o servidor, através da internet.
 
 ###### 🇺🇲️ W3C
 Tim B. Lee também fundou o W3C, que visa manter padrões e o desenvolvimento da web.
