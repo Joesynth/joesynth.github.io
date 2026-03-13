@@ -5,7 +5,7 @@
 Tomando a HTML como exemplo, ela é tão básica e essencial que por si só já é capaz de nos permitir criar um site. O trio pode trabalhar em conjunto, e na prática, é bem o que acontece.
 
 
-> Conhecer linguages, como HTMLL, CSS e JS, abre um mundo de oportunidades pela frente. 
+> Conhecer linguagens, como HTML, CSS e JS, abre um mundo de oportunidades pela frente. 
 
 Ao lidar com elas adquirimos mais prática em comandos e códigos. Manuseando o computador de forma mais íntima, mais próxima, não se espante se você, um dia, vier a se interessar por áreas como [banco de dados](/banco-de-dados-principais-softwares), dentre tantas outras.
 
@@ -25,7 +25,7 @@ Para que cada linguagem é usada? Note que cada uma tem um papel importante.
 ###### Comparando com o corpo humano
 
 <img src="https://differbetween.com/storage/img/images_6/difference_between_html_and_css_and_javascript.png" width="310" />
-A HTML aquivale ao esqueleto, aos ossos com toda sua estrutura central.  
+A HTML equivale ao esqueleto, aos ossos com toda sua estrutura central.  
 A JavaScript equivale ao cérebro com sua rede de neurônios, fazendo com que haja 'movimentos'. Assim como os nervos fazem os ossos se mexerem, a linguagem JavaScript pode fazer um objeto (como um ícone) se mover. Também podemos disparar algo quando clicamos em um botão (como uma caixa de alerta), fazer uma música tocar, um relógio contar segundos e mais segundos, etc.  
 Já a CSS cuida da aparência. Estética! Equivale ao colorido das roupas, a forma do cabelo e por aí vai. Na CSS podemos pintar um botão, deixar ele quadrado ou redondo e fazer muito mais efeitos.
 
@@ -35,11 +35,11 @@ Brincando com esse trio de linguagens logo logo conhecerá ainda mais tecnologia
 
 ###### Site
 
-<img src="https://joesynth.files.wordpress.com/2020/04/596a.png" alt="Estúdio 596 (±2006)" width="120" />🇧🇷 **<del>estudio596.com</del>** Por volta do ano 2000 criei este site, escrito totalmente com HTML e CSS. Ele foi o pré-cursor do atual *blog* [JoeSynth](/joesynth.wordpress), dedicado à música eletrônica / experimental. 
+<img src="https://joesynth.files.wordpress.com/2020/04/596a.png" alt="Estúdio 596 (±2006)" width="120" />🇧🇷 **<del>estudio596.com</del>** Por volta do ano 2000 criei este site, escrito totalmente com HTML e CSS. Ele foi o precursor do atual *blog* [JoeSynth](/joesynth.wordpress), dedicado à música eletrônica / experimental. 
 
 ###### Software
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Atualmente a JS vai bem além de lidar com a web e é possível construirmos apllicativos. O Firefox é um caso de software que usa JavaScript (bem como HTML,CSS e outras linguagens).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Atualmente a JS vai bem além de lidar com a web e é possível construirmos aplicativos. O Firefox é um caso de software que usa JavaScript (bem como HTML,CSS e outras linguagens).
 
 ###### Jogos
 
@@ -58,7 +58,7 @@ Brincando com esse trio de linguagens logo logo conhecerá ainda mais tecnologia
 Linguagem de Marcação de Hipertexto.
 
 ###### O Que É HTML?
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="60" /> HTML é uma linguagem (do tipo interpretada) que serve para marcar textos. Ou seja, é uma linguagem de marcação (e assim criando aquele 'esqueleto' da aplicação)..
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="60" /> HTML é uma linguagem (do tipo interpretada) que serve para marcar textos. Ou seja, é uma linguagem de marcação (e assim criando aquele 'esqueleto' da aplicação).
 
 ###### Interpretador
 
@@ -68,7 +68,7 @@ HTML é uma linguagem do tipo interpretada. Ou seja, basicamente, escrevemos o c
 
 ###### HTML: softwares para escrevermos
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gedit-logo-clean.svg/1280px-Gedit-logo-clean.svg.png" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="60" />Qualquer programa editor de textos permite escrevermos códigos HTML. Pode ser desde o editor mais simples, que vem em qualquer computador, até um editor de textos profissional, como o LibreOffice. Entretanto, o "pulo do gato" para começar é usar o [Nano](/nano-editor-de-codigos) ou o [Gedit](/gedit), pois são os editores que reinam no [Linux](/linux).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gedit-logo-clean.svg/1280px-Gedit-logo-clean.svg.png" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="60" />Qualquer programa editor de textos que acomanha o seu computador permite escrevermos códigos HTML. Um ótimo começo seria usar o [Nano](/nano-editor-de-codigos) ou o [Gedit](/gedit), pois são os editores que reinam no mundo [Linux](/linux).
 
 
 ###### Extensão e exemplo de código
@@ -118,7 +118,7 @@ Netscape ("avô" do Firefox), AOL, Google, Facebook etc. São alguns casos famos
 ###### Tipo de Linguagem
 
 Interpretada e orientada a objetos.
-Lembrando, interpretada significa que a linguagem é *client-side*; ou seja, é executada no lado do cliente, portanto no computador do próprio usuário, precisamente no <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">navegador</a> (*browser*).
+Lembrando, interpretada significa que a linguagem é *client-side*; ou seja, é executada no lado do cliente, portanto no computador do próprio usuário, precisamente no navegador (*browser*).
 
 ###### Software editor e o interpretador
 
@@ -131,16 +131,16 @@ Pode ser um Editor de Texto simples, IDE, console do *browser* (Firefox, por exe
 A função do navegador é interpretar o JavaScript, ou seja, não precisa compilar. Oferecer ao JavaScript referências aos elementos presentes no *browser*. Se na página há uma imagem, é preciso que o JavaScript consiga acessá-la. Ele só consegue fazer isso com o auxílio do *browser*.
 
 ###### Aplicação
-Na verdade, atualmente, a JS vai bem além de lidar com a web e é possível construirmos apllicativos.
+Na verdade, atualmente, a JS vai bem além de lidar com a web e é possível construirmos aplicativos.
 
 Podemos, por exemplo, criar uma animação ou fazer um robô falar. Veja o caso dessa simpática "aula" sobre o Editor Bluefish, ministrada por um robozinho!
 
 ###### Softs escritos em JS
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="59" height="36" />🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="59" height="36" />🇺🇸 Node.js.
 Além de JavaScript utiliza linguagens C e C++.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸  **Firefox**.
-Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">Assembly</a>.
+Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo Assembly.
 
 ###### Pré-requisitos para aprender JS
 
@@ -150,7 +150,7 @@ Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo <a href="https:
 
 ## JS
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Brendan_Eich_Mozilla_Foundation_official_photo.jpg/220px-Brendan_Eich_Mozilla_Foundation_official_photo.jpg" width="100" /> 🇺🇸 Brendan Eich.  
-Programador, ele tem seu nome associado à linguagem JavaScript, ao <span class="Y2IQFc" lang="pt">SpiderMonkey (JavaScript engine); </span>bem como a Netscape e a Mozilla (navegador <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Firefox</a>).
+Programador, ele tem seu nome associado à linguagem JavaScript, ao <span class="Y2IQFc" lang="pt">SpiderMonkey (JavaScript engine); </span>bem como a Netscape e a Mozilla (navegador Firefox).
 
 ## HTML
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/220px-Tim_Berners-Lee.jpg" width="120" /> 🇬🇧 Tim Berners Lee, nos anos 90, foi o desenvolvedor da linguagem HTML.
