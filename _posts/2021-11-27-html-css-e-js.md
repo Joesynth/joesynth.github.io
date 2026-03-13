@@ -1,39 +1,16 @@
 # HTML, CSS e JS
 
-Olá!
-
 <img src="https://i.pinimg.com/originals/13/55/42/1355424aa6c7b4e1567e752a69548abd.jpg" width="140" /> **HTML, CSS e JavaScript** são as três linguagens mais comuns para Web. Delas, a HTML é tão básica e essencial que ela, por si só, já seria o suficiente para construirmos um site. O trio pode trabalhar em conjunto, e na prática, é bem o que acontece.
 
 #### O que cada linguagem faz exatamente?
 
-Note que cada uma tem um papel importante.
+Para que cada linguagem é usada? Note que cada uma tem um papel importante.
 
-<table>
-<tbody>
-<tr valign="top">
-<td>
-<div align="center">HTML
-<span style="color: #999999">estrutura</span></div></td>
-<td>
-<div align="center">CSS
-<span style="color: #cc99ff">apresentação</span></div></td>
-<td>
-<div align="center">JavaScript
-<span style="color: #99cc00">comportamento</span></div></td>
-</tr>
-<tr valign="top">
-<td>
-<div align="center">Usada para
-estruturar o site.</div></td>
-<td>
-<div align="center">Usada pra
-estilizar o site; ou seja, decorar.</div></td>
-<td>
-<div align="center">Usada para
-criar interatividade.</div></td>
-</tr>
-</tbody>
-</table>
+| HTML | CSS | JavaScript |
+| :---: | :---: | :---: |
+| **estrutura** | **apresentação** | **comportamento** |
+| estruturar o site | estilizar o site, decorar, embelezar | criar interatividade |
+
 
 
 #### Comparando com o corpo humano
@@ -53,7 +30,7 @@ Brincando com esse trio de linguagens logo logo conhecerá ainda mais tecnologia
 
 #### Software
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="44" /> 🇺🇸  <strong>Firefox</strong>. Atualmente a JS vai bem além de lidar com a web e é possível construirmos apllicativos. O Firefox é um caso de software que usa JavaScript (bem como HTML,CSS e outras linguagens).
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="44" /> 🇺🇸  **Firefox**. Atualmente a JS vai bem além de lidar com a web e é possível construirmos apllicativos. O Firefox é um caso de software que usa JavaScript (bem como HTML,CSS e outras linguagens).
 
 #### Jogos e outras aplicações
 
@@ -62,8 +39,8 @@ Brincando com esse trio de linguagens logo logo conhecerá ainda mais tecnologia
 > Conhecer linguages, como HTMLL, CSS e JS, abre um mundo de oportunidades pela frente. 
 
 Ao lidar com elas adquirimos mais prática em comandos e códigos. Manuseando o computador de forma mais íntima, mais próxima, não se espante se você, um dia, vier a se interessar por áreas como [banco de dados](/banco-de-dados-principais-softwares), dentre tantas outras.
-.
-<h2>HTML: o que é exatamente?</h2>
+
+## HTML: o que é exatamente?
 
 <em>HyperText Markup Language</em>.
 Linguagem de Marcação de Hipertexto.
@@ -96,7 +73,7 @@ Soft <em>on-line</em> da W3C de apoio ao desenvolvimento, o qual analisa, detect
 
 🔗️validator.w3.org/
 
-<strong>WHATWG</strong>
+**WHATWG**
 
 <em>Web Hypertext Application Technology Working Group</em>.
 
@@ -141,7 +118,7 @@ Podemos, por exemplo, criar uma animação ou fazer um robô falar. Veja o caso 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="59" height="36" />🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.
 Além de JavaScript utiliza linguagens C e C++.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸  <strong>Firefox</strong>.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸  **Firefox**.
 Usa JavaScript (e HTML, CSS) para UI, enquanto outras até mesmo <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">Assembly</a>.
 
 #### Pré-requisitos para aprender JS
@@ -180,15 +157,16 @@ Bela história e introdução na web:
 
 
 #### HTML - XML - XHTML: as diferenças
-<strong>XML</strong> Linguagem de marcação e que foi a base para o XHTML.  
+**XML** Linguagem de marcação e que foi a base para o XHTML.  
 
-<strong>XHTML</strong> Não admite erros na marcação. Assim, o documento deve ser bem formado e aninhado.  
-<strong>Aninhar</strong> convenientemente.  
-<strong>Caixa da fonte</strong> XML e XHTML são sensíveis ao tamanho da caixa da fonte, inclusive atributo. Use letra minúscula.  
-<strong>Valor do atributo</strong> É considerado string e deve estar entre aspas, mesmo sendo número.  
-<strong>Atributo</strong> deve estar escrito por completo Ou seja, nome e valor.  
-<strong>Tag</strong> fechamento obrigatória.  
-<strong>Elemento vazio</strong> deve ser fechado.  
+**XHTML** Não admite erros na marcação. Assim, o documento deve ser bem formado e aninhado.  
+**Aninhar** convenientemente.  
+**Caixa da fonte** XML e XHTML são sensíveis ao tamanho da caixa da fonte, inclusive atributo. Use letra minúscula.  
+**Valor do atributo** É considerado string e deve estar entre aspas, mesmo sendo número.  
+**Atributo** deve estar escrito por completo Ou seja, nome e valor.  
+**Tag** fechamento obrigatória.  
+**Elemento vazio** deve ser fechado.  
 
-É isso!  
-\o/  
+
+
+{% include final.html %}
