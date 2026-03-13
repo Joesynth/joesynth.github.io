@@ -89,6 +89,8 @@ strong { font-size: 0.9em;}
 
 blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color: gray; font-weight: bold; font-style: italic;}
 
+ul, ol {text-indent: 2em;}
+
 th { background-color: lightgray; }
 
 /* tab - cor de fundo apenas nas linhas pares */
@@ -96,9 +98,6 @@ tr:nth-child(even) { background-color: lightyellow; }
 
 /* tab - cor de fundo nas linhas ímpares */
 tr:nth-child(odd) { background-color: snow; }
-
-
-
 
 pre {
 	border: 1px solid #ccc; 
