@@ -104,7 +104,7 @@ Embora não seja algo determinante, é bem-vindo conhecer [Markdown](/programaca
 
 ## JavaScript: o que é exatamente?
 
-<img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="60" /> **JavaScript**, ou JS para os íntimos, é uma linguagem para construir páginas *web*. Essa tecnologia permite maior interatividade entre os documentos *web* construídos e os internautas.  
+<img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="60" />Ou simplesmente **JS** para os íntimos, a linguagem **JavaScript** permite construir páginas *web*. Essa tecnologia permite maior interatividade entre os documentos *web* construídos e os internautas.  
 
 🇺🇸 JavaScript, 1995.  
 🔗️ ecma-international.org. (versões; hoje quem mantém, define evoluções).  
@@ -112,16 +112,19 @@ Embora não seja algo determinante, é bem-vindo conhecer [Markdown](/programaca
 
 
 ###### Usuários
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Netscape_logo.svg/220px-Netscape_logo.svg.png" width="78" height="21" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/AOL_logo.svg/220px-AOL_logo.svg.png" width="60" height="24" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/220px-Google_2015_logo.svg.png" width="79" height="27" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/150px-2021_Facebook_icon.svg.png" width="20" height="20" /> Muitos sites e empresas conhecidas utilizam a JS amplamente.
+
+Netscape ("avô" do Firefox), AOL, Google, Facebook etc. São alguns casos famosos e históricos.
 
 ###### Tipo de Linguagem
 
 Interpretada e orientada a objetos.
 Lembrando, interpretada significa que a linguagem é *client-side*; ou seja, é executada no lado do cliente, portanto no computador do próprio usuário, precisamente no <a href="https://joesynth.wordpress.com/2021/11/28/navegadores-para-internet/">navegador</a> (*browser*).
 
-<h6>Software Editor</h6>
+###### Software editor e o interpretador
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Notepad.png/64px-Notepad.png" width="40" /> Pode ser um Editor de Texto simples, IDE, console do *browser* (Firefox, por exemplo) ou em um ambiente chamado Node.js.
+Tal como a HTML, usa-se qualquer editor e, para executar, temos um interpretador como o navegador Firefox.
+
+Pode ser um Editor de Texto simples, IDE, console do *browser* (Firefox, por exemplo) ou em um ambiente chamado Node.js.
 
 ###### O navegador (browser)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" />
