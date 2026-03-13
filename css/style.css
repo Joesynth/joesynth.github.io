@@ -5,9 +5,6 @@
 
 body { background-color: #F3F3F3;}
 
-ul li { font-weight: bold;}
-ol li { font-weight: bold;}
-
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: sans-serif; }
 
@@ -89,7 +86,9 @@ strong { font-size: 0.9em;}
 
 blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color: gray; font-weight: bold; font-style: italic;}
 
-ul, ol {text-indent: 2em;}
+ul li, ol li { font-weight: bold;}
+
+ul, ol {margin-left: 2em;}
 
 th { background-color: lightgray; }
 
