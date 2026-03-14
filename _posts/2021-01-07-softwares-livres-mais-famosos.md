@@ -23,9 +23,10 @@ Então... sem demoras, vamos aos <em>softwares</em> livres!
 8. 🎉️ Bônus
 
 
+
 ## 🇺🇸 Firefox
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="120" />Um navegador Web (<em>web browser</em>) muito utilizado em todo globo; tanto por pessoas comuns como por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>. Já vem instalado por padrão no <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a> ou Lubuntu _embora, claro, você possa instalar noutro sistema se quiser.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/15486354/firefox-logo.png" width="120" />Um navegador Web (<em>web browser</em>) muito utilizado em todo globo; tanto por pessoas comuns como por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>. Já vem instalado por padrão no <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a> ou Lubuntu _embora, claro, você possa instalar noutro sistema se quiser.  
 🖥️ Linux, Mac, Windows, Android.  
 📜️ MPL.  
 🔗️mozilla.org/en-US/firefox/new/
@@ -36,7 +37,6 @@ Então... sem demoras, vamos aos <em>softwares</em> livres!
 Repositório: github.com/mastodon/mastodon  
 📜️ AGPL, outras.  
 🔗️ joinmastodon.org  
-
 
 
 ## 🇺🇸 Thunderbird
@@ -68,7 +68,7 @@ Repositório: github.com/mastodon/mastodon
 
 ## 🇫🇷 VLC
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/100px-VLC_Icon.svg.png" width="120" />.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/11639020/904px-VLC_Icon.svg.png" width="120" />.  
 Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streaming</em>, <em>broadcast</em> _bem como transmitir vídeos do VLC Media Player para a TV.  
 🖥️ Multiplataforma, inclusive iOS e Android.  
 📜️ GPL e outras semelhantes.  
@@ -79,7 +79,7 @@ Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streami
 
 🇷🇺 Telegram
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/100px-Telegram_2019_Logo.svg.png" width="120" />Aplicativo de mensagens instantâneas. Comparado ao WhatsApp (que não é livre), o Telegram tem vantagens para grandes empresas:
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="120" />Aplicativo de mensagens instantâneas. Comparado ao WhatsApp (que não é livre), o Telegram tem vantagens para grandes empresas:
     permite enviar arquivos bem maiores,
     criar um grupo/canal com milhares de pessoas (algo que no WhatsApp é limitadíssimo).
     subgrupos, como departamentos de sua empresa: administração, <em>marketing</em> e até uma "área de lazer" (bacana para lembrar dos aniversários),
@@ -90,6 +90,10 @@ Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streami
 ⬇️ Ubuntu Software.  
 🖥️ Linux, Mac, Windows.  
 📜️ GPL ⚠️ Há exceção, parte privada.  
+
+
+
+
 
 
 ## 🎉️ Bônus
@@ -104,37 +108,37 @@ Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streami
 
 ###### Casa, diversão e lazer
 
-**Rhythmbox**: opção ao Spotify ou ao iTunes (inclusive foi inspirado nele).
+**🌐️ Rhythmbox** (GNOME): opção ao Spotify ou ao iTunes (inclusive foi inspirado nele).
 
 
 
 ###### Arte, <em>design</em>, multimídia
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" width="59" />🇳🇱 Blender.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" width="59" />**🇳🇱 Blender**.  
 Além de jogos, lida com realidade virtual, filmes animados, edição de vídeo... É disponível em vários idiomas.  
 🖥️ Linux, MacOS...  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 ⬇️ Ubuntu Software.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/60px-Synfig_logo.svg.png" width="40" height="57" />○ <strong>Synfig</strong>.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/60px-Synfig_logo.svg.png" width="40" height="57" />**🇺🇸 Synfig**.  
 Um <em>software</em> que trabalha com animação 2D.  
 🖥️ Linux, MacOS e Windows.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 ⬇️ Ubuntu Software.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/120px-Inkscape_Logo.svg.png" width="60" height="60" />○ <strong>Inkscape</strong>.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/120px-Inkscape_Logo.svg.png" width="60" height="60" />**🌐️ Inkscape**.  
 Editor de imagens que lida com vetor.  
 🖥️ Linux, MacOS e Windows.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
 ⬇️ Ubuntu Software.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/64px-The_GIMP_icon_-_gnome.svg.png" width="60" height="60" />○ <strong>GIMP</strong>.  
+<img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/gimp-logo.png" width="60" />**🇺🇸 GIMP**.  
 Criado nos anos 90, é utilizado para manipulação e edição de imagens.  
 🖥️ Linux, Mac, Windows.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 ⬇️ Ubuntu Software.  
 
-<img src="https://www.openshot.org/images/uploads/archive/openshot-2-logo-medium.png" width="60" height="60" />○ <strong>OpenShot</strong>.  
+<img src="https://www.openshot.org/images/uploads/archive/openshot-2-logo-medium.png" width="60" height="60" />**🇺🇸 OpenShot**.  
 Editor de vídeo leve.  
 🖥️ Linux, Mac, Windows.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
@@ -142,13 +146,13 @@ Editor de vídeo leve.
 ⬇️ ️https://www.openshot.org/download/  
 ⬇️ Ubuntu Software.  
 
-⚫ Avidemux - editor de vídeo.  
-⚫ Cinerella - editor de vídeo.  
-⚫ Kdenlive - editor de vídeo, similar ao Movie Maker.  
+**Avidemux** - editor de vídeo.  
+**Cinerella** - editor de vídeo.  
+**Kdenlive** - editor de vídeo, similar ao Movie Maker.  
 
 Música? Veja [DAW softwares grátis](https://joesynth.wordpress.com/2021/11/13/daw-software-gratis/), um artigo lá do blog Joesynth Wordpress.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/120px-OBS_Studio_Logo.svg.png" width="58" height="58" />• <strong>OBS Studio</strong>.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/120px-OBS_Studio_Logo.svg.png" width="58" height="58" />**OBS Studio**.  
 Streaming.  
 🖥️ Linux, BSD, MacOS, Win.  
 📜 GPL.  
@@ -159,7 +163,7 @@ Streaming.
 
 ###### Educação
 
-<img src="https://nsltecnologia.com.br/wp-content/uploads/2019/07/i-educar.png" width="120" />🇧🇷 <strong>i-Educar</strong>.  
+<img src="https://nsltecnologia.com.br/wp-content/uploads/2019/07/i-educar.png" width="120" />🇧🇷 **i-Educar**.  
 Gestão escolar. É possível cadastro de alunos, emissão de certificados e diplomas, relatórios etc.  
 🖥️ Linux, Windows.  
 📜 GPL.  
@@ -171,9 +175,9 @@ Gestão escolar. É possível cadastro de alunos, emissão de certificados e dip
 
 ###### Empresas/escritório
 
-Conforme o ISF (Instituto Sem Fronteiras), 73% das grande empresas e 31% das pequenas utilizam <em>software</em> livre. Há multa para a empresa que usa <em>software</em> pirata, e evidentemente isso influencia.  
+ 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dolibarr_logo.png/180px-Dolibarr_logo.png" width="80" height="22" />Dolibarr team | Laurent Destailleur.  
+<img src="https://avatars.githubusercontent.com/u/877491?s=280&v=4" width="80" />Dolibarr team | Laurent Destailleur.  
 ERP, CRM, PDV. Pacote completo de sistema de gestão para sua empresa; pensado também como <a href="https://joesynth.wordpress.com/2021/12/27/saas-10-softwares-famosos/">SaaS</a> (ou <em>cloud</em>). Dos recursos cita-se acompanhamento de faturas, contratos, estoque, pedidos e pagamentos.
 O '<em>DoliDroid</em>' é uma versão para você usar no Android e que acessa o <em>software</em> principal  <em>Dolibarr</em>.  
 🖥️ Linux, MacOS, Win; ou nuvem e mesmo Android.  
@@ -184,8 +188,8 @@ O '<em>DoliDroid</em>' é uma versão para você usar no Android e que acessa o 
 
 ###### TI (Tecnologia da Informação)
 
-O próprio funcionamento da Web em muito tem a ver com <em>software</em> livre. Aqui temos servidor, banco de dados, FTP...  
 
+<img src="https://gitlab.com/uploads/-/system/project/avatar/4048622/nodejs-new-pantone-black.png" width="80" />
 🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.  
 Um ambiente de JavaScript.  
 É utilizado por Microsoft, Netflix, PayPal, Yahoo!...  
@@ -194,42 +198,53 @@ Um ambiente de JavaScript.
 <img src="https://img.icons8.com/color/2x/virtualbox.png" width="60" />🇩🇪 VirtualBox.  
 📜️ GPL (não somente!).  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />○ 🇺🇸 Apache.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />🇺🇸 Apache.  
 Nascido nos anos 90, o Apache é um dos softwres livres mais conhecidos. Ele é o mais utilizado <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">software servidor</a> Web, título disputado com o Nginx.  
 <span class="Y2IQFc" lang="pt">📜️</span> Apache 2.0.  
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/100px-MySQL_logo.svg.png" width="88" />○ 🇸🇪 MySQL.  
+<img src="https://user-content.gitlab-static.net/db5cf2a99db9c1379c149021c53cfdb448802b8c/68747470733a2f2f6769746875622e636f6d2f61626869393732302f42616e6b696e67506f7274616c2d4150492f6173736574732f36383238313437362f33363437363133652d316436652d346263342d393862362d326461353634383635396639" width="88" />🇸🇪 MySQL.  
 Criado anos 90, lida com <a href="https://joesynth.wordpress.com/2021/11/28/banco-de-dados-principais-softwares/">banco de dados</a>.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>...
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/112px-7ziplogo.svg.png" width="60" height="34" /> 🇷🇺 7-Zip.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/112px-7ziplogo.svg.png" width="60" height="34" />🇷🇺 7-Zip.  
 Compactador de arquivo com suporte a vários formatos; um <em>software</em> bem-vindo para fazer <em>backup</em>.  
 🖥️ MacOS, Linux, Windows...  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">LGPL</a>...  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="58" height="58" />○ 🇺🇸 WordPress.  
+<img src="https://gitlab.com/uploads/-/system/group/avatar/2151600/WordPress_blue_logo.svg.png" width="58" />🇺🇸 WordPress.  
 Um <a href="https://joesynth.wordpress.com/2021/11/28/software-cms/">CMS</a>, mas também um <em>blog</em>. Aliás, o <em>blog</em> JoeSynth utiliza WordPress; bem como a Globo e a BBC, dentre muitas empresas.  
 🖥️ MacOS, Linux, Windows...  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 🔗️wordpress.org/  
 
-    🇷🇺️ Nginx (<span class="Y2IQFc" lang="pt">📜️ BSD; servidor</span>).  
-    XAMPP (<span class="Y2IQFc" lang="pt">📜️; Apache, MySQL...</span>).  
-    FileZilla (<span class="Y2IQFc" lang="pt">📜️GPL</span>, FTP).  
-    BIND (<span class="Y2IQFc" lang="pt">📜️MPL; anos 80; servidor de protocolo DNS</span>).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/64px-Bluefish-icon.svg.png" width="59" height="59" />🇳🇱️ Bluefish.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/17825599/nginx-logo.png" width="60" />🇷🇺️ Nginx.  
+📜️ BSD; servidor.  
+
+XAMPP
+📜️ Apache, MySQL...
+
+FileZilla
+FTP
+📜️GPL
+
+BIND
+Anos 80; servidor de protocolo DNS
+📜️MPL
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/1280px-Bluefish-icon.svg.png" width="59" />🇳🇱️ Bluefish.  
 Nascido na década de 1990, o software do simpático peixinho é um editor de códigos para desenvolvedores. Lida com linguagens como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">JS, CSS, HTML</a>...  
 <span class="Y2IQFc" lang="pt">📜️</span>  <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 ⬇️ Ubuntu Software.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/150px-Git-logo.svg.png" width="88" />🇺🇸 Git.  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5MFGcGxvHFf3unQTkMq_FlwZZDE_8EBkWA&s" width="88" />🇺🇸 Git.  
 Bem conhecido de programadores, ele rastreia alterações em qualquer conjunto de arquivos.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
 
 ###### Brinde! Outros softwares livres
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Satoshi_Nakamoto.jpg/220px-Satoshi_Nakamoto.jpg" width="120" />○ <strong>Bitcoin Core</strong>.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/8810931/BC_Logo_.png" width="120" />**Bitcoin Core**.  
 Esse programa é um caso curioso de <em>software</em> gratuito e código aberto, sendo que ele verifica os pagamentos.
 O <span class="Y2IQFc" lang="pt"><em>software</em> (de criptomoeda) foi publicado por Satoshi Nakamoto (foto da </span><span class="Y2IQFc" lang="pt">estátua em Budapeste</span><span class="Y2IQFc" lang="pt">).  
 🖥️ Linux, Windows, macOS.  
