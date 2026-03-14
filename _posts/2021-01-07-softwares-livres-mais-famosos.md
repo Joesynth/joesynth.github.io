@@ -100,17 +100,15 @@ Um <em>media player</em> muito conhecido, tendo seu nome associado a <em>streami
 
 - Casa, diversão e lazer
 - Arte, design, multimídia
+- Finanças
 - Educação
 - Empresas/escritório
 - TI (Tecnologia da Informação)
-- Brinde! Outros software
     
 
 ###### Casa, diversão e lazer
 
 **🌐️ Rhythmbox** (GNOME): opção ao Spotify ou ao iTunes (inclusive foi inspirado nele).
-
-
 
 ###### Arte, <em>design</em>, multimídia
 
@@ -161,88 +159,8 @@ Streaming.
 💽 github.com/obsproject/obs-studio  
 ⬇️ Ubuntu Software.  
 
-###### Educação
 
-<img src="https://nsltecnologia.com.br/wp-content/uploads/2019/07/i-educar.png" width="120" />🇧🇷 **i-Educar**.  
-Gestão escolar. É possível cadastro de alunos, emissão de certificados e diplomas, relatórios etc.  
-🖥️ Linux, Windows.  
-📜 GPL.  
-✏️ Prefeitura de Itajaí-SC, Cobra Tecnologia.  
-✏️ PHP (principalmente), JS, CSS etc (partes menores).  
-💽 github.com/portabilis/i-educar  
-🔗 ieducar.org/  
-⬇️ ️ softwarepublico.gov.br  
-
-###### Empresas/escritório
-
- 
-
-<img src="https://avatars.githubusercontent.com/u/877491?s=280&v=4" width="80" />Dolibarr team | Laurent Destailleur.  
-ERP, CRM, PDV. Pacote completo de sistema de gestão para sua empresa; pensado também como <a href="https://joesynth.wordpress.com/2021/12/27/saas-10-softwares-famosos/">SaaS</a> (ou <em>cloud</em>). Dos recursos cita-se acompanhamento de faturas, contratos, estoque, pedidos e pagamentos.
-O '<em>DoliDroid</em>' é uma versão para você usar no Android e que acessa o <em>software</em> principal  <em>Dolibarr</em>.  
-🖥️ Linux, MacOS, Win; ou nuvem e mesmo Android.  
-📜️ GPL.  
-🔗️ dolibarr.org  
-💽️ sourceforge.net/projects/dolibarr/files/  
-⬇️ <a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a> (DoliDroid).  
-
-###### TI (Tecnologia da Informação)
-
-
-<img src="https://gitlab.com/uploads/-/system/project/avatar/4048622/nodejs-new-pantone-black.png" width="80" />
-🇺🇸 <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.js</a>.  
-Um ambiente de JavaScript.  
-É utilizado por Microsoft, Netflix, PayPal, Yahoo!...  
-📜️ MIT License.  
-
-<img src="https://img.icons8.com/color/2x/virtualbox.png" width="60" />🇩🇪 VirtualBox.  
-📜️ GPL (não somente!).  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="88" />🇺🇸 Apache.  
-Nascido nos anos 90, o Apache é um dos softwres livres mais conhecidos. Ele é o mais utilizado <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">software servidor</a> Web, título disputado com o Nginx.  
-<span class="Y2IQFc" lang="pt">📜️</span> Apache 2.0.  
-
-<img src="https://user-content.gitlab-static.net/db5cf2a99db9c1379c149021c53cfdb448802b8c/68747470733a2f2f6769746875622e636f6d2f61626869393732302f42616e6b696e67506f7274616c2d4150492f6173736574732f36383238313437362f33363437363133652d316436652d346263342d393862362d326461353634383635396639" width="88" />🇸🇪 MySQL.  
-Criado anos 90, lida com <a href="https://joesynth.wordpress.com/2021/11/28/banco-de-dados-principais-softwares/">banco de dados</a>.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>...
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/112px-7ziplogo.svg.png" width="60" height="34" />🇷🇺 7-Zip.  
-Compactador de arquivo com suporte a vários formatos; um <em>software</em> bem-vindo para fazer <em>backup</em>.  
-🖥️ MacOS, Linux, Windows...  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">LGPL</a>...  
-
-<img src="https://gitlab.com/uploads/-/system/group/avatar/2151600/WordPress_blue_logo.svg.png" width="58" />🇺🇸 WordPress.  
-Um <a href="https://joesynth.wordpress.com/2021/11/28/software-cms/">CMS</a>, mas também um <em>blog</em>. Aliás, o <em>blog</em> JoeSynth utiliza WordPress; bem como a Globo e a BBC, dentre muitas empresas.  
-🖥️ MacOS, Linux, Windows...  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
-🔗️wordpress.org/  
-
-
-<img src="https://gitlab.com/uploads/-/system/project/avatar/17825599/nginx-logo.png" width="60" />🇷🇺️ Nginx.  
-📜️ BSD; servidor.  
-
-XAMPP
-📜️ Apache, MySQL...
-
-FileZilla
-FTP
-📜️GPL
-
-BIND
-Anos 80; servidor de protocolo DNS
-📜️MPL
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bluefish-icon.svg/1280px-Bluefish-icon.svg.png" width="59" />🇳🇱️ Bluefish.  
-Nascido na década de 1990, o software do simpático peixinho é um editor de códigos para desenvolvedores. Lida com linguagens como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">JS, CSS, HTML</a>...  
-<span class="Y2IQFc" lang="pt">📜️</span>  <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
-⬇️ Ubuntu Software.  
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV5MFGcGxvHFf3unQTkMq_FlwZZDE_8EBkWA&s" width="88" />🇺🇸 Git.  
-Bem conhecido de programadores, ele rastreia alterações em qualquer conjunto de arquivos.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
-
-###### Brinde! Outros softwares livres
+###### Finanças
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/8810931/BC_Logo_.png" width="120" />**Bitcoin Core**.  
 Esse programa é um caso curioso de <em>software</em> gratuito e código aberto, sendo que ele verifica os pagamentos.
@@ -250,6 +168,19 @@ O <span class="Y2IQFc" lang="pt"><em>software</em> (de criptomoeda) foi publicad
 🖥️ Linux, Windows, macOS.  
 📜️ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">MIT License</a>.  
 </span>
+
+###### Educação
+
+
+###### Empresas/escritório
+
+ 
+
+
+###### TI (Tecnologia da Informação)
+
+
+
 
 
 
