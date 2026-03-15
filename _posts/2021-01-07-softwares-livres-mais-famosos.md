@@ -4,9 +4,11 @@ Os *softwares* que todos deveríamos utilizar, simplesmente por serem livres de 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/03/software_livre.png" width="320" />
 
+Há uma ideia simples!
+
 > *software* livre é a opção mais segura e barata.
 
-Essa é a ideia defendida por profissionais de tecnologia como Marcos Mazoni e Deivi Kuhn.  
+Esse pensamento é defendido por profissionais de tecnologia como Marcos Mazoni e Deivi Kuhn.  
 Países como Alemanha, França e Espanha têm adotado medidas favoráveis ao *software* livre; e nós, separamos sete aqui:
 
 1. Firefox
@@ -17,6 +19,8 @@ Países como Alemanha, França e Espanha têm adotado medidas favoráveis ao *so
 6. VLC
 7. Telegram
 8. 🎉️ Bônus
+
+
 
 
     Legenda
@@ -148,8 +152,7 @@ Editor de vídeo leve.
 ⬇️ ️https://www.openshot.org/download/  
 ⬇️ Ubuntu Software.  
 
-**Avidemux** - editor de vídeo.  
-**Cinerella** - editor de vídeo.  
+**Avidemux** e **Cinerella** - editores de vídeo.  
 **Kdenlive** - editor de vídeo, similar ao Movie Maker.  
 
 
