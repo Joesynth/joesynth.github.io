@@ -24,7 +24,7 @@ Necessário ter concluído Ensino Médio ou estar cursando a partir do 2º ano.
 ## Cefet/RJ
 
 Centro Federal de Educação Tecnológica:  
-Cursos Técnicos em Informática integrado (nível médio) com campi como Nova Iguaçu e outros, com formação técnica e prática.  
+Cursos técnicos em informática integrado (nível médio).  
 
 
 
