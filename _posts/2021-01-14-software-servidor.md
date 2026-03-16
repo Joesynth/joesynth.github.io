@@ -9,64 +9,64 @@ Também, um SO assim não incluirá ferramentas de escritório, como o LibreOffi
 
 #### 🇺🇸 Red Hat
 
-<img class="alignleft" src="https://pbs.twimg.com/media/EtpeLcRXAAMsdyk.jpg" width="99" />Red Hat Enterprise Linux (RHEL)
+<img class="alignleft" src="https://pbs.twimg.com/media/EtpeLcRXAAMsdyk.jpg" width="99" />Red Hat Enterprise Linux (RHEL).  
+Uma distro **open-source** amplamente utilizada, principalmente em servidores.  
 🔗️  redhat.com
-📜️ Várias livres, mas também proprietárias.
-💰 Anos 90, pago. Grátis por 30 dias.
-Uma distro **open-source** amplamente utilizada, principalmente em servidores.
-Alguns usuários desse sistema?
-EUA: é o sistema que controla os submarinos do exército, e não à toa, devido ele ser extremamente confiável e estável.
-Arábia Saudita: a página do Red Hat inclui esse país como sendo uma área onde a empresa tem presença e oferece suporte.
+📜️ Várias livres, mas também proprietárias.  
+💰 Anos 90, pago. Grátis por 30 dias.  
+
+**Usuários**:  
+🇺🇸 É o sistema que controla os submarinos do exército, e não à toa, devido ele ser extremamente confiável e estável.
+🇸🇦 A página do Red Hat inclui a Arábia Saudita, como sendo uma área onde a empresa tem presença e oferece suporte.
 
 #### CentOS
 
-<img class="alignleft" src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" width="58" height="58" />🔗️ centos.org
+<img class="alignleft" src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" width="58" height="58" />Equivale ao Red Hat, porém grátis. Aliás, é conhecido como ”a versão grátis do Red Hat”, é muito usado por serviços de Hospedagem.
+🔗️ centos.org
 📜️ GPL e outras.
-Equivale ao Red Hat, porém grátis. Aliás, é conhecido como ”a versão grátis do Red Hat”, é muito usado por serviços de Hospedagem.
-
 
 
 #### 🇺🇸 Debian
 
-<div class="row container-fluid small">
-<div><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="40" height="53" />Ian Murdock, anos 90.</div>
-</div>
-<div class="row container-fluid small">
-<div>
-<div class="col-sm-3">
-
-🔗️ debian.org
-Estável e robusto.
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="40" height="53" />Estável e robusta, é usada na estação espacial internacional, bem como outros ambientes críticos, como o militar. Além, a distro é utilizada por instituições educacionais e empresas comerciais.
 
 > "Para os servidores o EB *[Exército Brasileiro]* adotou o Debian, dentre os principais motivos está a estabilidade do sistema, o fato de ser o maior projeto de código livre existente atualmente, possuir o idioma português brasileiro e etc." *[AMAN, 2018]
 
 > "É uma distribuição madura, popular e serve de base para outras distribuições GNU/Linux." *[AMAN, 2018]*
 
-Outro 'usuário ilustre' é a estação espacial internacional. Além desse tipo de ambiente crítico e mesmo entre militares, como citamos, a distro é utilizada por instituições educacionais, empresas comerciais.
+🔗️ debian.org
+👉️ Ian Murdock, anos 90.
+
 
 #### 🇩🇪 SuSE Linux Enterprise Server (SLES)
 
-🔗️suse.com
+Voltado a *server*, *mainframe*, supercomputadores, workstations; funções como servidor de uso geral, nuvem privada, *storage*, bigdata. Muito popular na Europa, a SUSE é uma das pioneiras em Linux e de software Open Source para infraestrutura.
+
+🔗️ suse.com
 📜️ GPL... e várias.
-💰Pago. Avaliação por 60 dias.
-Voltado a *server*, *mainframe*, supercomputadores, workstations. Funções como servidor de uso geral, nuvem privada, *storage*, bigdata...
-Muito popular na Europa, a SUSE é uma das pioneiras em Linux e de software Open Source para infraestrutura.
+💰 Pago. Avaliação por 60 dias.
+
 
 🇩🇪 OpenSUSE.
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/128px-OpenSUSE_Logo.svg.png" width="60" height="38" />🔗️ ⬇️ opensuse.org/pt-br/
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/128px-OpenSUSE_Logo.svg.png" width="60" height="38" />Muito usado em servidor, workstations. Deriva do SuSe, sendo basicamente o mesmo.
+🔗️ ⬇️ opensuse.org/pt-br/
 📜️ GPL, em suma.
-32 ou 64 bits. Deriva do SuSe, sendo basicamente o mesmo.
-Muito usado em servidor, workstations.
+32 ou 64 bits.
+
+
 
 #### Ubuntu Server
 
 Sendo "filho do Debian”, é extremamente popular no mundo dos servidores; utilizado, por ex., em laboratórios de meteorologia.
 
+
 #### 🇺🇸 Oracle Linux
+
+Baseada em Red Hat Enterprise Linux (RHEL), é 100% compatível com ele. Uso em ambientes corporativos, principalmente.
 
 🔗️ oracle.com
 📜️ GPL e outras.
-Baseada em Red Hat Enterprise Linux (RHEL), é 100% compatível com ele. Uso em ambientes corporativos, principalmente.
+
 
 
 #### Slackware Linux
@@ -90,7 +90,7 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 
 
 
-## Mais *distros de servidores*: exemplos*
+## Distros de servidores: outros exemplos
 
 **🇺🇸 Fedora**:  
 
@@ -99,32 +99,24 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 📜️ GPL e outras.  
 32 ou 64 bits.  
 
-👉️Coreia do Norte: o Red Star OS (sistema operacional utilizado nesee país) é inspirado no Fedora.  
+🇰🇵 Na Coreia do Norte usa-se o Red Star OS, um SO é inspirado no Fedora.  
 
-Nomes ligados a ela inclui o Fedora CoreOS (FCOS).  
-
-**Gentoo Linux**  
 **Alma Linux**  
 **Alpine Linux**  
-**Cloud Linux OS**: é uma distro Linux comercial, baseada no sistema operacional CentOS.
-**ClearOS**  
-**VzLinux**  
 **Amazon Linux 2 / Amazon Linux 2 AMI**  
 **Arch Linux**  
+**Cloud Linux OS**: é uma distro Linux comercial, baseada no sistema operacional CentOS.
+**ClearOS**  
+**Flatcar Container Linux**  
+**Gentoo Linux**  
 **Mageia Linux (Um fork do Mandriva)**  
 **Proxmox**  
+**Photon OS**
 **Rancher OS**  
 **Rocky Linux**  
-**Photon OS**  
-**Flatcar Container Linux**  
+**VzLinux**  
 
 
-
-
-
-</div>
-</div>
-</div>
 
 ## Softwares relacionados a servidores
 
@@ -156,10 +148,13 @@ Java, JSP
 Sun Microsystems; Oracle.
 2005, multiplataforma.
 
-<img class="soft_servido alignleft" title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="80" height="17" /><span class="text-primary">○ **Nginx**. </span>
+<img class="soft_servido alignleft" title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="80" height="17" /><span class="text-primary">○ **🇷🇺️ Nginx**. </span>
 Igor Sysoev.
 ±2005, multiplataforma.
 Pode trabalhar em conjunto com o Apache.
+
+📜️ BSD; servidor.  
+
 
 <img class="alignleft" style="width: 100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/IIS_8.5.9431_management_console.png/300px-IIS_8.5.9431_management_console.png" height="86" /><span class="text-primary">○ **IIS** (*Internet Information Services*).
 </span>Windows NT, outros Windows.
