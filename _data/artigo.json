@@ -170,8 +170,8 @@
   {
     "href": "software-servidor.html",
     "src": "image/rede.png",
-    "h3": "Software servidor",
-    "p": "Pensando num servidor? Veja um resumo das principais opções a se considerar."
+    "h3": "7 softwares servidores",
+    "p": "Veja um resumo das principais opções a se considerar."
   },
   {
     "href": "tecnico-em-informatica-cursos-rj.html",
@@ -194,7 +194,7 @@
   {
     "href": "software-de-linha-de-comando.html",
     "src": "image/cli.png",
-    "h3": "Software de linha de comando",
+    "h3": "7 Softwares de linha de comando",
     "p": "Vamos entender um pouco do que se trata o tal do CLI?"
   },
   {
@@ -264,7 +264,7 @@
     "p": "Um guia sobre o SO mais querido dos profissionais de TI."
   },
   {
-    "href": "private.html",
+    "href": "regex.html",
     "src": "image/linguagem.png",
     "h3": "Regex",
     "p": "Um guia básico."
