@@ -15,15 +15,14 @@ Países como Alemanha, França e Espanha têm adotado medidas favoráveis ao *so
 2. Mastodon
 3. Thunderbird
 4. LibreOffice
-5. Minetest (Luanti)
+5. Minetest (Minecraft)
 6. VLC
 7. Telegram
 8. 🎉️ Bônus
 
 
+Legenda:  
 
-
-    Legenda
     🖥️ Plataforma
     🐧️ Software incluso no Linux
     📜️ Licença
@@ -33,7 +32,7 @@ Países como Alemanha, França e Espanha têm adotado medidas favoráveis ao *so
 
 ## 🇺🇸 Firefox
 
-<img src="https://gitlab.com/uploads/-/system/project/avatar/15486354/firefox-logo.png" width="120" />Um navegador Web (*web browser*) muito utilizado em todo globo; tanto por pessoas comuns como por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>.
+<img src="https://gitlab.com/uploads/-/system/project/avatar/15486354/firefox-logo.png" width="120" />Um navegador Web (*web browser*) muito utilizado em todo globo; tanto por pessoas comuns como por profissionais de informática.
 🖥️ Linux, Mac, Windows, Android.  
 🐧️ Incluso por padrão no Ubuntu ou Lubuntu.  
 📜️ MPL.  
@@ -61,13 +60,13 @@ Repositório: github.com/mastodon/mastodon
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Tezq8AVkMqdbsfVbiEHiqJxIw5qB9k4zW9Ks2Bz-R8D5-X1WdZahUG3vP02RUOK8xBeEvju-SW2hWUpXeH-eeToSkHrfET5Maa_yQgrUfcHwqzfR0cavwRxWQ8F5N0zIU9JthNyWX5UMTnFcqRnoGRDNagGjsa--h6ZUuZwAX47B9x0zCH83vuHA/s512/Libre-Office-imagem-destacada-baixesoft.webp" width="120" />Semelhante ao *Microsoft Office*, porém livre. Virou o "xodó" do Exército Austríaco por questões de soberania.  
 🖥️ Linux, MacOS, Windows...  
 🐧️ Incluso por padrão no Ubuntu.  
-📜️ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">MPL</a> e outras.  
+📜️ MPL e outras.  
 
 
 
-## 🇫🇮 Minetest (Luanti)
+## 🇫🇮 Minetest (Minecraft)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/330px-Minetest_logo.svg.png" width="120" />Jogo ao estilo Minecraft.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/330px-Minetest_logo.svg.png" width="120" />Ou Luanti, jogo ao estilo Minecraft.  
 🖥️ MacOS, Linux, FreeBSD, Android, Windows.  
 📜️ GPL, outras.  
 ✏️ The Luanti Team.  
@@ -89,13 +88,14 @@ Um *media player* muito conhecido por recursos de *streaming*. É possível tran
 
 ## 🇷🇺 Telegram
 
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="120" />Aplicativo de mensagens instantâneas. Comparado ao WhatsApp (que não é livre), o Telegram tem vantagens para grandes empresas:
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="120" />Aplicativo de mensagens instantâneas. Comparado ao WhatsApp (que não é livre), o Telegram tem vantagens para grandes empresas:  
+
     Permite enviar arquivos bem maiores.
     Criar um grupo/canal com milhares de pessoas (algo que no WhatsApp é limitadíssimo).
-    Subgrupos, como departamentos de sua empresa: administração, *marketing* e até uma "área de lazer" (bacana para lembrar dos aniversários).
-    Dados (como imagens) ficam armazenados em servidor e não no celular do usuário.
+    Subgrupos em um canal permite criamos 'departamentos' como se fosse uma empresa (administração, *marketing*, "área de lazer" para todos anotarem aniversários, etc).
 
-⚠️ Guardar dados em nuvem é o habitual. Além do Telegram, Google e Instagram fazem isso, por ex.; diferente do Whatsapp (que gasta memória do celular).  
+**Servidor próprio**: Dados, como imagens e outros, são armazenados na 'nuvem'. Isso é o habitual e, além do Telegram, o Google ou o Instagram também procedem assim _diferente do WhatsApp que fica guardado no celular do próprio usuário (o que gasta memória do seu dispositivo).  
+
 🔗️telegram.org  
 ⬇️ Ubuntu Software.  
 🖥️ Linux, Mac, Windows.  
@@ -123,31 +123,31 @@ Um *media player* muito conhecido por recursos de *streaming*. É possível tran
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" width="59" />**🇳🇱 Blender**.  
 Além de jogos, lida com realidade virtual, filmes animados, edição de vídeo... É disponível em vários idiomas.  
 🖥️ Linux, MacOS...  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
+📜️ GPL.  
 ⬇️ Ubuntu Software.  
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Synfig_logo.svg/60px-Synfig_logo.svg.png" width="40" height="57" />**🇺🇸 Synfig**.  
 Um *software* que trabalha com animação 2D.  
 🖥️ Linux, MacOS e Windows.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
+📜️ GPL.  
 ⬇️ Ubuntu Software.  
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/120px-Inkscape_Logo.svg.png" width="60" height="60" />**🌐️ Inkscape**.  
 Editor de imagens que lida com vetor.  
 🖥️ Linux, MacOS e Windows.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.
+📜️ GPL.
 ⬇️ Ubuntu Software.  
 
 <img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/gimp-logo.png" width="60" />**🇺🇸 GIMP**.  
 Criado nos anos 90, é utilizado para manipulação e edição de imagens.  
 🖥️ Linux, Mac, Windows.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
+📜️ GPL.  
 ⬇️ Ubuntu Software.  
 
 <img src="https://www.openshot.org/images/uploads/archive/openshot-2-logo-medium.png" width="60" height="60" />**🇺🇸 OpenShot**.  
 Editor de vídeo leve.  
 🖥️ Linux, Mac, Windows.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a>.  
+📜️ GPL.  
 🔗️https://www.openshot.org  
 ⬇️ ️https://www.openshot.org/download/  
 ⬇️ Ubuntu Software.  
@@ -171,10 +171,10 @@ Streaming.
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/8810931/BC_Logo_.png" width="120" />**Bitcoin Core**.  
 Esse programa é um caso curioso de *software* gratuito e código aberto, sendo que ele verifica os pagamentos.
-O <span class="Y2IQFc" lang="pt">*software* (de criptomoeda) foi publicado por Satoshi Nakamoto (foto da </span><span class="Y2IQFc" lang="pt">estátua em Budapeste</span><span class="Y2IQFc" lang="pt">).  
+O *software* (de criptomoeda) foi publicado por Satoshi Nakamoto (foto da estátua em Budapeste).  
 🖥️ Linux, Windows, macOS.  
-📜️ <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">MIT License</a>.  
-</span>
+📜️ MIT License.  
+
 
 
 ###### Música
@@ -195,9 +195,9 @@ Veja [DAW softwares grátis](https://joesynth.wordpress.com/2021/11/13/daw-softw
 👉️ Veja [Linux: 7 distros famosas](/linux-7-distros-famosas).
 
 
-⚠️ No caso do celular Android, é recomendável que se instale *softwares* pela 'loja' <a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>, e não a Play Store (Google).  
+⚠️ No caso do celular Android, é recomendável que se instale *softwares* pela 'loja' F-Droid, e não a Play Store (Google).  
 
-Para saber mais sobre o tema veja <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre e Software Proprietário</a> e <a href="https://joesynth.wordpress.com/2021/11/28/por-que-usar-linux/">Por que Usar Linux</a>.
+Para saber mais sobre o tema veja Software Livre e Software Proprietário e Por que Usar Linux.
 
 
 {%  include final.html %} 
