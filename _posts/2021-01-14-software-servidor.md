@@ -1,9 +1,9 @@
 # Software servidor: 7 casos
 
 
-Um software servidor, como o Nginx, pode ser instalado tanto em um SO do tipo Desktop quanto em um sistema operacioanal próprio para servidor. Neste último caso, um sistema específico, não se espante em ver o servidor atuando em modo texto, ou seja, sem GUI (interface gráfica). Usar uma GUI consumiria recursos (RAM/CPU).  
+Um software servidor, como o Nginx, pode ser instalado tanto em um SO do tipo Desktop quanto em um sistema operacional próprio para servidor. Neste último caso, um sistema específico, não se espante em ver o servidor atuando em modo texto, ou seja, sem GUI (interface gráfica). Usar uma GUI consumiria recursos (RAM/CPU).  
 
-Também, um SO assim não incluirá ferramentas de escritório, como o LibreOffice, vista que esse tipo de sóftware tem mais utilidade para o usuário comum
+Também, um SO assim não incluirá ferramentas de escritório, como o LibreOffice, visto que esse tipo de software tem mais utilidade para o usuário comum.
 
 
 Servidores - Distribuições Linux
@@ -23,8 +23,10 @@ Servidores - Distribuições Linux
 <img src="https://pbs.twimg.com/media/EtpeLcRXAAMsdyk.jpg" width="120" />*Red Hat Enterprise Linux (RHEL)*.  
 Uma distro **open-source** amplamente utilizada, principalmente em servidores.  
 🔗️  redhat.com  
-📜️ Várias livres, mas também proprietárias.  
-💰 Anos 90, pago. Grátis por 30 dias.  
+📜️ GPL (em sua maioria), mas existe componentes proprietários.  
+★ Anos 90,
+💰 Pago. Grátis por 30 dias.  
+⚠️ Embora livre, a Red Hat cobra por suporte (técnico, por exemplo).
 
 **Usuários**:  
 🇺🇸 É o sistema que controla os submarinos do exército, e não à toa, devido ele ser extremamente confiável e estável.  
@@ -42,7 +44,7 @@ Uma distro **open-source** amplamente utilizada, principalmente em servidores.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="120" />Estável e robusta, é usada na estação espacial internacional, bem como outros ambientes críticos, como o militar. Além, a distro é utilizada por instituições educacionais e empresas comerciais.  
 
-> "Para os servidores o EB *[Exército Brasileiro]* adotou o Debian, dentre os principais motivos está a estabilidade do sistema, o fato de ser o maior projeto de código livre existente atualmente, possuir o idioma português brasileiro e etc." *[AMAN, 2018]
+> "Para os servidores o EB *[Exército Brasileiro]* adotou o Debian, dentre os principais motivos está a estabilidade do sistema, o fato de ser o maior projeto de código livre existente atualmente, possuir o idioma português brasileiro etc." *[AMAN, 2018]
 
 E ainda...  
 
@@ -61,8 +63,8 @@ Voltado a *mainframe*, supercomputadores, *workstations*, servidor de uso geral,
 💰 Pago. Avaliação por 60 dias.  
 
 
-🇩🇪 OpenSUSE.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OpenSUSE_Logo.svg/128px-OpenSUSE_Logo.svg.png" width="120" />Muito usado em servidor, *workstations*. Deriva do SuSE, sendo basicamente o mesmo.  
+🇩🇪 OpenSUSE.  
+Muito usado em servidor, *workstations*. Deriva do SuSE, sendo basicamente o mesmo.  
 
 🔗️ ⬇️ opensuse.org/pt-br/  
 📜️ GPL, em suma.  
@@ -71,7 +73,7 @@ Voltado a *mainframe*, supercomputadores, *workstations*, servidor de uso geral,
 
 ## 🇬🇧 Ubuntu Server
 
-Sendo "filho do Debian”, é extremamente popular no mundo dos servidores. É utilizado, por ex., em laboratórios de meteorologia.
+Baseado no Debian, é extremamente popular no mundo dos servidores _utilizado, por ex., em laboratórios de meteorologia.
 
 
 ## 🇺🇸 Oracle Linux
@@ -85,9 +87,9 @@ Baseada em Red Hat Enterprise Linux (RHEL), é 100% compatível com ele. Uso em 
 
 ## 🇺🇸 Slackware Linux
 
-Poderosa e popular no mercado de servidores, essa *distro* visa ser “semelhante ao Unix” em termos de simplicidade de *design* e estabilidade, buscando também proficiência técnica.
+Poderosa no mercado de servidores, essa *distro* visa ser “semelhante ao Unix” em termos de simplicidade de *design* e estabilidade, buscando também proficiência técnica. É visto como um SO de nicho de especialistas.
 
-Ele é muito estável, limpo e sem **bugs**.
+Ele é muito estável, limpo e sem *bugs*.
 
 > Foi uma das distros mencionadas pelo Departamento de Ciência e Tecnologia no Plano de Migração para Software Livre no Exército Brasileiro _plano este que visava regular a estratégia para a consolidação da implantação do software livre (SL) em todos os escalões do Exército Brasileiro.
 
@@ -95,12 +97,15 @@ Toda a configuração do Slackware é via edição de arquivos de texto e por is
 
 > se você aprende a usar Red Hat, vai saber usar Red Hat, mas se você aprende a usar Slackware, vai saber usar Linux.
 
-**pkgtool**: O padrão para o gerenciamento de pacotes.
-**Bash**: O shell padrão no Slackware.
+**pkgtool**: O padrão para o gerenciamento de pacotes.  
+**Bash**: O shell padrão no Slackware.  
 
-Distribuições semelhantes inclui o Arch Linux e a KateOS.
+Distribuições semelhantes incluiem o Arch Linux e a KateOS.  
 
-👉️ Criado por Patrick Volkerding, primeira metade déc. 90.
+👉️ Criado por Patrick Volkerding, primeira metade déc. 90.  
+
+
+
 
 ## 🎉️ Bônus - minitutorial (softwares)
 
@@ -133,10 +138,10 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 
 #### Servidores: outros exemplos (proprietário)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Windows_Server.png/250px-Windows_Server.png" />🇺🇸 Microsoft **Windows Server**.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Windows_Server.png/250px-Windows_Server.png" width="120" />🇺🇸 Microsoft **Windows Server**.  
 Sistema operacional voltado para uso em servidores.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/100px-Microsoft_Exchange_%282019-present%29.svg.png" />🇺🇸 Microsoft **Exchange Server**.  
+🇺🇸 Microsoft **Exchange Server**.  
 Anos 90. É um servidor de e-mail, sendo uma aplicação para ser instalada em plataformas da família Windows Server.  
 💻️ Windows Server.  
 📜️ Proprietária, software comercial.  
@@ -145,9 +150,16 @@ Anos 90. É um servidor de e-mail, sendo uma aplicação para ser instalada em p
 
 #### Softwares servidores
 
-Abaixo um resumo das principais ferramentas de servidor, mostrando marca, desenvolvedor, tecnologias usadas.
+Abaixo um resumo das principais ferramentas de servidor, mostrando marca, desenvolvedor, tecnologias usadas.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="120" />**Apache**.  
+<img title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="120" />**🇷🇺️ Nginx**.  
+Pode trabalhar em conjunto com o Apache.  
+✏️ Igor Sysoev.  
+★ ±2005.  
+💻️ Multiplataforma.  
+📜️ BSD; servidor.  
+
+**Apache**.  
 Apache Web Server.  
 É o mais popular.  
 Servidor de páginas web.  
@@ -157,7 +169,7 @@ Servidor de páginas web.
 🔗️ apache.org  
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/91px-Apache_Tomcat_logo.svg.png" width="120" />**Tomcat**.  
+**Tomcat**.  
 Apache; Servidor web.  
 Java, JSP.  
 💻️ Multiplataforma.  
@@ -169,23 +181,15 @@ Java, JSP.
 💻️ Multiplataforma.  
 
 
-<img title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="120" />**🇷🇺️ Nginx**.  
-Pode trabalhar em conjunto com o Apache.  
-✏️ Igor Sysoev.  
-★ ±2005.  
-💻️ Multiplataforma.  
-📜️ BSD; servidor.  
-
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/IIS_8.5.9431_management_console.png/300px-IIS_8.5.9431_management_console.png" />**IIS** (*Internet Information Services*).  
+**IIS** (*Internet Information Services*).  
 Criado para os sistemas Windows NT (Microsoft).  
 Ele tem suporte: HTTP, HTTPS, FTP, SMTP, etc.  
 ★ Anos 90.  
 💻️ Windows Server, Windows NT.  
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="120" />**Node**.**js**.  
-Servidor web local.  
+**Node**.**js**.  
+Pode ser usado para servidor web local, ou de produção.  
 JavaScript, HTML.  
 ★ Do ano de 2009.  
 💻️ Multiplataforma.  
