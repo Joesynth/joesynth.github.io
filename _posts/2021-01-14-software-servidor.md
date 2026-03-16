@@ -1,5 +1,6 @@
 # Software servidor: 7 casos
 
+
 Um software servidor, como o Nginx, pode ser instalado tanto em um SO do tipo Desktop quanto em um sistema operacioanal próprio para servidor. Neste último caso, um sistema específico, não se espante em ver o servidor atuando em modo texto, ou seja, sem GUI (interface gráfica). Usar uma GUI consumiria recursos (RAM/CPU).  
 
 Também, um SO assim não incluirá ferramentas de escritório, como o LibreOffice, vista que esse tipo de sóftware tem mais utilidade para o usuário comum
@@ -14,15 +15,10 @@ Servidores - Distribuições Linux
 - Ubuntu Server
 - Oracle Linux
 - Slackware Linux
-- 🎉️ Bônus - minitutorial de softwares
+- 🎉️ Bônus - minitutorial (softwares)
 
 
-## 7 Servidores - Distribuições Linux
-
-
-
-
-#### 🇺🇸 Red Hat
+## 🇺🇸 Red Hat
 
 <img src="https://pbs.twimg.com/media/EtpeLcRXAAMsdyk.jpg" width="120" />*Red Hat Enterprise Linux (RHEL)*.  
 Uma distro **open-source** amplamente utilizada, principalmente em servidores.  
@@ -35,14 +31,14 @@ Uma distro **open-source** amplamente utilizada, principalmente em servidores.
 🇸🇦 A página do Red Hat inclui a Arábia Saudita, como sendo uma área onde a empresa tem presença e oferece suporte.  
 
 
-#### 🇺🇸 CentOS
+## 🇺🇸 CentOS
 
 <img src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" width="120" />Equivale ao Red Hat, porém grátis. Mais que isso, o CentOS é conhecido como ”a versão grátis do Red Hat”. É muito usado por serviços de Hospedagem.
 🔗️ centos.org
 📜️ GPL e outras.
 
 
-#### 🇺🇸 Debian
+## 🇺🇸 Debian
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" width="120" />Estável e robusta, é usada na estação espacial internacional, bem como outros ambientes críticos, como o militar. Além, a distro é utilizada por instituições educacionais e empresas comerciais.  
 
@@ -56,7 +52,7 @@ E ainda...
 👉️ Ian Murdock, anos 90.  
 
 
-#### 🇩🇪 SuSE Linux Enterprise Server (SLES)
+## 🇩🇪 SuSE Linux Enterprise Server (SLES)
 
 Voltado a *mainframe*, supercomputadores, *workstations*, servidor de uso geral, nuvem privada, *storage*, *bigdata*. Muito popular na Europa, a SuSE é uma das pioneiras em Linux e de *software* de código aberto para infraestrutura.  
 
@@ -73,12 +69,12 @@ Voltado a *mainframe*, supercomputadores, *workstations*, servidor de uso geral,
 32 ou 64 bits.  
 
 
-#### 🇬🇧 Ubuntu Server
+## 🇬🇧 Ubuntu Server
 
 Sendo "filho do Debian”, é extremamente popular no mundo dos servidores. É utilizado, por ex., em laboratórios de meteorologia.
 
 
-#### 🇺🇸 Oracle Linux
+## 🇺🇸 Oracle Linux
 
 Baseada em Red Hat Enterprise Linux (RHEL), é 100% compatível com ele. Uso em ambientes corporativos, principalmente.
 
@@ -87,7 +83,7 @@ Baseada em Red Hat Enterprise Linux (RHEL), é 100% compatível com ele. Uso em 
 
 
 
-#### 🇺🇸 Slackware Linux
+## 🇺🇸 Slackware Linux
 
 Poderosa e popular no mercado de servidores, essa *distro* visa ser “semelhante ao Unix” em termos de simplicidade de *design* e estabilidade, buscando também proficiência técnica.
 
@@ -106,16 +102,12 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 
 👉️ Criado por Patrick Volkerding, primeira metade déc. 90.
 
-
-
-
-## Servidores: outros exemplos
+## 🎉️ Bônus - minitutorial (softwares)
 
 📚️ IoT (*Internet of Things*): Internet das Coisas.  
 📚️ SO: sistema operacional.
 
-
-#### Distros
+#### Servidores: outros exemplos (Distros)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/250px-Fedora_logo_%282021%29.svg.png" width="60" />**🇺🇸 Fedora**: Distribuição Linux baseada no Red Hat, que aliás funciona como uma espécie de “área de testes” para o RHEL. Há cinco tipos: computador pessoal, servidor, computação em nuvem, *containerization* e *IoT*.  
 
@@ -139,7 +131,7 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 **Rocky Linux**  
 **VzLinux**  
 
-#### Proprietário (privado)
+#### Servidores: outros exemplos (proprietário)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Windows_Server.png/250px-Windows_Server.png" />🇺🇸 Microsoft **Windows Server**.  
 Sistema operacional voltado para uso em servidores.  
@@ -151,7 +143,7 @@ Anos 90. É um servidor de e-mail, sendo uma aplicação para ser instalada em p
 
 
 
-## Softwares servidores
+#### Softwares servidores
 
 Abaixo um resumo das principais ferramentas de servidor, mostrando marca, desenvolvedor, tecnologias usadas.
 
