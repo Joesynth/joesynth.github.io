@@ -4,7 +4,22 @@ Um software servidor, como o Nginx, pode ser instalado tanto em um SO do tipo De
 
 Também, um SO assim não incluirá ferramentas de escritório, como o LibreOffice, vista que esse tipo de sóftware tem mais utilidade para o usuário comum
 
+
+Servidores - Distribuições Linux
+
+- Red Hat
+- CentOS
+- Debian
+- SuSE
+- Ubuntu Server
+- Oracle Linux
+- Slackware Linux
+- 🎉️ Bônus - minitutorial de softwares
+
+
 ## 7 Servidores - Distribuições Linux
+
+
 
 
 #### 🇺🇸 Red Hat
@@ -93,6 +108,7 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 
 
 
+
 ## Servidores: outros exemplos
 
 📚️ IoT (*Internet of Things*): Internet das Coisas.  
@@ -101,9 +117,7 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 
 #### Distros
 
-**🇺🇸 Fedora**:  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/250px-Fedora_logo_%282021%29.svg.png" width="60" />Distribuição Linux baseada no Red Hat, que aliás funciona como uma espécie de “área de testes” para o RHEL. Há cinco tipos: computador pessoal, servidor, computação em nuvem, *containerization* e *IoT*.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/250px-Fedora_logo_%282021%29.svg.png" width="60" />**🇺🇸 Fedora**: Distribuição Linux baseada no Red Hat, que aliás funciona como uma espécie de “área de testes” para o RHEL. Há cinco tipos: computador pessoal, servidor, computação em nuvem, *containerization* e *IoT*.  
 
 📜️ GPL e outras.  
 32 ou 64 bits.  
@@ -130,55 +144,63 @@ Distribuições semelhantes inclui o Arch Linux e a KateOS.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Windows_Server.png/250px-Windows_Server.png" />🇺🇸 Microsoft **Windows Server**.  
 Sistema operacional voltado para uso em servidores.  
 
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Microsoft_Exchange_%282019-present%29.svg/100px-Microsoft_Exchange_%282019-present%29.svg.png" />🇺🇸 Microsoft **Exchange Server**.  
 Anos 90. É um servidor de e-mail, sendo uma aplicação para ser instalada em plataformas da família Windows Server.  
-SO: Windows Server.  
+💻️ Windows Server.  
 📜️ Proprietária, software comercial.  
 
 
-## Softwares servidor
+
+## Softwares servidores
+
+Abaixo um resumo das principais ferramentas de servidor, mostrando marca, desenvolvedor, tecnologias usadas.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="120" />**Apache**.  
+Apache Web Server.  
+É o mais popular.  
+Servidor de páginas web.  
+✏️ Robert McCool.  
+★ anos 90.  
+💻️ Multiplataforma.  
+🔗️ apache.org  
 
 
-Abaixo um resumo de forma simples e objetiva quanto as principais ferramentas de servidor, mostrando marca, desenvolvedor, tecnologias usadas.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/91px-Apache_Tomcat_logo.svg.png" width="120" />**Tomcat**.  
+Apache; Servidor web.  
+Java, JSP.  
+💻️ Multiplataforma.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/220px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="120" />**Apache**.
-Apache Web Server
-Robert McCool.
-🔗️ apache.org
-anos 90
-Multiplataforma
-É o mais popular.
-Servidor de páginas web.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/91px-Apache_Tomcat_logo.svg.png" width="120" />**Tomcat**.
-Apache; Servidor web.
-Multiplataforma
-Java, JSP
+<img title="GlassFish" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/142px-GlassFish_logo.svg.png" alt="software GlassFish" width="120" />**GlassFish**.  
+✏️ Sun Microsystems; Oracle.  
+★ 2005.  
+💻️ Multiplataforma.  
 
-<img title="GlassFish" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/GlassFish_logo.svg/142px-GlassFish_logo.svg.png" alt="software GlassFish" width="120" />**GlassFish**.
-Sun Microsystems; Oracle.
-2005, multiplataforma.
 
-<img title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="120" />**🇷🇺️ Nginx**. 
-Igor Sysoev.
-±2005, multiplataforma.
-Pode trabalhar em conjunto com o Apache.
-
+<img title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="120" />**🇷🇺️ Nginx**.  
+Pode trabalhar em conjunto com o Apache.  
+✏️ Igor Sysoev.  
+★ ±2005.  
+💻️ Multiplataforma.  
 📜️ BSD; servidor.  
 
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/IIS_8.5.9431_management_console.png/300px-IIS_8.5.9431_management_console.png" />**IIS** (*Internet Information Services*).
-Windows NT, outros Windows.
-Anos 90.
-Criado para os sistemas Windows NT (Microsoft).
-Ele tem suporte: HTTP, HTTPS, FTP, SMTP, etc.
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/IIS_8.5.9431_management_console.png/300px-IIS_8.5.9431_management_console.png" />**IIS** (*Internet Information Services*).  
+Criado para os sistemas Windows NT (Microsoft).  
+Ele tem suporte: HTTP, HTTPS, FTP, SMTP, etc.  
+★ Anos 90.  
+💻️ Windows Server, Windows NT.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="120" />**Node**.**js**.
-Do ano de 2009, é para Linux, Windows e outros SO.
-🔗️ nodejs.org
-Servidor web local.
-JavaScript, HTML.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="120" />**Node**.**js**.  
+Servidor web local.  
+JavaScript, HTML.  
+★ Do ano de 2009.  
+💻️ Multiplataforma.  
+🔗️ nodejs.org  
+
+
+
 
 \o_  
 
@@ -188,3 +210,4 @@ https://bdex.eb.mil.br/jspui/bitstream/123456789/4573/1/TCC%20Cad%205056%20Trind
 https://www.vivaolinux.com.br/artigo/A-distribuicao-Slackware-Linux
 -->
 
+{% include final.html %}
