@@ -1,12 +1,11 @@
 # 7 Softwares de linha de comando
 
-7 aplicações que utilizam linha de comando, em vez do *mouse* e seus cliques.  
+Nada de *mouse* e ícones!  
 
-Nada de ícones!
+Os programas aqui mostrados não usam interface gráfica. Portanto, em vez do *mouse* e cliques na tela do computador, a interação com o sistema é feita com a gente manipulando o teclado, assim, o próprio *mouse* fica pra segundo plano!  
 
-Pois é! Esses programas não usam interface gráfica com ícones, botões e muito menos "toquinhos" na tela. Eles funcionam só com a gente o manipulando pelo teclado _ou seja, aqui o próprio *mouse* fica pra segundo plano!
+Embora seja comum pensarmos nesse tipo de aplicativo como sendo algo típico de um usuário avançado, um programador, por ex., aqui vamos passar por 7 aplicações que utilizam linha de comando, incluindo algumas mais divertidas (como música).  
 
-Embora seja comum se pensar nesse tipo de aplicativo como algo típico de um usuário mais avançado ou, principalmente, um programador, aqui vamos passar por aplicações mais divertidas (como é o caso de música) e outras mais de praxe.
 
 1. Lynx
 2. FFmpeg
@@ -21,35 +20,38 @@ Embora seja comum se pensar nesse tipo de aplicativo como algo típico de um usu
 
 ## Lynx (web browser)
 
-⚠️ É comum um navegador tradicional do tipo texto não possuir suporte para JS ou HTML5.
-
-Clássico, o Lynx existe desde anos 90. É a escolha "padrão".
+Clássico, o Lynx existe desde anos 90. É a escolha "padrão".  
 
     sudo apt install lynx
-    foo.com # Pra começar
+    lynx foo.com # Pra começar
+
+
+
+⚠️ É comum um navegador tradicional do tipo texto não possuir suporte para JS ou HTML5.  
 
 ###### Web browser: outros
 
 **w3m**: tem algum suporte para tabela ou imagem.  
-**Links**: compatível com HTML 4, oferece suporte a CSS _também JS de forma limitada.
+**Links**: compatível com HTML 4, oferece suporte a CSS _também JS de forma limitada.  
 **eLinks**: melhoria do Links.  
 
-**links2**: tem algum suporte para imagem.
+**links2**: tem algum suporte para imagem.  
+
 
     sudo apt install links2
 
+
 **Browsh**: tem suporte a HTML5, CSS, JS, pois é apoiado por um navegador real, o Firefox _inclusive a maioria das teclas e gestos do mouse devem funcionar como esperado em um navegador de *desktop*. É preciso ter o Firefox instalado, v57 ou posterior.  
-Usa um motor de renderização real (Firefox headless), processando até vídeos dentro do terminal. Porém, é mais "pesado" que os outros CLIs.
+Usa um motor de renderização real (Firefox headless), processando até vídeos dentro do terminal. Porém, é mais "pesado" que os outros CLIs.  
+
 
 
 ## FFmpeg
 
-<img src="https://img.icons8.com/color/2x/ffmpeg.png" width="40" />🇫🇷 FFmpeg.  
-Um *framework* multimedia.
-Aqui no *blog* há o tutorial <a href="https://joesynth.wordpress.com/curso-ffmpeg/">FFmpeg em Português</a>. Confira!
-🖥️ Linux, Windows...
-📜️ GLP.
-
+<img src="https://img.icons8.com/color/2x/ffmpeg.png" width="40" />Um *framework* multimídia. No *blog* há o tutorial FFmpeg em Português. Confira!  
+🇫🇷 Fabrice Bellard.  
+🖥️ Linux, Windows...  
+📜️ GPL.  
 
 
 
@@ -57,17 +59,19 @@ Aqui no *blog* há o tutorial <a href="https://joesynth.wordpress.com/curso-ffmp
 ## VLC
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/11639020/904px-VLC_Icon.svg.png" width="40" />🇫🇷 VLC.  
-<span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a> e outras semelhantes.
-🔗️videolan.org/vlc/
-⬇️ Ubuntu Software.
+📜️ GPL e outras semelhantes.  
+🔗️videolan.org/vlc/  
+⬇️ Ubuntu Software.  
 
-###### VLC Terminal: minitutorial
+
+###### VLC Terminal: minitutorial 
 
 
 <pre>cvlc -h, --help # Ou vlc --help.
 cvlc --version # Ou vlc --version.</pre>
 
-**Tocar um arquivo**.
+**Tocar um arquivo**.  
+
 
 <pre>cvlc --no-video /my/video.mp4</pre>
 
@@ -79,7 +83,8 @@ Note que estamos dentro de 'pas', a pasta que contém o arquivo.
 ~$ cvlc --no-video ~/pas/e.webm # Toca um arquivo que está dentro da pasta 'pas', que é filha de home (onde estamos de fato).
 Ou seja, podemos especificar o caminho completo.</pre>
 
-**Tocar playlist**.
+**Tocar playlist**.  
+
 
 -L, --loop, --no-loop # Repete tudo.
 -Z, --random, --no-random # Tocar aleatoriamente os arquivos.
@@ -90,35 +95,34 @@ vlc --LZ "Party Music" # Onde "Party Music" é a pasta.
 
 cvlc -L -Z --no-video ~/tes3
 cvlc -L -Z --no-video ~/tes3/
-
 </pre>
 
-Ainda, no que tange o YouTube e o típico VLC, podemos reproduzir vídeos, playlists e baixar vídeo. Veja o dicas <a href="https://uniconverter.wondershare.com.br/vlc/how-to-play-youtube-videos-in-vlc-media-player.html">VLC Media Player</a>.
+Ainda, no que tange o YouTube e o típico VLC, podemos reproduzir vídeos, playlists e baixar vídeo. Veja o dicas VLC Media Player.  
+
 
 
 
 ## Nano (GNU)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="120" />GNU Nano. Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente todos os Linux. Vide [Nano](/nano-editor-de-codigos).  É capaz de lidar com arquivos *.md*, dentre uma infinidade.
-🖥️ Cross-platform.
-📜️ GPL.
-🔗️ nano-editor.org/
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="120" />GNU Nano. Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente todos os Linux. Vide [Nano](/nano-editor-de-codigos). É capaz de lidar com arquivos *.md*, dentre uma infinidade.  
+🖥️ Cross-platform.  
+📜️ GPL.  
+🔗️ nano-editor.org/  
+
 
 ## youtube-dl
 
-É um gerenciador de *download*. No *blog Joe Synth* há um artigo sobre ele. Veja <a href="https://joesynth.wordpress.com/2021/12/27/youtube-dl/">youtube-dl</a>.
-🖥️ Linux, macOS...
-📜️ Sem licença.
-
-
-
+É um gerenciador de *download*. No *blog Joe Synth* há um artigo sobre ele. Veja youtube-dl.  
+🖥️ Linux, macOS...  
+📜️ *Unlicense* (Domínio Público).  
 
 
 
 
 ## Byobu (Multiplexer)
 
-É um multiplexador de janelas. Ele é responsável por navegar em diversas janelas. Cada janela pode ter um ou mais terminais (posicionados em diversos lugares da tela). Podemos ter, por ex., uma janela aberta com 3 terminais em execução.
+É um multiplexador de janelas. Ele é responsável por navegar em diversas janelas. Cada janela pode ter um ou mais terminais (posicionados em diversos lugares da tela). Podemos ter, por ex., uma janela aberta com 3 terminais em execução.  
+
 
 
 ###### Minitutorial
@@ -170,14 +174,14 @@ Pelas janelas podemos navegar entre vários contextos. Cada janela podemos utili
 
 ###### Multiplexer - Outros
 
-GNU Screen, Tmux.
+GNU Screen, Tmux.  
 
 
 
 ## Bash
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="120" />É um dos softwares de CLI mais famosos, inclusive presente (por padrão) no Ubuntu e no Lubuntu, dentre tantas outras *distros*.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="120" />É um dos softwares de CLI mais famosos do mundo, padrão de quase todas as distribuições Linux, inclusive presente no Ubuntu e no Lubuntu.  
 
 
 
@@ -186,7 +190,7 @@ GNU Screen, Tmux.
 
 Outros softwares:
 
-    - Programação
+- Programação
 - Editores de texto
 - Rede
 - Markdown
@@ -199,54 +203,57 @@ Outros softwares:
 ###### Programação
 
 🇺🇸 **Node.js**.  
-No campo da programação, e lidando com linguagem JS, esse ambiente é voltado ao desenvolvimento. Veja <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.Js</a>.
-🔗️nodejs.org.
+No campo da programação, e lidando com linguagem JS, esse ambiente é voltado ao desenvolvimento. Veja Node.Js.  
+🔗️nodejs.org.  
 
 
-🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.
-✏️ Isaac Z. Schlueter
-✏️ npm, Inc. (GitHub/Mcrosoft).
-🔗️ http://www.npmjs.com/
-💽️ http://www.npmjs.com/
-🖥️ Cross-platform.
-📜️ Artistic License 2.0.
+
+🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.  
+✏️ Isaac Z. Schlueter.  
+✏️ npm, Inc. (GitHub/Microsoft).  
+🔗️ http://www.npmjs.com/  
+💽️ http://www.npmjs.com/  
+🖥️ Cross-platform.  
+📜️ Artistic License 2.0.  
+
 
 
 ###### Editores de texto
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" />🇳🇱 **Vim** (*Vi IMproved*  - VI Melhorado). Editor de texto que pode lidar com JS ou Pynthon, por exemplo.
-✏️ Bram Moolenaar, Anos 90.
-🔗️ vim.org
-📜️ Vim.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" /> **Vim** (*Vi IMproved*  - VI Melhorado). Editor de texto que pode lidar com JS ou Pynthon, por exemplo.  
+🇳🇱 Bram Moolenaar, Anos 90.  
+🔗️ vim.org  
+📜️ Vim.  
+
+🇺🇸 GNU **Emacs**.  
+🔗️gnu.org/software/emacs/  
+🖥️ Cross-platform.  
+📜️ Software livre.  
+
+Há outros, como por exemplo o Ed.  
 
 
-🇺🇸 GNU **Emacs**.
-🔗️gnu.org/software/emacs/
-🖥️ Cross-platform.
-📜️ Software livre.
+**Vim e Emacs**: artigo sobre eles:  
 
-Há outros, como por exemplo o Ed.
-
-**Vim e Emacs**: artigo sobre eles:
--https://www.redhat.com/sysadmin/3-text-editors-compared
+https://www.redhat.com/sysadmin/3-text-editors-compared  
 
 
 ###### Rede
 
-Vide software de rede.
+Vide software de rede.  
+
 
 ###### Markdown
 
-Glow (inclusive <a href="https://joesynth.wordpress.com/2023/11/06/termux/">Termux</a>), Inlyne, Frogmouth, Mdcat (<a href="https://joesynth.wordpress.com/2021/11/27/editor-de-markdown/">CommonMark</a>), Markdown-CLI.
-Markdown-it (CommonMark; Node).
+Glow (inclusive Termux), Inlyne, Frogmouth, Mdcat (CommonMark), Markdown-CLI.  
+Markdown-it (CommonMark; Node).  
 
-.md para .html
-
+.md para .html  
 
 
 ###### Conversor
 
-pandoc: conversor de texto.
+pandoc: conversor de texto.  
 
     pandoc ar.txt -o ar.pdf
     pandoc -f markdown -t html ar.md -o ar.html
@@ -254,15 +261,18 @@ pandoc: conversor de texto.
 
 ###### Game
 
-Vide Softwares Educativos Livres.
+Vide Softwares Educativos Livres.  
+
 
 ###### Email
 
-Himalaya, NeoMutt, meli, aerc, Alpine.
+Himalaya, NeoMutt, meli, aerc, Alpine.  
+
 
 ###### Firewall
 
-Vide Ferramentas Firewall.
+Vide Ferramentas Firewall.  
+
 
 ###### Ferramentas para sysadmin
 
@@ -274,12 +284,13 @@ Vide Ferramentas Firewall.
     Netcat
     Mosh
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.
-✏️ Mozilla Foundation.
-🔗️ <a href="http://mozilla.org/en-US/firefox/new/">Firefox</a>.
-💽️ https://hg.mozilla.org/mozilla-central/
-🖥️ Linux, macOS...
-📜️ MPL.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.  
+✏️ Mozilla Foundation.  
+🔗️ Firefox.  
+💽️ https://hg.mozilla.org/mozilla-central/  
+🖥️ Linux, macOS...  
+📜️ MPL.  
+
 
 {% include final.html %}
 
