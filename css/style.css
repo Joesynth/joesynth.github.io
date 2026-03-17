@@ -8,10 +8,6 @@ body { background-color: #F3F3F3;}
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: sans-serif; }
 
-#menuContato {
-	text-align: right;
-}
-
 
 /* Header */
 header {
@@ -26,8 +22,13 @@ img { margin-right: .5em;}
 
 .img-header { width: 100px; height: 100px; object-fit: cover; }
 
-#bemVindo {
+
+#menuContato {
 	color: var(--cor-escura);
+	text-align: right;
+}
+
+#bemVindo {
 	font-weight: bold;
 	}
 
