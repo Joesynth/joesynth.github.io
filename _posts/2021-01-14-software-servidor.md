@@ -1,9 +1,13 @@
 # Software servidor: 7 casos
 
+📚️ SO: sistema operacional.  
 
-Um software servidor, como o Nginx, pode ser instalado tanto em um SO do tipo Desktop quanto em um sistema operacional próprio para servidor. Neste último caso, um sistema específico, não se espante em ver o servidor atuando em modo texto, ou seja, sem GUI (interface gráfica). Usar uma GUI consumiria recursos (RAM/CPU).  
+Um SO próprio para servidor é um sistema específico. Nele não há jogos ou ferramentas de escritório, como o LibreOffice. Esses tipos de programas têm mais utilidade para o usuário comum no dia a dia.  
 
-Também, um SO assim não incluirá ferramentas de escritório, como o LibreOffice, visto que esse tipo de software tem mais utilidade para o usuário comum.
+📚️ GUI: interface gráfica.  
+
+No SO do tipo servidor opera-se em modo texto, ou seja, sem GUI. Usar uma interface gráfica consumiria recursos (RAM/CPU), então a interação com o computador é feita via linha de comando. Softwares como o [Bash](/software-de-linha-de-comando) e o [Nano](/software-de-linha-de-comando) fazem parte desse mundo.  
+
 
 
 Servidores - Distribuições Linux
@@ -56,6 +60,7 @@ E ainda...
 
 ## 🇩🇪 SuSE Linux Enterprise Server (SLES)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO1qvqQXe1T-Cf2BcblF9YugxR7kYzn_zwUA&s" width="120" />
 Voltado a *mainframe*, supercomputadores, *workstations*, servidor de uso geral, nuvem privada, *storage*, *bigdata*. Muito popular na Europa, a SuSE é uma das pioneiras em Linux e de *software* de código aberto para infraestrutura.  
 
 🔗️ suse.com  
@@ -73,7 +78,7 @@ Muito usado em servidor, *workstations*. Deriva do SuSE, sendo basicamente o mes
 
 ## 🇬🇧 Ubuntu Server
 
-Baseado no Debian, é extremamente popular no mundo dos servidores _utilizado, por ex., em laboratórios de meteorologia.
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="120" /> Baseado no Debian, é extremamente popular no mundo dos servidores _utilizado, por ex., em laboratórios de meteorologia.
 
 
 ## 🇺🇸 Oracle Linux
@@ -110,7 +115,7 @@ Distribuições semelhantes incluiem o Arch Linux e a KateOS.
 ## 🎉️ Bônus - minitutorial (softwares)
 
 📚️ IoT (*Internet of Things*): Internet das Coisas.  
-📚️ SO: sistema operacional.
+
 
 #### Servidores: outros exemplos (Distros)
 
@@ -150,7 +155,7 @@ Anos 90. É um servidor de e-mail, sendo uma aplicação para ser instalada em p
 
 #### Softwares servidores
 
-Abaixo um resumo das principais ferramentas de servidor, mostrando marca, desenvolvedor, tecnologias usadas.  
+Um software servidor, como o Nginx, pode ser instalado tanto em um SO do tipo Desktop quanto em um sistema operacional próprio para servidor.
 
 <img title="Nginx" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/330px-Nginx_logo.svg.png" alt="software Nginx" width="120" />**🇷🇺️ Nginx**.  
 Pode trabalhar em conjunto com o Apache.  
