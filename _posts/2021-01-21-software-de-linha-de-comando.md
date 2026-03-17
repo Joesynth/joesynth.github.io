@@ -56,7 +56,7 @@ Aqui no *blog* há o tutorial <a href="https://joesynth.wordpress.com/curso-ffmp
 
 ## VLC
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/100px-VLC_Icon.svg.png" width="40" height="45" />🇫🇷 VLC.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/11639020/904px-VLC_Icon.svg.png" width="40" />🇫🇷 VLC.  
 <span class="Y2IQFc" lang="pt">📜️</span> <a href="https://joesynth.wordpress.com/2021/11/28/licenca-de-software/">GPL</a> e outras semelhantes.
 🔗️videolan.org/vlc/
 ⬇️ Ubuntu Software.
@@ -71,7 +71,7 @@ cvlc --version # Ou vlc --version.</pre>
 
 <pre>cvlc --no-video /my/video.mp4</pre>
 
-.
+
 
 <pre>~/pas$ cvlc --no-video e.webm # Toca só áudio do vídeo.
 Note que estamos dentro de 'pas', a pasta que contém o arquivo.
@@ -105,14 +105,13 @@ Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente 
 
 ## youtube-dl
 
-<img style="width: 150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Youtube-dl_downloading_Big_Buck_Bunny.png/300px-Youtube-dl_downloading_Big_Buck_Bunny.png" /> 🖥️ Linux, macOS...
+É um gerenciador de *download*. No *blog Joe Synth* há um artigo sobre ele. Veja <a href="https://joesynth.wordpress.com/2021/12/27/youtube-dl/">youtube-dl</a>.
+🖥️ Linux, macOS...
 📜️ Sem licença.
-É um gerenciador de *download*. Aqui no *blog <a href="https://joesynth.wordpress.com/2017/08/11/joe-s-discografia/">Joe Synth</a>* há um artigo sobre ele: veja <a href="https://joesynth.wordpress.com/2021/12/27/youtube-dl/">youtube-dl</a>.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="60" height="37" />🇺🇸 **Node.js**.  
-No campo da programação, e lidando com linguagem JS, esse ambiente é voltado ao desenvolvimento. Veja <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.Js</a>.
-🔗️nodejs.org.
+
+
 
 
 
@@ -176,7 +175,8 @@ GNU Screen, Tmux.
 
 ## Bash
 
-É um dos softwares de CLI mais famosos, inclusive presente (por padrão) no Ubuntu e no Lubuntu, dentre tantas outras *distros*.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="120" />É um dos softwares de CLI mais famosos, inclusive presente (por padrão) no Ubuntu e no Lubuntu, dentre tantas outras *distros*.
 
 
 
@@ -187,8 +187,12 @@ GNU Screen, Tmux.
 
 ###### Programação
 
+🇺🇸 **Node.js**.  
+No campo da programação, e lidando com linguagem JS, esse ambiente é voltado ao desenvolvimento. Veja <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-node-js/">Node.Js</a>.
+🔗️nodejs.org.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/220px-Npm-logo.svg.png" width="59" height="23" />🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/220px-Npm-logo.svg.png" width="59" />🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.
 ✏️ Isaac Z. Schlueter
 ✏️ npm, Inc. (GitHub/Mcrosoft).
 🔗️ http://www.npmjs.com/
@@ -209,7 +213,7 @@ GNU Screen, Tmux.
 🖥️ Cross-platform.
 📜️ GPL.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/64px-EmacsIcon.svg.png" width="40" height="40" />🇺🇸 GNU **Emacs**.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/64px-EmacsIcon.svg.png" width="40" />🇺🇸 GNU **Emacs**.
 🔗️gnu.org/software/emacs/
 🖥️ Cross-platform.
 📜️ Software livre.
@@ -265,7 +269,7 @@ Vide Ferramentas Firewall.
 
 ⚠️
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/62px-Firefox_logo%2C_2019.svg.png" width="40" height="41" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.
 ✏️ Mozilla Foundation.
 🔗️ <a href="http://mozilla.org/en-US/firefox/new/">Firefox</a>.
 💽️ https://hg.mozilla.org/mozilla-central/
