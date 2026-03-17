@@ -97,11 +97,12 @@ Ainda, no que tange o YouTube e o típico VLC, podemos reproduzir vídeos, playl
 
 
 
-## Nano
+## Nano (GNU)
 
-Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente todos os Linux. Vide [Nano](/nano-editor-de-codigos).
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="120" />GNU Nano. Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente todos os Linux. Vide [Nano](/nano-editor-de-codigos).  É capaz de lidar com arquivos *.md*, dentre uma infinidade.
+🖥️ Cross-platform.
+📜️ GPL.
+🔗️ nano-editor.org/
 
 ## youtube-dl
 
@@ -192,7 +193,7 @@ No campo da programação, e lidando com linguagem JS, esse ambiente é voltado 
 🔗️nodejs.org.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/220px-Npm-logo.svg.png" width="59" />🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.
+🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.
 ✏️ Isaac Z. Schlueter
 ✏️ npm, Inc. (GitHub/Mcrosoft).
 🔗️ http://www.npmjs.com/
@@ -203,15 +204,11 @@ No campo da programação, e lidando com linguagem JS, esse ambiente é voltado 
 
 ###### Editores de texto
 
-<img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" />🇳🇱 **Vim** (*Vi IMproved*  - VI Melhorado). Editor de texto que pode lidar com JS ou Pynthon, por exemplo.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" />🇳🇱 **Vim** (*Vi IMproved*  - VI Melhorado). Editor de texto que pode lidar com JS ou Pynthon, por exemplo.
 ✏️ Bram Moolenaar, Anos 90.
 🔗️ vim.org
 📜️ Vim.
 
-<img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/64px-Gnu-nano.svg.png" />GNU Nano. Editor de texto.
-🔗️ nano-editor.org/
-🖥️ Cross-platform.
-📜️ GPL.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/64px-EmacsIcon.svg.png" width="40" />🇺🇸 GNU **Emacs**.
 🔗️gnu.org/software/emacs/
@@ -235,7 +232,7 @@ Markdown-it (CommonMark; Node).
 
 .md para .html
 
-⚠️ O <a href="https://joesynth.wordpress.com/2021/11/28/editor-nano/">Nano</a> é capaz de lidar com arquivos .md.
+
 
 ###### Conversor
 
