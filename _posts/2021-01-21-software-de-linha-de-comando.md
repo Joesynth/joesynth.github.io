@@ -9,12 +9,12 @@ Os programas aqui mostrados não usam interface gráfica. Portanto, em vez do *m
 Embora seja comum pensarmos nesse tipo de aplicativo como sendo algo típico de um usuário avançado, um programador, por ex., aqui vamos passar por 7 aplicações que utilizam linha de comando, incluindo algumas mais divertidas (como música).  
 
 
-1. Lynx (web browser)
+1. Lynx - Navegador
 2. FFmpeg
-3. VLC (reprodutor multimídia)
+3. VLC - Reprodutor Multimídia
 4. Nano
-5. Ninvaders (jogo)
-6. Byobu (Multiplexer)
+5. Ninvaders - Jogo
+6. Byobu - Multiplexador
 7. Bash
 
 E ainda..
