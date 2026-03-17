@@ -8,7 +8,7 @@ Sobre o sistema operacional [Microsoft Windows](/microsoft), veja o que disse a 
 Portanto, se você quiser, de fato, ter liberdade com o seu computador, é preciso não ser vigiado e tomar as decisões no dia a dia, daí separamos sete sistemas onde isso será possível:
 
 
-- 🇦🇹 🇫🇷 🇩🇪 Manjaro
+- 🇩🇪 Manjaro
 - 🇫🇷 Open Mandriva
 - 🇺🇸 PCLinuxOS
 - 🇬🇧 Ubuntu
@@ -19,8 +19,8 @@ Portanto, se você quiser, de fato, ter liberdade com o seu computador, é preci
 - Um pouco de história
 
 
-
-    Legenda:
+Legenda:  
+    
     🔗️ link
     📜️ licença (normalmente GPL)
     ⬇️ download
@@ -108,7 +108,7 @@ Derivada do Mandriva.
 🇫🇷 <del>Mandriva</del>.  
 Derivada do Red Hat Linux.  
 
-🇨🇦 🇺🇸**Arch Linux** (ano 2002).  
+🇨🇦 🇺🇸 **Arch Linux** (ano 2002).  
 O criador (Judd Vinet) é canadense, mas o projeto é considerado dos EUA, onde foi fundado e está boa parte da infraestrutura original.
 
 🇺🇸 **Gentoo**.  
