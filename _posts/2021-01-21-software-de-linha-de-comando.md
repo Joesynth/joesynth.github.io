@@ -93,7 +93,7 @@ Usa um motor de renderização real (Firefox headless), processando até vídeos
 
 
 
-## Byobu c
+## Byobu (Multiplexer)
 
 É um multiplexador de janelas. Ele é responsável por navegar em diversas janelas. Cada janela pode ter um ou mais terminais (posicionados em diversos lugares da tela). Podemos ter, por ex., uma janela aberta com 3 terminais em execução.  
 
@@ -125,6 +125,14 @@ Outros softwares:
 - Email
 - Firewall
 - Ferramentas para sysadmin
+
+Minitutorial:  
+
+- VLC
+- Byobu
+
+
+
 
 ###### Programação
 
