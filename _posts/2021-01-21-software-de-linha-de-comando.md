@@ -2,20 +2,25 @@
 
 Nada de *mouse* e ícones!  
 
+📚️ CLI: interface de linha de comando.  
+
 Os programas aqui mostrados não usam interface gráfica. Portanto, em vez do *mouse* e cliques na tela do computador, a interação com o sistema é feita com a gente manipulando o teclado, assim, o próprio *mouse* fica pra segundo plano!  
 
 Embora seja comum pensarmos nesse tipo de aplicativo como sendo algo típico de um usuário avançado, um programador, por ex., aqui vamos passar por 7 aplicações que utilizam linha de comando, incluindo algumas mais divertidas (como música).  
 
 
-1. Lynx
+1. Lynx (web browser)
 2. FFmpeg
-3. VLC
+3. VLC (reprodutor multimídia)
 4. Nano
-5. youtube-dl
-6. Byobu
+5. Ninvaders (jogo)
+6. Byobu (Multiplexer)
 7. Bash
-8. 🎉️ Bônus!
 
+E ainda..
+
+- 🎉️ Bônus!
+- Minitutorial - VLC e Byobu
 
 
 ## Lynx (web browser)
@@ -56,15 +61,170 @@ Usa um motor de renderização real (Firefox headless), processando até vídeos
 
 
 
-## VLC
+## 🇫🇷 VLC
 
-<img src="https://gitlab.com/uploads/-/system/project/avatar/11639020/904px-VLC_Icon.svg.png" width="40" />🇫🇷 VLC.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/11639020/904px-VLC_Icon.svg.png" width="40" />Reprodutor multimídia capaz de lidar com áudio, vídeo e *streaming*.  
 📜️ GPL e outras semelhantes.  
 🔗️videolan.org/vlc/  
 ⬇️ Ubuntu Software.  
 
+👉️ **youtube-dl**: uma outra experiência multimídia, diferente e mais avançada. O *youtube-dl* é um gerenciador de *download*.  
+🖥️ Linux, macOS...  
+📜️ *Unlicense* (Domínio Público).  
 
-###### VLC Terminal: minitutorial 
+
+
+
+## Nano (GNU)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="120" />GNU Nano. Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente todos os Linux. Vide [Nano](/nano-editor-de-codigos). É capaz de lidar com arquivos *.md*, dentre uma infinidade.  
+🖥️ Cross-platform.  
+📜️ GPL.  
+🔗️ nano-editor.org/  
+
+
+## Ninvaders (jogo)
+
+<img src="https://itsfoss.com/content/images/2023/07/ninvaders.png" width="120" />O clássico jogo do final dos anos 70 Space Invaders, mas aqui o temos na CLI.  
+
+    sudo apt update
+    sudo apt install ninvaders
+
+
+
+
+## Byobu c
+
+É um multiplexador de janelas. Ele é responsável por navegar em diversas janelas. Cada janela pode ter um ou mais terminais (posicionados em diversos lugares da tela). Podemos ter, por ex., uma janela aberta com 3 terminais em execução.  
+
+
+###### Multiplexer - Outros
+
+GNU Screen, Tmux.  
+
+
+
+## Bash
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="120" />É um dos softwares de CLI mais famosos do mundo, padrão de quase todas as distribuições Linux, inclusive presente no Ubuntu e no Lubuntu.  
+
+
+
+
+## 🎉️ Bônus!
+
+Outros softwares:
+
+- Programação
+- Editores de texto
+- Rede
+- Markdown
+- Conversor
+- Game
+- Email
+- Firewall
+- Ferramentas para sysadmin
+
+###### Programação
+
+🇺🇸 **Node.js**.  
+Lidando com linguagem JS, esse ambiente é voltado ao desenvolvimento. Veja Node.Js.  
+🔗️nodejs.org.  
+
+
+
+🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.  
+✏️ Isaac Z. Schlueter.  
+✏️ npm, Inc. (GitHub/Microsoft).  
+🔗️ http://www.npmjs.com/  
+💽️ http://www.npmjs.com/  
+🖥️ Cross-platform.  
+📜️ Artistic License 2.0.  
+
+
+
+###### Editores de texto
+
+**Vim** (*Vi IMproved*  - VI Melhorado). Pode lidar com JS ou Pynthon, por exemplo.  
+🇳🇱 Bram Moolenaar, Anos 90.  
+🔗️ vim.org  
+📜️ Vim.  
+
+🇺🇸 GNU **Emacs**.  
+🔗️gnu.org/software/emacs/  
+🖥️ Cross-platform.  
+📜️ Software livre.  
+
+Há outros, como por exemplo o Ed.  
+
+
+**Vim e Emacs**: artigo sobre eles:  
+
+https://www.redhat.com/sysadmin/3-text-editors-compared  
+
+
+###### Rede
+
+Vide [software de rede](/software-de-rede).  
+
+
+###### Markdown
+
+Glow (inclusive Termux), Inlyne, Frogmouth, Mdcat (CommonMark), Markdown-CLI.  
+Markdown-it (CommonMark; Node).  
+
+.md para .html  
+
+
+###### Conversor
+
+pandoc: conversor de texto.  
+
+    pandoc ar.txt -o ar.pdf
+    pandoc -f markdown -t html ar.md -o ar.html
+
+
+###### Game
+
+Vide [Softwares Educativos Livres](/softwares-educacionais-livres).  
+
+
+###### Email
+
+Himalaya, NeoMutt, meli, aerc, Alpine.  
+
+
+###### Firewall
+
+Vide [Ferramentas Firewall](/firewall-ferramentas).  
+
+
+###### Ferramentas para sysadmin
+
+
+    FileZilla Pro # Uma versão CLI do FileZilla.
+    CloneZilla
+    Wireshark
+    p7zip # 7-zip.
+    Netcat
+    Mosh
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.  
+✏️ Mozilla Foundation.  
+🔗️ Firefox.  
+💽️ https://hg.mozilla.org/mozilla-central/  
+🖥️ Linux, macOS...  
+📜️ MPL.  
+
+
+
+## Minitutorial - VLC e Byobu
+
+
+
+
+###### VLC Terminal
 
 
 <pre>cvlc -h, --help # Ou vlc --help.
@@ -101,31 +261,7 @@ Ainda, no que tange o YouTube e o típico VLC, podemos reproduzir vídeos, playl
 
 
 
-
-## Nano (GNU)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/250px-Gnu-nano.svg.png" width="120" />GNU Nano. Famoso editor de texto CLI, está presente não só no Ubuntu, mas praticamente todos os Linux. Vide [Nano](/nano-editor-de-codigos). É capaz de lidar com arquivos *.md*, dentre uma infinidade.  
-🖥️ Cross-platform.  
-📜️ GPL.  
-🔗️ nano-editor.org/  
-
-
-## youtube-dl
-
-É um gerenciador de *download*. No *blog Joe Synth* há um artigo sobre ele. Veja youtube-dl.  
-🖥️ Linux, macOS...  
-📜️ *Unlicense* (Domínio Público).  
-
-
-
-
-## Byobu (Multiplexer)
-
-É um multiplexador de janelas. Ele é responsável por navegar em diversas janelas. Cada janela pode ter um ou mais terminais (posicionados em diversos lugares da tela). Podemos ter, por ex., uma janela aberta com 3 terminais em execução.  
-
-
-
-###### Minitutorial
+###### Minitutorial - Byobu (Multiplexer)
 
 **Instalação**:  
 
@@ -171,125 +307,6 @@ Pelas janelas podemos navegar entre vários contextos. Cada janela podemos utili
 
     Ctrl + F6 # Idem.
 
-
-###### Multiplexer - Outros
-
-GNU Screen, Tmux.  
-
-
-
-## Bash
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" width="120" />É um dos softwares de CLI mais famosos do mundo, padrão de quase todas as distribuições Linux, inclusive presente no Ubuntu e no Lubuntu.  
-
-
-
-
-## 🎉️ Bônus!
-
-Outros softwares:
-
-- Programação
-- Editores de texto
-- Rede
-- Markdown
-- Conversor
-- Game
-- Email
-- Firewall
-- Ferramentas para sysadmin
-
-###### Programação
-
-🇺🇸 **Node.js**.  
-No campo da programação, e lidando com linguagem JS, esse ambiente é voltado ao desenvolvimento. Veja Node.Js.  
-🔗️nodejs.org.  
-
-
-
-🇺🇸 **NPM**: Software que é um gerenciador de pacotes para o Node.js.  
-✏️ Isaac Z. Schlueter.  
-✏️ npm, Inc. (GitHub/Microsoft).  
-🔗️ http://www.npmjs.com/  
-💽️ http://www.npmjs.com/  
-🖥️ Cross-platform.  
-📜️ Artistic License 2.0.  
-
-
-
-###### Editores de texto
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/800px-Vimlogo.svg.png" alt="Editor de texto Vim" width="80" /> **Vim** (*Vi IMproved*  - VI Melhorado). Editor de texto que pode lidar com JS ou Pynthon, por exemplo.  
-🇳🇱 Bram Moolenaar, Anos 90.  
-🔗️ vim.org  
-📜️ Vim.  
-
-🇺🇸 GNU **Emacs**.  
-🔗️gnu.org/software/emacs/  
-🖥️ Cross-platform.  
-📜️ Software livre.  
-
-Há outros, como por exemplo o Ed.  
-
-
-**Vim e Emacs**: artigo sobre eles:  
-
-https://www.redhat.com/sysadmin/3-text-editors-compared  
-
-
-###### Rede
-
-Vide software de rede.  
-
-
-###### Markdown
-
-Glow (inclusive Termux), Inlyne, Frogmouth, Mdcat (CommonMark), Markdown-CLI.  
-Markdown-it (CommonMark; Node).  
-
-.md para .html  
-
-
-###### Conversor
-
-pandoc: conversor de texto.  
-
-    pandoc ar.txt -o ar.pdf
-    pandoc -f markdown -t html ar.md -o ar.html
-
-
-###### Game
-
-Vide Softwares Educativos Livres.  
-
-
-###### Email
-
-Himalaya, NeoMutt, meli, aerc, Alpine.  
-
-
-###### Firewall
-
-Vide Ferramentas Firewall.  
-
-
-###### Ferramentas para sysadmin
-
-
-    FileZilla Pro # Uma versão CLI do FileZilla.
-    CloneZilla
-    Wireshark
-    p7zip # 7-zip.
-    Netcat
-    Mosh
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.  
-✏️ Mozilla Foundation.  
-🔗️ Firefox.  
-💽️ https://hg.mozilla.org/mozilla-central/  
-🖥️ Linux, macOS...  
-📜️ MPL.  
 
 
 {% include final.html %}
