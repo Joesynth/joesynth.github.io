@@ -182,9 +182,19 @@ GNU Screen, Tmux.
 
 
 
+## 🎉️ Bônus!
 
-## Outros
+Outros softwares:
 
+    - Programação
+- Editores de texto
+- Rede
+- Markdown
+- Conversor
+- Game
+- Email
+- Firewall
+- Ferramentas para sysadmin
 
 ###### Programação
 
@@ -210,7 +220,7 @@ No campo da programação, e lidando com linguagem JS, esse ambiente é voltado 
 📜️ Vim.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/64px-EmacsIcon.svg.png" width="40" />🇺🇸 GNU **Emacs**.
+🇺🇸 GNU **Emacs**.
 🔗️gnu.org/software/emacs/
 🖥️ Cross-platform.
 📜️ Software livre.
@@ -250,7 +260,7 @@ Vide Softwares Educativos Livres.
 
 Himalaya, NeoMutt, meli, aerc, Alpine.
 
-## Firewall
+###### Firewall
 
 Vide Ferramentas Firewall.
 
@@ -264,8 +274,6 @@ Vide Ferramentas Firewall.
     Netcat
     Mosh
 
-⚠️
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="60" />🇺🇸 **Firefox**. Embora o famoso navegador Firefox não seja um software de linha de comando, ele tem o chamado **console do desenvolvedor**, que é bem familiar de programadores. Nesse console podemos escrever textos na linguagem JavaScript.
 ✏️ Mozilla Foundation.
 🔗️ <a href="http://mozilla.org/en-US/firefox/new/">Firefox</a>.
@@ -273,7 +281,7 @@ Vide Ferramentas Firewall.
 🖥️ Linux, macOS...
 📜️ MPL.
 
-
+{% include final.html %}
 
 \o_  
 
@@ -283,4 +291,3 @@ Byobu
 https://lets00.github.io/byobu-um-poderoso-multiplexador/
 -->
 
-[oes: tit !]
