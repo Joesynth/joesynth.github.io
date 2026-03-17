@@ -20,16 +20,20 @@ header {
 
 img { margin-right: .5em;}
 
-.img-header { width: 100px; height: 100px; object-fit: cover; }
+.img-header { width: 80px; height: 80px; object-fit: cover; }
 
 
 #menuContato {
-	color: var(--cor-escura);
 	text-align: right;
+}
+
+#menuContato p {
+	color: var(--cor-escura);
 }
 
 #bemVindo {
 	font-weight: bold;
+	font-size: smaller;
 	}
 
 /* Navegação e Lógica do Hamburger */
