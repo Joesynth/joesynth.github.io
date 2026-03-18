@@ -3,34 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site Profissional</title>
+    <title>Joe S no GitHub, a rede de programadores.</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
     <header>
         <img src="image/joe_s.png" alt="Logo" class="img-header">
+        
         <div class="header-desc">
-            <p id="menuContato">
-                <a href="contato.html"><span class="unicode">✆</span> contato</a>
-                <a href="quem.html"><span class="unicode">ᴥ</span> sobre</a>
-                <a href="quem.html"><span class="unicode">⌷</span> portfólio</a>
-            </p>
             <p id="bemVindo">Bem-vindo à página de Joe S no GitHub, uma área de tutoriais, exercícios <em>vanilla</em> JS etc.</p>
         </div>
+
+        <nav class="header-nav">
+            <a href="index.html"><span class="unicode">⌂</span> home</a>
+            <a href="quem.html"><span class="unicode">ᴥ</span> sobre</a>
+        </nav>
     </header>
 
-    <nav>
- 
+    <nav class="main-nav">
         <ul class="nav-links">
-            <li><a href="index.html"><span class="unicode">⌂</span> home</a></li>
-            <li><a href="servico.html"><span class="unicode">$</span> serviços</a></li>
-            <li><a href="smarketing.html"><span class="unicode">☺</span> smarketing</a></li>
-            <li><a href="conexoes.html"><span class="unicode">Ꮬ</span> conexões</a></li>
+            <li><a href="index.html"><span class="unicode">⌂</span><span class="link-text"> home</span></a></li>
+            <li><a href="servico.html"><span class="unicode">$</span><span class="link-text"> serviços</span></a></li>
+            <li><a href="quem.html"><span class="unicode">⌷</span><span class="link-text"> portfólio</span></a></li>
+            <li><a href="quem.html"><span class="unicode">ᴥ</span><span class="link-text"> sobre</span></a></li>
+            <li><a href="contato.html"><span class="unicode">✆</span><span class="link-text"> contato</span></a></li>
+            <li><a href="smarketing.html"><span class="unicode">☺</span><span class="link-text"> smarketing</span></a></li>
+            <li><a href="conexoes.html"><span class="unicode">Ꮬ</span><span class="link-text"> conexões</span></a></li>
         </ul>
     </nav>
 
-    <main> <!-- Conteúdo é cada artigo _arquivo .md pasta _data; e mkt.html a propaganda que surge no artigo. -->
+    <main>
         {{ content }}
         {% include mkt.html %}
     </main>
