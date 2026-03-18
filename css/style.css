@@ -30,6 +30,15 @@ img { margin-right: .5em;}
 /* Navegação - Ajustada conforme solicitado */
 nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
 
+.nav-linksTop {
+    display: flex; /* Visível por padrão no mobile */
+    list-style: none;
+    flex-direction: row; /* Ícones lado a lado no mobile */
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}
+
 .nav-links {
     display: flex; /* Visível por padrão no mobile */
     list-style: none;
