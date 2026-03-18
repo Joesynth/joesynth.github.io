@@ -6,11 +6,7 @@
 
 #menuTop {
     text-align: right;
-}
-
-#unicodeMaior {
-    font-size: 2em;
-    font-weigh: bold;
+    margin-bottom: 1.5em;
 }
 
 body { background-color: #F3F3F3;}
