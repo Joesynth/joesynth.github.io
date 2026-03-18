@@ -8,6 +8,11 @@
     text-align: right;
 }
 
+#unicodeMaior {
+    font-size: 2em;
+    font-weigh: bold;
+}
+
 body { background-color: #F3F3F3;}
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
