@@ -33,6 +33,7 @@ nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bo
 
 #menuTop {
     text-align: right;
+    margin-bottom: 1.2em;
 }
 
 /*
