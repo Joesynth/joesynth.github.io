@@ -12,13 +12,11 @@ body { font-family: sans-serif; }
 /* Header */
 header {
 	display: flex;
-	padding: 20px;
-	align-items: center; gap: 20px;
+	padding: 10px;
+	align-items: center; gap: 10px;
 	border-bottom: 2px solid var(--cor-escura);
 	padding-bottom: 0;
 	}
-
-img { margin-right: .5em;}
 
 .img-header { width: 80px; height: 80px; object-fit: cover; }
 
@@ -27,12 +25,13 @@ img { margin-right: .5em;}
 	text-align: right;
 }
 
+
 #menuContato p {
 	color: var(--cor-escura);
 }
 
 #bemVindo {
-	font-weight: bold;
+	//font-weight: bold;
 	font-size: smaller;
 	}
 
@@ -40,6 +39,7 @@ img { margin-right: .5em;}
 nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
 .menu-checkbox { display: none; } /* Esconde o input */
 
+/*
 .menu-toggle {
     display: flex;
     align-items: center;
@@ -52,6 +52,7 @@ nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bo
     font-size: 28px;
     cursor: pointer;
 }
+*/
 
 .nav-links {
     display: none; /* Escondido por padrão no mobile */
@@ -85,7 +86,10 @@ main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-siz
 article { display: flex; gap: 15px; align-items: flex-start; }
 .art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
 
-													/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
+/* img dos artigos */
+img { margin-right: .5em;}
+
+/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
 h1, h2, h3, h4, h5, h6 { color: var(--cor-escura); }
 h2, h4, h5, h6 { padding-top: 2.2em}		/*h1 usado no topo de cada artigo .md, e h3 somente na página principal. */
 h1 { font-size: 1.5em; }
@@ -98,7 +102,7 @@ blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color:
 
 ul li, ol li { font-weight: bold;}
 
-ul, ol {margin-left: 2em;}
+ul, ol {margin-left: 1.5em;}
 
 th { background-color: lightgray; }
 
@@ -121,18 +125,9 @@ table { font-size: smaller; }
 	
 footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
 
-/* Media Queries para Tablet e Notebook */
-@media (min-width: 768px) {
-    .menu-toggle { display: none; } /* Esconde o botão hamburger */
-    
-    .nav-links {
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-start;
-        gap: 20px;
-    }
 
-    .art-link {
-        flex: 0 1 calc(50% - 10px); /* Dois artigos por linha */
-    }
-}
+
+
+/* Media Queries para Tablet e Notebook */
+
+
