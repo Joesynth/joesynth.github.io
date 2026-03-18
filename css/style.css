@@ -1,133 +1,137 @@
 :root {
     --cor-escura: #3399ff;
-	--cor-clara: #eef;
+    --cor-clara: #eef;
 }
-
-body { background-color: #F3F3F3;}
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: sans-serif; }
 
-
-/* Header */
-header {
-	display: flex;
-	padding: 10px;
-	align-items: center; gap: 10px;
-	border-bottom: 2px solid var(--cor-escura);
-	padding-bottom: 0;
-	}
-
-.img-header { width: 80px; height: 80px; object-fit: cover; }
-
-
-#menuContato {
-	text-align: right;
+body { 
+    background-color: #F3F3F3; 
+    font-family: sans-serif; 
 }
 
+/* --- Header e Novo Menu Superior --- */
+header {
+    display: flex;
+    padding: 20px;
+    align-items: center; 
+    gap: 20px;
+    border-bottom: 2px solid var(--cor-escura);
+    padding-bottom: 10px;
+}
 
-#menuContato p {
-	color: var(--cor-escura);
+.img-header { width: 100px; height: 100px; object-fit: cover; }
+
+.header-desc {
+    flex: 1; /* Ocupa o espaço central */
 }
 
 #bemVindo {
-	//font-weight: bold;
-	font-size: smaller;
-	}
+    color: var(--cor-escura);
+    font-weight: bold;
+}
 
-/* Navegação e Lógica do Hamburger */
-nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
-.menu-checkbox { display: none; } /* Esconde o input */
+/* Menu Superior Alinhado à Direita */
+.header-nav {
+    display: flex;
+    gap: 15px;
+    margin-left: auto;
+}
 
-/*
-.menu-toggle {
+.header-nav a, 
+.header-nav a:visited, 
+.header-nav a:active {
+    color: var(--cor-escura); /* Mantém a cor padrão sempre */
+    text-decoration: none;
+    font-weight: bold;
     display: flex;
     align-items: center;
-    justify-content: center;
-    width: 45px;
-    height: 45px;
-    border: 2px solid var(--cor-escura);
-	border-radius: 10px;
-    color: var(--cor-escura);
-    font-size: 28px;
-    cursor: pointer;
+    gap: 5px;
+    white-space: nowrap;
 }
-*/
+
+/* --- Navegação Principal (Barra de Baixo) --- */
+.main-nav { 
+    background: var(--cor-clara); 
+    padding: 10px; 
+    margin-bottom: 2em;
+}
 
 .nav-links {
-    display: none; /* Escondido por padrão no mobile */
-    list-style: none;
-    flex-direction: column;
-    padding-top: 10px;
-}
-
-/* Quando o checkbox é marcado, mostra a lista */
-.menu-checkbox:checked ~ .nav-links {
     display: flex;
-}
-
-a {
-    text-decoration: none;
+    list-style: none;
+    justify-content: center; /* Centraliza no celular */
+    gap: 15px;
+    flex-wrap: wrap;
 }
 
 .nav-links li a {
     color: var(--cor-escura);
-    padding: 8px;
-    display: block;
-    //font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
 }
 
-.unicode { font-size: 1.5em;}
+/* Lógica de esconder texto no Mobile */
+.nav-links .link-text {
+    display: none;
+}
 
-/* Main e Artigos */
+.unicode { font-size: 1.5em; }
+
+/* --- Conteúdo Main e Artigos --- */
 main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.4em;}
-.art-link { text-decoration: none; color: inherit; }
 
-article { display: flex; gap: 15px; align-items: flex-start; }
-.art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
-
-/* img dos artigos */
-img { margin-right: .5em;}
-
-/* .art-content h3, h1 { margin-bottom: 5px; } 		 Adicionado h1*/
 h1, h2, h3, h4, h5, h6 { color: var(--cor-escura); }
-h2, h4, h5, h6 { padding-top: 2.2em}		/*h1 usado no topo de cada artigo .md, e h3 somente na página principal. */
+h2, h4, h5, h6 { padding-top: 2.2em; }
 h1 { font-size: 1.5em; }
-h2 { font-size: 1.3em; }
-h5, h6 { font-size: 0.9em; }
-
-strong { font-size: 0.9em;}
 
 blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color: gray; font-weight: bold; font-style: italic;}
 
-ul li, ol li { font-weight: bold;}
-
-ul, ol {margin-left: 1.5em;}
-
-th { background-color: lightgray; }
-
-/* tab - cor de fundo apenas nas linhas pares */
-tr:nth-child(even) { background-color: lightyellow; }
-
-/* tab - cor de fundo nas linhas ímpares */
-tr:nth-child(odd) { background-color: snow; }
-
 pre {
-	border: 1px solid #ccc; 
-	border-radius: 0.33em;  
-	padding: 0.5em; /* Pequena margem interna */ 
-	background: white; /* Fundo leve para contraste */ 
-	overflow: auto; /* Evita quebra de layout; barra de rolagem */
-	font-size: smaller; /* equivale tah small html*/
+    border: 1px solid #ccc; 
+    border-radius: 0.33em;  
+    padding: 0.5em; 
+    background: white; 
+    overflow: auto; 
+    font-size: smaller; 
 }
 
-table { font-size: smaller; }
-	
-footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
+table { font-size: smaller; width: 100%; border-collapse: collapse; }
+tr:nth-child(even) { background-color: lightyellow; }
+tr:nth-child(odd) { background-color: snow; }
+    
+footer { text-align: center; padding: 1em 0; color: var(--cor-clara); background-color: var(--cor-escura); }
 
+/* --- Media Queries para Tablet e Desktop --- */
+@media (min-width: 768px) {
+    .nav-links {
+        justify-content: flex-start; /* Alinha à esquerda no desktop */
+        gap: 20px;
+    }
 
+    /* Faz o texto reaparecer em telas maiores */
+    .nav-links .link-text {
+        display: inline;
+    }
 
+    .unicode {
+        margin-right: 5px;
+    }
 
-/* Media Queries para Tablet e Notebook */
+    .art-link {
+        flex: 0 1 calc(50% - 10px);
+    }
+}
 
-
+/* Ajuste fino para cabeçalho em telas muito pequenas */
+@media (max-width: 480px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+    .header-nav {
+        margin-left: 0;
+        justify-content: center;
+    }
+}
