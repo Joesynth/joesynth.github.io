@@ -4,11 +4,6 @@
     --cor-clara: #eef;
 }
 
-.unicodeMaior {
-    font-size: 2.0em;
-    font-weight: bold;
-}
-
 body { background-color: #F3F3F3;}
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -59,6 +54,11 @@ a {
 }
 
 .unicode { font-size: 1.5em;}
+
+#unicodeMaior {
+    font-size: 2.0em;
+    font-weight: bold;
+}
 
 /* Main e Artigos */
 main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.4em;}
