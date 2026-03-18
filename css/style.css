@@ -1,92 +1,86 @@
+/* novo */
 :root {
     --cor-escura: #3399ff;
     --cor-clara: #eef;
 }
 
+body { background-color: #F3F3F3;}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: sans-serif; }
 
-body { 
-    background-color: #F3F3F3; 
-    font-family: sans-serif; 
-}
-
-/* --- Header e Novo Menu Superior --- */
+/* Header */
 header {
     display: flex;
     padding: 20px;
-    align-items: center; 
-    gap: 20px;
+    align-items: center; gap: 20px;
     border-bottom: 2px solid var(--cor-escura);
-    padding-bottom: 10px;
-}
+    padding-bottom: 0;
+    }
+
+img { margin-right: .5em;}
 
 .img-header { width: 100px; height: 100px; object-fit: cover; }
-
-.header-desc {
-    flex: 1; /* Ocupa o espaço central */
-}
 
 #bemVindo {
     color: var(--cor-escura);
     font-weight: bold;
-}
+    }
 
-/* Menu Superior Alinhado à Direita */
-.header-nav {
-    display: flex;
-    gap: 15px;
-    margin-left: auto;
-}
-
-.header-nav a, 
-.header-nav a:visited, 
-.header-nav a:active {
-    color: var(--cor-escura); /* Mantém a cor padrão sempre */
-    text-decoration: none;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    white-space: nowrap;
-}
-
-/* --- Navegação Principal (Barra de Baixo) --- */
-.main-nav { 
-    background: var(--cor-clara); 
-    padding: 10px; 
-    margin-bottom: 2em;
-}
+/* Navegação - Ajustada conforme solicitado */
+nav { background: var(--cor-clara); padding: 10px; position: relative; margin-bottom: 2em;}
 
 .nav-links {
-    display: flex;
+    display: flex; /* Visível por padrão no mobile */
     list-style: none;
-    justify-content: center; /* Centraliza no celular */
-    gap: 15px;
+    flex-direction: row; /* Ícones lado a lado no mobile */
     flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}
+
+.nav-text {
+    display: none; /* Esconde o texto no mobile, mantém apenas o ícone */
+}
+
+a {
+    text-decoration: none;
 }
 
 .nav-links li a {
     color: var(--cor-escura);
-    text-decoration: none;
-    display: flex;
-    align-items: center;
+    padding: 8px;
+    display: block;
 }
 
-/* Lógica de esconder texto no Mobile */
-.nav-links .link-text {
-    display: none;
-}
+.unicode { font-size: 1.5em;}
 
-.unicode { font-size: 1.5em; }
-
-/* --- Conteúdo Main e Artigos --- */
+/* Main e Artigos */
 main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.4em;}
+.art-link { text-decoration: none; color: inherit; }
+
+article { display: flex; gap: 15px; align-items: flex-start; }
+.art-img { width: 100px; object-fit: cover; flex-shrink: 0; border-bottom-right-radius: 15px;}
 
 h1, h2, h3, h4, h5, h6 { color: var(--cor-escura); }
-h2, h4, h5, h6 { padding-top: 2.2em; }
+h2, h4, h5, h6 { padding-top: 2.2em}
 h1 { font-size: 1.5em; }
+h2 { font-size: 1.3em; }
+h5, h6 { font-size: 0.9em; }
+
+strong { font-size: 0.9em;}
 
 blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color: gray; font-weight: bold; font-style: italic;}
+
+ul li, ol li { font-weight: bold;}
+
+ul, ol {margin-left: 2em;}
+
+th { background-color: lightgray; }
+
+tr:nth-child(even) { background-color: lightyellow; }
+
+tr:nth-child(odd) { background-color: snow; }
 
 pre {
     border: 1px solid #ccc; 
@@ -97,41 +91,22 @@ pre {
     font-size: smaller; 
 }
 
-table { font-size: smaller; width: 100%; border-collapse: collapse; }
-tr:nth-child(even) { background-color: lightyellow; }
-tr:nth-child(odd) { background-color: snow; }
+table { font-size: smaller; }
     
-footer { text-align: center; padding: 1em 0; color: var(--cor-clara); background-color: var(--cor-escura); }
+footer { text-align: center; height: 2em; padding-top: 0.5em; color: var(--cor-clara); background-color: var(--cor-escura); }
 
-/* --- Media Queries para Tablet e Desktop --- */
+/* Media Queries para Tablet e Notebook */
 @media (min-width: 768px) {
     .nav-links {
-        justify-content: flex-start; /* Alinha à esquerda no desktop */
+        justify-content: flex-start;
         gap: 20px;
     }
 
-    /* Faz o texto reaparecer em telas maiores */
-    .nav-links .link-text {
-        display: inline;
-    }
-
-    .unicode {
-        margin-right: 5px;
+    .nav-text {
+        display: inline; /* Volta a exibir o texto em telas maiores */
     }
 
     .art-link {
         flex: 0 1 calc(50% - 10px);
-    }
-}
-
-/* Ajuste fino para cabeçalho em telas muito pequenas */
-@media (max-width: 480px) {
-    header {
-        flex-direction: column;
-        text-align: center;
-    }
-    .header-nav {
-        margin-left: 0;
-        justify-content: center;
     }
 }
