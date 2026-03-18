@@ -4,11 +4,6 @@
     --cor-clara: #eef;
 }
 
-#menuTop {
-    text-align: right;
-    margin-bottom: 1.5em;
-}
-
 body { background-color: #F3F3F3;}
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -27,9 +22,13 @@ img { margin-right: .5em;}
 
 .img-header { width: 100px; height: 100px; object-fit: cover; }
 
+#menuTop {
+    text-align: right;
+    margin-bottom: 1.5em;
+}
+
 #bemVindo {
     color: var(--cor-escura);
-    font-weight: bold;
     }
 
 /* Navegação - Ajustada conforme solicitado */
