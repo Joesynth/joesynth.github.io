@@ -26,7 +26,11 @@ A lista que se segue tem até mais de 40 aplicações, mas temos certeza que voc
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHvbmcUsZIwasMpKPKyEd5B41sRNM7liYsg&s" width="120" />
 A F-Droid é uma loja de aplicativos livres e de código aberto. Ou seja, a F-Droid equivale a uma “Google Play” (loja Play Store), só que de software livre (open source).
+A loja F-Droid precisa ser instalada no celular para ter acesso a liberdade dos [softwares livres](/software-livre-e-software-proprietario).  
+Entre no site e clique em “Baixar F-Droid”.
 🔗️f-droid.org
+
+Veja mais em [O Que É F-Droid?](/f-droid-o-que-e).
 
 
 
@@ -60,16 +64,18 @@ A F-Droid é uma loja de aplicativos livres e de código aberto. Ou seja, a F-Dr
 
 
 
-## Acode
+## 🇮🇳 Acode
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA2cpCiFb2aHXvDmmYhEJzzJUmRJ65l9gWMQ&s" width="120" />Editor de códigos, lida com o formato JSON, o trio de linguagens HTML/CSS/JS, *markdown* e muitas outras tecnologias.
+O Acode foi criado por um desenvolvedor indiano, Foxdebug (Ajit Kumar).
 ⬇️ F-Droid.
 
 
-## Termux
+
+## 🇸🇪 Termux
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNjnPKnOnfFZiWJGoDIKxTKZnuxk-TWPmTQ&s" width="120" />
-Por ele nós temos acesso até ao Nano, o famoso editor de códigos Linux.
+Esse desenvolvimento sueco é um emulador de terminal; que, por padrão, o utiliza o Bash. Por ele nós temos acesso até ao Nano, o famoso editor de códigos Linux.
 ⬇️ F-Droid.
 
 
