@@ -1,6 +1,6 @@
 # Software livre: 7 comunidades
 
-Separamos sete comunidades que desenvolvem [software livre](/software-livre-e-software-proprietario), que por sinal, funcionam com base no voluntariado ou mesmo doações.  
+Separamos sete comunidades para vivenciarmos o mundo dos [softwares livres](/software-livre-e-software-proprietario). Vale lembrar que tudo que as pessoas fazem é com base no voluntariado ou mesmo doações.  
 
 
 ## 🇧🇷 KDE Brasil
@@ -16,14 +16,14 @@ A principal alternativa ao KDE, desenvolvendo o ambiente de desktop GNOME, focad
 A comunidade brasileira do GNOME é uma das mais estruturadas e receptivas.  
 Atividades: Focada em tradução (L10n), documentação, marketing e desenvolvimento do ambiente desktop.  
 🔗 br.gnome.org  
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="32" />GNOME Brasil.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="28" />GNOME Brasil.  
 
 
 
 ## 🇧🇷 Debian Brasil
 
 A comunidade brasileira do Debian é uma das maiores e mais ativas do mundo. Eles organizam regularmente a DebConf (quando sediada no Brasil) e o MiniDebConf, eventos dedicados exclusivamente à distribuição, além de possuírem um grupo de tradução e empacotamento muito produtivo.  
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="32" />Debian Brasil.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="28" />Debian Brasil.  
 
 
 
@@ -32,22 +32,22 @@ A comunidade brasileira do Debian é uma das maiores e mais ativas do mundo. Ele
 Focada em disseminar as tecnologias de ponta do ecossistema Fedora/Red Hat. Mantêm um portal central de fóruns e discussões para suporte da distro no país.  
 [Comunidade Fedora Brasil].  
 🔗 fedorabr.org  
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="32" />Comunidade Fedora Brasil.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="28" />Comunidade Fedora Brasil.  
 
 
 
 ## 🇧🇷 LibreOffice Brasil
 
 Essencial para a adoção de FOSS em órgãos públicos e empresas brasileiras. A comunidade é referência em documentação (guias extensos em português) e suporte técnico.  
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="32" />LibreOffice Português.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="28" />LibreOffice Português.  
 
 Também há a **LibreOffice (Document Foundation)**, comunidade focada no desenvolvimento da suíte de escritório livre.  
 
 ## 🇧🇷 BigLinux
 
 O Linux brasileiro! Simples assim.  
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="32" />BIGLINUX.  
-<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="32" />BigBoteco: grupo parecido ao BigLinux, porém nenos sério e mais divertido.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="28" />BIGLINUX.  
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33574247/git-telegram-cidr-list.png" width="28" />BigBoteco: grupo parecido ao BigLinux, porém nenos sério e mais divertido.  
 
 
 
@@ -56,7 +56,7 @@ O Linux brasileiro! Simples assim.
 👉️ Fórum Internacional de Software Livre.  
 
 Evento da ASL (Associação Software Livre), é tradicionalmente o maior ponto de encontro dessas comunidades na América Latina, a rede de ativistas brasileiros.  
-A última edição foi em 2018
+A última edição foi em 2018.
 
 
 ## Outras
