@@ -57,4 +57,15 @@ Integrado ao Ensino Médio.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sebrae.svg/250px-Sebrae.svg.png" width="120" />**Marketing**:  
 Idade mínima 18 anos.  
 
+## Outros
+
+| Instituição | Bairro | Disciplina | Pré-requisito/Idade |
+| :--- | :--- | :--- | :--- |
+| ETEV Visconde de Mauá | Maracanã | Técnico em Informática | Ensino Fundamental completo |
+| IST-Rio | Maracanã | Tecnólogo em TI | Ensino Médio completo |
+| FAETEC Engenho Novo | Engenho Novo | Qualificação Profissional | Geralmente 15 anos ou mais |
+| FAETEC Vila Isabel | Vila Isabel | Qualificação Profissional | Geralmente 15 anos ou mais |
+| FAETEC Mangueira | Mangueira | Qualificação Profissional | Geralmente 15 anos ou mais |
+|CEFET/RJ|Maria da Graça|||
+
 {% include final.html %}
