@@ -36,12 +36,6 @@
     "p": "Que tal escolher a 'cara' do seu computador?."
   },
   {
-    "href": "software-livre-7-comunidades.html",
-    "src": "image/foss.png",
-    "h3": "Software livre: 7 comunidades",
-    "p": "Conheça o suprassumo do trabalho colaborativo em TI, no Brasil e no mundo."
-  },
-  {
     "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
     "h3": "Nano: editor de códigos",
@@ -64,12 +58,6 @@
     "src": "image/rede.png",
     "h3": "Repositório: o que é?",
     "p": "O que é um repositório? Veja agora, inclusive com exemplos!"
-  },
-  {
-    "href": "f-droid-o-que-e.html",
-    "src": "image/foss.png",
-    "h3": "F-droid: o que é?",
-    "p": "Que tal uma loja de aplicativos realmente livre?"
   },
   {
     "href": "nocoes-de-informatica.html",
@@ -120,12 +108,6 @@
     "p": "Entenda o que é, o que faz, e veja exemplos."
   },
   {
-    "href": "android-e-software-livre-7-apps.html",
-    "src": "image/foss.png",
-    "h3": "Android e software livre: 7 aplicativos",
-    "p": "Existe mundo livre no Android! Conheça dezenas de apps criados por grupos de desenvolvedores."
-  },
-  {
     "href": "private.html",
     "src": "image/rede.png",
     "h3": "O que é o GitHub?",
@@ -136,6 +118,24 @@
     "src": "image/foss.png",
     "h3": "Opções ao Google Drive",
     "p": "Conheça outros meios de guardar seus arquivos; até mais eficientes e, de fato, livres."
+  },
+  {
+    "href": "android-e-software-livre-7-apps.html",
+    "src": "image/foss.png",
+    "h3": "Android e software livre: 7 aplicativos",
+    "p": "Existe mundo livre no Android! Conheça dezenas de apps criados por grupos de desenvolvedores."
+  },
+  {
+    "href": "f-droid-o-que-e.html",
+    "src": "image/foss.png",
+    "h3": "F-droid: o que é?",
+    "p": "Que tal uma loja de aplicativos realmente livre?"
+  },
+  {
+    "href": "software-livre-7-comunidades.html",
+    "src": "image/foss.png",
+    "h3": "Software livre: 7 comunidades",
+    "p": "Conheça o suprassumo do trabalho colaborativo em TI, no Brasil e no mundo."
   },
   {
     "href": "memorias-de-computador.html",
