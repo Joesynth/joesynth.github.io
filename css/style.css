@@ -24,8 +24,9 @@ img { margin-right: .5em;}
 
 #menuTop {
     text-align: right;
-    /*margin-bottom: 1em;*/
+    margin-bottom: 0.8em;
 }
+
 
 #bemVindo {
     color: var(--cor-escura);
