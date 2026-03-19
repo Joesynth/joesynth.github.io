@@ -60,6 +60,8 @@ a {
 
 .unicode { font-size: 1.5em;}
 
+#unicodeMaior { font-weight: bold;}
+
 /* Main e Artigos */
 main { display: flex; flex-direction: column; padding: 20px; gap: 20px; font-size: 1.15em; line-height: 1.4em;}
 .art-link { text-decoration: none; color: inherit; }
