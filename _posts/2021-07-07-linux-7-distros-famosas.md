@@ -100,6 +100,9 @@ Pode ser executado diretamente de um CD, DVD, USB.
 
 🇧🇷 **BigLinux**.
 
+🇧🇷 **EBOS**: "basicamente" um Debian personalizado, usado pelo Exército brasileiro.  
+👉️ Após as denúncias de espionagem de Edward Snowden, o Exército acelerou a implementação do sistema em áreas críticas.  
+
 🇫🇷 **Mageia** [2010].  
 32 ou 64 bits.  
 Derivada do Mandriva.  
