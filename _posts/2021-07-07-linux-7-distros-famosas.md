@@ -131,7 +131,7 @@ Compatível com português e vários ambientes gráficos, como o KDE.
 
 > "...a ROSA Desktop também recebeu avaliações favoráveis de várias publicações on-line não russas. O site de tecnologia alemão Golem.de elogiou a ROSA por sua estabilidade e suporte ao hardware, enquanto o LinuxInsider.com chamou a ROSA de "uma verdadeira potência"." [wikipedia]
 
-🎈️ Há distros dedicadas à segurança (como a Kali), bem como software servidor e até firewall ou celular (Ubuntu Touch/UBPorts).  
+🎈️ Há sistemas para [celular](/7-opcoes-de-sistemas-para-celular) ou mesmo dedicadas a [servidor](/software-servidor), segurança (como a Kali), anonimato (Kodachi, Tails), firewall, medicina...  
 
 
 
