@@ -2,8 +2,7 @@
 
 Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo direto ao assunto...
 
-<pre>🤔️ MKT: abreviação de marketing.
-</pre>
+📚️ *MKT*: abreviação de marketing.
 
 - MKT Digital: Principais objetivos
 - Teia e  Método 8ps
@@ -20,7 +19,9 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
  
 Aumentar as vendas.
 Gerar leads.
+
 <pre>🤔️ Lead: potencial cliente que forneceu seus dados de contato.</pre>
+
 Reconhecer a marca.
 Melhorar o ranqueamento em sites de busca.
 Aumentar o engajamento com as publicações.
@@ -55,9 +56,9 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 **Short Head**: O autor deu esse nome "geométrico" para o que os economistas e publicitários chamavam de Mainstream ou Mercado de Massa; ou seja, é o velho Marketing de Massa.
 **Marketing da Cauda Longa** é o uso prático do conceito de Long Tail.
 
-<img src="https://rezised-images.knhbt.cz/1920x1920/70037330.jpg" width="120" /> O livro A Cauda Longa (The Long Tail) está associado a ideia de nicho. Diz a teoria que a internet permite vender menos unidades de uma enorme variedade de produtos de nicho, superando o foco dos 'hits' do mercado de massa. Ou seja, temos a venda de itens pouco procurados, mas que no total geram alto volume de vendas. Focar na diversidade pode não parecer nenhuma novidade, porém aqui o marketing digital e o SEO (palavras-chave) surgem como grandes ferramentas. 
+<img src="https://rezised-images.knhbt.cz/1920x1920/70037330.jpg" width="120" />**A Cauda Longa** *(The Long Tail)*: Livro onde temos essa ideia de nicho. Diz a teoria que a internet permite vender menos unidades de uma enorme variedade de produtos de nicho, superando o foco dos 'hits' do mercado de massa. Ou seja, temos a venda de itens pouco procurados, mas que no total geram alto volume de vendas. Focar na diversidade pode não parecer nenhuma novidade, porém aqui o marketing digital e o SEO (palavras-chave) surgem como grandes ferramentas. 
 
-###### Softwares: Head Tail / Long Tail
+###### Head Tail / Long Tail: Softwares
 
 | Software | Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
 | :--- | :--- | :--- |
@@ -72,7 +73,7 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 | **SEO / Google Ads** | **Head Tail** (Palavra-chave curta) | **Long Tail** (Palavra-chave longa) |
 
 
-###### Exemplos de produto: Head Tail / Long Tail
+###### Head Tail / Long Tail: Exemplos de produto
 
 
 <img src="https://cdn.prod.website-files.com/655cf2bd3b99fedfc8da27d1/655cf2bd3b99fedfc8da2c5a_Marketing%20pol%C3%ADtico.png" width="120" />O **político**: Exemplo clássico do uso de **Marketing de Massa** (Mass Marketing) _uma estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.  
@@ -86,15 +87,17 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 ## MKT digital - estratégias
 
 Alguns casos:
-<pre>**Site**.
-**Blog colaborativo **(membros da empresa criam conteúdo).**
-Native Ads** (anúncios, porém no contexto do site).
-**Busca de Tendências** (Google Trends).
-**SEM** (Search Engine Marketing ou Marketing de Busca).
+
+**Site**.
+**Blog colaborativo**: membros da empresa criam conteúdo.
+**Native Ads**: anúncios, porém no contexto do site.
+**Busca de Tendências**: Google Trends.
+**SEM** (*Search Engine Marketing* ou Marketing de Busca).
    |_ SEO e links patrocinados (Google Ads, por ex.).
 **Redes sociais**.
 **Inbound Marketing** (Marketing de Atração): criação de conteúdo relevante para o público-alvo, criar relação de confiança.
-**Content Marketing** (Marketing de conteúdo).</pre>
+**Content Marketing** (Marketing de conteúdo).
+
 "Publicidade Native Ads anúncios online que se misturam com o conteúdo de um site ou app, sem se destacar como anúncios tradicionais. anunciante fornece conteúdo valioso no contexto da experiência do usuário. É similar à "publirreportagem", que é uma unidade de conteúdo publicitário patrocinado tentando parecer um artigo"
 -https://pt.wikipedia.org/wiki/Publicidade_nativa
 
@@ -119,16 +122,17 @@ Co-marketing.
 ## Termos relacionados ao marketing digital
 
 
-- Marketing para motores de busca
-- Ambiente de Marketing
-- Segmentação do mercado-alvo
-- Criação de valor
-- Mercado e alvo
-- Composto mercadológico
-- Rentabilidade e alocação de recursos
-- Ciclo de Vida de um mercado
-- Ciclo de Vida do produto ou serviço
-- Neuromarketing
+✔ Marketing para motores de busca
+✔ Ambiente de Marketing
+✔ Segmentação do mercado-alvo
+✔ Criação de valor
+✔ Mercado e alvo
+✔ Composto mercadológico
+✔ Rentabilidade e alocação de recursos
+✔ Ciclo de Vida de um mercado
+✔ Ciclo de Vida do produto ou serviço
+✔ Neuromarketing
+
 
 <pre><img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
 - Busca orgânica do Google e [SERP](/), 
@@ -138,10 +142,8 @@ Co-marketing.
 - Fatores utilizados pelo Google para elencar os sites (que podem ser centenas, onde muitos são as 'boas práticas de SEO'), 
 - Arquivos como robots.txt e <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">sitemap.xml</a>, 
 - Ferramentas (como Google Webmasters Tools, <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Google Analytics</a>).</pre>
+
 ⛲ wikipedia/SEBRAE.
-
-
-
 
 
 
@@ -154,13 +156,16 @@ Co-marketing.
 MKT tradicional.
 
 Método antigo com técnicas de venda direta e publicidade para atingir um público amplo.
-<pre>Anúncios em rádio, TV, Outdoor.
-Distribuição de folhetos.
-Telemarketing.
-Cold call.
-Google Ads (banners de anúncio).
-E-mails marketing.
-Pop-ups (promoções em lojas online).</pre>
+
+
+|antigo|recente|
+|:---:|:---:|
+|Anúncios em rádio, TV, Outdoor.<br />Distribuição de folhetos.<br />Telemarketing.<br />|Cold call.<br />Google Ads (banners de anúncio).<br />E-mails marketing.<br />|
+
+
+
+
+
 
 ###### Outbound 2.0
 
@@ -184,19 +189,23 @@ ft:ai
 
 
 Primeiro ele atrai os clientes e depois os engaja. Antigamente vender era o pilar central de qualquer firma. Hoje, mais que vender, tornar clientes promotores da marca/ideia é o céu de uma empresa.
-<pre><img src="https://books.google.com.br/books/content?id=VKwD8lKzeEoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;imgtk=AFLRE711rbCdGey-LcPwIse06gF7_UH9aEsyiRPlWSRSMVpVNV4F9Nb87nEHYv07vX-4eADBGVAvV4KAl2DeHlwJVoTbZsF_Lu-vf5UaJvTBciIWzPdWUdFsJ_nXbX9ysCeCYZaq9GHd" width="80" />📜️ **Um pouco de história**.
-Em 2006 surgiu o *inbound marketing* nos EUA com Brian Halligan e Dharmesh Shah. Eles também fundaram a HubSpot, uma empresa de automação de marketing e vendas. Em 2009 o termo 'inbound' ganhou força com o livro ***Inbound Marketing: seja encontrado usando o Google, a mídia social e os blogs*** (foto).
-</pre>
+
+<img src="https://books.google.com.br/books/content?id=VKwD8lKzeEoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;imgtk=AFLRE711rbCdGey-LcPwIse06gF7_UH9aEsyiRPlWSRSMVpVNV4F9Nb87nEHYv07vX-4eADBGVAvV4KAl2DeHlwJVoTbZsF_Lu-vf5UaJvTBciIWzPdWUdFsJ_nXbX9ysCeCYZaq9GHd" width="80" />📜️ **Um pouco de história**: Em 2006 surgiu o *🇺🇸 inbound marketing* com Brian Halligan e Dharmesh Shah. Eles também fundaram a HubSpot, uma empresa de automação de marketing e vendas. Em 2009 o termo 'inbound' ganhou força com o livro ***Inbound Marketing: seja encontrado usando o Google, a mídia social e os blogs*** (foto).
+
+
 
 ###### Atrair, converter e encantar
 
 O *inbound* tem um conjunto de estratégias usadas para atrair e conquistar clientes no meio digital. Esse é o foco. Além da atração usa-se o desejo, criar necessidade _daí *marketing* de atração.
 
 Conteúdo é o truque, que no geral é usado para chamar a atenção das pessoas para o produto/ serviço/ marca/ ideia.  Quando um cliente procura por um produto e se vê diante do *SeuConteúdo* tem aí a apresentação do *SeuProduto* / serviço / marca/ ideia.
-<pre>O conteúdo em si pode...
-- explicar uma questão;
-- tirar uma dúvida;
-- solucionar algo.</pre>
+
+O conteúdo em si pode...
+
+✔ explicar uma questão
+✔ tirar uma dúvida
+✔ solucionar algo
+
 
 ###### Inbound: a mensagem
 
@@ -261,20 +270,25 @@ Segue a metodologia do *Inbound* (a jornada do comprador e o funil de vendas) e 
 
 
 Por que?
+
 <pre>- **Leads**: leads gerados por conteúdo são 8 vezes mais propensos a fechar negócios.
 - **Visibilidade e autoridade**: consumidores procuram seu produto/serviço em ferramentas de busca (Google em suma). A boa estratégia de conteúdo lhe possibilita aparecer nos resultados e receber atenção e reputação *online*.</pre>
+
 ⛲ SEBRAE.
 
 ###### Inbound - ferramentas e benefícios
 
 Para atrair clientes por meio de canais on-line utiliza-se ferramentas como...
+
 <pre>marketing de conteúdo | <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a> | estratégias em redes sociais</pre>
+
 Benefícios do *inbound* MKT? Destaca-se:
 
 > Possibilitar um alcance e uma visibilidade maior.
 
 
 Outros são:
+
 <pre>- **Encontrar o público certo**: uma das técnicas é definir a persona para produzir conteúdo de qualidade e direcionado.
 - **Aproximação com os clientes**: pessoas chegam até você por meio de conteúdo relevante sobre o seu produto/ serviço/ ideia.
 - **Maior poder de persuasão**: inbound MKT é baseado em informações relevantes e com credibilidade. É um processo de longo prazo onde se constrói um relação com o cliente, daí um maior poder de persuasão. O consumidor recebe exatamente o conteúdo que precisa em cada momento, o que faz com que ele vá se convencendo.
@@ -285,6 +299,7 @@ Outros são:
    - Clientes sentem-se confiantes para fechar negócio.
    - Educação é via conteúdo relevante, útil.
 - **Ticket médio maior**: devido à educação há resultados melhores em relação aos leads que não passam por esse processo de educação.</pre>
+
 
 ###### 
 
@@ -298,7 +313,9 @@ Outros são:
 No Inbound Marketing esta transformação é um dos seus principais objetivos.
 
 **Landing page**: páginas de conversão: visa converter visitantes em *leads* ou clientes. [vide 'geração de leads' e 'landing page' na wiki].
+
 <pre>Landing page: formulário que o visitante põe os dados dele e em troca é oderecido (pelo SeuSite) algo (um e-book, uma oferta...). Agora ele passa a ser um lead, isto é, ele te deu a permissão para você entrar em contato com ele ou enviar detalhes do seu produto/ serviço/ ideia.</pre>
+
 
 ###### Inbound: funil de vendas
 
@@ -308,9 +325,13 @@ Temos 4 etapas: aprendizado e descoberta, reconhecimento do problema ou necessid
 
 .**1ª - Descobrimento** (topo do funil): Momento da descoberta e aprendizado sobre o produto/ serviço/ ideia. Nessa etapa o potencial cliente ainda não conhece o seu negócio. Você precisa implantar ações de consideração, como anúncios em redes sociais ou patrocínio em eventos locais. A fala precisa estar focada nas necessidades resolvidas pelo seu produto/ serviço/ ideia.
 **2ª - Consideração** (meio do funil): Potencial cliente começa a ter consciência de uma necessidade, reconhece que tem um problema, tende a pensar na solução. Aqui, a dica é direcionar o seu potencial cliente para o seu site, rede social ou uma *landing page*.
+
 <pre>Outras dicas para esta etapa: utilizar estratégias de *marketing* de conteúdo (falar mais sobre o tema e a solução que seu produto traz), usar e-mail marketing ou SMS automatizado.</pre>
+
 **3ª - Decisão** (fundo do funil):  Etapa em que espera-se que o cliente compre o produto/ serviço/ ideia. Foi preciso atraí-lo, conquistá-lo, apresentar argumentos, mostrar que ele tinha uma necessidade e que você tem uma solução. Agora é o momento da conversão de vendas.
+
 <pre>Pode-se utilizar estímulos para que ele feche a compra (gatilhos mentais, cupons de descontos, frete grátis ou diferentes formas de pagamento.</pre>
+
 O funil de vendas chega ao final quando os potenciais clientes fecham o negócio e se transformam em clientes. Perceba que você vai levando, direcionando seu potencial cliente com estratégias de *marketing* digital. Cada etapa pede uma ação específica.
 
 ⛲ SEBRAE.
@@ -328,12 +349,14 @@ Demais etapas seguem e além da venda; pensando em satisfação, qualidade e eng
 
 ###### Inbound - estratégias - resumo
 
-<pre>- **Produção de conteúdo**: criar conteúdo relevante e de qualidade (vídeos, e-books, infográficos e webinars.
-- **Otimização da taxa de conversão**: uso de técnicas de CRO (Conversion Rate Optimization) melhorando a taxa de conversão em *leads*.
-- **Nutrição de leads**: Manter um relacionamento com os potenciais clientes (ajudar a resolver problemas e identificar oportunidades)
-- **Landing pages**: em troca de dados dos visitantes oferecer conteúdos de valor (ebooks, planilhas, webinars, quizzes interativos... Capturar leads de maneira engajante.
-- **Ferramentas de integração com CRM**: Armazenar e analisar os dados de forma eficiente
-- **Ferramentas como Google Trends**: Entender as tendências e necessidades do mercado.</pre>
+
+**Produção de conteúdo**: criar conteúdo relevante e de qualidade (vídeos, e-books, infográficos e webinars.
+**Otimização da taxa de conversão**: uso de técnicas de CRO (Conversion Rate Optimization) melhorando a taxa de conversão em *leads*.
+**Nutrição de leads**: Manter um relacionamento com os potenciais clientes (ajudar a resolver problemas e identificar oportunidades)
+**Landing pages**: em troca de dados dos visitantes oferecer conteúdos de valor (ebooks, planilhas, webinars, quizzes interativos... Capturar leads de maneira engajante.
+**Ferramentas de integração com CRM**: Armazenar e analisar os dados de forma eficiente
+**Ferramentas como Google Trends**: Entender as tendências e necessidades do mercado.
+
 .
 
 
