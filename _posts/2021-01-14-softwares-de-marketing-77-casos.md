@@ -25,6 +25,8 @@ Conheça programas que podem ser considerados vitais para sua marca.
 <li>Scheduler</li>
 </ul>
 
+
+
 <pre>💻 Plataforma<br />📜 Licença<br />🎈 Software livre<br />🔒️ Software proprietário</pre>
 
 ## E-mail marketing
@@ -68,8 +70,11 @@ Conheça programas que podem ser considerados vitais para sua marca.
 
 ## 🔎️ SEO
 
-<p>Melhora o posicionamento natural no Google, isto é, marca aparece nas pesquisas do Google sem ser propaganda paga. Tráfego orgânico, otimização.</p>
-<p>Abaixo, juntamos exemplos de SEO e de MKT de conteúdo.<br />● Ghost — plataforma de <em>blogs</em> e <em>newsletters</em> otimizada para SEO.<br />● Plume — plataforma federada de publicação (ActivityPub).<br />● Hugo — gerador de sites estáticos otimizados para SEO.</p>
+*SuaMarca* aparece nas pesquisas do Google, mas sem ser propaganda paga. Ou seja, *SuaEmpresa* surge de forma natural, orgânica.
+É um tema vasto. Vide:  
+👉️ [SEO On Page](/seo-on-page).  
+👉️ [Software SEO](/software-seo).  
+
 
 
 ## 👨‍👩‍👦‍👦️ Marketing de mídia social
