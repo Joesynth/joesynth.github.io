@@ -1,5 +1,8 @@
 # SEO On Page: o que é exatamente?
 
+O SEO melhora o posicionamento natural no Google, isto é, marca aparece nas pesquisas do Google sem ser propaganda paga. Tráfego orgânico, otimização. SEO On Page faz parte disso e é o que falamos aqui.
+
+
 Tutorial:  
 
 <ul>
