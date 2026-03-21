@@ -296,6 +296,16 @@ title=""
 <p>Privilegie a passagem de link juice através de links com as principais palavras-chave em seu texto, pois isso ajudará no processo de otimização de sites.</p>
 
 
+
+## Bônus
+
+Abaixo, juntamos exemplos de SEO e de MKT de conteúdo.
+● Ghost — plataforma de blogs e newsletters otimizada para SEO.
+● Plume — plataforma federada de publicação (ActivityPub).
+● Hugo — gerador de sites estáticos otimizados para SEO.
+
+
+
 É isso!  
 Grande abraço.  
 \o_  
