@@ -17,24 +17,25 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 ## MKT Digital: Principais objetivos
  
-Aumentar as vendas.
-Gerar leads.
+✔ Aumentar as vendas.
+✔ Gerar *leads*.
 
-<pre>🤔️ Lead: potencial cliente que forneceu seus dados de contato.</pre>
+📚️ *Lead*: potencial cliente que forneceu seus dados de contato.
 
-Reconhecer a marca.
-Melhorar o ranqueamento em sites de busca.
-Aumentar o engajamento com as publicações.
-Gerar visitas ao site.
-Aumentar o número de seguidores da marca.
-Gerar visualizações para vídeos.
+✔ Reconhecer a marca.
+✔ Melhorar o ranqueamento em sites de busca.
+✔ Aumentar o engajamento com as publicações.
+✔ Gerar visitas ao site.
+✔ Aumentar o número de seguidores da marca.
+✔ Gerar visualizações para vídeos.
 
 ## Teia e  Método 8ps
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamO4HdRcHpWAm_2x7fCw7j9EAZE1CNffGFKtClS_kdvDi2WpNSXPMMCyGQDH-RzavzpE&amp;usqp=CAU" width="310" height="222" />
 
-"A teia, além de ilustrar bem o conceito de *marketing digital*, também mostra outro conceito fundamental: a necessidade de coordenação e interação entre as ações estratégicas."
-Note que no centro nós temos o 'monitoramento' e nas pontas *mailing*, conteúdo, mídias sociais etc.
+> "A teia, além de ilustrar bem o conceito de *marketing digital*, também mostra outro conceito fundamental: a necessidade de coordenação e interação entre as ações estratégicas."
+
+Note que no centro nós temos o **monitoramento** e nas pontas *mailing*, conteúdo, mídias sociais etc.
 
 .
 
@@ -68,20 +69,27 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 | **E-commerce** | Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
 
 
-| Contexto de Uso | Termo para o "Topo" (Massa) | Termo para o "Nicho" (Específico) |
+| Contexto de Uso | Termo para o "Topo"*<br />(Massa) | Termo para o "Nicho"*<br />(Específico) |
 | :--- | :--- | :--- |
-| **SEO / Google Ads** | **Head Tail** (Palavra-chave curta) | **Long Tail** (Palavra-chave longa) |
+| **SEO / Google Ads** | **Head Tail**<br />palavra-chave curta | **Long Tail***<br />palavra-chave longa |
 
 
 ###### Head Tail / Long Tail: Exemplos de produto
 
+📚️ *Mass Marketing*: Marketing de Massa. Estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos. 
 
-<img src="https://cdn.prod.website-files.com/655cf2bd3b99fedfc8da27d1/655cf2bd3b99fedfc8da2c5a_Marketing%20pol%C3%ADtico.png" width="120" />O **político**: Exemplo clássico do uso de **Marketing de Massa** (Mass Marketing) _uma estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.  
+<img src="https://cdn.prod.website-files.com/655cf2bd3b99fedfc8da27d1/655cf2bd3b99fedfc8da2c5a_Marketing%20pol%C3%ADtico.png" width="120" />**O político**: Exemplo clássico do uso de **Marketing de Massa**.
 
-<img src="https://f.i.uol.com.br/fotografia/2021/06/25/162465761160d64ecb0596c_1624657611_3x2_md.jpg" width="120" />**Lula e Bolsonaro**: A princípio Short Head, pelo volume massivo, mas opera-se na lógica de nicho algoritmo. Cada um tem sua 'palavra-chave', por ex, meio-ambiente ou armas. Na verdade, várias para cada um deles.  
+<img src="https://f.i.uol.com.br/fotografia/2021/06/25/162465761160d64ecb0596c_1624657611_3x2_md.jpg" width="120" />**Lula e Bolsonaro**: A princípio Short Head, pelo volume massivo, mas opera-se na lógica de nicho algoritmo. Cada um tem sua 'palavra-chave', por exemplo:
 
-🤔️ Antigamente um político poderia evitar falar coisas feias (para não perder votos), mas hoje, fala para o nicho (cliente). 
-🤔️ O cliente quanto mais interage mais alimenta o ciclo. 
+|Lula|Bolsonaro|
+|:---:|:---:|
+|meio-ambiente|armas|
+
+Na verdade, cada um desses produtos (de ideias) usam várias palavras-chaves.  
+
+🤔️ Antigamente um político poderia evitar falar coisas feias (para não perder votos). Mas hoje, fala-se para o nicho (cliente). 
+🤔️ O cliente quanto mais interage (digitalmente) mais alimenta o ciclo. 
 
 
 ## MKT digital - estratégias
@@ -134,14 +142,14 @@ Co-marketing.
 ✔ Neuromarketing
 
 
-<pre><img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
-- Busca orgânica do Google e [SERP](/), 
-- Fan Page (Facebook),
-- <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Ferramentas de anúncio</a> para sua estratégia digital, 
-- Geração de conteúdo (que permite a aproximação dos clientes através de meios gratuitos), 
-- Fatores utilizados pelo Google para elencar os sites (que podem ser centenas, onde muitos são as 'boas práticas de SEO'), 
-- Arquivos como robots.txt e <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">sitemap.xml</a>, 
-- Ferramentas (como Google Webmasters Tools, <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Google Analytics</a>).</pre>
+<img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
+● Busca orgânica do Google e SERP, 
+● Fan Page (Facebook),
+● <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Ferramentas de anúncio</a> para sua estratégia digital, 
+● Geração de conteúdo (que permite a aproximação dos clientes através de meios gratuitos), 
+● Fatores utilizados pelo Google para elencar os sites (que podem ser centenas, onde muitos são as 'boas práticas de SEO'), 
+● Arquivos como robots.txt e <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">sitemap.xml</a>, 
+● Ferramentas (como Google Webmasters Tools, <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Google Analytics</a>).
 
 ⛲ wikipedia/SEBRAE.
 
@@ -190,7 +198,9 @@ ft:ai
 
 Primeiro ele atrai os clientes e depois os engaja. Antigamente vender era o pilar central de qualquer firma. Hoje, mais que vender, tornar clientes promotores da marca/ideia é o céu de uma empresa.
 
-<img src="https://books.google.com.br/books/content?id=VKwD8lKzeEoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;imgtk=AFLRE711rbCdGey-LcPwIse06gF7_UH9aEsyiRPlWSRSMVpVNV4F9Nb87nEHYv07vX-4eADBGVAvV4KAl2DeHlwJVoTbZsF_Lu-vf5UaJvTBciIWzPdWUdFsJ_nXbX9ysCeCYZaq9GHd" width="80" />📜️ **Um pouco de história**: Em 2006 surgiu o *🇺🇸 inbound marketing* com Brian Halligan e Dharmesh Shah. Eles também fundaram a HubSpot, uma empresa de automação de marketing e vendas. Em 2009 o termo 'inbound' ganhou força com o livro ***Inbound Marketing: seja encontrado usando o Google, a mídia social e os blogs*** (foto).
+<img src="https://books.google.com.br/books/content?id=VKwD8lKzeEoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;imgtk=AFLRE711rbCdGey-LcPwIse06gF7_UH9aEsyiRPlWSRSMVpVNV4F9Nb87nEHYv07vX-4eADBGVAvV4KAl2DeHlwJVoTbZsF_Lu-vf5UaJvTBciIWzPdWUdFsJ_nXbX9ysCeCYZaq9GHd" width="80" />📜️ **Um pouco de história**:
+● 2006: Surgiu o *🇺🇸 inbound marketing* com Brian Halligan e Dharmesh Shah. Eles também fundaram a HubSpot, uma empresa de automação de marketing e vendas.
+● 2009: Termo 'inbound' ganhou força com o livro ***Inbound Marketing: seja encontrado usando o Google, a mídia social e os blogs*** (foto).
 
 
 
@@ -211,7 +221,11 @@ O conteúdo em si pode...
 
 <img src="https://cdn.statically.io/img/marketingconteudo.com/wp-content/uploads/2016/09/Inbound-vs-Outbound-1.jpg?quality=70&amp;f=auto" width="309" height="161" />
 
-Como dito, no inbound '*o cliente é quem procura pelo produto'*. Ou seja, é uma estratégia onde os clientes vêm  até a sua empresa atraídos pela sua mensagem.
+Como dito...
+
+> no inbound "o cliente é quem procura pelo produto"
+
+Ou seja, é uma estratégia onde os clientes vêm  até a sua empresa atraídos pela sua mensagem.
 
 Bom, mas onde está essa mensagem? No conteúdo que a empresa publica _canais como blogs, redes sociais e o site (que equivale a sede de SuaEmpresa).
 
