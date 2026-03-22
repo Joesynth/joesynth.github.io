@@ -421,9 +421,11 @@ Mais pontos a pensar?
 
 Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses três pontos:
 
-✔ Nível 1 (redes e marketplaces). Criar essas páginas é custo zero nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.
-✔ Nível 2 (Site Institucional). Baixo ou pouco investimento dependendo dos recursos do site. Se há *blog* integrado ao site deve-se manter constante o conteúdo.
-✔ Nível 3 (*E-commerce*). Sua empresa está pronta para arcar com os maiores custos e todo operacional que uma loja virtual exige?
+|||
+|:---|:---|
+|Nível 1<br />(redes e marketplaces)|Criar essas páginas é custo zero nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.|
+|Nível 2<br />(Site Institucional)|Baixo ou pouco investimento dependendo dos recursos do site. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
+|Nível 3<br />(*E-commerce*)|Sua empresa está pronta para arcar com os maiores custos e todo operacional que uma loja virtual exige?|
 
 
 ###### Dicas
