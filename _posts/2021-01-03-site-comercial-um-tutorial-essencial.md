@@ -191,8 +191,11 @@ Tem-se variáveis a se pensar.
 
 Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo <a href="https://joesynth.wordpress.com/rede-de-computadores/">cliente / servidor</a>, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
 
-> No mundo digital o dono da informação é o dono do HD.
-[Joe S]
+> No mundo digital o dono da informação é o dono do HD. [Joe S]
+
+🤔️ Há a Lei Geral de Proteção de Dados Pessoais (LGPD), mas na prática é como dito acima.
+
+
 
 Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
 
@@ -210,8 +213,8 @@ Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*,
 Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
 
 Quando se tem site próprio então...
-- A gestão de informações e vendas é mais organizada.
-- Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.
+✔ A gestão de informações e vendas é mais organizada.
+✔ Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.
 
 ###### Web: site no ar
 
@@ -244,8 +247,8 @@ Não. Eles ajudam *SuaEmpresa* estar mais presente na Web. Isso porque *SuaMarca
 ⚠️ Para ter negócios fechados o melhor lugar virtual é o SeuSite. Então é decisivo que os clientes o acessem.
 
 🤔️ *Comunicação ou *marketing**.
-- Criar um ambiente atraente.
-- Melhorar o engajamento com o público.
+✔ Criar um ambiente atraente.
+✔ Melhorar o engajamento com o público.
 
 
 
@@ -409,20 +412,20 @@ Mais pontos a pensar?
 *Mão de obra qualificada*: Se há *blog* integrado ao *SeuSite* um <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">blogueiro</a> será preciso, se é uma loja virtual (*e-commerce*) haverá banco de dados e o profissional de entrada de dados se faz vital. Isso são dois casos e empresas grandes tem até um departamento de TI.
 *Implementações futuras*: Como se sabe um site é um soft. Nem tudo dito aqui pode estar contemplado quando você cria o *SeuSite* _ex.: integração com alguma ferramenta da Google (idem mídia social ou *marketing*), aceitar pagamentos de clientes em todo o mundo, ter produtos/serviços ilimitados, espaço de armazenamento em HD maior, etc. O *SeuSite* sendo modulável, essas e outras implementações são mais "armas" que lhe darão ainda mais "poder de fogo" na concorrência da Web. Embora haja custos, são aprimoramentos (isto é, você começa com *SeuSite* inicial e vai melhorando "conforme o jogo" e as experiências adquiridas). Um site inicial mais simples significa menos investimento e risco, sem contar que ainda ganhamos tempo para irmos "aprendendo a jogar durante o jogo".
 
-*Site institucional*
+**💰️ Investimento**:
 
-💰️ *Investimento*: U$10,0o mês (manutenção), U$250, oo a U$2500,oo (produção).
+|Site institucional|E-commerce|
+|:---:|:---:|
+|**produção**<br />U$250 a U$2500|**produção**<br />pode ficar acima de U$2500,00|
+|**manutenção**<br />U$10,00 mês|**manutenção**<br />U$50,00 mês ou bem mais|
 
-*E-commerce*
-
-💰️ *Investimento*: U$50,00 mês, mas pode ir bem além. Produção pode ficar acima de U$2500,00.
 
 ###### SuaEmpresa realmente precisa ir para Web?
 
 Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses três pontos:
 
 |||
-|:---|:---|
+|:---:|:---|
 |Nível 1<br />(redes e marketplaces)|Criar essas páginas é custo zero nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.|
 |Nível 2<br />(Site Institucional)|Baixo ou pouco investimento dependendo dos recursos do site. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
 |Nível 3<br />(*E-commerce*)|Sua empresa está pronta para arcar com os maiores custos e todo operacional que uma loja virtual exige?|
