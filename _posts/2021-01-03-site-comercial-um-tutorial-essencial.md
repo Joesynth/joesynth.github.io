@@ -436,20 +436,22 @@ Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses t
 Baseado em experiências próprias sugerimos:
 
 *Nome do site*: pela ótica de <a href="https://joesynth.wordpress.com/2021/12/12/marketing-digital/">marketing digital</a> esta associado a estratégia.
-✔️ Nome vago (ex. dulyn.com): pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida o logo, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. A Nike ou a Honda podemos dizer que são nomes vagos, porém já existe sentido para esses nomes e asssociamos com tênis, moto, carro....
-✖️ Nomes muito específicos é a ideia oposta a de cima _ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*.
-✖️ Nome com números _ex.: *pipas346.co*m
-✔️ Preferência para nome que possa virar marca: fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma.
-✔️ Mobile friendly: nome fácil de digitar no celular.
-✖️ Domínio parecer com o de uma grande empresa. Ex. CocaTola.com.
-✔️ Exensão adequada: .net (geralmente sites de TI), ong etc.
 
-*Autoridade* (na internet): vá além do site institucional. Agregue o que for possível para torná-lo um meio de comunicação diferenciado. Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados.
-✔️ Blog, rádio, podcasts, vídeos, slides.
 
-*Mix de produtos*: é indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses artigos serão vitais para compôr o conteúdo de SeuSite.
+**Nome vago**: dulyn.com ✔️ Pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida o logo, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. A Nike ou a Honda podemos dizer que são nomes vagos, porém já existe sentido para esses nomes e asssociamos com tênis, moto, carro....
+**Nome muito específico** *carrosTony.com*, *tenisRike.com* ✖️ Ideia oposta a de cima, logo, segmenta num único produto (caso queira ampliar no futuro, então, têm-se um problema). 
+**Nome com números**: *pipas346.com* ✖️  
+**Mobile friendly**: ✔️ nome fácil de digitar no celular.
+**Domínio parecer com grande empresa**: CocaTola.com ✖️ 
+**Exensão adequada**: ✔️ .net (geralmente sites de TI), ong etc.
+**Preferência para nome que possa virar marca**: ✔️ fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma.
 
-Para finalizar tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos, e se não nos mantivermos atualizados... nossos concorrentes "agradecem".
+👉️ **Autoridade** (na internet): vá além do site institucional. Agregue o que for possível para torná-lo um meio de comunicação diferenciado. Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados.
+✔ blog ✔ rádio ✔ podcasts ✔ vídeos ✔ slides.
+
+👉️ **Mix de produtos**: é indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses artigos serão vitais para compôr o conteúdo do SeuSite.
+
+🤔️ Tenha em mente que o mundo muda rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados, nossos concorrentes podem "agradecer" por isso.
 
 *Marketing*:
 
