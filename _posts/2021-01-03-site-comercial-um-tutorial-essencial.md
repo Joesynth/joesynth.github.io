@@ -15,6 +15,7 @@ Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; e
 - Como escolher entre um e outro.
 - Site ou rede social: o que é melhor?
 
+
 Isso, além doutros temas. Portanto vamos lá!?
 
 
@@ -315,78 +316,9 @@ Imaginemos uma loja on-line vendendo 24h por dia e em todo país.
 
 
 
-
-
 ## 🌐️ Site vs Rede Social
 
-Qual escolher?
-Site e rede social são coisas diferentes, ferramentas diferentes _e um canal não substitui o outro.
-
-Noutra comparação, a rede social é um mercado de rua (onde vários concorrentes ficam tentando chamar atenção dos clientes) e o site é visto como *SuaLoja*. Agora, imagine um possível cliente que participa de um evento da *SuaMarca* e entra para os seus contatos, da sua empresa.  Onde gostaria de encontrá-lo pra fechar uma venda? No mercado de rua ou na sua própria loja?
-
-###### Site ou rede social: um resumo!
-
-Atuar em redes sociais é bom, e site também. Há diferenças entre os dois, veja:
-<table>
-<tbody>
-<tr>
-<td></td>
-<td style="text-align: center">Site</td>
-<td style="text-align: center">Rede Social</td>
-</tr>
-<tr>
-<td>Comparação</td>
-<td>✔️ Equivale a uma a loja em si (tal como a matriz que tem suporte aos clientes, logistica, etc).</td>
-<td>Podemos imaginar uma rede social como uma vitrine de *SuaLoja* (a qual expõe produtos).</td>
-</tr>
-<tr>
-<td>Propriedade</td>
-<td>✔️ Você é o dono do SeuSite. Ou seja, o site é mais estável, sendo um espaço da *SuaMarca*.
-*SeuSite* pode nunca sair do ar!</td>
-<td>❌️ Não somos donos. Uma rede em si não é nossa _e sim de mega empresas (Google, Meta etc). Estas corporações nos dão a permissão de termos um perfil (ou página) na rede deles.</td>
-</tr>
-<tr>
-<td>Segurança</td>
-<td>✔️ Mesmo que SeuSite seja invadido, e haja danos, conta-se com *backups*.</td>
-<td>❌️ Redes sociais saem de moda, ex.: Orkut, MySpace.</td>
-</tr>
-<tr>
-<td>Legitimidade</td>
-<td>✔️ *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica).</td>
-<td>❌️ No Facebook, por ex., qualquer pessoa pode criar uma página (o que não garante a legitimidade da *SuaMarca*).</td>
-</tr>
-<tr>
-<td>Autoridade</td>
-<td>✔️ É capaz de construir uma autoridade *online* mais forte (que a rede social).</td>
-<td>✔️ É indicada no fortalecimento da marca (junto ao seu site).</td>
-</tr>
-<tr>
-<td>Tempo</td>
-<td>✔️ Funciona melhor para conteúdos atemporais (ex.: informações de sua empresa).</td>
-<td>✔️ Páginas são pensadas basicamente para promoção de conteúdos e ideias do momento.
-É preciso um trabalho constante de conteúdo a se fazer.</td>
-</tr>
-<tr>
-<td>Pessoas/
-interação</td>
-<td>Pessoas (contatos, clientes em potencial): devemos fazer com que cheguem aqui, no nosso site.</td>
-<td>Pessoas estão presentes nas redes sociais.
-É preciso interagir com as pessoas.</td>
-</tr>
-<tr>
-<td>Blog</td>
-<td>No *SeuSite* o usuário lê o artigo e se informa; o que cria identidade entre você e ele.</td>
-<td>É útil para divulgarmos artigos do *SeuSite*.</td>
-</tr>
-</tbody>
-</table>
-.
-
-
-
-
-
-
+Vide [Site vs Rede Social](/site-vs-rede-social).
 
 
 ## Site Institucional ou E-commerce: qual escolher?
