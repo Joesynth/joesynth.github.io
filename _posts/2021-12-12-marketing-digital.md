@@ -145,11 +145,11 @@ Co-marketing.
 <img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
 ● Busca orgânica do Google e SERP, 
 ● Fan Page (Facebook),
-● <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Ferramentas de anúncio</a> para sua estratégia digital, 
+● Ferramentas de anúncio para sua estratégia digital, 
 ● Geração de conteúdo (que permite a aproximação dos clientes através de meios gratuitos), 
 ● Fatores utilizados pelo Google para elencar os sites (que podem ser centenas, onde muitos são as 'boas práticas de SEO'), 
-● Arquivos como robots.txt e <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">sitemap.xml</a>, 
-● Ferramentas (como Google Webmasters Tools, <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">Google Analytics</a>).
+● Arquivos como robots.txt e sitemap.xml, 
+● Ferramentas (como Google Webmasters Tools, Google Analytics).
 
 ⛲ wikipedia/SEBRAE.
 
@@ -229,9 +229,9 @@ Ou seja, é uma estratégia onde os clientes vêm  até a sua empresa atraídos
 
 Bom, mas onde está essa mensagem? No conteúdo que a empresa publica _canais como blogs, redes sociais e o site (que equivale a sede de SuaEmpresa).
 
-###### Inbound MKT, Content MKT, **Outbound MKT: diferenças**
+###### Inbound MKT vs content MKT
 
-**Inbound MKT vs content MKT**: Como dito, inbound usa conteúdo; mas não é a mesma coisa que MKT de conteúdo.
+Como dito, inbound usa conteúdo; mas não é a mesma coisa que MKT de conteúdo.
 
 Ambos são estratégias e somados dão um resultado melhor do que o esperado.
 
@@ -259,7 +259,9 @@ Por ex.:
 
 
 
-**Inbound MKT vs Outbound MKT**: Um é oposto outro.
+###### Inbound MKT vs Outbound MKT
+
+Um é oposto outro.
 
 
 | **inbound mkt** | **outbound mkt** |
@@ -285,8 +287,8 @@ Segue a metodologia do *Inbound* (a jornada do comprador e o funil de vendas) e 
 
 Por que?
 
-<pre>- **Leads**: leads gerados por conteúdo são 8 vezes mais propensos a fechar negócios.
-- **Visibilidade e autoridade**: consumidores procuram seu produto/serviço em ferramentas de busca (Google em suma). A boa estratégia de conteúdo lhe possibilita aparecer nos resultados e receber atenção e reputação *online*.</pre>
+**Leads**: leads gerados por conteúdo são 8 vezes mais propensos a fechar negócios.
+**Visibilidade e autoridade**: consumidores procuram seu produto/serviço em ferramentas de busca (Google em suma). A boa estratégia de conteúdo lhe possibilita aparecer nos resultados e receber atenção e reputação *online*.
 
 ⛲ SEBRAE.
 
@@ -294,7 +296,7 @@ Por que?
 
 Para atrair clientes por meio de canais on-line utiliza-se ferramentas como...
 
-<pre>marketing de conteúdo | <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a> | estratégias em redes sociais</pre>
+✔ marketing de conteúdo ✔ SEO ✔ estratégias em redes sociais
 
 Benefícios do *inbound* MKT? Destaca-se:
 
@@ -303,19 +305,16 @@ Benefícios do *inbound* MKT? Destaca-se:
 
 Outros são:
 
-<pre>- **Encontrar o público certo**: uma das técnicas é definir a persona para produzir conteúdo de qualidade e direcionado.
-- **Aproximação com os clientes**: pessoas chegam até você por meio de conteúdo relevante sobre o seu produto/ serviço/ ideia.
-- **Maior poder de persuasão**: inbound MKT é baseado em informações relevantes e com credibilidade. É um processo de longo prazo onde se constrói um relação com o cliente, daí um maior poder de persuasão. O consumidor recebe exatamente o conteúdo que precisa em cada momento, o que faz com que ele vá se convencendo.
-- **Mensuração de resultados em tempo real**: pode-se verificar métricas, relatórios e redirecionar estratégias ao longo do processo.
-- **Educação do cliente**: 
-   - Leads passam por um processo de educação.
-   - Há relacionamento constante com o cliente.
-   - Clientes sentem-se confiantes para fechar negócio.
-   - Educação é via conteúdo relevante, útil.
-- **Ticket médio maior**: devido à educação há resultados melhores em relação aos leads que não passam por esse processo de educação.</pre>
-
-
-###### 
+**Encontrar o público certo**: uma das técnicas é definir a persona para produzir conteúdo de qualidade e direcionado.
+**Aproximação com os clientes**: pessoas chegam até você por meio de conteúdo relevante sobre o seu produto/ serviço/ ideia.
+**Maior poder de persuasão**: inbound MKT é baseado em informações relevantes e com credibilidade. É um processo de longo prazo onde se constrói um relação com o cliente, daí um maior poder de persuasão. O consumidor recebe exatamente o conteúdo que precisa em cada momento, o que faz com que ele vá se convencendo.
+**Mensuração de resultados em tempo real**: pode-se verificar métricas, relatórios e redirecionar estratégias ao longo do processo.
+**"Educação" do cliente**: 
+● Leads passam por um processo de "educação".
+● Há relacionamento constante com o cliente.
+● Clientes sentem-se confiantes para fechar negócio.
+● Educação é via conteúdo relevante, útil.
+**Ticket médio maior**: devido à "educação" há resultados melhores em relação aos *leads* que não passam por esse processo de educação.
 
 
 ###### Inbound: o estranho, o visitante, o lead e o cliente
@@ -328,7 +327,7 @@ No Inbound Marketing esta transformação é um dos seus principais objetivos.
 
 **Landing page**: páginas de conversão: visa converter visitantes em *leads* ou clientes. [vide 'geração de leads' e 'landing page' na wiki].
 
-<pre>Landing page: formulário que o visitante põe os dados dele e em troca é oderecido (pelo SeuSite) algo (um e-book, uma oferta...). Agora ele passa a ser um lead, isto é, ele te deu a permissão para você entrar em contato com ele ou enviar detalhes do seu produto/ serviço/ ideia.</pre>
+📚️ Landing page: formulário que o visitante põe os dados dele e em troca é oferecido (pelo SeuSite) algo (um e-book, uma oferta...). Agora ele passa a ser um lead, isto é, ele te deu a permissão para você entrar em contato com ele ou enviar detalhes do seu produto/ serviço/ ideia.
 
 
 ###### Inbound: funil de vendas
@@ -340,11 +339,11 @@ Temos 4 etapas: aprendizado e descoberta, reconhecimento do problema ou necessid
 .**1ª - Descobrimento** (topo do funil): Momento da descoberta e aprendizado sobre o produto/ serviço/ ideia. Nessa etapa o potencial cliente ainda não conhece o seu negócio. Você precisa implantar ações de consideração, como anúncios em redes sociais ou patrocínio em eventos locais. A fala precisa estar focada nas necessidades resolvidas pelo seu produto/ serviço/ ideia.
 **2ª - Consideração** (meio do funil): Potencial cliente começa a ter consciência de uma necessidade, reconhece que tem um problema, tende a pensar na solução. Aqui, a dica é direcionar o seu potencial cliente para o seu site, rede social ou uma *landing page*.
 
-<pre>Outras dicas para esta etapa: utilizar estratégias de *marketing* de conteúdo (falar mais sobre o tema e a solução que seu produto traz), usar e-mail marketing ou SMS automatizado.</pre>
+👉️ Outras dicas para esta etapa: utilizar estratégias de *marketing* de conteúdo (falar mais sobre o tema e a solução que seu produto traz), usar e-mail marketing ou SMS automatizado.
 
 **3ª - Decisão** (fundo do funil):  Etapa em que espera-se que o cliente compre o produto/ serviço/ ideia. Foi preciso atraí-lo, conquistá-lo, apresentar argumentos, mostrar que ele tinha uma necessidade e que você tem uma solução. Agora é o momento da conversão de vendas.
 
-<pre>Pode-se utilizar estímulos para que ele feche a compra (gatilhos mentais, cupons de descontos, frete grátis ou diferentes formas de pagamento.</pre>
+👉️ Pode-se utilizar estímulos para que ele feche a compra (gatilhos mentais, cupons de descontos, frete grátis ou diferentes formas de pagamento.
 
 O funil de vendas chega ao final quando os potenciais clientes fecham o negócio e se transformam em clientes. Perceba que você vai levando, direcionando seu potencial cliente com estratégias de *marketing* digital. Cada etapa pede uma ação específica.
 
@@ -352,7 +351,10 @@ O funil de vendas chega ao final quando os potenciais clientes fecham o negócio
 
 ###### Inbound: funil - após vender fidelizar
 
-<img src="https://www.ocpublicidade.com.br/wp-content/uploads/2019/05/funil.png" width="480" />Note que em Atrair (no topo) temos blog, redes sociais e SEO; por ex. Depois da 3ª etapa (Vender) ainda temos Fidelizar e Analisar.
+<img src="https://www.ocpublicidade.com.br/wp-content/uploads/2019/05/funil.png" width="480" />**Atrair** (no topo): Note que aí temos temos blog, redes sociais e SEO; por ex.
+**Vender** (3ª etapa): consultoria em vendas, ligações...
+**Fidelizar**: Newsletter...
+**Analisar**: Relatórios...
 
 ###### Inbound: funil - engajamento, promotores
 
@@ -377,11 +379,14 @@ Demais etapas seguem e além da venda; pensando em satisfação, qualidade e eng
 
 ## MKT: Custos
 
-Um site com recursos importantes ao MKT é mais caro (*landing page*, *blog*...). Há <a href="https://joesynth.wordpress.com/2021/05/26/software-seo/">softwares SEO</a> que também são pagos (embora muito pode-se fazer com os grátis). Entretanto pessoas capacitadas não é barato. Vide [profissionais de informática](/profissionais-de-informatica)  e lá tem um capítulo voltado ao MKT.
+**Site / Recursos**: Mais recursos importantes ao MKT (como *landing page*, *blog*...), mais caro fazer o site.
+**Softwares SEO**: Programas são pagos, eembora muito pode-se fazer com os grátis _entretanto pessoas capacitadas não é barato. 
+
+Vide [profissionais de informática](/profissionais-de-informatica)  e lá tem um capítulo voltado ao MKT.
 
 
 É isso!  
 Grande abraço, sucesso.  
-\o/  
+\o/
 
 [oes: tit !]
