@@ -21,10 +21,9 @@ Isso, além doutros temas. Portanto vamos lá!?
 
 
 
-## O que é um site?
+## O que é um ?
 
-Um site é um *software*. Simples assim!
-
+Um site é um *software*, mas que fica que fica no servidor. Simples assim!
 
 ✔ É contruído com <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagens de computador</a> (literalmente escrito em códigos como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML</a>, <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">CSS</a>...) _ tal como um aplicativo de celular ou *software* de computador.
 ✔ A estrutura desse *software* pode variar bastante. Um site pode ter desde páginas simples (como "Quem Somos" ou "Contatos") até algo mais sofisticado (*blog* , rádio etc).
