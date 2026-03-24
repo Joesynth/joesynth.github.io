@@ -26,6 +26,9 @@ Note que equipamento digital entende-se por computador, ou mesmo algo dedicado c
 ◾ server (<a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">servidor</a>).
 ◾ nanocomputer
 ◾ smartwatch
+
+> *server* (servidor): "um computador que fornece algum tipo de serviço aos usuários da rede" [Bryan, Dic. dos Usuá...]
+
 <h6>Hardware e software</h6>
 <table>
 <tbody>
