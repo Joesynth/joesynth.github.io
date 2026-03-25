@@ -20,9 +20,9 @@ Há tempos que a programação é um saber requisitado não só na área de info
 - Informática: áreas associadas
 
 Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Para simplificar vamos usar uma legenda.
-<pre> **Tecnologias/linguagens** que devem ser dominadas por este profissional.
+🤖️ **Tecnologias/linguagens** que devem ser dominadas por este profissional.
 🔧️ **Ferramentas** utilizadas pelo profissional (que no geral é software).
-💰 **Salário**.</pre>
+💰 **Salário**.
 
 
 ## ✍️ Profissionais de programação
@@ -31,7 +31,7 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 **Webmaster**: Toma decisões referentes ao *web developer* e o *web designer* (veja abaixo).
 
 **Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).
-|  | 🔧️ |
+| 🤖️ | 🔧️ |
 | :---: | :---: |
 |HTML, CSS, JS (JavaScript) jQuery, AngularJS|CMS, Framework, editores de código (como Notepad++, Bluefish...)|
 
@@ -47,7 +47,7 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 
 ###### Exemplos de classificados
 
-<pre><small>**Desenvolvedor Front End**:
+<small>**Desenvolvedor Front End**:
 React JS.
 Desenvolver código simples, limpo, eficaz, escalável, levígel e de fácil manutenção.
 HTML/CSS/JS, SCSS.
@@ -72,7 +72,7 @@ Metodologia de trabalho: SCRUM
 Conhecimento em banco de dados vetorizados (PostgreSQL, MongoDB).
 GitLab e automação de infraestrutura (Docker, por ex.)
 Capacidade de trabalhar de forma independente e em equipe.
-</small></pre>
+</small>
 <h5>Outros profissionais</h5>
 **Programador / desenvolvedor/ codificador/ engenheiro de software**
 Quem escreve, desenvolve ou faz manutenção de *software* em um grande sistema, ou alguém que desenvolve *soft* para uso em computadores pessoais.
@@ -81,7 +81,7 @@ Dependendo da demanda de um ou outro profissional, estes ainda podem necessitar 
 
 ###### Exemplo de classificados
 
-<pre><small>**Dev Angular/Nodejs**:
+<small>**Dev Angular/Nodejs**:
 JSON, Oracle SQL
 Inglês avançado.
 Área profissional: informática, TI.
@@ -102,7 +102,7 @@ Laravel 9+: desenvolvimento de APIs, middleware, testes.
 JS (manipulação do DOM, jQuery, React).
 GitLab/Gitub: versionamento de código.
 Estilização (Tailwind CSS ou Bootstrap, SASS/SCSS).
-Metodologia de trabalho (Scrum, Kanban).</small></pre>
+Metodologia de trabalho (Scrum, Kanban).</small>
 
 ## 🎨️ Área de design
 Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:
@@ -122,7 +122,7 @@ Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho
 
 ###### Exemplos de classificados
 
-<pre><small>**Web Designer**:
+<small>**Web Designer**:
 HTML/CSS/JS; Bootstrap;
 Photoshop e Ilustrator (para design gráfico);
 UI e UX: conhecimento para melhorar a experiência do usuário;
@@ -140,13 +140,13 @@ Vídeos curtos, reels etc (criar e editar); Formação em Design Gráfico, publi
 Adobe Photoshop, Ilustrator, After Effects, Premiere Pro;
 Ferramentas de edição (Final Cut, DaVinci Resolve...);
 Diferencial: conhecimento em 3D, Blender;
-HTML/CSS: noções básicas para criação de assets digitais otimizados.</small></pre>
+HTML/CSS: noções básicas para criação de assets digitais otimizados.</small>
 
-<hr />
 
-<img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" />
 
-<hr />
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" />
+
+
 
 ## 💿️ Área de banco de dados
 <img src="https://dhg1h5j42swfq.cloudfront.net/2023/05/09172211/database-g87972c042_1280-1024x1024.png" width="120" height="120" />**DBA (Administrador de banco de dados)**:
@@ -173,8 +173,8 @@ Convém saber agir como, por exemplo:
 💰 Acima de $3000,00; média $3500.
 
 Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de Operação, ganhar experiência no trabalho e chegar a Administrador de Sistemas.
-<pre>⚠️ O termo administrador (ou root) também é usado para descrever o privilégio que o dono de uma máquina tem para realizar ações como instalações, mesmo que o computador não faça parte de um sistema maior.
-</pre>
+⚠️ O termo administrador (ou root) também é usado para descrever o privilégio que o dono de uma máquina tem para realizar ações como instalações, mesmo que o computador não faça parte de um sistema maior.
+
 ⚠️ *Admin* não é desenvolvedor. Não é do seu cotidiano projetar e implementar novas aplicações de *software*. Porém, deve entender o comportamento de um *software* para poder implantá-lo e resolver problemas.
 
 **Administrador de Site**: lida com CMS e plataformas web. Gerencia sites e blogs, como é o caso do Wordpress - geri pessoas como autores e usuários (inclusive interagindo), acompanha estatísticas, instala plugins como ERP, CRM, formulários etc. No YouTube e demais plataformas é semelhante, inclusive podendo lidar também com MKT Digital, vital nos dias atuais.
@@ -182,7 +182,7 @@ Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de 
 O **AD** (administrador de dados) é outro tipo de profissional, enquanto o <span style="color: #ff6600">administrador de redes</span> é semelhante ao Admin, porém com foco em redes, evidentemente.
 
 ## 🎵️ Área de Conteúdo
-<pre>⚠️ Conteúdo se refere a texto (um título, um parágrafo...), imagem, áudio, vídeo principalmente.</pre>
+⚠️ Conteúdo se refere a texto (um título, um parágrafo...), imagem, áudio, vídeo principalmente.
 Profissões relativas ao conteúdo podem não lidar tão diretamente com programação, mas ainda sim trabalham com informática:
 <ul>
 - AudioVisual: produção, edição, finalização
@@ -196,13 +196,13 @@ Ao lidar com conteúdo é necessário facilidade com...
 - exposição de informações
 </ul>
 
-<hr />
+
 
 ## 🖥️ Infraestrutura de TI
 
 ###### Exemplos de classificados
 
-<pre><small>**Analista de infraestrutura TI:**
+<small>**Analista de infraestrutura TI:**
 *Linux e Windows (Instalação, configuração e manutenção de servidores).*
 *Realizar restart de serviço.*
 *SOs Linux: RedHat, CentOS e Oracle.*
@@ -220,7 +220,7 @@ Ao lidar com conteúdo é necessário facilidade com...
 *Conhecimento em Firewalls, criptografia, DNS, DHCP etc.*
 *Redes (LAN, WAN, VPN)*
 *Certificações (ITIL, Microsoft, Cisco...)*.
-</small></pre>
+</small>
 
 ## 📢️ Marketing e RP
 Na área de *marketing* encontramos o programador trabalhando ao lado doutras profissões.
@@ -235,6 +235,8 @@ Uma empresa pode ter um time de produção de conteúdo composto por...
 - pessoa que acompanhe as métricas.
 </small>
 **Gestor de conteúdo** (ou gerente de conteúdo, *content manage*r): lida com a gestão de conteúdo para a publicação numa plataforma digital, como o Facebook.
+
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
 |HTML, CSS|É bem-vindo conhecimentos em WordPress, SEO On-Page, edição de imagens...|
@@ -286,7 +288,7 @@ A área de vendas e *marketing* é abrangente; e portanto, precisando de profiss
 
 ###### Exemplos em classificados
 
-<pre><small>**Estágiário de mídias sociais**:
+<small>**Estágiário de mídias sociais**:
 HTML. 
 Acompanhamento das redes sociais. 
 Criação de campanhas e conteúdo. 
@@ -298,13 +300,13 @@ HubSpot, RD Station (automação): experiência em ferramentas de marketing.
 CRM 'Marketing'. 
 HTML/CSS (saber o básico para ajustar e-mails e landing pages). 
 CRO: noções (otimização de taxa de conversão). 
-Boas práticas visuais: conhecimento.</small></pre>
+Boas práticas visuais: conhecimento.</small>
 
-<hr />
 
-<img class="alignnone size-medium wp-image-67413" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" />
 
-<hr />
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" />
+
+
 
 ## 🛡️ Ciberseguranca e segurança da informação
 A cibersegurança e a segurança da informação são áreas parecidas mas não exatamente iguais. Para as duas conhecer Terminal Linux e Nano é vital.
@@ -323,7 +325,7 @@ A cibersegurança e a segurança da informação são áreas parecidas mas não 
 
 ###### Exemplo em classificados
 
-<pre><small>**Analista de segurança da informação (Jr)**:
+<small>**Analista de segurança da informação (Jr)**:
 Gerenciar contratos e SLAs relacionados à segurança da informação.
 Resposta a ameaças como exploits, malware e ataques zero-day.
 Certificações (CEH, CISM, CompTIA Security+, CRISC, ISO 27001, ITIL, CISSP, CEH, OSCP, Microsoft Certified (SC-900) etc).
@@ -332,14 +334,14 @@ Certificações, contratos e SLAs: idem acima.
 Respostas a ameaças: idem acima.
 Monitoramento de relatórios de vulnerabilidade (sistemas Windows, Linux...).
 Automatizar processos (uso de ferramentas PowerShell, Python ou Bash).
-Graduação em áreas como Segurança da Informação, Ciência da Computação ou Sistemas de Informação.</small></pre>
+Graduação em áreas como Segurança da Informação, Ciência da Computação ou Sistemas de Informação.</small>
 
 ## 👷‍♂️️ Trabalhos: mais exemplos do que é solicitado
 Alguns casos do que é pedido por uma empresa para um novo contratado.
 É só exemplos! Cada empresa pode pedir mais coisas ou tarefas diferentes, portanto depende.
 
 **TI**:
-<pre><small>**Estagiário de TI**:
+<small>**Estagiário de TI**:
 GitHub (saber criar repositórios). 
 Verificar status de projeto online. 
 Configurar datas e criar logins de teste. 
@@ -363,7 +365,7 @@ Desenvolvimento de interfaces de integração (API, WebServices).
 HTML, JS, Java, Python... 
 Inglês fluente. 
 OS Linux. 
-Desejável saber metodologia Itil e Scrum.</small></pre>
+Desejável saber metodologia Itil e Scrum.</small>
 
 ## 🔗️ Informática: áreas associadas
 Muitas áreas estão associadas à informática.
