@@ -154,7 +154,7 @@ Veja o capítulo comunicação e marketplace:50 sites.
 
 **<img class="alignleft" src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="100" height="60" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
 
-> Um exemplo de *blog* é o site [JoeSynth.wordpress.com](/joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
+> Um exemplo de *blog* é o site [JoeSynth.wordpress.com](joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
 
 Um *blog* em si não é uma ferramenta de venda, mas pode fazer parte do elo.
 
@@ -370,73 +370,12 @@ Para finalizar tenha em mente que o mundo muda cada vez mais rápido com os últ
 **Marketing**:
 
 Tempo médio para retornos:
-<table>
-<tbody>
-<tr>
-<td>Tempo</td>
-<td>Tipo de Marketing</td>
-</tr>
-<tr>
-<td>horas
-dias</td>
-<td><span style="color: #ff6600">Marketing Digital Pago</span> (Ads) (Anúncios pagos em redes sociais e buscadores)
-<span style="color: #ff6600">Marketing de Performance</span> (Foco em resultados mensuráveis (cliques, leads, vendas))</td>
-</tr>
-<tr>
-<td>dias
-semanas</td>
-<td><span style="color: #ff6600">E-mail Marketing</span> (Envio de mensagens segmentadas para leads e clientes)
-<span style="color: #ff6600">Marketing de Influenciadores</span> (Parcerias com criadores de conteúdo para divulgar produtos)
-<span style="color: #ff6600">Marketing de Guerrilha</span> (Ações criativas e de impacto em locais públicos)
-<span style="color: #ff6600">Marketing Pago</span> (Mídia Paga / Ads)
-<span style="color: #ff6600">Marketing de Eventos</span> (Divulga produtos ou marcas por meio de eventos, feiras, palestras, etc)</td>
-</tr>
-<tr>
-<td>semanas
-meses</td>
-<td><span style="color: #ff6600">Marketing de Afiliados</span> (Vendas via comissões por meio de parceiros)</td>
-</tr>
-<tr>
-<td>4 meses
-8 meses</td>
-<td><span style="color: #ff6600">Marketing de Conteúdo</span>.
-<span style="color: #ff6600">Cause-related marketing</span> - marketing de causa</td>
-</tr>
-<tr>
-<td>3 meses
-9 meses</td>
-<td><span style="color: #ff6600">Endomarketing</span> (Marketing Interno)
-<span style="color: #ff6600">SEO</span> (Melhora o posicionamento orgânico no Google)
-<span style="color: #ff6600">Social media marketing</span> (marketing de mídia social)</td>
-</tr>
-<tr>
-<td>meses
-anos</td>
-<td><span style="color: #ff6600">Marketing de Relacionamento</span> (Fidelização e retenção de clientes)</td>
-</tr>
-</tbody>
-</table>
-CAC vs CRC:
-<table>
-<tbody>
-<tr>
-<td style="text-align: center">CAC
-Custo de Aquisição de Cliente</td>
-<td style="text-align: center">CRC
-Custo de Retenção de Cliente</td>
-</tr>
-<tr>
-<td style="text-align: center"><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> conquistar alguém novo
-<span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> inclui MKT forte</td>
-<td style="text-align: center"><span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> foca nos clientes existentes que conhecem a marca
-<span class="HwtZe" lang="pt"><span class="jCAhz ChMk0b"><span class="ryNqvb">●</span></span></span> é mais barato devido muitas ações serem digitais; custo de manter alguém enganjado é menor, via de regra.</td>
-</tr>
-<tr>
-<td>anúncios, eventos, campanhas, descontos / incentivos para atrair clientes, tempo / esforço da equipe para apresentar a marca / produto</td>
-<td>e-mail, notícias, convites para eventos.</td>
-</tr>
-</tbody>
-</table>
+Vide [Marketing Digital](/marketing-digital).
+
+**Marketing**:
+
+Tempo médio para retornos:
+
 
 ## 🌟️ Dica!
 
