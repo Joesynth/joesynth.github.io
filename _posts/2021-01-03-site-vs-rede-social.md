@@ -92,7 +92,7 @@ O site é uma mídia própria, enquanto o Facebook é o que se chama em *marketi
 ## Site vs. Facebook: Comparação
 
 Como vimos...
-✔ Umm site é um *software* que fica no servidor.
+✔ Um site é um *software* que fica no servidor.
 ✔ O Facebook é um site que armazena o banco de dados bem como processa as informações. Guardar dados é vital no modelo de negócio de qualquer empresa.
 ✔ O Facebook tem como função ser uma rede social, onde ele "põe" as pessoas para trabalharem para ele e "paga" com figurinhas, *emojis*.
 ✔ O Facebook é uma mídia de publicidade.
@@ -104,7 +104,8 @@ Ciente disso, agora podemos pensar: o que equivale a ter **SeuSite** ou ser um m
 | Site | Perfil no Facebook |
 | :---: | :---: |
 |*SeuSite.com*|*facebook.com/usuario*|
-| Equivale a uma a loja em si (tal como a matriz que tem suporte aos clientes, logistica, etc). | Podemos imaginar uma rede social como uma vitrine de *SuaLoja* (a qual expõe produtos). |
+| Equivale a uma a loja em si, tal como a matriz. | Podemos imaginar uma rede social como uma vitrine de *SuaLoja*. |
+| Há catálogo de produtos, contatos oficiais, suporte aos clientes, logistica...| Expõe-se produtos.|
 
 Observe ainda esta outra comparção:
 
@@ -114,7 +115,7 @@ Observe ainda esta outra comparção:
 |*SeuSite.com*|*facebook.com/usuario*|
 | É visto como *SuaLoja* de fato.|Um mercado de rua onde vários concorrentes ficam tentando chamar atenção dos clientes.|
 
-Agora, imagine um cliente que participou de um evento da *SuaMarca* dias atrás, e agora entrou em contatos.
+Agora, imagine um cliente que participou de um evento da *SuaMarca* dias atrás, e agora entrou em contato.
 Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em uma esquina no mercado de rua?
 
 
