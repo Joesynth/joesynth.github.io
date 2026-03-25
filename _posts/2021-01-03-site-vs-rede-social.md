@@ -120,5 +120,19 @@ Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em u
 
 
 
+## Tempo
+
+<img src="https://www.influx.com.br/storage/app/media/uploaded-files/hub/1415475/file-3437294528-jpg/blog-files/timeismoney.jpg" width="120" />Note como o *SeuSite* e o seu *Perfil no Facebook* se completam, um de forma vitalícia e outro no dia a dia.
+
+| Site | Perfil no Facebook |
+| :---: | :---: |
+| Foco é conteúdo atemporal. | Páginas são pensadas basicamente para promoção de conteúdos, ideias do momento. |
+|**Informações profissionais**<br />Portfólio, *tels* de contato...| **Produzir conteúdo constantemente**<br />Apresentar novas promoções, produtos, eventos.|
+| **conteúdo duradouro**<br />permanece eternamente após publicado| **conteúdo efêmero**<br />desaparece após 24 horas|
+| ✔️ | ✔️ |
+
+**Google: "Tempo de casa"**: Quanto mais anos um site está no "ar", mais chances têm de aparecer nos primeiros resultados das pesquisas feitas no Google. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
+
+
 
 {% include final.html%}
