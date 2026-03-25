@@ -157,6 +157,26 @@ No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda
 | :---: | :---: |
 | *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica). | Qualquer estranho pode criar uma página falsa, comprometendo  *SuaMarca*). |
 | ✔️ | ❌️ |
+
+
+
+## Consciência vs. Moda
+
+<img src="https://media.licdn.com/dms/image/v2/C4D12AQHvyZvjA4GMqw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1530885320003?e=2147483647&v=beta&t=8f86h9kCPMloQOsBNq3ROCzvPjbYFgVXeGlqiSEG1vQ" width="120"/>Um na multidão! Enquanto poucos optam pelo site, muitos seguem a moda das redes sociais, o que pode ser motivado por...
+✔ desconhecimento da importância da posse do site
+✔ nenhum recurso para investimento
+✔ falta de estratégia em *marketing*
+
+🤔️ Ter um site não significa abandonar as redes, mas não tê-lo significa se abster de um canal poderoso.
+
+| Site | Perfil no Facebook |
+| :---: | :---: |
+| *MeuSite.com*| *facebook.com/usuário*|
+| **Mídia**<br />opção de profissionais estabelecidos | **Mídia**<br />preferida por amadores ou iniciantes |
+| Poucos profissionais possuem. |Todos "profissionais" estão no "Facebook"|
+|✔️|❌️|
+
+
 ## Investimento
 
 <img src="/image/comercio.png" width="120" />O site temos que construir, e depois fazermos uma manutenção mínima. Doutro lado a rede, que é "só" criar o perfil, mas temos que trabalhar cotidianamente para produzir conteúdo. 
@@ -165,6 +185,8 @@ No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda
 |:---:|:---:|
 |**produção**<br />U$250 a U$2500<br />Web Designer<br />Desenvolvedor|**produção**<br />Custo "zero".|
 |**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Analista de SEO, Criador de Conteúdo,Social Media |
+
+
 
 
 
