@@ -416,7 +416,13 @@ xxx
 | anúncios, eventos, campanhas, descontos / incentivos para atrair clientes, tempo / esforço da equipe para apresentar a marca / produto | e-mail, notícias, convites para eventos. |
 
 
+xxx
 
+## Métricas para a empresa que lida com o SaaS
+
+**CAC** (<em>Customer Acquisition Cost</em>): métrica que mostra o custo de aquisição de clientes, ou seja, quanto o negócio está investindo para conquistar cada novo cliente. Essa métrica, comparada ao LTV, ajuda a entender se os investimentos estão valendo a pena ou se estão altos demais em relação ao seu retorno.
+
+**MRR** (<em>Monthly Recurring Revenue</em> - receita recorrente mensal): métricas para avaliar a saúde do negócio no modelo SaaS, pois mede a soma de todas as entradas recorrentes originadas de assinaturas do serviço. O MRR serve para o empresário ter maior previsibilidade sobre o faturamento do mês e planejar suas estratégias e custos de maneira que não prejudique a saúde financeira.
 
 xxx
 
