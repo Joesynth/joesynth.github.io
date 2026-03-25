@@ -24,7 +24,7 @@ Isso, além doutros temas. Portanto vamos lá!?
 
 Um site é um *software*. Simples assim!
 
-<pre>- É contruído com <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagens de computador</a> (literalmente escrito em códigos como <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML</a>, <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">CSS</a>...) _ tal como um aplicativo de celular ou *software* de computador.
+<pre>- É contruído com linguagens de computador (literalmente escrito em códigos como HTML, CSS...) _ tal como um aplicativo de celular ou *software* de computador.
 - A estrutura desse *software* pode variar bastante. Um site pode ter desde páginas simples (como "Quem Somos" ou "Contatos") até algo mais sofisticado (*blog* , rádio etc).
 - O site tem um armazenamento em "HD", que guarda todos os dados (inclusive os textos ou fotos que vemos no próprio site).</pre>
 
@@ -45,7 +45,7 @@ Você compraria um tênis de marca desconhecida?
 
 **<img class="alignleft" src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="100" height="51" /> Credibilidade** Podemos considerar o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
-**<img class="alignleft" src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="99" height="70" /> Autoridade** Ao lidar com produtos, serviços ou ideia, *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também <a href="https://joesynth.wordpress.com/2021/05/26/serp/">SERP</a>.
+**<img class="alignleft" src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="99" height="70" /> Autoridade** Ao lidar com produtos, serviços ou ideia, *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também SERP.
 
 ## O Google: o chefe
 
@@ -67,16 +67,16 @@ O Google acha o que procuramos porque sabe dúzias de coisas sobre cada site na 
 - Há fontes ou referências?
 </pre>
 
-O outro lado da moeda: as empresas se adaptam a esse poder do Google para poderem aparecer nos resultados em vantagem diante de seus concorrentes. Então o dono de um site faz uma otimização nele, basicamente adequar o site a essa dúzia de dados que o Google sabe _e assim ter sua marca aparecendo nas primeiras páginas do Google. Em suma, isso é o trabalho chamado de <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a>.
+O outro lado da moeda: as empresas se adaptam a esse poder do Google para poderem aparecer nos resultados em vantagem diante de seus concorrentes. Então o dono de um site faz uma otimização nele, basicamente adequar o site a essa dúzia de dados que o Google sabe _e assim ter sua marca aparecendo nas primeiras páginas do Google. Em suma, isso é o trabalho chamado de SEO.
 
 Portanto quando pensar em Google...
 
 <pre>**Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.
 **Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.
-**Faça SEO**: sim, o Google prioriza sites otimizados. Veja <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a>.
+**Faça SEO**: sim, o Google prioriza sites otimizados. Veja SEO.
 **Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.</pre>
 
-Saiba mais em <a href="https://joesynth.wordpress.com/2025/01/19/qual-e-o-poder-do-google/">Qual é o poder do Google</a>?
+Saiba mais em Qual é o poder do Google?
 
 
 
@@ -98,37 +98,36 @@ Neste assunto de comércio devemos ficar atentos aos seguintes tipos de sites:
 **<img class="alignleft" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/49e17fbc6516b5cb94698be7dec238c4.jpg" width="119" height="93" />**Para a *SuaEmpresa* ou trabalho é a forma de *site* mais comum.
 Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão de visita" ou da filipeta, a *SuaMarca (*ou *SuaEmpresa*) promove serviços, eventos ou informa contatos. Entretanto um site institucional vai bem além disso, por ser um modelo digital de mídia, não papel. Nele temos:
 
-<pre>---&gt; s a í d a
-👤️ **Apresentação da empresa** (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?
-♥️ **Portfólio**: quem são os clientes importantes? Quais serviços realizados?
-👥️ **Parceiros**: quem está junto com você nesta missão? Quem lhe apoia de alguma forma?
-🏠️ **Endereços** das lojas físicas: informação que gera um certo *status*.
-📞️ **Canais oficiais de contato** da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.
-✉️ **Email oficial**, lista de e-mail.
-💸️ **Produtos, serviços, ideias**: apresentação do cardápio, bem como orientação para compra.
-🕒️ **Horário de funcionamento** das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.
+**Saída**:
+✔ Apresentação da empresa: (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?
+✔ Parceiros: quem está junto com você nesta missão? Quem lhe apoia de alguma forma?
+✔ Endereços: das lojas físicas: informação que gera um certo *status*.
+✔ Canais oficiais de contato: da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.
+✔ Email oficial, lista de e-mail.
+✔ Produtos, serviços, ideias: apresentação do cardápio, bem como orientação para compra.
+✔ Horário de funcionamento das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.
+**Saída** (interno na própria empresa):
+✔ Tutoriais para funcionários (boas práticas, por ex.)
+✔ Parabenizações (aniversários, metas de vendas etc)
+✔ Relatórios internos.
+**Entrada**:
+✔ Coleta de dados: pesquisas com o usuário, cadastro de clientes ao estilo "Fale Conosco" (formulários; portanto com informações do consumidor).
+✔ Vendas: fechamento via tel (por ex.), recebimento de propostas (de clientes, parceiros, fornecedores).
+📊️ **Métricas**:
+✔ Visualizações do site, páginas mais vistas...
 
----&gt; s a í d a (para uso interno na própria empresa)
-- Tutoriais para funcionários (boas práticas, por ex.)
-- Parabenizações (aniversários, metas de vendas etc)
-- Relatórios internos.
-
-&lt;-- e n t r a d a
-👁️ **Coleta de dados**: pesquisas com o usuário, cadastro de clientes ao estilo "Fale Conosco" (formulários; portanto com informações do consumidor).
-💸️ **Vendas**: fechamento via tel (por ex.), recebimento de propostas (de clientes, parceiros, fornecedores).
-📊️ m é t r i c a s
-- Visualizações do site, páginas mais vistas...
-</pre>
 
 **Objetivo do site institucional**?
+
 <blockquote>Gerar confiança e autoridade ao visitante. Passar isso aos clientes, concorrentes e parceiros.</blockquote>
+
 E vale lembrar:
 
-- Vender produto, serviço ou ideia mais diretamente às pessoas.
-- Ser o 1º contato entre *SuaMarca* e seu cliente.
-- Ponto de encontro entre clientes e empresa (vital para gerar bons números).
-- Segurança da informação:  dados (como horários de funcionamento, CNPJ...) são mais confiáveis no site da *SuaEmpresa* (que é o canal oficial da marca) do que em redes sociais _já que nessas qualquer um pode criar páginas falsas ou clonadas; bem como a própria página sair do ar por um nova regra do Facebook ou Youtube).
-- Dialogar com as pessoas: o site institucional é o contato oficial para se comunicar com clientes, fornecedores, parceiros.
+✔ Vender produto, serviço ou ideia mais diretamente às pessoas.
+✔ Ser o 1º contato entre *SuaMarca* e seu cliente.
+✔ Ponto de encontro entre clientes e empresa (vital para gerar bons números).
+✔ Segurança da informação:  dados (como horários de funcionamento, CNPJ...) são mais confiáveis no site da *SuaEmpresa* (que é o canal oficial da marca) do que em redes sociais _já que nessas qualquer um pode criar páginas falsas ou clonadas; bem como a própria página sair do ar por um nova regra do Facebook ou Youtube).
+✔ Dialogar com as pessoas: o site institucional é o contato oficial para se comunicar com clientes, fornecedores, parceiros.
 
 Essas informações aliadas a uma apresentação bem bonita e confiável fortalece a sua reputação. Tudo isso gera um clima *online* muito favorável.
 
@@ -147,14 +146,22 @@ A loja virtual é um negócio no qual as transações comerciais acontecem por m
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/MercadoLibre.svg/1200px-MercadoLibre.svg.png" width="120" />Ex.: Mercado Livre, Amazon.
 O *marketplace* atua vendendo como um grande *shopping* virtual, tendo diferentes vendedores e ofertas. Para o consumidor, a grande vantagem está na diversidade de opções _mercadorias, escolha das formas de pagamento, entrega.
 
-É bom *SuaEmpresa* ter produtos em *marketplace*, e eles devem estar atualizados _e nós (a empresa) oferecermos suporte aos clientes. Há <a href="https://joesynth.wordpress.com/2021/05/26/14806/">profissionais</a> *freelance* que fazem esses serviços. E caso sua empresa tenha um site, é possível <a href="https://joesynth.wordpress.com/2023/11/26/bb/">integrar sua loja virtual a *marketplaces*</a> (via *softs* específicos).
+É bom *SuaEmpresa* ter produtos em *marketplace*, e eles devem estar atualizados _e nós (a empresa) oferecermos suporte aos clientes. Há profissionais *freelance* que fazem esses serviços. E caso sua empresa tenha um site, é possível integrar sua loja virtual a *marketplaces* (via *softs* específicos).
 
-Veja o capítulo comunicação e <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-50-sites/">marketplace:50 sites</a>.
+Veja o capítulo comunicação e marketplace:50 sites.
 
 ###### Blog
 
-**<img class="alignleft" src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="100" height="60" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal. Aqui no *blog <a href="https://joesynth.wordpress.com/sobre/">Joe Synth</a>*, por ex., falamos sobre <a href="https://joesynth.wordpress.com/2020/11/15/o-que-e-um-sintetizador/">sintetizadores</a>, <a href="https://joesynth.wordpress.com/2020/02/10/o-que-e-midi/">midi</a>... Um *blog* em si não é uma ferramenta de venda, mas pode fazer parte do elo. Em suma, num *blog* cria-se contato/afinidade com consumidores pelos textos de interesse desses leitores.
+**<img class="alignleft" src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="100" height="60" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
+
+> Um exemplo de *blog* é o site [JoeSynth.wordpress.com](/joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
+
+Um *blog* em si não é uma ferramenta de venda, mas pode fazer parte do elo.
+
+Em suma, num *blog* cria-se contato/afinidade com consumidores pelos textos de interesse desses leitores.
 **Coleta de dados**: um *blog* emite gráficos com acessos dos clientes, visualizações dia a dia ou mês a mês, etc. Sabemos quais artigos os internautas estão gostando mais _ aí planejamos novos textos e melhoramos o contato com possíveis clientes. Por tudo isso as companhias têm investido no *blog* integrado ao próprio site da empresa; isto é, um *site* + um *blog*. Porém, um trabalho vital é manter o *blog* atualizado (já que sua essência é o próprio conteúdo em si).
+
+
 
 Veja o capítulo comunicação.
 
@@ -171,16 +178,16 @@ Há mais detalhes que abordaremos neste tutorial. Veja o capítulo comunicação
 
 ## 🗣️ Comunicação | Marketing Digital
 
-Como vimos o Google tem grande peso na internet e esta é um ambiente comercial. Portanto <a href="https://joesynth.wordpress.com/2021/12/12/marketing-digital/">*marketing* digital</a> é vital.
+Como vimos o Google tem grande peso na internet e esta é um ambiente comercial. Portanto *marketing* digital é vital.
 
-Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das <a href="https://joesynth.wordpress.com/2021/12/12/marketing-digital/">estratégias de marketing digital</a>. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
+Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
 
 Tem-se variáveis a se pensar.
 
 ###### Rede social vs marketplace vs comparador de preços
 
 <blockquote>A internet não é terra de ninguém. Bem pelo contrário, ela é de alguém sim:  instituições e empresas de tecnologia [Joe S]</blockquote>
-Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo <a href="https://joesynth.wordpress.com/rede-de-computadores/">cliente / servidor</a>, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
+Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo cliente / servidor, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
 <blockquote>No mundo digital o dono da informação é o dono do HD.
 [Joe S]</blockquote>
 Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
@@ -199,25 +206,26 @@ Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*,
 Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
 
 Quando se tem site próprio então...
-- A gestão de informações e vendas é mais organizada.
-- Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.
+
+✔ A gestão de informações e vendas é mais organizada.
+✔ Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.
 
 ###### Web: site no ar
 
 Com *SeuSite* na Web temos (de cara!) um novo trabalho: *marketing*.
 Tenha consciência que a partir desse momento disputamos na internet com outros *sites* do nosso segmento. O cenário é o seguinte:
 
-<pre>- **Site novo**: Os seus concorrentes aparecerão na pesquisa do Google em posição melhor que *SuaEmpresa*, já que *SeuSite* é "novinho" na Web. Ou seja, vamos "brigar" com outros comerciantes que já estavam na internet antes de nós chegarmos _isso, ao menos a princípio. 
-- **Pesquisa natural do Google**: Começar a aparecer nas pesquisas naturais que as pessoas fazem no Google é o marco inicial. Nos resultados de pesquisa um site começa timidamente surgindo nas últimas páginas, e vai melhorando com o tempo. Há técnicas e boas práticas para aprimorar isso a ponto de aparecer nas primeiras páginas. Chama-se de <a href="https://joesynth.wordpress.com/2021/05/11/seo/">SEO</a> e imagina-se 6 meses para ver melhoras. O SEO é um trabalho vital, constante e funciona paralelo às propagandas pagas (sendo que um não substitui o outro). 
-- **Anúncios**: Os "*tops sites*" surgirão na pesquisa do Google com destaques graças a propagandas pagas. Você também pode fazer isso, embora não seja recomendado de início. O Google é uma mídia digital e bem diferente de *outdoor* ou revista, então não convém agir sem estratégias claras.</pre>
+**Site novo**: Os seus concorrentes aparecerão na pesquisa do Google em posição melhor que *SuaEmpresa*, já que *SeuSite* é "novinho" na Web. Ou seja, vamos "brigar" com outros comerciantes que já estavam na internet antes de nós chegarmos _isso, ao menos a princípio. 
+**Pesquisa natural do Google**: Começar a aparecer nas pesquisas naturais que as pessoas fazem no Google é o marco inicial. Nos resultados de pesquisa um site começa timidamente surgindo nas últimas páginas, e vai melhorando com o tempo. Há técnicas e boas práticas para aprimorar isso a ponto de aparecer nas primeiras páginas. Chama-se de SEO e imagina-se 6 meses para ver melhoras. O SEO é um trabalho vital, constante e funciona paralelo às propagandas pagas (sendo que um não substitui o outro). 
+**Anúncios**: Os "*tops sites*" surgirão na pesquisa do Google com destaques graças a propagandas pagas. Você também pode fazer isso, embora não seja recomendado de início. O Google é uma mídia digital e bem diferente de *outdoor* ou revista, então não convém agir sem estratégias claras.
 
-O tema é amplo e foge do escopo de um tutorial. Vide <a href="https://joesynth.wordpress.com/2021/12/12/marketing-digital/">*marketing* digital</a>.
+O tema é amplo e foge do escopo de um tutorial. Vide *marketing* digital.
 
 Vale notar que o mundo digital em boa parte replica o que ocorre no físico _manter loja bem organizada, preços visíveis, logomarca bonita, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entregar no prazo etc.
 
 ###### Blog
 
-Um site com *blog* incluso é um recurso que contribui na divulgação, e sendo assim um <a href="https://joesynth.wordpress.com/2021/05/26/14806/">profissional blogueiro</a> fará conteúdos constantemente. O objetivo do *blog* é captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
+Um site com *blog* incluso é um recurso que contribui na divulgação, e sendo assim um profissional blogueiro fará conteúdos constantemente. O objetivo do *blog* é captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
 
 ###### Onipresença: marketplaces, redes sociais, comparadores
 
@@ -296,75 +304,9 @@ Imaginemos uma loja on-line vendendo 24h por dia e em todo país.
 - **Logística**: Atenção ao envio das encomendas (pedidos). Entregar no prazo é vital para evitar transtornos.
 - **Segurança do site**: Precisa-se num nível maior que o convencional, já que são 24h no ar e fazendo transações bancárias.</pre>
 
-
-
-
-
 ## 🌐️ Site vs Rede Social
 
-Qual escolher?
-Site e rede social são coisas diferentes, ferramentas diferentes _e um canal não substitui o outro.
-
-Noutra comparação, a rede social é um mercado de rua (onde vários concorrentes ficam tentando chamar atenção dos clientes) e o site é visto como *SuaLoja*. Agora, imagine um possível cliente que participa de um evento da *SuaMarca* e entra para os seus contatos, da sua empresa.  Onde gostaria de encontrá-lo pra fechar uma venda? No mercado de rua ou na sua própria loja?
-
-###### Site ou rede social: um resumo!
-
-Atuar em redes sociais é bom, e site também. Há diferenças entre os dois, veja:
-<table>
-<tbody>
-<tr>
-<td></td>
-<td style="text-align: center">Site</td>
-<td style="text-align: center">Rede Social</td>
-</tr>
-<tr>
-<td>Comparação</td>
-<td>✔️ Equivale a uma a loja em si (tal como a matriz que tem suporte aos clientes, logistica, etc).</td>
-<td>Podemos imaginar uma rede social como uma vitrine de *SuaLoja* (a qual expõe produtos).</td>
-</tr>
-<tr>
-<td>Propriedade</td>
-<td>✔️ Você é o dono do SeuSite. Ou seja, o site é mais estável, sendo um espaço da *SuaMarca*.
-*SeuSite* pode nunca sair do ar!</td>
-<td>❌️ Não somos donos. Uma rede em si não é nossa _e sim de mega empresas (Google, Meta etc). Estas corporações nos dão a permissão de termos um perfil (ou página) na rede deles.</td>
-</tr>
-<tr>
-<td>Segurança</td>
-<td>✔️ Mesmo que SeuSite seja invadido, e haja danos, conta-se com *backups*.</td>
-<td>❌️ Redes sociais saem de moda, ex.: Orkut, MySpace.</td>
-</tr>
-<tr>
-<td>Legitimidade</td>
-<td>✔️ *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica).</td>
-<td>❌️ No Facebook, por ex., qualquer pessoa pode criar uma página (o que não garante a legitimidade da *SuaMarca*).</td>
-</tr>
-<tr>
-<td>Autoridade</td>
-<td>✔️ É capaz de construir uma autoridade *online* mais forte (que a rede social).</td>
-<td>✔️ É indicada no fortalecimento da marca (junto ao seu site).</td>
-</tr>
-<tr>
-<td>Tempo</td>
-<td>✔️ Funciona melhor para conteúdos atemporais (ex.: informações de sua empresa).</td>
-<td>✔️ Páginas são pensadas basicamente para promoção de conteúdos e ideias do momento.
-É preciso um trabalho constante de conteúdo a se fazer.</td>
-</tr>
-<tr>
-<td>Pessoas/
-interação</td>
-<td>Pessoas (contatos, clientes em potencial): devemos fazer com que cheguem aqui, no nosso site.</td>
-<td>Pessoas estão presentes nas redes sociais.
-É preciso interagir com as pessoas.</td>
-</tr>
-<tr>
-<td>Blog</td>
-<td>No *SeuSite* o usuário lê o artigo e se informa; o que cria identidade entre você e ele.</td>
-<td>É útil para divulgarmos artigos do *SeuSite*.</td>
-</tr>
-</tbody>
-</table>
-
-
+Vide [Site vs. Rede Social](/site-vs-rede-social).
 
 ## Site Institucional ou E-commerce: qual escolher?
 
@@ -380,11 +322,11 @@ Podemos refletir sobre o seguinte...
 Mais pontos a pensar?
 
 🌎️ **Espaço geográfico**: Se o foco é trazer pessoas (físicas) ao seu ponto de vendas, então site institucional é bem-vindo. Caso o primordial seja vender produtos/serviços *online* atendendo todo o país aí loja virtual. E se ambos?
-🔧️ **Manutenção de conteúdo**: Uma vez *SeuSite* no ar deve-se ter gente para realizar trabalhos como descrições textuais, edições de imagens ou vídeos, elaboração de <a href="https://joesynth.wordpress.com/2021/05/26/seo-on-page/">títulos</a> etc. Além da boa escrita, outras conhecimentos bem-vindos para o responsável por isso incluem: saber padrões (de imagens por exemplo), <a href="https://joesynth.wordpress.com/2021/05/26/seo-on-page/">SEO on page</a>, medir resultados (gerados pelo site), análise de gráficos, alaboração de pautas de conteúdo. Certas tecnologias da Web priorizam conteúdos atuais, então materiais publicados constantemente é bem relevante.
+🔧️ **Manutenção de conteúdo**: Uma vez *SeuSite* no ar deve-se ter gente para realizar trabalhos como descrições textuais, edições de imagens ou vídeos, elaboração de títulos etc. Além da boa escrita, outras conhecimentos bem-vindos para o responsável por isso incluem: saber padrões (de imagens por exemplo), SEO on page, medir resultados (gerados pelo site), análise de gráficos, alaboração de pautas de conteúdo. Certas tecnologias da Web priorizam conteúdos atuais, então materiais publicados constantemente é bem relevante.
 
 ###### 💰️ Investimentos
 
-**Mão de obra qualificada**: Se há *blog* integrado ao *SeuSite* um <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">blogueiro</a> será preciso, se é uma loja virtual (*e-commerce*) haverá banco de dados e o profissional de entrada de dados se faz vital. Isso são dois casos e empresas grandes tem até um departamento de TI.
+**Mão de obra qualificada**: Se há *blog* integrado ao *SeuSite* um blogueiro será preciso, se é uma loja virtual (*e-commerce*) haverá banco de dados e o profissional de entrada de dados se faz vital. Isso são dois casos e empresas grandes tem até um departamento de TI.
 **Implementações futuras**: Como se sabe um site é um soft. Nem tudo dito aqui pode estar contemplado quando você cria o *SeuSite* _ex.: integração com alguma ferramenta da Google (idem mídia social ou *marketing*), aceitar pagamentos de clientes em todo o mundo, ter produtos/serviços ilimitados, espaço de armazenamento em HD maior, etc. O *SeuSite* sendo modulável, essas e outras implementações são mais "armas" que lhe darão ainda mais "poder de fogo" na concorrência da Web. Embora haja custos, são aprimoramentos (isto é, você começa com *SeuSite* inicial e vai melhorando "conforme o jogo" e as experiências adquiridas). Um site inicial mais simples significa menos investimento e risco, sem contar que ainda ganhamos tempo para irmos "aprendendo a jogar durante o jogo".
 
 **Site institucional**
@@ -399,16 +341,17 @@ Mais pontos a pensar?
 
 Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses três pontos:
 
-- Nível 1 (redes e marketplaces). Criar essas páginas é custo zero nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.
-- Nível 2 (Site Institucional). Baixo ou pouco investimento dependendo dos recursos do site. Se há *blog* integrado ao site deve-se manter constante o conteúdo.
-- Nível 3 (*E-commerce*). Sua empresa está pronta para arcar com os maiores custos e todo operacional que uma loja virtual exige?
-
+|||
+|:---:|:---|
+|**Nível 1**<br />mídia<br />alugada|Criar essas páginas é custo zero nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.|
+|**Nível 2**<br />site<br />institucional|Baixo ou pouco investimento dependendo dos recursos do site. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
+|**Nível 3**<br />*e-commerce*|Sua empresa está pronta para arcar com os maiores custos e todo operacional que uma loja virtual exige?|
 
 ###### Dicas
 
 Baseado em experiências próprias sugerimos:
 
-**Nome do site**: pela ótica de <a href="https://joesynth.wordpress.com/2021/12/12/marketing-digital/">marketing digital</a> esta associado a estratégia.
+**Nome do site**: pela ótica de marketing digital esta associado a estratégia.
 ✔️ Nome vago (ex. dulyn.com): pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida o logo, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. A Nike ou a Honda podemos dizer que são nomes vagos, porém já existe sentido para esses nomes e asssociamos com tênis, moto, carro....
 ✖️ Nomes muito específicos é a ideia oposta a de cima _ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*.
 ✖️ Nome com números _ex.: *pipas346.co*m
@@ -499,9 +442,9 @@ Custo de Retenção de Cliente</td>
 
 <span style="color: #ff6600">Uma pessoa comum pode criar um site</span>! Há tempos isso é possível, o que pode ser um bom exercício tecnológico ou até curiosidade, diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Evidentemente, envolve planejamento, ter conhecimento de causa, experiência _para não se criar algo que num futuro, até próximo, poderá ruir.
 
-Nos <a href="https://joesynth.wordpress.com/2024/09/14/telegram-grupos-interessantes/">grupos de Telegram</a>, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. <a href="https://joesynth.wordpress.com/contato/">Fale Conosco</a>!
+Nos grupos de Telegram, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. Fale Conosco!
 
-Outra dica? Leia o artigo <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">Site Comercial - Um Tutorial Essencial</a>.
+Outra dica? Leia o artigo Site Comercial - Um Tutorial Essencial.
 
 É isso!  
 Grande abraço... sucesso!  
