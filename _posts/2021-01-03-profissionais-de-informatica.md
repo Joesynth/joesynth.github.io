@@ -1,5 +1,6 @@
 # Profissionais de informática - Tutorial
 
+<span class="emoji120" >🚀</span>
 
 Programação? Tutorial com profissões importantes, salários, o que precisa saber...
 
