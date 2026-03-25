@@ -9,11 +9,11 @@ Como dizemos...
 Então é preciso saber alguns pontos vitais e entender o contexto para não cairmos em mitos ou vagas impressões.
 Esperamos que ao final dessa leitura, estejamos mais cientes do próprio fucionamento da internet ou mesmo *marketing*, segurança... Tomamos como exemplo de rede social o Facebook, da corporação Meta, mas poderia ser outra como o instagram, etc.
 
+Primeiro, vamos entender o funcionamento do pŕoprio Facebook e nós mesmos, que criamos nosso perfil na plataforma.
 
-## O modelo Cliente/Servidor
 
-Primeiro, vamos buscar ficar mais espertos quanto ao funcionamento do pŕoprio Facebook e nós, que criamos nosso perfil na plataforma.
 
+## Facebook: o modelo Cliente/Servidor
 
 <img src="https://www.devmedia.com.br/imagens/articles/artigo-arquitetura-client-server-e-three-tier-5865.jpg" width="120" />Quando o assunto é **rede de computadores**, essa ideia de "cliente / servidor" é bem viva entre [profissionais de informática](/profissionais-de-informatica). Aqui começa "o pulo do gato"! 
 
@@ -44,7 +44,9 @@ Quais as ações que fazemos quando estamos numa rede social? E "Face" também!
 
 Talvez a palavra "ação" possa lhe parecer boba, mas linguagens de programação são muito baseadas em ações. Métodos, para ser mais preciso. Linguagens são utilizadas para crias todo o mundo de *softwares* que existe hoje, até sistemas operacionais.
 
-## Rede social: como funciona?
+
+
+## Facebook: como funciona?
 
 O Facebook é baseado em produção de conteúdo, mas não só nisso, como veremos.
 
@@ -58,6 +60,7 @@ O Facebook é baseado em produção de conteúdo, mas não só nisso, como verem
 | :---: | :---: |
 |Facebook|Perfil no Facebook|
 |**$**<br />💰️ Plataforma ganha dinheiro do anunciante|**$**<br />🖤️ Pedreiro ganha como "pagamento" uma figurinha de "coraçãozinho"|
+
 
 "Ganhar" coraçõezinhos e *likes* é conhecido como "Métrica de Vaidade".
 
@@ -82,6 +85,38 @@ Por fim, os usuários da rede como um todo ganham os textos, imagens e vídeos p
 
 
 O site é uma mídia própria, enquanto o Facebook é o que se chama em *marketing* de [Mídia Alugada](/site-comercial-um-tutorial-essencial).
+
+
+
+
+## Site vs. Facebook: Comparação
+
+Como vimos...
+✔ Umm site é um *software* que fica no servidor.
+✔ O Facebook é um site que armazena o banco de dados bem como processa as informações. Guardar dados é vital no modelo de negócio de qualquer empresa.
+✔ O Facebook tem como função ser uma rede social, onde ele "põe" as pessoas para trabalharem para ele e "paga" com figurinhas, *emojis*.
+✔ O Facebook é uma mídia de publicidade.
+
+Ou seja, na internet a autonomia está do lado do servidor (a infraestrutura com computador dedicado), pois ele é quem detém as informações e controle.
+
+Ciente disso, agora podemos pensar: o que equivale a ter **SeuSite** ou ser um mero usuário com **Perfil no Facebook**? 
+
+| Site | Perfil no Facebook |
+| :---: | :---: |
+|*SeuSite.com*|*facebook.com/usuario*|
+| Equivale a uma a loja em si (tal como a matriz que tem suporte aos clientes, logistica, etc). | Podemos imaginar uma rede social como uma vitrine de *SuaLoja* (a qual expõe produtos). |
+
+Observe ainda esta outra comparção:
+
+
+| Site | Perfil no Facebook |
+| :---: | :---: |
+|*SeuSite.com*|*facebook.com/usuario*|
+| É visto como *SuaLoja* de fato.|Um mercado de rua onde vários concorrentes ficam tentando chamar atenção dos clientes.|
+
+Agora, imagine um cliente que participou de um evento da *SuaMarca* dias atrás, e agora entrou em contatos.
+Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em uma esquina no mercado de rua?
+
 
 
 
