@@ -15,7 +15,7 @@ Primeiro, vamos entender o funcionamento do pŕoprio Facebook e nós mesmos, que
 
 ## Facebook: o modelo Cliente/Servidor
 
-<img src="https://www.devmedia.com.br/imagens/articles/artigo-arquitetura-client-server-e-three-tier-5865.jpg" width="120" />Quando o assunto é **rede de computadores**, essa ideia de "cliente / servidor" é bem viva entre [profissionais de informática](/profissionais-de-informatica). Aqui começa "o pulo do gato"! 
+Quando o assunto é **rede de computadores**, essa ideia de "cliente / servidor" é bem viva entre [profissionais de informática](/profissionais-de-informatica). Aqui começa "o pulo do gato"! 
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1K08ccqm6VxGwRoPqTGu0s5Wne4gCIUfdWQ&s" width="120" />**Servidor**: Tipo de computador que fornece algum tipo de serviço aos usuários da rede. O "data center" é um computador dedicado, que servi recursos, dados etc. Típico da estrutura, funciona 24 horas por dia.
@@ -148,11 +148,20 @@ No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda
 | ✔️ | ❌️ |
 
 
+
+## Credibilidade
+
+<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" />Refere-se à confiança do cliente na *SuaEmpresa*.
+
+| Site | Perfil Facebook |
+| :---: | :---: |
+| *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica). | Qualquer estranho pode criar uma página falsa, comprometendo  *SuaMarca*). |
+| ✔️ | ❌️ |
 ## Investimento
 
-<img src="/image/comercio.png" width="120" />
+<img src="/image/comercio.png" width="120" />O site temos que construir, e depois fazermos uma manutenção mínima. Doutro lado a rede, que é "só" criar o perfil, mas temos que trabalhar cotidianamente para produzir conteúdo. 
 
-| Site |Rede Social|
+| Site | Perfil Facebook|
 |:---:|:---:|
 |**produção**<br />U$250 a U$2500<br />Web Designer<br />Desenvolvedor|**produção**<br />Custo "zero".|
 |**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Analista de SEO, Criador de Conteúdo,Social Media |
