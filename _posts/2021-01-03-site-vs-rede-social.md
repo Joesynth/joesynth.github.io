@@ -120,18 +120,27 @@ Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em u
 
 
 
-## Tempo
+## Conteúdo e o tempo
 
-<img src="https://www.influx.com.br/storage/app/media/uploaded-files/hub/1415475/file-3437294528-jpg/blog-files/timeismoney.jpg" width="120" />Note como o *SeuSite* e o seu *Perfil no Facebook* se completam, um de forma vitalícia e outro no dia a dia.
+<img src="https://www.influx.com.br/storage/app/media/uploaded-files/hub/1415475/file-3437294528-jpg/blog-files/timeismoney.jpg" width="120" />Neste ponto ambos se completam. Observe.
 
 | Site | Perfil no Facebook |
 | :---: | :---: |
 | Foco é conteúdo atemporal. | Páginas são pensadas basicamente para promoção de conteúdos, ideias do momento. |
-|**Informações profissionais**<br />Portfólio, *tels* de contato...| **Produzir conteúdo constantemente**<br />Apresentar novas promoções, produtos, eventos.|
-| **conteúdo duradouro**<br />permanece eternamente após publicado| **conteúdo efêmero**<br />desaparece após 24 horas|
+|**tipo de conteúdo**<br />informações profissionais<br />(cortfólio, *tels* de contato...)| ****tipo de conteúdo****<br />conteúdo postado constantemente<br />(novas promoções, produtos, eventos...)|
+| **conteúdo duradouro**<br />permanece de forma vitalícia| **conteúdo efêmero**<br />desaparece após 24 horas|
 | ✔️ | ✔️ |
 
 **Google: "Tempo de casa"**: Quanto mais anos um site está no "ar", mais chances têm de aparecer nos primeiros resultados das pesquisas feitas no Google. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
+
+## Investimento
+
+<img src="/image/comercio.png" width="120" />
+
+| Site |Rede Socia|
+|:---:|:---:|
+|**produção**<br />U$250 a U$2500<br />Web Designer<br />Desenvolvedor|**produção**<br />Custo "zero".|
+|**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Criador de Conteúdo |
 
 
 
