@@ -385,6 +385,43 @@ Demais etapas seguem e além da venda; pensando em satisfação, qualidade e eng
 Vide [profissionais de informática](/profissionais-de-informatica)  e lá tem um capítulo voltado ao MKT.
 
 
+
+xxx
+
+| Tempo | Tipo de MKT |
+| :--- | :--- |
+| horas, dias | **MKT Digital Pago (Ads)**  Anúncios pagos em redes sociais e buscadores |
+| horas, dias | **MKT de Performance** Foco em resultados mensuráveis (cliques, leads, vendas) |
+| dias, semanas | **E-mail MKT** Envio de mensagens segmentadas para leads e clientes |
+| dias, semanas | **MKT de Influenciadores** Parcerias com criadores de conteúdo para divulgar produtos |
+| dias, semanas | **MKT de Guerrilha** Ações criativas e de impacto em locais públicos |
+| dias, semanas | **MKT Pago** Mídia Paga / Ads |
+| dias, semanas | **MKT de Eventos** Divulga produtos ou marcas por meio de eventos, feiras, palestras, etc |
+| semanas, meses | **MKT de Afiliados** Vendas via comissões por meio de parceiros |
+| 4 a 8 meses | **MKT de Conteúdo** Conteúdo relevante ao leitor|
+| 4 a 8 meses | **Cause-related MKT** MKT de causa |
+| 3 a 9 meses | **Endomarketing** MKT Interno |
+| 3 a 9 meses | **SEO** Melhora o posicionamento orgânico no Google |
+| 3 a 9 meses | **Social media MKT** MKT de mídia social |
+| meses anos | ** MKT de Relacionamento** Fidelização e retenção de clientes |
+
+
+## CAC vs CRC
+📚️ *CAC*: Custo de Aquisição de Cliente.
+📚️ *CRC*: Custo de Retenção de Cliente.
+
+| CAC | CRC |
+| :---: | :---: |
+| ● conquistar alguém novo ● inclui MKT forte | ● foca nos clientes existentes que conhecem a marca ● é mais barato devido muitas ações serem digitais; custo de manter alguém enganjado é menor, via de regra. |
+| anúncios, eventos, campanhas, descontos / incentivos para atrair clientes, tempo / esforço da equipe para apresentar a marca / produto | e-mail, notícias, convites para eventos. |
+
+
+
+
+xxx
+
+
+
 É isso!  
 Grande abraço, sucesso.  
 \o/
