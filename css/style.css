@@ -79,6 +79,9 @@ strong { font-size: 0.9em;}
 
 blockquote { border-left: 3px solid var(--cor-escura); padding-left: 1em; color: gray; font-weight: bold; font-style: italic;}
 
+/* tag span, classe que atua como imagem*/
+.emoji120 { font-size: 120px; }
+
 ul li, ol li { font-weight: bold;}
 
 ul, ol {margin-left: 2em;}
