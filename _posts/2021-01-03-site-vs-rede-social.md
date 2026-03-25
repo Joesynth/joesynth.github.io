@@ -79,7 +79,7 @@ Por fim, os usuários da rede como um todo ganham os textos, imagens e vídeos p
 | :---: | :---: |
 | *MeuSite.com*<br />Você é o dono do SeuSite| *facebook.com/usuário*<br />Você não é dono da rede|
 | Detém um registro| Detém um "perfil" de usuário.|
-| *SeuSite* pode nunca sair do ar!| Redes sociais saem de moda, ex.: Orkut, MySpace.|
+| *SeuSite* pode nunca sair do ar!| Redes sociais saem de moda, ex.: Orkut.|
 | O site é mais estável, sendo um canal mais sólido da *SuaMarca*. | Instável, no sentido em que ficamos suscetíveis as regras da rede.|
 | ✔️ | ❌️ |
 
@@ -133,14 +133,31 @@ Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em u
 
 **Google: "Tempo de casa"**: Quanto mais anos um site está no "ar", mais chances têm de aparecer nos primeiros resultados das pesquisas feitas no Google. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
 
+
+###### Métricas: a qualidade
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui é um caso onde ter autonomia no próprio negócio e ser dono dos dados faz a diferença.
+No site temos o virtual verdade, enquanto no Facebook ilusões.
+
+No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda" o número de visualisações e estimula o dono do perfil. O desejo da Meta é manter pessoas "presas" o dia todo na rede, e para isso aplica vários "truques".
+ 
+| Site | Perfil Facebook |
+| :---: | :---: |
+|**métrica acionável**<br />Foco: o Negócio| **métrica de vaidade**<br />Foco: o Ego|
+| **ativa = medição real**<br />10 pessoas deram email | **passiva = truque psicológico**<br />seguidores, curtidas |
+| ✔️ | ❌️ |
+
+
 ## Investimento
 
 <img src="/image/comercio.png" width="120" />
 
-| Site |Rede Socia|
+| Site |Rede Social|
 |:---:|:---:|
 |**produção**<br />U$250 a U$2500<br />Web Designer<br />Desenvolvedor|**produção**<br />Custo "zero".|
-|**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Criador de Conteúdo |
+|**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Analista de SEO, Criador de Conteúdo,Social Media |
+
+
 
 
 
