@@ -24,9 +24,11 @@ Isso, além doutros temas. Portanto vamos lá!?
 
 Um site é um *software*. Simples assim!
 
-<pre>- É contruído com linguagens de computador (literalmente escrito em códigos como HTML, CSS...) _ tal como um aplicativo de celular ou *software* de computador.
-- A estrutura desse *software* pode variar bastante. Um site pode ter desde páginas simples (como "Quem Somos" ou "Contatos") até algo mais sofisticado (*blog* , rádio etc).
-- O site tem um armazenamento em "HD", que guarda todos os dados (inclusive os textos ou fotos que vemos no próprio site).</pre>
+
+**Criação**: É contruído com linguagens de computador (literalmente escrito em códigos como HTML, CSS...) _ tal como um aplicativo de celular ou *software* de computador.
+**Estrutura do *software***: Pode variar bastante. Um site pode ter desde páginas simples (como "Quem Somos" ou "Contatos") até algo mais sofisticado (*blog* , rádio etc).
+**Armazenamento**: O site tem "HD", que guarda todos os dados (inclusive os textos ou fotos que vemos no próprio site).
+
 
 Falaremos mais sobre sites neste tutorial.
 
@@ -55,26 +57,26 @@ Saber como o Google funciona é vital para termos algum resultado na Web, inclus
 
 O Google acha o que procuramos porque sabe dúzias de coisas sobre cada site na internet. Por ex.:
 
-<pre>**Site**:
-- Idade do seu site;
-- Se está sempre está no ar;
-- Se é confiável, se é referência no nicho que atua;
+**Site**:
+✔ Idade do seu site;
+✔ Se está sempre está no ar;
+✔ Se é confiável, se é referência no nicho que atua;
 **Usuários (do seu site)**
-- Visitantes frequentes;
-- Quanto tempo ficam no seu site?
+✔ Visitantes frequentes;
+✔ Quanto tempo ficam no seu site?
 **Conteúdo**
-- Se o conteúdo é original, autoral.
-- Há fontes ou referências?
-</pre>
+✔ Se o conteúdo é original, autoral.
+✔ Há fontes ou referências?
+
 
 O outro lado da moeda: as empresas se adaptam a esse poder do Google para poderem aparecer nos resultados em vantagem diante de seus concorrentes. Então o dono de um site faz uma otimização nele, basicamente adequar o site a essa dúzia de dados que o Google sabe _e assim ter sua marca aparecendo nas primeiras páginas do Google. Em suma, isso é o trabalho chamado de SEO.
 
 Portanto quando pensar em Google...
 
-<pre>**Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.
+**Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.
 **Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.
 **Faça SEO**: sim, o Google prioriza sites otimizados. Veja SEO.
-**Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.</pre>
+**Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.
 
 Saiba mais em Qual é o poder do Google?
 
@@ -277,10 +279,10 @@ Com essas informações é oferecido um botão para o cliente fazer um pedido de
 </table>
 Qualidades em comum:
 
-<pre>- **Nossa "Casa Virtual"**:  Servem como  na internet (representando *NossaEmpresa* de fato);
-- **Vender ou aumentar as vendas** é possível (claro, o *e-commerce*, a loja virtual, é mais dedicado, um outro nível de site _"outro patamar!").
-- **Interagir com clientes**, internautas.
-- **Pagamentos**: PayPal é possível, dentre outras formas.</pre>
+**Nossa "Casa Virtual"**:  Servem como  na internet (representando *NossaEmpresa* de fato);
+**Vender ou aumentar as vendas** é possível (claro, o *e-commerce*, a loja virtual, é mais dedicado, um outro nível de site _"outro patamar!").
+**Interagir com clientes**, internautas.
+**Pagamentos**: PayPal é possível, dentre outras formas.
 
 ⚠️ Na loja física ou Site Institucional, onde na prática funciona no horário comercial, é comum o cliente se comunicar sobre o que quer comprar antes de o fazer de fato. Num e-commerce, via de regra, isso é mais dinâmico: o cliente gostou então compra. Simples assim. Então não pode haver transtorno, pois o desejo de comprar com comodidade e facilidade estaria ferido.
 
@@ -296,13 +298,13 @@ Abaixo descrevemos mais pontos a considerar.
 
 Imaginemos uma loja on-line vendendo 24h por dia e em todo país.
 
-<pre>- **Atendimento online**: um suporte é bem-vindo. Pode-se imaginar o cliente que liga pra tirar dúvidas, por ex.
-- **Avaliação de pedidos**. Um profissional avaliador de pedidos é uma opção para dar ao cliente um "*feedback*" da compra, esta realizada de madrugada ou num feriado. O profissional pode, por ex., sugerir o envio do produto por transportadora (em vez de Correios), uma outra cor de produto (que não tinha no site no momento da compra), verificar compras suspeitas e mesmo parabenizar o cliente pela aquisição.
-- **Estoque**: vender produtos 24h por dia pode resultar em algo desagradável: ficarmos sem estoque. Ou seja, pedidos no *SeuSite* precisam ser contabilizados por um sistema cuidadoso de estoque, evitando que *SeuCliente* compre algo no site que não está disponível no estoque físico. Se isso ocorrer gerará transtorno; e com tantas opções de sites concorrentes na rede há risco do cliente não voltar mais _pois basta ele procurar no Google um outro site. Solução?
-- Funcionários mais bem treinados lidarão com isso de forma melhor.
-- Dptº de compras se antever e manter o nível de estoque sempre satisfatório.
-- **Logística**: Atenção ao envio das encomendas (pedidos). Entregar no prazo é vital para evitar transtornos.
-- **Segurança do site**: Precisa-se num nível maior que o convencional, já que são 24h no ar e fazendo transações bancárias.</pre>
+**Atendimento online**: um suporte é bem-vindo. Pode-se imaginar o cliente que liga pra tirar dúvidas, por ex.
+**Avaliação de pedidos**. Um profissional avaliador de pedidos é uma opção para dar ao cliente um "*feedback*" da compra, esta realizada de madrugada ou num feriado. O profissional pode, por ex., sugerir o envio do produto por transportadora (em vez de Correios), uma outra cor de produto (que não tinha no site no momento da compra), verificar compras suspeitas e mesmo parabenizar o cliente pela aquisição.
+**Estoque**: vender produtos 24h por dia pode resultar em algo desagradável: ficarmos sem estoque. Ou seja, pedidos no *SeuSite* precisam ser contabilizados por um sistema cuidadoso de estoque, evitando que *SeuCliente* compre algo no site que não está disponível no estoque físico. Se isso ocorrer gerará transtorno; e com tantas opções de sites concorrentes na rede há risco do cliente não voltar mais _pois basta ele procurar no Google um outro site. Solução?
+✔ Funcionários mais bem treinados lidarão com isso de forma melhor.
+✔ Dptº de compras se antever e manter o nível de estoque sempre satisfatório.
+**Logística**: Atenção ao envio das encomendas (pedidos). Entregar no prazo é vital para evitar transtornos.
+**Segurança do site**: Precisa-se num nível maior que o convencional, já que são 24h no ar e fazendo transações bancárias.
 
 ## 🌐️ Site vs Rede Social
 
