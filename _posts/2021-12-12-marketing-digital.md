@@ -15,6 +15,8 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 - MKT: Custos
 
 
+
+
 ## MKT Digital: Principais objetivos
  
 ✔ Aumentar as vendas.
@@ -212,9 +214,9 @@ Conteúdo é o truque, que no geral é usado para chamar a atenção das pessoas
 
 O conteúdo em si pode...
 
-✔ explicar uma questão
-✔ tirar uma dúvida
-✔ solucionar algo
+||||
+|:---:|:---:|:---:|
+|explicar uma questão|tirar uma dúvida|solucionar algo|
 
 
 ###### Inbound: a mensagem
@@ -231,11 +233,9 @@ Bom, mas onde está essa mensagem? No conteúdo que a empresa publica _canais co
 
 ###### Inbound MKT vs content MKT
 
-Como dito, inbound usa conteúdo; mas não é a mesma coisa que MKT de conteúdo.
+Ambos usam a ideia de conteúdo e são são estratégias.
 
-Ambos são estratégias e somados dão um resultado melhor do que o esperado.
-
-> 1 + 1 = 3
+<img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />Inbound MKT e content MKT quando somados dão um resultado melhor do que o esperado.
 
 
 
@@ -245,7 +245,7 @@ Veja a diferença:
 
 |MKT de conteúdo|*inbound*|
 |:---:|:---:|
-|visa um conteúdo relevante ao leitor, podendo gerar resultados financeiros ou não|não foca só no conteúdo, mas em outros pontos também|
+|visa um conteúdo relevante ao leitor, podendo gerar resultados financeiros ou não | foco vai além do conteúdo e considera outros pontos também |
 |é algo do séc. XIX e foi reformulado no digital| séc. XXI, gera venda de forma mais previsível.|
 |conteúdo > público|visitante > lead > cliente|
 |equivale aos seus braços, no sentido de alcançar os clientes|equivale a cabeça, o cérebro com estratégia|
@@ -253,9 +253,9 @@ Veja a diferença:
 
 Por ex.:
 
-👉️ Geração de leads comerciais; 
-👉️ Nutrição desses leads para, no futuro, fechar uma venda.
-👉️ Outras táticas como: elementos de SEO, mídias sociais, MKT de influência e outras formas de comunicação de marca.
+✔ Geração de leads comerciais; 
+✔ Nutrição desses leads para, no futuro, fechar uma venda.
+✔ Outras táticas como: elementos de SEO, mídias sociais, MKT de influência e outras formas de comunicação de marca.
 
 
 
@@ -296,7 +296,9 @@ Por que?
 
 Para atrair clientes por meio de canais on-line utiliza-se ferramentas como...
 
-✔ marketing de conteúdo ✔ SEO ✔ estratégias em redes sociais
+||||
+|:---:|:---:|:---:|
+|marketing de conteúdo|SEO|estratégias em redes sociais|
 
 Benefícios do *inbound* MKT? Destaca-se:
 
