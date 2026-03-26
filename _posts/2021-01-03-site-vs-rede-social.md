@@ -134,7 +134,7 @@ Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em u
 **Google: "Tempo de casa"**: Quanto mais anos um site está no "ar", mais chances têm de aparecer nos primeiros resultados das pesquisas feitas no Google. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
 
 
-###### Métricas: a qualidade
+## Métricas: técnicos medem
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui é um caso onde ter autonomia no próprio negócio e ser dono dos dados faz a diferença.
 No site temos o virtual verdade, enquanto no Facebook ilusões.
@@ -175,6 +175,18 @@ No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda
 | **Mídia**<br />opção de profissionais estabelecidos | **Mídia**<br />preferida por amadores ou iniciantes |
 | Poucos profissionais possuem. |Todos "profissionais" estão no "Facebook"|
 |✔️|❌️|
+
+## Marketing
+
+<img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />Uma tradição: site e rede social trabalharem juntos. Somados, dão resultados melhores do que a esmo. A rede, como vimos, não temos a propriedade (que é da Meta), além dela manipular dados conforme o interesse. Mas ela tem público, que pode ser útil se esiver no nosso terreno: o site. 
+
+| Site | Perfil Facebook |
+| :--- | :--- |
+| **função**<br />loja virtual oficial<br />escritório que fecha vendas | **função**<br />vintrine digital que atrai olhares. |
+| **estratégia**<br />Foco em **conversão** e patrimônio. | **estratégia**<br />Foco em **visibilidade** e atração para o site. |
+|✔️|✔️|
+
+🤔️ Não se engane! Embora se somem, o site em si é bem mais poderoso. Temos a propriedade e com isso o controle dos dados, o que inclui a vigilância ou ter conteúdos publicados eternamente.
 
 
 ## Investimento
