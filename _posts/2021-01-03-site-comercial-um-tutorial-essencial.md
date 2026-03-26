@@ -9,10 +9,10 @@ Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; e
 
 - O que é um site?
 - Internet: um aparato comercial
-- Visibilidade, credibilidade e autoridade.
-- O poder do Google.
-- Tipos de site... e comércio (Site Institucional, E*-commerce*, Redes...).
-- Como escolher entre um e outro.
+- Visibilidade, credibilidade e autoridade
+- O poder do Google
+- Tipos de site... e comércio 
+- Como escolher entre um e outro
 - Site ou rede social: o que é melhor?
 
 Isso, além doutros temas. Portanto vamos lá!?
@@ -87,14 +87,14 @@ Saiba mais em Qual é o poder do Google?
 
 Neste assunto de comércio devemos ficar atentos aos seguintes tipos de sites:
 
-- *site* institucional,
-- *e-commerce*,
-- *blog*,
-- *marketplace*,
-- rede social,
-- *sites* de comparação de preços.
+- *Site* institucional,
+- *E-commerce*,
+- *Blog*,
+- Mídia Alugada,
 
 
+
+- 
 ###### Site institucional
 
 **<img class="alignleft" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/49e17fbc6516b5cb94698be7dec238c4.jpg" width="119" height="93" />**Para a *SuaEmpresa* ou trabalho é a forma de *site* mais comum.
@@ -121,7 +121,9 @@ Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão 
 
 **Objetivo do site institucional**?
 
+
 <blockquote>Gerar confiança e autoridade ao visitante. Passar isso aos clientes, concorrentes e parceiros.</blockquote>
+
 
 E vale lembrar:
 
@@ -143,14 +145,7 @@ Essas informações aliadas a uma apresentação bem bonita e confiável fortale
 
 A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
 
-###### Marketplace
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/MercadoLibre.svg/1200px-MercadoLibre.svg.png" width="120" />Ex.: Mercado Livre, Amazon.
-O *marketplace* atua vendendo como um grande *shopping* virtual, tendo diferentes vendedores e ofertas. Para o consumidor, a grande vantagem está na diversidade de opções _mercadorias, escolha das formas de pagamento, entrega.
-
-É bom *SuaEmpresa* ter produtos em *marketplace*, e eles devem estar atualizados _e nós (a empresa) oferecermos suporte aos clientes. Há profissionais *freelance* que fazem esses serviços. E caso sua empresa tenha um site, é possível integrar sua loja virtual a *marketplaces* (via *softs* específicos).
-
-Veja o capítulo comunicação e marketplace:50 sites.
 
 ###### Blog
 
@@ -167,16 +162,48 @@ Em suma, num *blog* cria-se contato/afinidade com consumidores pelos textos de i
 
 Veja o capítulo comunicação.
 
-###### Comparador de preços
 
-<img class="alignleft" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/compras-consumo-1.jpg?resize=900%2C515&amp;quality=50&amp;strip=all" width="99" height="57" />Ex.: Buscapé, Boa Dica ou JáCotei.
-Sites de comparação de preços..
-Veja o capítulo comunicação.
+###### Mídia Alugada
 
-###### Rede Social
 
-<img class="alignleft" src="https://static.todamateria.com.br/upload/re/de/redes-sociais-og.jpg?class=ogImageWide" width="100" height="56" /> Ex.: Facebook, YouTube ketc.
-Há mais detalhes que abordaremos neste tutorial. Veja o capítulo comunicação.
+Veja alguns exemplos:
+
+||||
+|:---:|:---:|:---:|
+|**rede Social**<br />Facebook, YouTube|***marketplace***<br />Mercado Livre|**comparador de preços**<br />Buscapé, Boa Dica, JáCotei|
+
+<img class="alignleft" src="https://static.todamateria.com.br/upload/re/de/redes-sociais-og.jpg?class=ogImageWide" width="100" height="56" /> Abordaremos mais detalhes sobre as redes sociais.
+
+O ***marketplace*** atua vendendo como um grande *shopping* virtual, tendo diferentes vendedores e ofertas. Para o consumidor, a grande vantagem está na diversidade de opções _mercadorias, escolha das formas de pagamento, entrega.
+
+É bom *SuaEmpresa* ter produtos em *marketplace*, e eles devem estar atualizados _e nós (a empresa) oferecermos suporte aos clientes. Há profissionais *freelance* que fazem esses serviços. E caso sua empresa tenha um site, é possível integrar sua loja virtual a *marketplaces* (via *softs* específicos).
+
+*Sites* de comparação de preços.
+
+Veja o capítulo comunicação e marketplace:50 sites.
+
+
+
+✔ Rede social vs marketplace vs comparador de preços
+
+
+<blockquote>A internet não é terra de ninguém. Bem pelo contrário, ela é de alguém sim:  instituições e empresas de tecnologia [Joe S]</blockquote>
+
+Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo cliente / servidor, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
+
+<blockquote>No mundo digital o dono da informação é o dono do HD.
+[Joe S]</blockquote>
+
+Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
+
+✔  Comparador de preços
+
+Com a popularização dos *marketplaces* esses sites ficaram em segundo plano. Avalie e experimente se *SuaEmpresa* terá retorno com a presença nesse tipo de veículo. Pode ser útil no fortalecimento da marca (junto ao seu site).
+
+Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*, redes...) têm pontos positivos a *SuaEmpresa*. É saber usar!
+
+
+
 
 ## 🗣️ Comunicação | Marketing Digital
 
@@ -186,19 +213,9 @@ Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas par
 
 Tem-se variáveis a se pensar.
 
-###### Rede social vs marketplace vs comparador de preços
 
-<blockquote>A internet não é terra de ninguém. Bem pelo contrário, ela é de alguém sim:  instituições e empresas de tecnologia [Joe S]</blockquote>
-Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo cliente / servidor, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
-<blockquote>No mundo digital o dono da informação é o dono do HD.
-[Joe S]</blockquote>
-Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
 
-###### Comparador de preços
 
-Com a popularização dos *marketplaces* esses sites ficaram em segundo plano. Avalie e experimente se *SuaEmpresa* terá retorno com a presença nesse tipo de veículo. Pode ser útil no fortalecimento da marca (junto ao seu site).
-
-Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*, redes...) têm pontos positivos a *SuaEmpresa*. É saber usar!
 
 ## 🗣️ Comunicação
 
@@ -313,8 +330,10 @@ Vide [Site vs. Rede Social](/site-vs-rede-social).
 ## Site Institucional ou E-commerce: qual escolher?
 
 <img class="alignleft" src="https://joesynth.files.wordpress.com/2021/12/f7042-5ffd70_b46f985d4c574709b796b46c4339702emv2.jpg" width="99" height="82" /> A escolha entre Site Institucional ou *E-commerce* depende de certos critérios. Só o proprietário pode analisar o caso da própria empresa, afinal, é o dono (ou sócios) que sabe o que tem e possuem as referências de seu mundo real (quanto há para investir, quem pode colaborar nessa nova missão etc). Em Alice no País das Maravilhas se diz:
+
 <blockquote>"Se você não sabe onde quer ir, qualquer caminho serve"
 [Carroll]</blockquote>
+
 Podemos refletir sobre o seguinte...
 
 🏠️ **Estrutura física**: já existe? Precisará ser aprimorada a logística, por exemplo? Note que certas informações geram credibilidade da SuaEmpresa para os clientes: endereço fixo conhecido há anos, CNPJ, telefone fixo,*email.*.. Como dito, isso é um diferencial na Web.
