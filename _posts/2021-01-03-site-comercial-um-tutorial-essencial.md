@@ -364,21 +364,21 @@ Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses t
 
 |||
 |:---:|:---|
-|**Nível 1**<br />mídia<br />alugada|Criar essas páginas é custo zero nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.|
-|**Nível 2**<br />site<br />institucional|Baixo ou pouco investimento dependendo dos recursos do site. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
-|**Nível 3**<br />*e-commerce*|Sua empresa está pronta para arcar com os maiores custos e todo operacional que uma loja virtual exige?|
+|**Nível 1**<br />mídia<br />alugada<br />**custo "zero"**|Criar essas páginas é xxx nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.|
+|**Nível 2**<br />site<br />institucional<br />**baixo inves-<br />timento**| Pouco a se investir, dependendo das ferramentas do site. Exemplo. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
+|**Nível 3**<br />*e-commerce*<br />**maiores custos**| Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
 
 ###### Dicas
 
 Baseado em experiências próprias sugerimos:
 
 **Nome do site**: pela ótica de marketing digital esta associado a estratégia.
-✔️ Nome vago (ex. dulyn.com): pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida o logo, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. A Nike ou a Honda podemos dizer que são nomes vagos, porém já existe sentido para esses nomes e asssociamos com tênis, moto, carro....
-✖️ Nomes muito específicos é a ideia oposta a de cima _ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*.
-✖️ Nome com números _ex.: *pipas346.co*m
+✔️ Nome vago (ex. *dulyn.com*): pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida a logomarca, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e asssociamos a tênis e veículos.
+✖️ Nome muito específico (ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*): é a ideia oposta a de cima _.
+✖️ Nome com números (ex.: *pipas346.com*).
 ✔️ Preferência para nome que possa virar marca: fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma.
 ✔️ Mobile friendly: nome fácil de digitar no celular.
-✖️ Domínio parecer com o de uma grande empresa. Ex. CocaTola.com.
+✖️ Nome quase copiado (ex. *CocaTola.com*): Domínio parece com marca famosa.
 ✔️ Exensão adequada: .net (geralmente sites de TI), ong etc.
 
 **Autoridade** (na internet): vá além do site institucional. Agregue o que for possível para torná-lo um meio de comunicação diferenciado. Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados.
