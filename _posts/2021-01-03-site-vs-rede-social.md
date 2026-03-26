@@ -4,6 +4,7 @@ Ambos são canais diferentes, onde um não substitui o outro. Mas qual investir?
 
 Como dizemos...
 
+
 > Sem referências não há escolha.
 
 Então é preciso saber alguns pontos vitais e entender o contexto para não cairmos em mitos ou vagas impressões.
@@ -122,7 +123,7 @@ Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em u
 
 ## Conteúdo e o tempo
 
-<img src="https://www.influx.com.br/storage/app/media/uploaded-files/hub/1415475/file-3437294528-jpg/blog-files/timeismoney.jpg" width="120" />Neste ponto ambos se completam. Observe.
+<img src="https://blog.auddas.com/wp-content/uploads/2024/03/Funil-ampulheta-entenda-como-funciona-esta-eficiente-estrategia-1024x683.jpg" width="120" />Neste ponto ambos se completam. Observe.
 
 | Site | Perfil no Facebook |
 | :---: | :---: |
@@ -134,6 +135,19 @@ Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em u
 **Google: "Tempo de casa"**: Quanto mais anos um site está no "ar", mais chances têm de aparecer nos primeiros resultados das pesquisas feitas no Google. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
 
 
+## Coleta de dados e o dono deles
+
+
+<img src="https://joesynth.github.io/image/ti2.png" width="120" />A moça vijiada pelo chuveiro, obra de [Pawel](/pawel), descreve bem o que ocorre nos computadores. Se é *tablet* ou celular, onde estamos, páginas da internet acessadas, são alguns casos da vigilância. No comércio e *marketing* digital o que importa é quem tem a autonomia sobre esses dados.
+
+
+| Site | Perfil no Facebook |
+| :---: | :---: |
+| **controle dos dados**<br />é do dono do site| **controle dos dados**<br />não pertence ao usuário e sim a empresa Meta |
+| ✔️ | ❌️ |
+
+
+
 ## Métricas: técnicos medem
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui é um caso onde ter autonomia no próprio negócio e ser dono dos dados faz a diferença.
@@ -141,7 +155,7 @@ No site temos o virtual verdade, enquanto no Facebook ilusões.
 
 No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda" o número de visualisações e estimula o dono do perfil. O desejo da Meta é manter pessoas "presas" o dia todo na rede, e para isso aplica vários "truques".
  
-| Site | Perfil Facebook |
+| Site | Perfil no Facebook |
 | :---: | :---: |
 |**métrica acionável**<br />Foco: o Negócio| **métrica de vaidade**<br />Foco: o Ego|
 | **ativa = medição real**<br />10 pessoas deram email | **passiva = truque psicológico**<br />seguidores, curtidas |
