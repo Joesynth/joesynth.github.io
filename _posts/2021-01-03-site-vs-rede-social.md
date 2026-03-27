@@ -75,6 +75,7 @@ O poder de quem detém o servidor não se resume só em ter os dados, mas també
 
 Entretanto, você pode ter a autonomia quando tem *SeuSite*. Abaixo, observe a comparação entre quem é dono de site e quem tem um mero perfil na rede. 
 
+
 | Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
 | :---: | :---: |
 | **propriedade**<br />Você é o dono do SeuSite | **propriedade**<br />Você não é dono da rede |
@@ -119,7 +120,7 @@ Termo conhecido no *marketing*, é uma comparação com o aluguel de um terreno,
 
 No Facebook, um vídeo de 1 min, quando visto por 2 s, é mostrado ao usuário como visto. Ao "engordar" o número de visualizações a plataforma "massageia o ego" do dono do perfil, que feliz tende a fazer mais vídeos. O desejo da Meta é exatamente esse: manter pessoas "presas" o dia todo na rede produzindo conteúdo, grátis.
 
-Além de truques de má fé, como este citado, o que nos importa em vendas e *marketing* são as medições concretas. 
+Ciente que o Facebook se pauta por truques de má fé, precisamos nos concentrar nas medições concretas. 
 
 | Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
 | :---: | :---: |
@@ -158,7 +159,7 @@ Além de truques de má fé, como este citado, o que nos importa em vendas e *ma
 
 | Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
 | :---: | :---: |
-| *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica). | Qualquer estranho pode criar uma página falsa, comprometendo  *SuaMarca*). |
+| *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica). | Qualquer estranho pode criar uma página falsa, comprometendo *SuaMarca*. |
 | ✔️ | ❌️ |
 
 
@@ -169,11 +170,13 @@ Além de truques de má fé, como este citado, o que nos importa em vendas e *ma
 ## Profissional ou amador?
 
 <img src="https://media.licdn.com/dms/image/v2/C4D12AQHvyZvjA4GMqw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1530885320003?e=2147483647&v=beta&t=8f86h9kCPMloQOsBNq3ROCzvPjbYFgVXeGlqiSEG1vQ" width="120"/>Um na multidão! Enquanto poucos optam pelo site, muitos seguem a moda das redes sociais, o que pode ser motivado por...
-✔ **desconhecimento** da importância da propriedade do site
-✔ nenhum **recurso** para investimento
-✔ falta de **estratégia** em *marketing*
+✔ **desconhecimento** da importância da propriedade do site  
+✔ nenhum **recurso** para investimento  
+✔ falta de **estratégia** em *marketing*  
 
-🤔️ Ter um site não significa abandonar as redes, mas não tê-lo significa se abster de um canal poderoso.
+Quem tem site também está na redes, mas nem todos que estão na redes possuem sites.  
+O site é um "cartão de visitas" que impressiona mais do que um perfil de mídia social.
+
 
 | Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
 | :---: | :---: |
@@ -194,8 +197,9 @@ Além de truques de má fé, como este citado, o que nos importa em vendas e *ma
 
 ###### Marketing
 
-<img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />É típico site e rede social trabalharem juntos. Quando somados dão um resultado melhor do que o esperado.
-Como vimos, a autonomia é do Facebook e assim ele toma decisões conforme o seu interesse. Porém, a rede possui um grande público, e cabe ao *SeuSite* buscar atrair esse público. O **marketing de atração** é uma das ferramentas que pode auxiliar essa união entre site e rede. A ideia é trazer as pessoas da rede para fechar o negócio no SeuSite.
+<img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />É típico site e rede social trabalharem juntos. Quando somados dão um resultado melhor do que o esperado.  
+
+Tendo o Facebook a autonomia, ele toma as decisões conforme o interesse dele. Por outro lado, ele tem um grande público, então, cabe ao *SeuSite* buscar atrair essas pessoas. O **marketing de atração** é uma das ferramentas que pode auxiliar essa união entre site e rede. A tática é trazer os frequentadores da rede para fechar o negócio na sua loja virtual, o SeuSite.
 
 | Site | Perfil Facebook |
 | :--- | :--- |
@@ -212,10 +216,11 @@ Como vimos, a autonomia é do Facebook e assim ele toma decisões conforme o seu
 O Facebook é baseado em produção de conteúdo, mas não só nisso, como veremos.
 
 <img src="https://http2.mlstatic.com/D_NQ_NP_606638-MLB106184882346_022026-O.webp" width="120" />**Exemplo do pedreiro**: Criar um perfil no Facebook é grátis porque não pagamos com dinheiro, mas sim produzindo conteúdo.
-✔ **Trabalho gratuito**: um pedreiro (o usuário) gasta horas criando aulas sobre como fazer massa.
-✔ **Conteúdo**: São os textos, imagens e vídeos produzidos de graça (pelo pedreiro).
-✔ **Atração**: o conteúdo (feito de graça pelo pedreiro) chama a atenção das pessoas que "curtem" assuntos como obra, manutenção.
-✔ Sabendo o gosto e comportamento de todos usuários da rede, portanto quem gosta do assunto **obra**, o Facebook vende anúncios de empresas para esse público-alvo específico. Então, enquanto alguém vê uma foto do pedreiro, pode receber também uma propaganda de um concorrente seu.
+✔ **Trabalho gratuito**: um pedreiro (o usuário) gasta horas criando aulas sobre como fazer massa.  
+✔ **Conteúdo**: São os textos, imagens e vídeos produzidos de graça (pelo pedreiro).  
+✔ **Atração**: o conteúdo (feito de graça pelo pedreiro) chama a atenção das pessoas que "curtem" assuntos como obra, manutenção.  
+✔ Através da vigilância o Facebook sabe quem se interessa pelo assunto **obra**, daí a plataforma vende anúncios de empresas para esse específico. Amigos (ou até clientes) do pedreiro podem receber propagandas de um concorrente do próprio pedreiro.  
+
 
 |servidor|cliente|
 | :---: | :---: |
