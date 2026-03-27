@@ -13,7 +13,7 @@ Qual investir? Site ou rede social? Sem referências não há escolha.
 5. Conteúdo e o tempo
 6. Credibilidade
 7. Profissional ou amador?
-8. 🎉️ Bônus!
+8. 🎉️ s!
 
 
 
@@ -184,10 +184,10 @@ O site é um "cartão de visitas" que impressiona mais do que um perfil de mídi
 |✔️|❌️|
 
 
+{% include mkt.html %}
 
 
-
-## 🎉️ Bônus!
+## 🎉️ s!
 
 - Marketing
 - Facebook: como funciona?
@@ -253,4 +253,4 @@ Você tem as chaves, que na prática é o *login* de Administrador _e não um de
 
 
 
-{% include final.html%}
+{% include final.html %}
