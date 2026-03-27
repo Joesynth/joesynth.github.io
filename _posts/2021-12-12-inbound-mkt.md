@@ -1,9 +1,6 @@
-#
+# Inbound marketing
 
 
-
-
-## Inbound MKT
 📚️ *inbound mkt*: MKT de atração
 
 
@@ -187,6 +184,18 @@ Demais etapas seguem e além da venda; pensando em satisfação, qualidade e eng
 **Ferramentas de integração com CRM**: Armazenar e analisar os dados de forma eficiente
 **Ferramentas como Google Trends**: Entender as tendências e necessidades do mercado.
 
-.
+## Inbound Marketing - Estratégias
+
+(Inbound Marketing e Content Marketing (Marketing de conteúdo))  
+
+✔ Blog colaborativo: membros da empresa criam conteúdo.  
+✔ Stories (MKT de conteúdo e MKT de relacionamento.  
+✔ UGC (User Generated Content ou Conteúdo Gerado pelo Usuário).  
+✔ Landing page: páginas de conversão. Está no contexto do inbound MKT.  
+✔ Redes sociais.  também usadas para Outbound / Interrupção (O "Anúncio").  
+✔ Native Ads (Publicidade Nativa): Anúncios no contexto do site. É não intrusivo. Ele se mistura ao fluxo de leitura, funcionando como "convidado" ou "participante" da conversa. Ex: quando termina de ler um artigo (aparecendo como "Conteúdo Recomendado", se o blog fala sobre tecnologia (então "Aprenda Programação" por ser bem relevante para o público que já está consumindo esse conteúdo), SERP do Google (os Links Patrocinados mimetizam o formato dos resultados orgânico). Geralmente, eles são compostos por imagem + texto.  
+✔ Prova Social (ou *Social Proof*): Um ou outro amigo ou vizinho numa lista de doadores estimulam um potencial doador a doar
+
+
 
 {% include final.html %}
