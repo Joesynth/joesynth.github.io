@@ -43,40 +43,46 @@ A comercialização na internet abrange a criação e o gerenciamento de serviç
 Você compraria um tênis de marca desconhecida?
 É possível, mas o tênis conhecido seria o mais provável. Nele está implícito a qualidade e credibilidade. Com um site é parecido.
 
-<img class="alignleft" src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="99" height="66" /> **Visibilidade** É um fator importante para que seu público possa encontrar *SuaEmpresa* de forma fácil e rápida na internet, pois é comum pesquisarmos no Google. A visibilidade online está ligada a estratégias para fazer *SuaEmpresa* estar disponível a seu público via internet _site, redes sociais, email etc.
+<img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade** É um fator importante para que seu público possa encontrar *SuaEmpresa* de forma fácil e rápida na internet, pois é comum pesquisarmos no Google. A visibilidade online está ligada a estratégias para fazer *SuaEmpresa* estar disponível a seu público via internet _site, redes sociais, email etc.
 
-**<img class="alignleft" src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="100" height="51" /> Credibilidade** Podemos considerar o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
+**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade** Podemos considerar o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
-**<img class="alignleft" src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="99" height="70" /> Autoridade** Ao lidar com produtos, serviços ou ideia, *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também SERP.
+**<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade** Ao lidar com produtos, serviços ou ideia, *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também SERP.
 
 ## O Google: o chefe
 
-<img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWSYNVGxkDHiVXg_nG-LyD-ER-NuGs1mYaQ&amp;usqp=CAU" width="118" height="75" />
+<img src="https://lh6.googleusercontent.com/proxy/mzq53TbltU2AOSaND5NzLqJtI_AuaMI3w4h9Afxxn2gbU_uDcckRl0ebPcn_zh5OCc8qmzSHQRfRpvIpKbdbfErY2ckOhMOEyWBHd_In4jEC" width="120" /> Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes. O Google é o site que acha para gente o que pesquisamos na internet. Óbvio, né!? Pesquisamos algo e o Google nos retorna vários sites. Óbvio... também! Mas sabia que eles estão organizados por importância? É um *ranking*! Os mais relevantes surgem em 1º lugar. Claro, isso é o resultado natural, sem ser pago (publicidade).
 
-Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes. O Google é o site que acha para gente o que pesquisamos na internet. Óbvio, né!? Pesquisamos algo e o Google nos retorna vários sites. Óbvio... também! Mas sabia que eles estão organizados por importância? É um *ranking*! Os mais relevantes surgem em 1º lugar. Claro, isso é o resultado natural, sem ser pago (publicidade).
+###### Google sabe coisas sobre *SeuSite*
 
 O Google acha o que procuramos porque sabe dúzias de coisas sobre cada site na internet. Por ex.:
 
+<small>
 **Site**:
-✔ Idade do seu site;
-✔ Se está sempre está no ar;
-✔ Se é confiável, se é referência no nicho que atua;
-**Usuários (do seu site)**
-✔ Visitantes frequentes;
-✔ Quanto tempo ficam no seu site?
-**Conteúdo**
-✔ Se o conteúdo é original, autoral.
-✔ Há fontes ou referências?
+✔ Idade do seu site;  
+✔ Se está sempre está no ar;  
+✔ Se é confiável, se é referência no nicho que atua;  
+**Usuários (do seu site)**  
+✔ Visitantes frequentes;  
+✔ Quanto tempo ficam no seu site?  
+**Conteúdo**  
+✔ Se o conteúdo é original, autoral;  
+✔ Há fontes ou referências?  
+</small>
 
+###### SEO
 
-O outro lado da moeda: as empresas se adaptam a esse poder do Google para poderem aparecer nos resultados em vantagem diante de seus concorrentes. Então o dono de um site faz uma otimização nele, basicamente adequar o site a essa dúzia de dados que o Google sabe _e assim ter sua marca aparecendo nas primeiras páginas do Google. Em suma, isso é o trabalho chamado de SEO.
+Sabendo que o Google sabe coiss sobre cada site, cada empresa se adapta a esse poder _para poder aparecer nos resultados das buscas em vantagem diante de seus concorrentes. Cada dono de site faz uma otimização no próprio site, que é, basicamente, adequar o *SeuSite* a essa dúzia de dados que o Google sabe _e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google. Isso é o trabalho chamado de SEO.
 
 Portanto quando pensar em Google...
 
-**Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.
-**Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.
-**Faça SEO**: sim, o Google prioriza sites otimizados. Veja SEO.
-**Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.
+<small>
+**Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.  
+**Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.  
+**Faça SEO**: sim, o Google prioriza sites otimizados. Veja SEO.  
+**Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.  
+</small>
+
 
 Saiba mais em Qual é o poder do Google?
 
@@ -87,36 +93,37 @@ Saiba mais em Qual é o poder do Google?
 
 Neste assunto de comércio devemos ficar atentos aos seguintes tipos de sites:
 
-- *Site* institucional,
-- *E-commerce*,
-- *Blog*,
-- Mídia Alugada,
+- *Site* institucional
+- *E-commerce*
+- *Blog*
+- Mídia Alugada
 
 
 
-- 
 ###### Site institucional
 
-**<img class="alignleft" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/49e17fbc6516b5cb94698be7dec238c4.jpg" width="119" height="93" />**Para a *SuaEmpresa* ou trabalho é a forma de *site* mais comum.
+**<img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/49e17fbc6516b5cb94698be7dec238c4.jpg" width="120" />**Para a *SuaEmpresa* ou trabalho é a forma de *site* mais comum.
 Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão de visita" ou da filipeta, a *SuaMarca (*ou *SuaEmpresa*) promove serviços, eventos ou informa contatos. Entretanto um site institucional vai bem além disso, por ser um modelo digital de mídia, não papel. Nele temos:
 
-**Saída**:
-✔ Apresentação da empresa: (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?
-✔ Parceiros: quem está junto com você nesta missão? Quem lhe apoia de alguma forma?
-✔ Endereços: das lojas físicas: informação que gera um certo *status*.
-✔ Canais oficiais de contato: da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.
-✔ Email oficial, lista de e-mail.
-✔ Produtos, serviços, ideias: apresentação do cardápio, bem como orientação para compra.
-✔ Horário de funcionamento das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.
-**Saída** (interno na própria empresa):
-✔ Tutoriais para funcionários (boas práticas, por ex.)
-✔ Parabenizações (aniversários, metas de vendas etc)
-✔ Relatórios internos.
-**Entrada**:
-✔ Coleta de dados: pesquisas com o usuário, cadastro de clientes ao estilo "Fale Conosco" (formulários; portanto com informações do consumidor).
-✔ Vendas: fechamento via tel (por ex.), recebimento de propostas (de clientes, parceiros, fornecedores).
-📊️ **Métricas**:
-✔ Visualizações do site, páginas mais vistas...
+<small>
+**Saída**:  
+✔ Apresentação da empresa: (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?  
+✔ Parceiros: quem está junto com você nesta missão? Quem lhe apoia de alguma forma?  
+✔ Endereços: das lojas físicas: informação que gera um certo *status*.  
+✔ Canais oficiais de contato: da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.  
+✔ Email oficial, lista de e-mail.  
+✔ Produtos, serviços, ideias: apresentação do cardápio, bem como orientação para compra.  
+✔ Horário de funcionamento das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.  
+**Saída** (interno na própria empresa):  
+✔ Tutoriais para funcionários (boas práticas, por ex.)  
+✔ Parabenizações (aniversários, metas de vendas etc)  
+✔ Relatórios internos.  
+**Entrada**:  
+✔ Coleta de dados: pesquisas com o usuário, cadastro de clientes ao estilo "Fale Conosco" (formulários; portanto com informações do consumidor).  
+✔ Vendas: fechamento via tel (por ex.), recebimento de propostas (de clientes, parceiros, fornecedores).  
+📊️ **Métricas**:  
+✔ Visualizações do site, páginas mais vistas...  
+<small>
 
 
 **Objetivo do site institucional**?
@@ -127,29 +134,29 @@ Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão 
 
 E vale lembrar:
 
-✔ Vender produto, serviço ou ideia mais diretamente às pessoas.
-✔ Ser o 1º contato entre *SuaMarca* e seu cliente.
-✔ Ponto de encontro entre clientes e empresa (vital para gerar bons números).
-✔ Segurança da informação:  dados (como horários de funcionamento, CNPJ...) são mais confiáveis no site da *SuaEmpresa* (que é o canal oficial da marca) do que em redes sociais _já que nessas qualquer um pode criar páginas falsas ou clonadas; bem como a própria página sair do ar por um nova regra do Facebook ou Youtube).
-✔ Dialogar com as pessoas: o site institucional é o contato oficial para se comunicar com clientes, fornecedores, parceiros.
+<small>
+✔ Vender produto, serviço ou ideia mais diretamente às pessoas.  
+✔ Ser o 1º contato entre *SuaMarca* e seu cliente.  
+✔ Ponto de encontro entre clientes e empresa (vital para gerar bons números).  
+✔ Segurança da informação:  dados (como horários de funcionamento, CNPJ...) são mais confiáveis no site da *SuaEmpresa* (que é o canal oficial da marca) do que em redes sociais _já que nessas qualquer um pode criar páginas falsas ou clonadas; bem como a própria página sair do ar por um nova regra do Facebook ou Youtube).  
+✔ Dialogar com as pessoas: o site institucional é o contato oficial para se comunicar com clientes, fornecedores, parceiros.  
+</small>
 
 Essas informações aliadas a uma apresentação bem bonita e confiável fortalece a sua reputação. Tudo isso gera um clima *online* muito favorável.
 
 ###### E-commerce
 
-<span style="color: #0000ff">*e-commerce*: comércio eletrônico, loja virtual</span>.
+📚️ *e-commerce*: comércio eletrônico, loja virtual.
 
 É um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada.
 
-<img class="alignleft" src="https://startupi.com.br/wp-content/uploads/2022/07/20220729_161633_0000.png" width="99" height="70" />
-
-A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
+<img src="https://startupi.com.br/wp-content/uploads/2022/07/20220729_161633_0000.png" width="120" /> A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
 
 
 
 ###### Blog
 
-**<img class="alignleft" src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="100" height="60" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
+**<img src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="120" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
 
 > Um exemplo de *blog* é o site [JoeSynth.wordpress.com](joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
 
@@ -168,11 +175,11 @@ Veja o capítulo comunicação.
 
 Veja alguns exemplos:
 
-||||
+|Rede Social|*Marketplace*|comparador de preços|
 |:---:|:---:|:---:|
-|**rede Social**<br />Facebook, YouTube|***marketplace***<br />Mercado Livre|**comparador de preços**<br />Buscapé, Boa Dica, JáCotei|
+|Facebook, YouTube|Mercado Livre|Buscapé, Boa Dica, JáCotei|
 
-<img class="alignleft" src="https://static.todamateria.com.br/upload/re/de/redes-sociais-og.jpg?class=ogImageWide" width="100" height="56" /> Abordaremos mais detalhes sobre as redes sociais.
+<img src="https://static.todamateria.com.br/upload/re/de/redes-sociais-og.jpg?class=ogImageWide" width="120" /> Abordaremos mais detalhes sobre as redes sociais.
 
 O ***marketplace*** atua vendendo como um grande *shopping* virtual, tendo diferentes vendedores e ofertas. Para o consumidor, a grande vantagem está na diversidade de opções _mercadorias, escolha das formas de pagamento, entrega.
 
@@ -191,10 +198,12 @@ Veja o capítulo comunicação e marketplace:50 sites.
 
 Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo cliente / servidor, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
 
+Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
+
 <blockquote>No mundo digital o dono da informação é o dono do HD.
 [Joe S]</blockquote>
 
-Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
+🤔️ Há a LGPD, mas na prática...
 
 ✔  Comparador de preços
 
@@ -246,7 +255,7 @@ Vale notar que o mundo digital em boa parte replica o que ocorre no físico _man
 
 Um site com *blog* incluso é um recurso que contribui na divulgação, e sendo assim um profissional blogueiro fará conteúdos constantemente. O objetivo do *blog* é captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
 
-###### Onipresença: marketplaces, redes sociais, comparadores
+###### Onipresença: Mídia Alugada
 
 Marketplace serve só pra vender?
 Rede social serve só pra interagir com amigos?
@@ -294,12 +303,15 @@ Com essas informações é oferecido um botão para o cliente fazer um pedido de
 </tr>
 </tbody>
 </table>
+
 Qualidades em comum:
 
-**Nossa "Casa Virtual"**:  Servem como  na internet (representando *NossaEmpresa* de fato);
-**Vender ou aumentar as vendas** é possível (claro, o *e-commerce*, a loja virtual, é mais dedicado, um outro nível de site _"outro patamar!").
-**Interagir com clientes**, internautas.
-**Pagamentos**: PayPal é possível, dentre outras formas.
+<small>
+**Nossa "Casa Virtual"**:  Servem como  na internet (representando *NossaEmpresa* de fato);  
+**Vender ou aumentar as vendas** é possível (claro, o *e-commerce*, a loja virtual, é mais dedicado, um outro nível de site _"outro patamar!").  
+**Interagir com clientes**, internautas.  
+**Pagamentos**: PayPal é possível, dentre outras formas.  
+</small>
 
 ⚠️ Na loja física ou Site Institucional, onde na prática funciona no horário comercial, é comum o cliente se comunicar sobre o que quer comprar antes de o fazer de fato. Num e-commerce, via de regra, isso é mais dinâmico: o cliente gostou então compra. Simples assim. Então não pode haver transtorno, pois o desejo de comprar com comodidade e facilidade estaria ferido.
 
@@ -329,7 +341,7 @@ Vide [Site vs. Rede Social](/site-vs-rede-social).
 
 ## Site Institucional ou E-commerce: qual escolher?
 
-<img class="alignleft" src="https://joesynth.files.wordpress.com/2021/12/f7042-5ffd70_b46f985d4c574709b796b46c4339702emv2.jpg" width="99" height="82" /> A escolha entre Site Institucional ou *E-commerce* depende de certos critérios. Só o proprietário pode analisar o caso da própria empresa, afinal, é o dono (ou sócios) que sabe o que tem e possuem as referências de seu mundo real (quanto há para investir, quem pode colaborar nessa nova missão etc). Em Alice no País das Maravilhas se diz:
+<img src="https://joesynth.files.wordpress.com/2021/12/f7042-5ffd70_b46f985d4c574709b796b46c4339702emv2.jpg" width="120" /> A escolha entre Site Institucional ou *E-commerce* depende de certos critérios. Só o proprietário pode analisar o caso da própria empresa, afinal, é o dono (ou sócios) que sabe o que tem e possuem as referências de seu mundo real (quanto há para investir, quem pode colaborar nessa nova missão etc). Em Alice no País das Maravilhas se diz:
 
 <blockquote>"Se você não sabe onde quer ir, qualquer caminho serve"
 [Carroll]</blockquote>
@@ -393,14 +405,11 @@ Para finalizar tenha em mente que o mundo muda cada vez mais rápido com os últ
 Tempo médio para retornos:
 Vide [Marketing Digital](/marketing-digital).
 
-**Marketing**:
-
-Tempo médio para retornos:
 
 
 ## 🌟️ Dica!
 
-<span style="color: #ff6600">Uma pessoa comum pode criar um site</span>! Há tempos isso é possível, o que pode ser um bom exercício tecnológico ou até curiosidade, diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Evidentemente, envolve planejamento, ter conhecimento de causa, experiência _para não se criar algo que num futuro, até próximo, poderá ruir.
+Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode ser um bom exercício tecnológico ou até curiosidade, diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Evidentemente, envolve planejamento, ter conhecimento de causa, experiência _para não se criar algo que num futuro, até próximo, poderá ruir.
 
 Nos grupos de Telegram, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. Fale Conosco!
 
