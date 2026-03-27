@@ -111,11 +111,12 @@ Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão 
 ✔ Endereços: das lojas físicas: informação que gera um certo *status*.  
 ✔ Canais oficiais de contato: da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.  
 ✔ Email oficial, lista de e-mail.  
+✔ Portfólio.  
 ✔ Produtos, serviços, ideias: apresentação do cardápio, bem como orientação para compra.  
 ✔ Horário de funcionamento das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.  
 **Saída** (informações institucionais):
 ✔ NAP Data *(Name, Address, Phone)* - Dados básicos usados pelo Google.
-✔ Apresentação da empresa: (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?  
+✔ Apresentação da empresa: (página “Sobre”): fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?  
 ✔ Logotipo.
 **Saída** (interno na própria empresa):  
 ✔ Tutoriais para funcionários (boas práticas, por ex.)  
@@ -166,6 +167,8 @@ A principal diferença funcional entre uma loja virtual  e um site institucional
 
 Diferente de virtual.
 
+Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, Mercado Livre (marketplace / mídia alugada), Facebook (rede social / mídia alugada) e Hotmart (infoproduto).
+
 É um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada.
 
 <img src="https://startupi.com.br/wp-content/uploads/2022/07/20220729_161633_0000.png" width="120" /> A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
@@ -173,6 +176,8 @@ Diferente de virtual.
 
 
 ###### Blog
+
+Pode estar dentro de um site institucional ou de uma loja virtual.
 
 **<img src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="120" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
 
