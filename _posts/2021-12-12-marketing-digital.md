@@ -102,7 +102,7 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 
 
 ###### Outbound Marketing
-📚️ Também conhecido como marketing de interrupção.  
+📚️ Também conhecido como *marketing* de interrupção.  
 📚️ *outbound*: saída. 
 
 
@@ -128,6 +128,10 @@ Divide o time de vendas em:
 
 ft:ai
 
+###### Ferramentas clássicas
+
+✔ Banner: É intrusivo, inclusive interrompe, ou feito para interromper (cores forte, animações que piscam, intuito "gritar"). Quer se destacar da página, por ex., um retângulo colorido. É interruptivo. Ele "grita" por atenção e compete visualmente com o que você está tentando ler. Ex.: "Compre Agora" ou "50% de Desconto".  
+✔ Pop-up: Banner q abre do nada e tem o x, sendo mais intrusivo que o próprio banner.  
 
 ###### Inbound Marketing
 📚️ Marketing de Atração.
@@ -142,19 +146,6 @@ Vide [Inbound MKT](/inbound-mkt).
 
 ###### MKT digital - outras estratégias
 
-
-**Outbound MKT ou MKT de interrupção** (ferramentas clássicas):  
-✔ Banner: É intrusivo, inclusive interrompe, ou feito para interromper (cores forte, animações que piscam, intuito "gritar"). Quer se destacar da página, por ex., um retângulo colorido. É interruptivo. Ele "grita" por atenção e compete visualmente com o que você está tentando ler. Ex.: "Compre Agora" ou "50% de Desconto".  
-✔ Pop-up: Banner q abre do nada e tem o x, sendo mais intrusivo que o próprio banner.  
-
-
-**Inbound Marketing e Content Marketing (Marketing de conteúdo)**:  
-✔ Blog colaborativo: membros da empresa criam conteúdo.  
-✔ Stories (MKT de conteúdo e MKT de relacionamento.  
-✔ UGC (User Generated Content ou Conteúdo Gerado pelo Usuário).  
-✔ Landing page: páginas de conversão. Está no contexto do inbound MKT.  
-✔ Redes sociais.  também usadas para Outbound / Interrupção (O "Anúncio").  
-✔ Native Ads (Publicidade Nativa): Anúncios no contexto do site. É não intrusivo. Ele se mistura ao fluxo de leitura, funcionando como "convidado" ou "participante" da conversa. Ex: quando termina de ler um artigo (aparecendo como "Conteúdo Recomendado", se o blog fala sobre tecnologia (então "Aprenda Programação" por ser bem relevante para o público que já está consumindo esse conteúdo), SERP do Google (os Links Patrocinados mimetizam o formato dos resultados orgânico). Geralmente, eles são compostos por imagem + texto.  
 
 **Outras**:  
 ✔ Site: pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
