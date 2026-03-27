@@ -17,6 +17,7 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 
 
+
 ## MKT Digital: Principais objetivos
  
 ✔ Aumentar as vendas.
@@ -95,9 +96,50 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 🤔️ O cliente quanto mais interage (digitalmente) mais alimenta o ciclo. 
 
 
+
+
 ## MKT digital - estratégias
 
-Alguns casos:
+
+###### Outbound Marketing
+
+📚️ *outbound*: saída. 
+
+MKT tradicional.
+
+Método antigo com técnicas de venda direta e publicidade para atingir um público amplo.
+
+
+|antigo|recente|
+|:---:|:---:|
+|Anúncios em rádio, TV, Outdoor.<br />Distribuição de folhetos.<br />Telemarketing.<br />|Cold call.<br />Google Ads (banners de anúncio).<br />E-mails marketing.<br />|
+
+
+###### Outbound 2.0
+
+Metodologia de Aaron Ross, que revolucionou os resultados da Salesforce.
+Baseia-se na segmentação e especialização do time de vendas
+Divide o time de vendas em:
+
+|Hunters|Closers|Farmers|
+|:---:|:---:|:---:|
+|identificar potenciais clientes, entender necessidades...|responsáveis por fechar vendas|responsáveis por manter o engajamento do cliente|
+
+ft:ai
+
+
+###### Inbound Marketing
+📚️ Marketing de Atração.
+
+Criação de conteúdo relevante para o público-alvo, criar relação de confiança.  
+
+Vide [Inbound MKT](/inbound-mkt).
+
+
+
+
+
+###### MKT digital - outras estratégias
 
 <small>
 **Site**: pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
@@ -107,8 +149,8 @@ Alguns casos:
 **SEM** (*Search Engine Marketing* ou Marketing de Busca). SEO e links patrocinados (Google Ads, por ex.).  
 **Mídia Alugada**: canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
 **Redes sociais**.  
-**Inbound Marketing** (Marketing de Atração): criação de conteúdo relevante para o público-alvo, criar relação de confiança.  
 **Content Marketing** (Marketing de conteúdo).  
+**UGC**(User Generated Content ou Conteúdo Gerado pelo Usuário).
 </small>
 
 
@@ -160,44 +202,6 @@ Co-marketing.
 ⛲ wikipedia/SEBRAE.
 
 
-
-
-
-## Outbound Marketing
-
-📚️ *outbound*: saída. 
-
-MKT tradicional.
-
-Método antigo com técnicas de venda direta e publicidade para atingir um público amplo.
-
-
-|antigo|recente|
-|:---:|:---:|
-|Anúncios em rádio, TV, Outdoor.<br />Distribuição de folhetos.<br />Telemarketing.<br />|Cold call.<br />Google Ads (banners de anúncio).<br />E-mails marketing.<br />|
-
-
-
-
-
-
-###### Outbound 2.0
-
-Metodologia de Aaron Ross, que revolucionou os resultados da Salesforce.
-Baseia-se na segmentação e especialização do time de vendas
-Divide o time de vendas em:
-
-|Hunters|Closers|Farmers|
-|:---:|:---:|:---:|
-|identificar potenciais clientes, entender necessidades...|responsáveis por fechar vendas|responsáveis por manter o engajamento do cliente|
-
-ft:ai
-
-
-## Inbound MKT
-📚️ *inbound mkt*: MKT de atração
-
-Vide [Inbound MKT](/inbound-mkt).
 
 
 
