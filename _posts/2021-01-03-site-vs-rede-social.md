@@ -1,53 +1,213 @@
-# Site vs Rede Social
+# Site vs. Rede Social: 7 pontos a considerar na escolha
 
-Ambos são canais diferentes, onde um não substitui o outro. Mas qual investir?
+Qual investir? Site ou rede social? Sem referências não há escolha.
 
-Como dizemos...
-
-
-> Sem referências não há escolha.
-
-Então é preciso saber alguns pontos vitais e entender o contexto para não cairmos em mitos ou vagas impressões.
-Esperamos que ao final dessa leitura, estejamos mais cientes do próprio fucionamento da internet ou mesmo *marketing*, segurança... Tomamos como exemplo de rede social o Facebook, da corporação Meta, mas poderia ser outra como o instagram, etc.
-
-Primeiro, vamos entender o funcionamento do pŕoprio Facebook e nós mesmos, que criamos nosso perfil na plataforma.
+É preciso saber os pontos vitais de cada mídia e estar mais ciente do funcionamento da internet, e assim não cairmos em mitos ou vagas impressões, ou ainda, ter alguma noção de *marketing* ou segurança. Conhecimento impacta nas nossas atitudes, então separamos sete pontos a considerar sobre site e rede social. Tomamos como exemplo de mídia social o Facebook, da empresa Meta.
 
 
 
-## Facebook: o modelo Cliente/Servidor
+1. O modelo Cliente/Servidor
+2. Propriedade e Mídia Alugada
+3. Coleta de dados: o dono deles
+4. Métricas: a qualidade das medições
+5. Conteúdo e o tempo
+6. Credibilidade
+7. Profissional ou amador?
+8. 🎉️ Bônus!
 
-Quando o assunto é **rede de computadores**, essa ideia de "cliente / servidor" é bem viva entre [profissionais de informática](/profissionais-de-informatica). Aqui começa "o pulo do gato"! 
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1K08ccqm6VxGwRoPqTGu0s5Wne4gCIUfdWQ&s" width="120" />**Servidor**: Tipo de computador que fornece algum tipo de serviço aos usuários da rede. O "data center" é um computador dedicado, que servi recursos, dados etc. Típico da estrutura, funciona 24 horas por dia.
-**Cliente**: A entidade que consome os serviços (da entidade servidora).
 
-👉️ Um site é um *software*, mas que fica no servidor. Simples assim!
+
+
+## O modelo Cliente/Servidor
+
+📚 client-server
+
+<img src="https://w3.cs.jmu.edu/kirkpams/OpenCSF/Books/csf/html/_images/CSF-Images.1.5.png" width="320" />Na internet a ideia de "cliente / servidor" é bem conhecida entre os [profissionais de informática](/profissionais-de-informatica), como os que lidam com  **rede de computadores**. Aqui começa "o pulo do gato"! 
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1K08ccqm6VxGwRoPqTGu0s5Wne4gCIUfdWQ&s" width="120" />O **servidor** é um tipo de computador que fornece algum tipo de serviço aos usuários da rede. Esse computador dedicado serve recursos, dados. Típico da estrutura, ele funciona 24 horas por dia.
+**Cliente**: A entidade que usa os serviços (da entidade servidora, o servidor).
+
+👉️ Um site é um *software*, mas que fica no servidor.
 🤔️ O Facebook possui vários servidores.
 
+Portanto nós temos dois lados com computadores: o lado do servidor (com o computador dedicado) e o lado do cliente (com os demais dispositivos).
 
-|servidor |cliente|
+|lado do servidor| lado do cliente|
 | :---: | :---: |
-|*back-end*<br />lado do servidor|*front-end*<br />lado do cliente|
-|**pessoas**<br />técnicos e engenheiros|**pessoas**<br />usuário que cria a conta na plataforma|
-|**equipamento**<br />computador dedicado|**equipamento**<br />celular, notebook<br />|
+|**tipo de computador**<br />computador dedicado|**tipo de computador**<br />celular, notebook<br />|
+|**usuário**<br />técnicos e engenheiros|**usuário**<br />pessoa que cria a conta na plataforma|
 |**informação**<br />guarda o banco de dados real|**informação**<br />exibe os dados via *login*|
 
 
-## Facebook: quem faz o que?
 
-Quais as ações que fazemos quando estamos numa rede social? E "Face" também!
+###### Facebook: cliente ou servidor?
+
+O site Facebook está do lado do servidor, e nós, que criamos nossos perfis, estamos na outra ponta, a dos clientes.
+A ações que o Facebook pode realizar diferem bastante daquelas que nós, usuários, podemos fazer. Note:
 
 |servidor|cliente|
 | :---: | :---: |
 |Facebook|Perfil no Facebook|
-|**ação**<br />coletar dados, guardar, processar, validar|**ação**<br />interagir (clicar, postar...), visualizar|
+|**ação**<br />coletar dados, processar, validar|**ação**<br />interagir (clicar, postar...), visualizar|
 
-Talvez a palavra "ação" possa lhe parecer boba, mas linguagens de programação são muito baseadas em ações. Métodos, para ser mais preciso. Linguagens são utilizadas para crias todo o mundo de *softwares* que existe hoje, até sistemas operacionais.
+🤔️ A plataforma Facebook tem toda estrutura. Há computadores especiais que armazenam os dados, processamento das informações, bem como profissionais trabalhando. Nós, usuários comuns que criamos nossos perfis no site, somente interagimos e vemos as imagens, textos e vídeos que lá estão.
 
 
 
-## Facebook: como funciona?
+
+
+
+## Propriedade e Mídia Alugada
+
+
+<img src="https://t3.ftcdn.net/jpg/05/13/30/22/360_F_513302202_WGsubVqxmaWpq6AErHQL854rDw5gIx5J.jpg" width="120" />De quem são as **chaves**? Como a infraestrutura é da empresa Meta, logo o Facebook é quem possui a autonomia, dono de tudo.
+
+|servidor|cliente|
+| :---: | :---: |
+|Facebook|Perfil no Facebook|
+| **propriedade**<br />é o dono | **propriedade**<br />não é dono |
+
+Dados reais do cliente (nome, CPF etc) ficam registrados no lado do servidor _uma regra de ouro no modelo cliente-servidor.
+O poder de quem detém o servidor não se resume só em ter os dados, mas também em vigiar e até controlar a qualidade da informação, como veremos mais abaixo.
+
+Entretanto, você pode ter a autonomia quando tem *SeuSite*. Abaixo, observe a comparação entre quem é dono de site e quem tem um mero perfil na rede. 
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+| **propriedade**<br />Você é o dono do SeuSite | **propriedade**<br />Você não é dono da rede |
+| Detém um registro| Detém um "perfil" de usuário.|
+| *SeuSite* pode nunca sair do ar!| Redes sociais saem de moda. Ex.: Orkut.|
+| Controle total. Ex.: quem vê o artigo "a" ou "b". | Usuário é obrigado a seguir as regras da rede.|
+| ✔️ | ❌️ |
+
+
+###### Mídia Alugada
+
+Termo conhecido no *marketing*, é uma comparação com o aluguel de um terreno, onde só usamos mas estamos subordinados às regras do dono do imóvel. Veja [Mídia Alugada](/site-comercial-um-tutorial-essencial).
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+| mídia própria| mídia alugada|
+| ✔️ | ❌️ |
+
+👉️ Site é mais estável, sendo o canal mais sólido da *SuaMarca*.
+
+
+
+
+
+## Coleta de dados: o dono deles
+
+
+<img src="https://joesynth.github.io/image/ti2.png" width="120" />A moça vigiada pelo chuveiro. A obra de [Pawel Kuczynky](/pawel) descreve bem o que acontece nos computadores. A vigilância em um simples celular é uma realidade. No contexto de uma loja virtual ou no *marketing* digital, o que nos importa é quem tem a autonomia sobre esses dados. Quem toma as decisões?
+
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+| **controle dos dados**<br />é do dono do site| **controle dos dados**<br />não pertence ao usuário e sim à empresa Meta |
+| ✔️ | ❌️ |
+
+
+
+
+## Métricas: a qualidade das medições
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui fica claro, como quem tem a autonomia toma as decisões conforme o próprio interesse.
+
+No Facebook, um vídeo de 1 min, quando visto por 2 s, é mostrado ao usuário como visto. Ao "engordar" o número de visualizações a plataforma "massageia o ego" do dono do perfil, que feliz tende a fazer mais vídeos. O desejo da Meta é exatamente esse: manter pessoas "presas" o dia todo na rede produzindo conteúdo, grátis.
+
+Além de truques de má fé, como este citado, o que nos importa em vendas e *marketing* são as medições concretas. 
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+|**métrica acionável**<br />Foco: o Negócio| **métrica de vaidade**<br />Foco: o Ego|
+| **ativa = medição real**<br />10 pessoas deram email | **passiva = truque psicológico**<br />seguidores, curtidas |
+| ✔️ | ❌️ |
+
+👉️ O dono do site tem um **"virtual verdade"**, enquanto no "Face" um mundo de fantasias.
+
+
+
+
+
+## Conteúdo e o tempo
+
+<img src="https://blog.auddas.com/wp-content/uploads/2024/03/Funil-ampulheta-entenda-como-funciona-esta-eficiente-estrategia-1024x683.jpg" width="120" />
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+| Foco é conteúdo atemporal. | Páginas são pensadas basicamente para promoção de conteúdos, ideias do momento. |
+|**tipo de conteúdo**<br />informações profissionais<br />(portfólio, *tels.* de contato...)| ****tipo de conteúdo****<br />conteúdo postado constantemente<br />(novas promoções, produtos, eventos...)|
+| **conteúdo duradouro**<br />permanece de forma vitalícia| **conteúdo efêmero**<br />desaparece após 24 horas|
+| ✔️ | ✔️ |
+
+**Google: "Tempo de casa"**: O próprio site, quanto mais tempo está no "ar", mais leva vantagem. Sites antigos tendem a aparecer nos primeiros resultados das pesquisas feitas no Google, comparados aos novos. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
+
+👉️ Em suma, no que tange o tempo que um conteúdo fica na internet, tanto o site quanto o perfil do Facebook são úteis para *SuaMarca*.
+
+
+
+
+
+## Credibilidade
+
+<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" />Refere-se à confiança do cliente na *SuaEmpresa*.
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+| *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica). | Qualquer estranho pode criar uma página falsa, comprometendo  *SuaMarca*). |
+| ✔️ | ❌️ |
+
+
+
+
+
+
+## Profissional ou amador?
+
+<img src="https://media.licdn.com/dms/image/v2/C4D12AQHvyZvjA4GMqw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1530885320003?e=2147483647&v=beta&t=8f86h9kCPMloQOsBNq3ROCzvPjbYFgVXeGlqiSEG1vQ" width="120"/>Um na multidão! Enquanto poucos optam pelo site, muitos seguem a moda das redes sociais, o que pode ser motivado por...
+✔ **desconhecimento** da importância da propriedade do site
+✔ nenhum **recurso** para investimento
+✔ falta de **estratégia** em *marketing*
+
+🤔️ Ter um site não significa abandonar as redes, mas não tê-lo significa se abster de um canal poderoso.
+
+| Site<br />*MeuSite.com* |Perfil Facebook<br />*facebook.com/usuário*|
+| :---: | :---: |
+| **Mídia**<br />opção de profissionais estabelecidos | **Mídia**<br />preferida por amadores ou iniciantes |
+| Poucos profissionais possuem. |Todos "profissionais" estão no "Facebook"|
+|✔️|❌️|
+
+
+
+
+
+## 🎉️ Bônus!
+
+- Marketing
+- Facebook: como funciona?
+- Site vs. Perfil Rede Social - Investimento
+
+
+###### Marketing
+
+<img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />É típico site e rede social trabalharem juntos. Quando somados dão um resultado melhor do que o esperado.
+Como vimos, a autonomia é do Facebook e assim ele toma decisões conforme o seu interesse. Porém, a rede possui um grande público, e cabe ao *SeuSite* buscar atrair esse público. O **marketing de atração** é uma das ferramentas que pode auxiliar essa união entre site e rede. A ideia é trazer as pessoas da rede para fechar o negócio no SeuSite.
+
+| Site | Perfil Facebook |
+| :--- | :--- |
+| **função**<br />loja virtual oficial<br />escritório que fecha vendas | **função**<br />vitrine digital que atrai olhares. |
+| **estratégia**<br />Foco em **conversão** e patrimônio. | **estratégia**<br />Foco em **visibilidade** e atração para o site. |
+|✔️|✔️|
+
+🤔️ Não se engane! Embora se somem, o site em si é bem mais poderoso. 
+
+
+
+###### Facebook: como funciona?
 
 O Facebook é baseado em produção de conteúdo, mas não só nisso, como veremos.
 
@@ -70,142 +230,9 @@ Por fim, os usuários da rede como um todo ganham os textos, imagens e vídeos p
 👉️ Ao mesmo tempo, o pedreiro é o produto (seus dados) e a mão de obra da rede social (por criar o conteúdo de textos, imagens...).
 
 
+###### Site vs. Perfil Rede Social - Investimento
 
-## Propriedade
-
-
-<img src="https://previews.123rf.com/images/natalishaimage/natalishaimage2206/natalishaimage220600004/188230989-womans-hand-with-metal-keys-on-blurred-background-with-house-high-quality-photo.jpg" width="120" />De quem são as **chaves**? Enquanto em um site somos o próprio dono, no caso do Facebook a Meta é quem possui a propriedade.
-
-| Site | Rede Social |
-| :---: | :---: |
-| *MeuSite.com*<br />Você é o dono do SeuSite| *facebook.com/usuário*<br />Você não é dono da rede|
-| Detém um registro| Detém um "perfil" de usuário.|
-| *SeuSite* pode nunca sair do ar!| Redes sociais saem de moda, ex.: Orkut.|
-| O site é mais estável, sendo um canal mais sólido da *SuaMarca*. | Instável, no sentido em que ficamos suscetíveis as regras da rede.|
-| ✔️ | ❌️ |
-
-
-O site é uma mídia própria, enquanto o Facebook é o que se chama em *marketing* de [Mídia Alugada](/site-comercial-um-tutorial-essencial).
-
-
-
-
-## Site vs. Facebook: Comparação
-
-Como vimos...
-✔ Um site é um *software* que fica no servidor.
-✔ O Facebook é um site que armazena o banco de dados bem como processa as informações. Guardar dados é vital no modelo de negócio de qualquer empresa.
-✔ O Facebook tem como função ser uma rede social, onde ele "põe" as pessoas para trabalharem para ele e "paga" com figurinhas, *emojis*.
-✔ O Facebook é uma mídia de publicidade.
-
-Ou seja, na internet a autonomia está do lado do servidor (a infraestrutura com computador dedicado), pois ele é quem detém as informações e controle.
-
-Ciente disso, agora podemos pensar: o que equivale a ter **SeuSite** ou ser um mero usuário com **Perfil no Facebook**? 
-
-| Site | Perfil no Facebook |
-| :---: | :---: |
-|*SeuSite.com*|*facebook.com/usuario*|
-| Equivale a uma a loja em si, tal como a matriz. | Podemos imaginar uma rede social como uma vitrine de *SuaLoja*. |
-| Há catálogo de produtos, contatos oficiais, suporte aos clientes, logistica...| Expõe-se produtos.|
-
-Observe ainda esta outra comparção:
-
-
-| Site | Perfil no Facebook |
-| :---: | :---: |
-|*SeuSite.com*|*facebook.com/usuario*|
-| É visto como *SuaLoja* de fato.|Um mercado de rua onde vários concorrentes ficam tentando chamar atenção dos clientes.|
-
-Agora, imagine um cliente que participou de um evento da *SuaMarca* dias atrás, e agora entrou em contato.
-Onde você gostaria de encontrá-lo para fechar a venda? Na *SuaEmpresa* ou em uma esquina no mercado de rua?
-
-
-
-## Conteúdo e o tempo
-
-<img src="https://blog.auddas.com/wp-content/uploads/2024/03/Funil-ampulheta-entenda-como-funciona-esta-eficiente-estrategia-1024x683.jpg" width="120" />Neste ponto ambos se completam. Observe.
-
-| Site | Perfil no Facebook |
-| :---: | :---: |
-| Foco é conteúdo atemporal. | Páginas são pensadas basicamente para promoção de conteúdos, ideias do momento. |
-|**tipo de conteúdo**<br />informações profissionais<br />(cortfólio, *tels* de contato...)| ****tipo de conteúdo****<br />conteúdo postado constantemente<br />(novas promoções, produtos, eventos...)|
-| **conteúdo duradouro**<br />permanece de forma vitalícia| **conteúdo efêmero**<br />desaparece após 24 horas|
-| ✔️ | ✔️ |
-
-**Google: "Tempo de casa"**: Quanto mais anos um site está no "ar", mais chances têm de aparecer nos primeiros resultados das pesquisas feitas no Google. Ou seja, a longevidade da *SuaMarca* é bem vista pelo Google.
-
-
-## Coleta de dados e o dono deles
-
-
-<img src="https://joesynth.github.io/image/ti2.png" width="120" />A moça vijiada pelo chuveiro, obra de [Pawel](/pawel), descreve bem o que ocorre nos computadores. Se é *tablet* ou celular, onde estamos, páginas da internet acessadas, são alguns casos da vigilância. No comércio e *marketing* digital o que importa é quem tem a autonomia sobre esses dados.
-
-
-| Site | Perfil no Facebook |
-| :---: | :---: |
-| **controle dos dados**<br />é do dono do site| **controle dos dados**<br />não pertence ao usuário e sim a empresa Meta |
-| ✔️ | ❌️ |
-
-
-
-## Métricas: técnicos medem
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui é um caso onde ter autonomia no próprio negócio e ser dono dos dados faz a diferença.
-No site temos o virtual verdade, enquanto no Facebook ilusões.
-
-No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda" o número de visualisações e estimula o dono do perfil. O desejo da Meta é manter pessoas "presas" o dia todo na rede, e para isso aplica vários "truques".
- 
-| Site | Perfil no Facebook |
-| :---: | :---: |
-|**métrica acionável**<br />Foco: o Negócio| **métrica de vaidade**<br />Foco: o Ego|
-| **ativa = medição real**<br />10 pessoas deram email | **passiva = truque psicológico**<br />seguidores, curtidas |
-| ✔️ | ❌️ |
-
-
-
-## Credibilidade
-
-<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" />Refere-se à confiança do cliente na *SuaEmpresa*.
-
-| Site | Perfil Facebook |
-| :---: | :---: |
-| *SuaMarca* possui propriedade do domínio, registro, vinculação com dados cadastrais (pessoa física ou jurídica). | Qualquer estranho pode criar uma página falsa, comprometendo  *SuaMarca*). |
-| ✔️ | ❌️ |
-
-
-
-## Consciência vs. Moda
-
-<img src="https://media.licdn.com/dms/image/v2/C4D12AQHvyZvjA4GMqw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1530885320003?e=2147483647&v=beta&t=8f86h9kCPMloQOsBNq3ROCzvPjbYFgVXeGlqiSEG1vQ" width="120"/>Um na multidão! Enquanto poucos optam pelo site, muitos seguem a moda das redes sociais, o que pode ser motivado por...
-✔ desconhecimento da importância da posse do site
-✔ nenhum recurso para investimento
-✔ falta de estratégia em *marketing*
-
-🤔️ Ter um site não significa abandonar as redes, mas não tê-lo significa se abster de um canal poderoso.
-
-| Site | Perfil no Facebook |
-| :---: | :---: |
-| *MeuSite.com*| *facebook.com/usuário*|
-| **Mídia**<br />opção de profissionais estabelecidos | **Mídia**<br />preferida por amadores ou iniciantes |
-| Poucos profissionais possuem. |Todos "profissionais" estão no "Facebook"|
-|✔️|❌️|
-
-## Marketing
-
-<img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />Uma tradição: site e rede social trabalharem juntos. Somados, dão resultados melhores do que a esmo. A rede, como vimos, não temos a propriedade (que é da Meta), além dela manipular dados conforme o interesse. Mas ela tem público, que pode ser útil se esiver no nosso terreno: o site. 
-
-| Site | Perfil Facebook |
-| :--- | :--- |
-| **função**<br />loja virtual oficial<br />escritório que fecha vendas | **função**<br />vintrine digital que atrai olhares. |
-| **estratégia**<br />Foco em **conversão** e patrimônio. | **estratégia**<br />Foco em **visibilidade** e atração para o site. |
-|✔️|✔️|
-
-🤔️ Não se engane! Embora se somem, o site em si é bem mais poderoso. Temos a propriedade e com isso o controle dos dados, o que inclui a vigilância ou ter conteúdos publicados eternamente.
-
-
-## Investimento
-
-<img src="/image/comercio.png" width="120" />O site temos que construir, e depois fazermos uma manutenção mínima. Doutro lado a rede, que é "só" criar o perfil, mas temos que trabalhar cotidianamente para produzir conteúdo. 
+<img src="/image/comercio.png" width="120" />O site temos que construir, mas depois convém uma manutenção mínima. A rede social já está pronta, é "só" criar um perfil, mas temos que produzir conteúdo todos os dias. E agora? 
 
 | Site | Perfil Facebook|
 |:---:|:---:|
@@ -213,8 +240,7 @@ No Facebook, um vídeo de 1min, se visto 2s, já conta como visto. Isso "engorda
 |**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Analista de SEO, Criador de Conteúdo,Social Media |
 
 
-
-
+Tanto *SeuSite* quanto o seu perfil no Facebook são canais importantes, onde um não substitui o outro por ambos lidarem com vendas e *marketing*. Entretanto, não se engane, o site é vital. Ele, de fato, é bem mais poderoso por ser sua "casa própria" na internet. Propriedade: um pilar central. Você tem as chaves, que na prática é o *login* de Administrador _e não um de usuário (como ocorre no Facebook). A autonomia lhe dá o poder de tomar decisões, em absoluto. Isso inclui publicar conteúdos que ficarão para sempre na web, vigiar e ter acesso a dados reais _diferente do Facebook que ilude os usuários, como vimos. Informações precisas, como por exemplo, se os clientes do *Seusite* lhe acham mais pelo Google, pelo Telegram ou por e-mail, irão impactar diretamente num planejamento melhor da *SuaMarca*.
 
 
 
