@@ -132,7 +132,8 @@ Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão 
 **Objetivo do site institucional**?
 
 
-<blockquote>Gerar confiança e autoridade ao visitante. Passar isso aos clientes, concorrentes e parceiros.</blockquote>
+> Gerar confiança e autoridade ao visitante. Passar isso aos clientes, concorrentes e parceiros.
+
 
 
 E vale lembrar:
@@ -147,9 +148,23 @@ E vale lembrar:
 
 Essas informações aliadas a uma apresentação bem bonita e confiável fortalece a sua reputação. Tudo isso gera um clima *online* muito favorável.
 
+###### Loja virtual 
+
+📚️ Virtual Store.
+
+    www.seusite.com
+
+Exclusivo, *SeuSite* é a vitrine digital própria da *SuaMarca*, também tendo controle total, tal como o site institucional.
+Possui estoque e atendimento
+É ter seu próprio site com carrinho de compras.
+
+A principal diferença funcional entre uma loja virtual  e um site institucional reside na capacidade de realizar transações financeiras automaticamente.
+
 ###### E-commerce
 
-📚️ *e-commerce*: comércio eletrônico, loja virtual.
+📚️ Comércio eletrônico.
+
+Diferente de virtual.
 
 É um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada.
 
