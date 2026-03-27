@@ -107,13 +107,16 @@ Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão 
 
 <small>
 **Saída**:  
-✔ Apresentação da empresa: (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?  
 ✔ Parceiros: quem está junto com você nesta missão? Quem lhe apoia de alguma forma?  
 ✔ Endereços: das lojas físicas: informação que gera um certo *status*.  
 ✔ Canais oficiais de contato: da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.  
 ✔ Email oficial, lista de e-mail.  
 ✔ Produtos, serviços, ideias: apresentação do cardápio, bem como orientação para compra.  
 ✔ Horário de funcionamento das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.  
+**Saída** (informações institucionais):
+✔ NAP Data *(Name, Address, Phone)* - Dados básicos usados pelo Google.
+✔ Apresentação da empresa: (página “Sobre”): informações institucionais, fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?  
+✔ Logotipo.
 **Saída** (interno na própria empresa):  
 ✔ Tutoriais para funcionários (boas práticas, por ex.)  
 ✔ Parabenizações (aniversários, metas de vendas etc)  
