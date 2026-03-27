@@ -19,7 +19,6 @@ Qual investir? Site ou rede social? Sem referências não há escolha.
 
 
 
-
 ## O modelo Cliente/Servidor
 
 📚 client-server
@@ -116,7 +115,7 @@ Termo conhecido no *marketing*, é uma comparação com o aluguel de um terreno,
 
 ## Métricas: a qualidade das medições
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui fica claro, como quem tem a autonomia toma as decisões conforme o próprio interesse.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvuZS_WmXsuwXxNa-XBOcz26IZ9HwagCEfBA&s" width="120" />Aqui fica claro como quem tem a autonomia toma as decisões conforme o próprio interesse.
 
 No Facebook, um vídeo de 1 min, quando visto por 2 s, é mostrado ao usuário como visto. Ao "engordar" o número de visualizações a plataforma "massageia o ego" do dono do perfil, que feliz tende a fazer mais vídeos. O desejo da Meta é exatamente esse: manter pessoas "presas" o dia todo na rede produzindo conteúdo, grátis.
 
@@ -174,7 +173,7 @@ Ciente que o Facebook se pauta por truques de má fé, precisamos nos concentrar
 ✔ nenhum **recurso** para investimento  
 ✔ falta de **estratégia** em *marketing*  
 
-Quem tem site também está na redes, mas nem todos que estão na redes possuem sites.  
+Quem tem site também está nas redes, mas nem todos que estão nas redes possuem sites.  
 O site é um "cartão de visitas" que impressiona mais do que um perfil de mídia social.
 
 
@@ -199,7 +198,7 @@ O site é um "cartão de visitas" que impressiona mais do que um perfil de mídi
 
 <img src="https://haecceities.files.wordpress.com/2012/03/tre.jpg" width="120" />É típico site e rede social trabalharem juntos. Quando somados dão um resultado melhor do que o esperado.  
 
-Tendo o Facebook a autonomia, ele toma as decisões conforme o interesse dele. Por outro lado, ele tem um grande público, então, cabe ao *SeuSite* buscar atrair essas pessoas. O **marketing de atração** é uma das ferramentas que pode auxiliar essa união entre site e rede. A tática é trazer os frequentadores da rede para fechar o negócio na sua loja virtual, o SeuSite.
+Tendo o Facebook a autonomia, ele toma as decisões conforme o interesse dele. Por outro lado, ele tem um grande público, então, cabe ao *SeuSite* buscar atrair essas pessoas. O **marketing de atração** é uma das ferramentas que pode auxiliar essa união entre site e rede. A tática é trazer os frequentadores da rede para fechar negócio na sua loja virtual, o SeuSite.
 
 | Site | Perfil Facebook |
 | :--- | :--- |
@@ -213,13 +212,14 @@ Tendo o Facebook a autonomia, ele toma as decisões conforme o interesse dele. P
 
 ###### Facebook: como funciona?
 
-O Facebook é baseado em produção de conteúdo, mas não só nisso, como veremos.
+Criar um perfil no Facebook é grátis porque não pagamos com dinheiro, mas sim produzindo conteúdo. 
 
-<img src="https://http2.mlstatic.com/D_NQ_NP_606638-MLB106184882346_022026-O.webp" width="120" />**Exemplo do pedreiro**: Criar um perfil no Facebook é grátis porque não pagamos com dinheiro, mas sim produzindo conteúdo.
+<img src="https://http2.mlstatic.com/D_NQ_NP_606638-MLB106184882346_022026-O.webp" width="120" />**Exemplo do pedreiro**:  
+
 ✔ **Trabalho gratuito**: um pedreiro (o usuário) gasta horas criando aulas sobre como fazer massa.  
 ✔ **Conteúdo**: São os textos, imagens e vídeos produzidos de graça (pelo pedreiro).  
 ✔ **Atração**: o conteúdo (feito de graça pelo pedreiro) chama a atenção das pessoas que "curtem" assuntos como obra, manutenção.  
-✔ Através da vigilância o Facebook sabe quem se interessa pelo assunto **obra**, daí a plataforma vende anúncios de empresas para esse específico. Amigos (ou até clientes) do pedreiro podem receber propagandas de um concorrente do próprio pedreiro.  
+✔ Através da vigilância o Facebook conhece o público que se interessa pelo assunto **obra**, daí a plataforma vende anúncios de empresas para esse grupo específico. Amigos (ou até clientes) do pedreiro podem receber propagandas de um concorrente do próprio pedreiro.
 
 
 |servidor|cliente|
@@ -245,7 +245,11 @@ Por fim, os usuários da rede como um todo ganham os textos, imagens e vídeos p
 |**manutenção / profissional**<br />Analista de SEO|**manutenção / profissional**<br />Analista de SEO, Criador de Conteúdo,Social Media |
 
 
-Tanto *SeuSite* quanto o seu perfil no Facebook são canais importantes, onde um não substitui o outro por ambos lidarem com vendas e *marketing*. Entretanto, não se engane, o site é vital. Ele, de fato, é bem mais poderoso por ser sua "casa própria" na internet. Propriedade: um pilar central. Você tem as chaves, que na prática é o *login* de Administrador _e não um de usuário (como ocorre no Facebook). A autonomia lhe dá o poder de tomar decisões, em absoluto. Isso inclui publicar conteúdos que ficarão para sempre na web, vigiar e ter acesso a dados reais _diferente do Facebook que ilude os usuários, como vimos. Informações precisas, como por exemplo, se os clientes do *Seusite* lhe acham mais pelo Google, pelo Telegram ou por e-mail, irão impactar diretamente num planejamento melhor da *SuaMarca*.
+Tanto *SeuSite* quanto o seu perfil no Facebook são canais importantes, onde um não substitui o outro por ambos lidarem com vendas e *marketing*.  
+
+Entretanto, não se engane, o site é vital. Ele, de fato, é bem mais poderoso por ser sua "casa própria" na internet. Propriedade: um pilar central.  
+
+Você tem as chaves, que na prática é o *login* de Administrador _e não um de usuário (como ocorre no Facebook). A autonomia lhe dá o poder de tomar decisões, em absoluto. Isso inclui publicar conteúdos que ficarão para sempre na web, vigiar e ter acesso a dados reais _diferente do Facebook que ilude os usuários, como vimos. Informações precisas, como por exemplo, se os clientes do *Seusite* lhe acham mais pelo Google, pelo Telegram ou por e-mail, irão impactar diretamente num planejamento melhor da *SuaMarca*.
 
 
 
