@@ -102,8 +102,9 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 
 
 ###### Outbound Marketing
-
+📚️ Também conhecido como marketing de interrupção.  
 📚️ *outbound*: saída. 
+
 
 MKT tradicional.
 
@@ -141,44 +142,45 @@ Vide [Inbound MKT](/inbound-mkt).
 
 ###### MKT digital - outras estratégias
 
-<small>
-**Site**: pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
-**Blog colaborativo**: membros da empresa criam conteúdo.  
-**Native Ads**: anúncios, porém no contexto do site.  
-**Busca de Tendências**: Google Trends.  
-**SEM** (*Search Engine Marketing* ou Marketing de Busca). SEO e links patrocinados (Google Ads, por ex.).  
-**Mídia Alugada**: canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
-**Redes sociais**.  
-**Content Marketing** (Marketing de conteúdo).  
-**UGC**(User Generated Content ou Conteúdo Gerado pelo Usuário).
-</small>
+
+**Outbound MKT ou MKT de interrupção** (ferramentas clássicas):  
+✔ Banner: É intrusivo, inclusive interrompe, ou feito para interromper (cores forte, animações que piscam, intuito "gritar"). Quer se destacar da página, por ex., um retângulo colorido. É interruptivo. Ele "grita" por atenção e compete visualmente com o que você está tentando ler. Ex.: "Compre Agora" ou "50% de Desconto".  
+✔ Pop-up: Banner q abre do nada e tem o x, sendo mais intrusivo que o próprio banner.  
 
 
-"Publicidade Native Ads anúncios online que se misturam com o conteúdo de um site ou app, sem se destacar como anúncios tradicionais. anunciante fornece conteúdo valioso no contexto da experiência do usuário. É similar à "publirreportagem", que é uma unidade de conteúdo publicitário patrocinado tentando parecer um artigo"
--https://pt.wikipedia.org/wiki/Publicidade_nativa
+**Inbound Marketing e Content Marketing (Marketing de conteúdo)**:  
+✔ Blog colaborativo: membros da empresa criam conteúdo.  
+✔ Stories (MKT de conteúdo e MKT de relacionamento.  
+✔ UGC (User Generated Content ou Conteúdo Gerado pelo Usuário).  
+✔ Landing page: páginas de conversão. Está no contexto do inbound MKT.  
+✔ Redes sociais.  também usadas para Outbound / Interrupção (O "Anúncio").  
+✔ Native Ads (Publicidade Nativa): Anúncios no contexto do site. É não intrusivo. Ele se mistura ao fluxo de leitura, funcionando como "convidado" ou "participante" da conversa. Ex: quando termina de ler um artigo (aparecendo como "Conteúdo Recomendado", se o blog fala sobre tecnologia (então "Aprenda Programação" por ser bem relevante para o público que já está consumindo esse conteúdo), SERP do Google (os Links Patrocinados mimetizam o formato dos resultados orgânico). Geralmente, eles são compostos por imagem + texto.  
 
-Mais exemplos:
+**Outras**:  
+✔ Site: pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
+✔ Busca de Tendências: Google Trends.  
+✔ SEM (*Search Engine Marketing* ou Marketing de Busca). SEO e links patrocinados (Google Ads, por ex.).  
+✔ Mídia Alugada: canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
+✔ Publirreportagem: é uma unidade de conteúdo publicitário patrocinado tentando parecer um artigo.  
+✔ Co-marketing. Bem eficaz, é a parceria entre duas empresas, geralmente com público-alvo parecido, mas que não são concorrentes diretas.  
+✔ E-mail marketing.  
+✔ Ações de engajamento: engajamento é um conjunto de técnicas que visam aumentar a interação do público com a marca.  
+✔ Consentimento dos usuários: estratégia que deve ser clara e explícita, de acordo com a LGPD (Lei Geral de Proteção de Dados).  
+✔ Remarketing: estratégia que visa aumentar as vendas e conversões. É apresentar anúncios a usuários que já mostraram interesse em uma empresa.  
+✔ Produção de Vídeo.  
+✔ Marketing de afiliados.  
+✔ Marketing para motores de busca (SEM - Search Engine Marketing).  
+✔ Neuromarketing.  
 
-Co-marketing.
-**Stories**.
-**E-mail marketing**.
-**Landing page**: páginas de conversão.
 
-**Ações de engajamento**: engajamento é um conjunto de técnicas que visam aumentar a interação do público com a marca.
-**Consentimento dos usuários**: estratégia que deve ser clara e explícita, de acordo com a LGPD (Lei Geral de Proteção de Dados).
-**Remarketing**: estratégia que visa aumentar as vendas e conversões. É apresentar anúncios a usuários que já mostraram interesse em uma empresa.
 
-**Marketing de afiliados**.
-**Gerenciador de mensagens**.
-**Pop-ups**.
-**Produção de Vídeo**.
+
 
 
 
 ## Termos relacionados ao marketing digital
 
-
-✔ Marketing para motores de busca
+**Gerenciador de mensagens**.
 ✔ Ambiente de Marketing
 ✔ Segmentação do mercado-alvo
 ✔ Criação de valor
@@ -187,7 +189,7 @@ Co-marketing.
 ✔ Rentabilidade e alocação de recursos
 ✔ Ciclo de Vida de um mercado
 ✔ Ciclo de Vida do produto ou serviço
-✔ Neuromarketing
+
 
 
 <img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
