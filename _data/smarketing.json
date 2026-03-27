@@ -1,6 +1,6 @@
 [
   {
-    "href": "seo-on-page.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "SEO On Page",
     "p": "Tutorial: o que é exatamente SEO On Page?"
@@ -18,7 +18,7 @@
     "p": "Cada vez mais comuns, veja casos conhecidos."
   },
   {
-    "href": "marketplace-49-sites.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Marketplace: 49 sites",
     "p": "Veja uma bela coleção de sites comerciais e que podem expandir os horizontes de sua empresa."
@@ -66,9 +66,15 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "marketing-digital.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Marketing digital",
+    "p": "Um guia elementar."
+  },
+  {
+    "href": "private.html",
+    "src": "image/mkt.png",
+    "h3": "Inbound Marketing",
     "p": "Um guia elementar."
   },
   {
@@ -78,7 +84,7 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "o-que-e-social-news.html",
+    "href": "private.html",
     "src": "image/mkt.png",
     "h3": "Social News: o que é?",
     "p": "Um guia elementar."
@@ -108,7 +114,13 @@
     "p": "Fique esperto nos tipos de softwares de gestão para sua empresa, vital atualmente."
   },
   {
-    "href": "site-comercial-um-tutorial-essencial.html",
+    "href": "private.html",
+    "src": "image/comercio.png",
+    "h3": "Site comercial: um tutorial essencial",
+    "p": "Tudo o que vocẽ precisa saber sobre ter um site, vital nos dias atuais."
+  },
+  {
+    "href": "site-vs-rede-social.html",
     "src": "image/comercio.png",
     "h3": "Site comercial: um tutorial essencial",
     "p": "Tudo o que vocẽ precisa saber sobre ter um site, vital nos dias atuais."
