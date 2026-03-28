@@ -1,11 +1,7 @@
 # UI e UX: Dark Patterns
 
 
-
-Olá!
-
-
-No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
+<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="120" />No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
 
 - Introdução
@@ -131,8 +127,10 @@ Esse grupo multidisciplinar utiliza todo o conhecimento acumulado (por décadas)
 
 A empresa num app, trocando em miúdos, é uma equipe multidisciplinar unida para que o usuário faça o que eles querem.  
 
-|Ponta da Empresa|Ponta do Usuário (O "Nó")|
-|:---||:---||
+
+
+|Ponta da Empresa|Ponta do Usuário ("Nó")|
+|:--- |:--- |
 |**o coletivo**<br />psicólogos comportamentais, engenheiros de dados, especialistas em marketing|**o indivíduo solitário**<br /> muitas vezes com pressa ou distraído, reagindo em tempo real a estímulos desenhados para explorar suas fraquezas cognitivas|
 
 
