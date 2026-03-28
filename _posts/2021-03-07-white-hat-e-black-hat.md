@@ -11,7 +11,7 @@ São termos típicos de área programação, segurança; mas há o semelhante na
 |White Hat|Black Hat|Gray Hat|
 | :---: | :---: | :---: |
 |**motivação**<br />segurança e proteção|**motivação**<br />ganho pessoal, roubo ou dano|**motivação**<br />curiosidade ou safio|
-|**legalidade**<br />legal|**legalidade**<br />ilegal|**Legalidade**<br />ilegal/ambigua|
+|**legalidade**<br />legal|**legalidade**<br />ilegal|**legalidade**<br />ilegal/ambigua|
 |**ética**<br />alta (hacker ético)|**ética**<br />nenhuma (malicioso)|**ética**<br />questionável (justiceiro)|
 
 
@@ -28,7 +28,7 @@ São termos típicos de área programação, segurança; mas há o semelhante na
 Uma comparação de terminologia, para prática maliciosa.
 
 | Área | Termo | O que é atacado |
-| :--- | :--- | :--- |
+| :--- | :---: | :---: |
 | **Cibersegurança** | *Black Hat* | O código / servidor |
 | **Design (UI/UX)** | *Dark Patterns* | A tomada de decisão |
 | **SEO (Google)** | *Black Hat SEO* | O algoritmo de busca |
