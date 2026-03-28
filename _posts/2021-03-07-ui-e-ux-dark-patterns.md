@@ -4,6 +4,7 @@
 
 Olá!
 
+
 No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
 
@@ -131,8 +132,8 @@ Esse grupo multidisciplinar utiliza todo o conhecimento acumulado (por décadas)
 A empresa num app, trocando em miúdos, é uma equipe multidisciplinar unida para que o usuário faça o que eles querem.  
 
 |Ponta da Empresa|Ponta do Usuário (O "Nó")|
-|:---|:---|
-|o coletivo<br />(psicólogos comportamentais, engenheiros de dados, especialistas em marketing)|o indivíduo solitário<br /> (muitas vezes com pressa ou distraído, reagindo em tempo real a estímulos desenhados para explorar suas fraquezas cognitivas)|
+|:---||:---||
+|**o coletivo**<br />psicólogos comportamentais, engenheiros de dados, especialistas em marketing|**o indivíduo solitário**<br /> muitas vezes com pressa ou distraído, reagindo em tempo real a estímulos desenhados para explorar suas fraquezas cognitivas|
 
 
 
@@ -141,7 +142,12 @@ A empresa num app, trocando em miúdos, é uma equipe multidisciplinar unida par
 
 ## Dark Patterns: Por que é um Ataque Psicológico?
 
-Há dois pilares da psicologia: Condicionamento e Exploração de Vieses Cognitivos.  
+Há dois pilares da psicologia:
+
+|||
+|:---:|:---:|
+|Condicionamento|Exploração de Vieses Cognitivos|
+
 Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).
 
 
@@ -169,9 +175,9 @@ Os casos, abaixo, podem pender mais para um ou outro pilar.
 ## Resumo do arsenal de UX "Black Hat"
 
 | Termo | O que ataca? | Tática |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | **FOMO** | Ansiedade / Medo | Urgência/Escassez falsa |
-| **Confirmshaming**| Ego / Culpa | Frases humilhantes no "Não" |
+| **Confirm-<br />shaming**| Ego / Culpa | Frases humilhantes no "Não" |
 | **Roach Motel** | Preguiça / Tempo | Dificultar o cancelamento |
 | **Bait and Switch**| Atenção / Intenção | Enganar o clique |
 | **Hidden Costs** | Comprometimento | Ocultar taxas até o final |
@@ -212,8 +218,8 @@ O site mudou de nome para:
 </pre>
 
 | Motivo da Mudança | Explicação |
-| :--- | :--- |
-| **Inclusividade** | Evitar o uso da palavra "Dark" (Escuro) como sinônimo de "Mau", combatendo vieses linguísticos. |
+| :---| | :---| |
+| **Inclusi-<br />vidade** | Evitar o uso da palavra "Dark" (Escuro) como sinônimo de "Mau", combatendo vieses linguísticos. |
 | **Clareza Jurídica** | "Deceptive" (Enganoso) é um termo mais forte e direto para processos judiciais e leis de proteção ao consumidor. |
 
 ♥️ Hoje, Brignull é uma das maiores vozes mundiais contra essas práticas, ajudando governos (inclusive na UE e EUA) a criar leis para proibir esses abusos.  
@@ -226,33 +232,40 @@ A origem dos Dark Patterns são o varejo físico, com táticas que existem no mu
 Dark Patterns não são um fenômeno exclusivo da computação. Eles são um fenômeno da psicologia aplicada ao Consumo. O que acontece é que a computação (UI/UX) escalou isso a um nível industrial e automatizado. 
 
 
-###### Dark Patterns na "época da vovó"
+###### Dark Patterns: o passado e hoje
 
-**Labirintos**: O leite e o pão (itens básicos) ficam sempre no fundo da loja para te forçar a atravessar corredores cheios de tentações.  
-**Doces no checkout**: Colocar chocolates na altura dos olhos das crianças na fila do caixa é um "ataque psicológico" à resistência dos pais.  
+**Na "época da vovó"**...
+
+|labirintos|doces no *checkout*|
+|:---:|:---:|
+|leite e pão (itens básicos) ficam sempre no fundo da loja para te forçar a atravessar corredores cheios de tentações| colocar chocolates na altura dos olhos das crianças na fila do caixa é um "ataque psicológico" à resistência dos pais|
+
+
 
 Além, há o Marketing de Resposta Direta:  
 Cartas de vendas e anúncios de jornal antigos usavam letras miúdas para esconder taxas ou faziam o cupom de cancelamento ser quase impossível de ler.  
 Isso é o tataravô do Roach Motel digital.
 
 
-###### Dark Patterns: a transposição para o digital
+**A transposição para o digital**:
 
 
 <img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="100" />
 Superpoderes! Foi o que a computação deu para essas táticas antigas.  
 
-**Escala**: Um Dark Pattern em um site atinge milhões de pessoas instantaneamente.  
-**Dados**: O algoritmo sabe exatamente em que momento você está mais vulnerável (ex: cansaço à noite) para exibir um anúncio manipulador.  
-**Velocidade**: No mundo físico, você tem tempo de pensar. No digital, o "clique" é impulsivo.  
 
+|escala|dados|velocidade|
+|:---:|:---:|:---:|
+|um Dark Pattern em um site atinge milhões de pessoas instantaneamente|o algoritmo sabe exatamente em que momento você está mais vulnerável (ex: cansaço à noite) para exibir um anúncio manipulador|no mundo físico, você tem tempo de pensar; no digital, o "clique" é impulsivo|
 
-###### Mudanças na manipulação ao longo do tempo
+🤔️ Diferente dessa época, hoje há a vigilância.
+
+**Mudanças na manipulação ao longo do tempo**:
 
 Abaixo, épocas.
 
 |Analógica|Transição|Digital|
-| :--- | :--- | :--- |
+| :---: | :---: | :--- |
 |**ambiente**<br />supermer-<br />cado|**ambiente**<br />telemar-<br />keting|**ambiente**<br />apps / e-commerce|
 |**Dark Pattern Exemplo**<br />itens essenciais no fundo da loja|**Dark Pattern Exemplo**<br />muita dificuldade em desligar ou cancelar|**Dark Pattern Exemplo**<br />assinatura em 1 clique, cancelar 10 telas|
 
