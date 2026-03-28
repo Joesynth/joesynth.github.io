@@ -9,13 +9,13 @@ Quando criamos esse guia eram sete pontos principais, mas no decorrer esticamos 
 - Software Livre
 - Armazenamento em nuvem ilimitado
 - Tamanho máximo do arquivo
-- *Real-time*!</li>
+- *Real-time*!
 - Palestras ao vivo
 - Agenda em nuvem
 - Grupo com tópicos
 - Compartilhamento
-- Por que não o usamos?</li>
-- 🎉️ Bonus!</li>
+- Por que não o usamos?
+- 🎉️ Bonus!
 
 
 
@@ -27,19 +27,17 @@ Quando criamos esse guia eram sete pontos principais, mas no decorrer esticamos 
 
 | One Drive | Telegram  | Google Drive |
 | :---: | :---: | :---: |
-|5 GB|ilimitado|15 GB|
-|❌️|✔️|❌️|
+|5 GB<br />❌️|ilimitado<br />✔️|15 GB<br />❌️|
 
 
 
 ## Tamanho máximo do arquivo
 
-Lidar com arquivos enormes é um trunfo sensacional do Tele, o que é bem-vindo com vídeos.
+<img src="https://ravel.com.br/blog/wp-content/uploads/2020/03/tamanho-arquivo.png" width="120" />Lidar com arquivos enormes é um trunfo sensacional do Tele, o que é bem-vindo com vídeos.
 
 | **WhatsApp** | **Telegram** |
 | :---: | :---: |
-| 100 MB | 2 GB |
-|❌️|✔️|
+| 100 MB<br />❌️ | 2 GB<br />✔️ |
 
 Comparado a imagem e áudio, o vídeo é o tipo de conteúdo que mais consome memória.
 
@@ -54,13 +52,13 @@ Leia mais sobre tipos de arquivos, isso pode ajudar!
 
 ## *Real-time*!
 
-Acesso à conta em tempo real: agilidade! Enquanto um serviço como o Google Drive é preciso estar logado na conta de *email* para acessar, no *Tele* é só abrir o app. Simples assim!
+<img src="https://blog.auddas.com/wp-content/uploads/2024/03/Funil-ampulheta-entenda-como-funciona-esta-eficiente-estrategia-1024x683.jpg" width="120" />Acesso à conta em tempo real: agilidade! Enquanto um serviço como o Google Drive é preciso estar logado na conta de *email* para acessar, no *Tele* é só abrir o app. Simples assim!
 
 *Particularmente, abandonei o Google Drive há anos por causa da burocracia. Eu tinha vários emails e nem sempre estava naquele que correspondia à conta Google _daí era preciso trocar, passando por aquele processo chato de telas, verificações...*
 
 ## Palestras ao vivo
 
-<img src="https://img.freepik.com/fotos-gratis/mulher-de-negocios-empoderada-trabalhando-na-cidade_23-2149589059.jpg?semt=ais_hybrid&amp;w=740" width="80" /> No *Tele* você transmite um evento ao vivo. Se sua empresa já ofereceu uma palestra e faltou algum colaborador, por motivo de doença ou outro qualquer, esse recurso é bem útil. O organizador do evento pode compartilhar *links* de transmissão, arquivos de mídia e outros conteúdos importantes durante o evento.
+<img src="https://img.freepik.com/fotos-gratis/mulher-de-negocios-empoderada-trabalhando-na-cidade_23-2149589059.jpg?semt=ais_hybrid&amp;w=740" width="100" /> No *Tele* você transmite um evento ao vivo. Se sua empresa já ofereceu uma palestra e faltou algum colaborador, por motivo de doença ou outro qualquer, esse recurso é bem útil. O organizador do evento pode compartilhar *links* de transmissão, arquivos de mídia e outros conteúdos importantes durante o evento.
 
 
 <blockquote>Vale lembrar, a funcionalidade de transmissão ao vivo tem tudo a ver com duas belas qualidades do Telegram: armazenamento em nuvem e lidar com arquivos de grande tamanho.</blockquote>
@@ -75,11 +73,11 @@ Como o marketing digital está associado a "educação" dos consumidores, essa f
 
 🤔️ Outra dica? Gravar a palestra durante o evento e depois compartilhar no grupo da empresa.
 
-## ✍️ Agenda em nuvem
+## Agenda em nuvem
 
-<img src="https://static.vecteezy.com/ti/fotos-gratis/p2/1817416-close-up-de-uma-mao-escrevendo-em-um-caderno-gratis-foto.jpg" width="120" />
+<img src="https://blog.auddas.com/wp-content/uploads/2024/03/Funil-ampulheta-entenda-como-funciona-esta-eficiente-estrategia-1024x683.jpg" width="120" />
 
-**Saved Messages **<sup>Mensagens Salvas</sup>: é uma agenda ou diário de anotações... só que em nuvem! Somente você terá acesso a tudo que está aí; podendo anotar lembretes, poesias, o que fez durante o dia etc.
+**Mensagens Salvas** <sup>*Saved Messages*</sup>: é uma agenda ou diário de anotações... só que em nuvem! Somente você terá acesso a tudo que está aí; podendo anotar lembretes, poesias, o que fez durante o dia etc.
 
 **Como usar**?
 
