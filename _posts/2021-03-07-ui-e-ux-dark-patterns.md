@@ -33,13 +33,14 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 
 ###### Os 3 Alvos da "Invasão" Psicológica
 
-| Alvo | Como o Ataque Ocorre | Exemplo Prático |
-| :--- | :--- | :--- |
-| Atenção | Direciona o olhar para longe do que importa. | O "X" para fechar o anúncio é quase invisível. |
-| Emoção | Gera medo de perder algo (Gatilho de Escassez). | "Apenas 1 unidade restante!" (mesmo sendo mentira). |
-| Hábito | Usa a memória muscular contra o usuário. | Inverter a posição dos botões "Sim" e "Não" num popup. |
 
 
+
+
+|Atenção|Emoção|Hábito|
+| :---: | :---: | :---: |
+|**como o ataque ocorre**<br />direciona o olhar para longe do que importa.|**como o ataque ocorre**<br />gera medo de perder algo (gatilho de escassez)|**como o ataque ocorre**<br />usa a memória muscular contra o usuário|
+|**exemplo**<br />o "X" para fechar o anúncio é quase invisível|**exemplo**<br />"apenas 1 unidade restante!" (mesmo sendo mentira)|**exemplo**<br />inverter a posição dos botões "Sim" e "Não" num popup|
 
 ## Técnicas de Dark Patterns
 
@@ -148,10 +149,14 @@ Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva)
 
 O design é projetado para explorar gatilhos biológicos (dopamina).  
 
-| Conceito | Foco Principal | Aplicação em UX/UI |
-| :--- | :--- | :--- |
-| **Behaviorismo** | Ação e Reação (Comportamento) | Botões, notificações e recompensas. |
-| **P. Cognitiva** | Pensamento e Memória (Processamento) | Hierarquia visual, clareza e navegação intuitiva. |
+
+
+|Behaviorismo|P. Cognitiva|
+| :---: | :---: |
+|**foco principal**<br />ação e reação (comportamento)|**foco principal**<br />pensamento e memória (processamento)|
+|**UX/UI (aplicação)**<br />botões, notificações e recompensas| **UX/UI (aplicação)**<br />hierarquia visual, clareza e navegação intuitiva|
+
+
 
 Os casos, abaixo, podem pender mais para um ou outro pilar.
 
@@ -242,14 +247,14 @@ Superpoderes! Foi o que a computação deu para essas táticas antigas.
 **Velocidade**: No mundo físico, você tem tempo de pensar. No digital, o "clique" é impulsivo.  
 
 
-###### "Evolução" da manipulação
+###### Mudanças na manipulação ao longo do tempo
 
-| Era | Ambiente | Exemplo de "Dark Pattern" |
+Abaixo, épocas.
+
+|Analógica|Transição|Digital|
 | :--- | :--- | :--- |
-| **Analógica** | Supermercado | Itens essenciais no fundo da loja. |
-| **Transição** | Telemarketing | Dificuldade extrema em desligar ou cancelar. |
-| **Digital** | Apps / E-commerce | assinatura em 1 clique, mas cancelamento em 10 telas. |
-
+|**ambiente**<br />supermer-<br />cado|**ambiente**<br />telemar-<br />keting|**ambiente**<br />apps / e-commerce|
+|**Dark Pattern Exemplo**<br />itens essenciais no fundo da loja|**Dark Pattern Exemplo**<br />muita dificuldade em desligar ou cancelar|**Dark Pattern Exemplo**<br />assinatura em 1 clique, cancelar 10 telas|
 
 🤔 É certo que uma prática de persuasão coercitiva, sendo que a computação deu o meio mais eficiente que a humanidade já inventou para aplicá-la. A questão é que, agora, essa eficiência se resume em subjugar: xeque-mate no usuário, no "nó".  
 
