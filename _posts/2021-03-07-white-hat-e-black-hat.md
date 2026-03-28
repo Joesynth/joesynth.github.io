@@ -1,8 +1,7 @@
 # White hat e black hat
 
 
-Olá!
-Indo direto ao assunto.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL39v79QZFfUqeM0CTVJ-HecIUeOCxahl3GQ&s" width="310" />
 
 São termos típicos de área programação, segurança; mas há o semelhante na área de design UI/UX, como veremos.
 
