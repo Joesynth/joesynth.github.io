@@ -8,18 +8,20 @@ São termos típicos de área programação, segurança; mas há o semelhante na
 
 ## White Hat, Black Hat e Gray Hat
 
-| Tipo | Motivação | Legalidade | Ética |
-| :--- | :--- | :--- | :--- |
-| **Black Hat** | Ganho pessoal, roubo ou dano | **Ilegal** | Nenhuma (Malicioso) |
-| **Gray Hat** | Curiosidade ou desafio | **Ilegal/Ambigua** | Questionável (Justiceiro) |
-| **White Hat** | Segurança e proteção | **Legal** | Alta (Hacker Ético) |
+|White Hat|Black Hat|Gray Hat|
+| :---: | :---: | :---: |
+|**motivação**<br />segurança e proteção|**motivação**<br />ganho pessoal, roubo ou dano|**motivação**<br />curiosidade ou safio|
+|**legalidade**<br />legal|**legalidade**<br />ilegal|**Legalidade**<br />ilegal/ambigua|
+|**ética**<br />alta (hacker ético)|**ética**<br />nenhuma (malicioso)|**ética**<br />questionável (justiceiro)|
+
 
 ## Black Hat vs. Gray Hat
 
-**Black Hat (Chapéu Preto)**: É o criminoso. Ele invade sistemas com intenção maliciosa, seja para roubar dados, extorquir dinheiro ou causar destruição. Age na sombra e sem permissão.  
-**Gray Hat (Chapéu Cinza)**: É o meio-termo. Ele pode invadir um sistema sem permissão (o que é ilegal), mas não faz isso para roubar. Geralmente, ele descobre a falha e depois avisa a empresa, às vezes pedindo uma "recompensa" em troca. É um justiceiro que opera em uma zona ética nublada.  
+📚️ Chapéu Preto; Chapéu Cinza.
 
-
+|Black Hat|Gray Hat|
+|:---:|:---:|
+|É o criminoso.<br />Ele invade sistemas com intenção maliciosa, seja para roubar dados, extorquir dinheiro ou causar destruição. Age na sombra e sem permissão.|É o meio-termo.<br />Ele pode invadir um sistema sem permissão (o que é ilegal), mas não faz isso para roubar. Geralmente, ele descobre a falha e depois avisa a empresa, às vezes pedindo uma "recompensa" em troca. É um justiceiro que opera em uma zona ética nublada.|
 
 ## Áreas de tecnologia e termos
 
