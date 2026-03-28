@@ -22,11 +22,11 @@ Quando criamos esse guia eram sete pontos principais, mas no decorrer esticamos 
 
 **Software Livre ou software privado**?
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" /> O WhatsApp é um caso típico de <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">*software* privado</a>, portanto tem dono, autor: a empresa desenvolvedora _embora não pagamos para instalar ele. O <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre</a> também adquirimos de graça, mas podemos fazer o que quiser com ele _até alterar o próprio *software* em si (se fossemos um programador, claro).
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" /> O WhatsApp é um caso típico de *software* privado, portanto tem dono, autor: a empresa desenvolvedora _embora não pagamos para instalar ele. O Software Livre também adquirimos de graça, mas podemos fazer o que quiser com ele _até alterar o próprio *software* em si (se fossemos um programador, claro).
 
-Em todo planeta, Softwares Livres são utilizados por instituições de Estado, <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>, corporações _como a Microsoft, Google etc (embora estas façam produtos do tipo *software* privado, que é feito para vender). Outro grupo são os militares, que além de usar apontam as qualidades do Software Livre:
+Em todo planeta, Softwares Livres são utilizados por instituições de Estado, profissionais de informática, corporações _como a Microsoft, Google etc (embora estas façam produtos do tipo *software* privado, que é feito para vender). Outro grupo são os militares, que além de usar apontam as qualidades do Software Livre:
 <blockquote>"segurança, desempenho e custo". *[*Academia Militar das Agulhas Negras, 2018*]*</blockquote>
-O Telegram é um <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/">Software Livre</a>.
+O Telegram é um Software Livre.
 
 ## 💽️ Armazenamento em nuvem ilimitado
 
@@ -54,10 +54,13 @@ Lidar com arquivos enormes é um trunfo sensacional do Tele, o que é bem-vindo 
 Comparado a imagem e áudio, o vídeo é o tipo de conteúdo que mais consome memória.
 
 Tamanho do arquivo está ligado a qualidade, via de regra:
-❎️ WhatsApp tem imposições quanto à resolução de vídeo.
-☑️ Desfrute no Telegram com vídeos de boa resolução.
 
-Leia mais sobre <a href="https://joesynth.wordpress.com/2020/02/24/tipos-de-arquivos-de-audio/">tipos de arquivos</a>, isso pode ajudar!
+|WhatsApp|Telegram|
+| :---: | :---: |
+|tem imposições quanto à resolução de vídeo<br />❌️|desfrute com vídeos de boa resolução<br />✔️|
+
+
+Leia mais sobre tipos de arquivos, isso pode ajudar!
 
 ## 🚀️ *Real-time*!
 
@@ -68,11 +71,15 @@ Acesso à conta em tempo real: agilidade! Enquanto um serviço como o Google Dri
 ## 🎬️ Palestras ao vivo
 
 <img src="https://img.freepik.com/fotos-gratis/mulher-de-negocios-empoderada-trabalhando-na-cidade_23-2149589059.jpg?semt=ais_hybrid&amp;w=740" width="80" /> No *Tele* você transmite um evento ao vivo. Se sua empresa já ofereceu uma palestra e faltou algum colaborador, por motivo de doença ou outro qualquer, esse recurso é bem útil. O organizador do evento pode compartilhar *links* de transmissão, arquivos de mídia e outros conteúdos importantes durante o evento.
-<blockquote>Vale lembrar, a funcionalidade de transmissão ao vivo tem tudo a ver com duas belas qualidades do Telegram: armazenamento em nuvem e lidar com arquivos de grande tamanho.</blockquote>
-❎️ WhatsApp? Permite vídeos pequenos, para os maiores pode haver limitações.
-☑️ Telegram nos dá a liberdade de atuar com vídeos gigantescos _até com mais de 2 horas de duração.
 
-Como o <a href="https://joesynth.wordpress.com/2021/12/12/marketing-digital/">marketing digital</a> está associado a "educação" dos consumidores, essa ferramenta pode ser utilizada para transmitir vídeos de festas ou seminários, por ex., _gerando uma aproximação melhor com clientes do que se fosse feito com fotos ou *reels*.
+<blockquote>Vale lembrar, a funcionalidade de transmissão ao vivo tem tudo a ver com duas belas qualidades do Telegram: armazenamento em nuvem e lidar com arquivos de grande tamanho.</blockquote>
+
+
+|WhatsApp|Telegram|
+| :---: | :---: |
+|permite vídeos pequenos (maiores pode haver limitações)<br />❌️|nos dá a liberdade de atuar com vídeos gigantescos (até com mais de 2 horas de duração)<br />✔️|
+
+Como o marketing digital está associado a "educação" dos consumidores, essa ferramenta pode ser utilizada para transmitir vídeos de festas ou seminários, por ex., _gerando uma aproximação melhor com clientes do que se fosse feito com fotos ou *reels*.
 
 🤔️ Outra dica? Gravar a palestra durante o evento e depois compartilhar no grupo da empresa.
 
@@ -191,7 +198,13 @@ Até uma criança acha arquivos com rapidez e simplicidade no *Tele*. Há um cal
 ● Clique Calendário.</pre>
 Assim, um documento compartilhado anos atrás, por ex., e que hoje precisa ser revisto,  será achado facilmente.
 
-❎️ WhatsApp: Podemos ter problema nele para obter o mesmo resultado deste exemplo. Você terá que manter *backups* constantes. O WhatsApp guarda os arquivos no próprio celular e não num <a href="http://servidor">servidor</a> (em nuvem, tal como o *Tele*).
+
+Podemos ter problema nele para obter o mesmo resultado deste exemplo. Você terá que manter *backups* constantes.
+
+|WhatsApp|Telegram|
+| :---: | :---: |
+|guarda os arquivos no próprio celular<br />❌️|guarda os arquivos em servidor (nuvem)<br />✔️|
+
 
 ###### 📊️ Enquete
 
@@ -227,7 +240,7 @@ Veja como fazer isso sem pendrive e rápido.
 - No menu que surge, clique em *Download* para baixar.</pre>
 Sugiro jogar suas *pen*drives no lixo! 😁️
 
-Outro caso? Um amigo seu que não tenha Telegram _ele só tem o WhatsApp. Você pode compartilhar o seu arquivo com ele, salvo se o arquivo for enorme _caso de um vídeo de grande duração com alta qualidade (pois o WhatsApp pode ter limitações, inclusive comprimir o arquivo para viabilizar a operação, o que provocará perda de qualidade; vide <a href="https://joesynth.wordpress.com/2020/03/05/conversao-de-arquivos/">conversão de arquivos</a>).
+Outro caso? Um amigo seu que não tenha Telegram _ele só tem o WhatsApp. Você pode compartilhar o seu arquivo com ele, salvo se o arquivo for enorme _caso de um vídeo de grande duração com alta qualidade (pois o WhatsApp pode ter limitações, inclusive comprimir o arquivo para viabilizar a operação, o que provocará perda de qualidade; vide conversão de arquivos).
 
 ● Uso do Telegram no Trabalho: O *Tele* não faz restrições quanto a quantidade de computadores associados a sua conta. Se sua empresa tem 10 lojas, você pode fazer um *upload* em em casa, no "*Saved Messages*" , ir a qualquer filial e lá "pegar" seu arquivo.
 
@@ -241,33 +254,33 @@ O *Tele* é popular em países como Ucrânia, Índia e Alemanha. No Brasil, o po
 
 Paralelo a isso há a questão do Software Livre, que no geral e por natureza, leva desvantagem frente às empresas.
 <blockquote>"Há a questão do marketing [feito pelas empresas], se gasta com propagandas a fim de despertar o interesse do usuário." [Academia Militar das Agulhas Negras, 2018].</blockquote>
-Contudo, as qualidades do Telegram são sabidas por <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">profissionais de informática</a>, que estão presentes ativamente em <a href="http://77">grupos de Telegram</a>.
+Contudo, as qualidades do Telegram são sabidas por profissionais de informática, que estão presentes ativamente em grupos de Telegram.
 
 ## 🎉️ Bonus!
 
 
 ###### Wordpress &amp; Telegram
 
-<img src="https://michaelcampos.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2016/07/telegram.jpg.webp" width="120" />Tanto o poderoso sistema de gestão de sites <a href="https://joesynth.wordpress.com/2021/12/12/wordpress/">Wordpress</a> quanto o e-*commerce* <a href="https://joesynth.wordpress.com/2021/12/12/e-commerce/">WooCommerce</a> podem ser integrados ao *Telegram*. Com esses *softwares* trabalhando juntos temos novas ferramentas de automação e mesmo robôs (vide *Bots* abaixo). Se sua empresa (ou sua marca) ainda não correlacionou o *Tele* ao Wordpress, lembre-se, algum concorrente seu já pode ter feito isso e está na vantagem _portanto, atualize-se! A integração é feita via <a href="https://joesynth.wordpress.com/2021/12/12/wordpress-plugins/">Plugins</a><a href="https://joesynth.wordpress.com/2021/12/12/wordpress-plugins/"> Wordpress </a>.
+<img src="https://michaelcampos.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2016/07/telegram.jpg.webp" width="120" />Tanto o poderoso sistema de gestão de sites Wordpress quanto o e-*commerce* WooCommerce podem ser integrados ao *Telegram*. Com esses *softwares* trabalhando juntos temos novas ferramentas de automação e mesmo robôs (vide *Bots* abaixo). Se sua empresa (ou sua marca) ainda não correlacionou o *Tele* ao Wordpress, lembre-se, algum concorrente seu já pode ter feito isso e está na vantagem _portanto, atualize-se! A integração é feita via Plugins Wordpress .
 
 ###### Bots Telegram
 
-Eles funcionam como <a href="https://joesynth.wordpress.com/2020/11/30/o-que-e-um-plugin-vst/">plugins</a>, onde automação é uma palavra-chave. Podemos ter, por exemplo:
+Eles funcionam como plugins, onde automação é uma palavra-chave. Podemos ter, por exemplo:
 envio simultâneo: todos recebem o aquivo assim que você os envia, como no *email marketing, direct mail* (mala direta).
 ● *Podcasts*: caso do Youtcast Bot.
 
 ## 🤔️ Conclusão?
 
 Como vimos, diferentemente do WhatsApp que usamos para falar com os amigos, o Telegram é bem mais superior por...
-● ter armazenamento em nuvem <span style="color: #ff6600">ilimitado (o que o torna a melhor das <a href="https://joesynth.wordpress.com/2023/10/16/opcoes-ao-google-drive/">opções ao Google Drive</a>),
+● ter armazenamento em nuvem ilimitado (o que o torna a melhor das opções ao Google Drive),
 til para os que lidam com áudio em alta fidelidade ou vídeo),
-● ser um <a href="https://joesynth.wordpress.com/2021/11/28/software-livre-e-software-proprietario/"><span style="color: #ff6600">Software Livre</a> _daí privacidade, leveza ou desempenho, segurança (ou transparência do próprio código do *software*, por estar disponível publicamente),
-● lógica simples e rápida na <span style="color: #ff6600">organização de grandes quantidades de informações, vital para quem lida com conteúdo.
-● *software* <span style="color: #ff6600">colaborativo, portanto agilizando o trabalho em grupo (o que já é uma realidade nas empresas).
+● ser um Software Livre _daí privacidade, leveza ou desempenho, segurança (ou transparência do próprio código do *software*, por estar disponível publicamente),
+● lógica simples e rápida na organização de grandes quantidades de informações, vital para quem lida com conteúdo.
+● *software* colaborativo, portanto agilizando o trabalho em grupo (o que já é uma realidade nas empresas).
 
 Para finalizar este tutorial, mais duas dicas:
-● Instale pela <a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-● Veja <a href="https://joesynth.wordpress.com/2024/09/14/telegram-grupos-interessantes/">77 Grupos de Telegram</a>.
+● Instale pela F-Droid.
+● Veja 77 Grupos de Telegram.
 
 Então é isso!  
 Grande abraço.  
