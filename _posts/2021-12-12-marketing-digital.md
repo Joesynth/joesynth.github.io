@@ -64,17 +64,9 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 
 ###### Head Tail / Long Tail: Softwares
 
-| Software | Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
-| :--- | :--- | :--- |
-| **ERP** | Curva A: 20% dos produtos que geram 80% da receita. | Curva C: Itens de baixa rotação que ocupam espaço. |
-| **CRM** | Key Accounts: grandes clientes que sustentam o faturamento. | Long Tail de Clientes: milhares de pequenos clientes atomizados. |
-| **Google Analytics** | Head Keywords: palavras genéricas com alto volume/custo. | Consultas de Pesquisa: frases longas a base de cliques. |
-| **E-commerce** | Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
 
+###### Contexto de Uso - Termos no SEO / Google Ads
 
-| Contexto de Uso | Termo para o "Topo"*<br />(Massa) | Termo para o "Nicho"*<br />(Específico) |
-| :--- | :--- | :--- |
-| **SEO / Google Ads** | **Head Tail**<br />palavra-chave curta | **Long Tail***<br />palavra-chave longa |
 
 
 ###### Head Tail / Long Tail: Exemplos de produto
@@ -147,22 +139,6 @@ Vide [Inbound MKT](/inbound-mkt).
 ###### MKT digital - outras estratégias
 
 
-**Outras**:  
-✔ Site: pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
-✔ Busca de Tendências: Google Trends.  
-✔ SEM (*Search Engine Marketing* ou Marketing de Busca). SEO e links patrocinados (Google Ads, por ex.).  
-✔ Mídia Alugada: canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
-✔ Publirreportagem: é uma unidade de conteúdo publicitário patrocinado tentando parecer um artigo.  
-✔ Co-marketing. Bem eficaz, é a parceria entre duas empresas, geralmente com público-alvo parecido, mas que não são concorrentes diretas.  
-✔ E-mail marketing.  
-✔ Ações de engajamento: engajamento é um conjunto de técnicas que visam aumentar a interação do público com a marca.  
-✔ Consentimento dos usuários: estratégia que deve ser clara e explícita, de acordo com a LGPD (Lei Geral de Proteção de Dados).  
-✔ Remarketing: estratégia que visa aumentar as vendas e conversões. É apresentar anúncios a usuários que já mostraram interesse em uma empresa.  
-✔ Produção de Vídeo.  
-✔ Marketing de afiliados.  
-✔ Marketing para motores de busca (SEM - Search Engine Marketing).  
-✔ Neuromarketing.  
-
 
 
 
@@ -208,25 +184,6 @@ Vide [Inbound MKT](/inbound-mkt).
 Vide [profissionais de informática](/profissionais-de-informatica)  e lá tem um capítulo voltado ao MKT.
 
 
-
-xxx
-
-| Tempo | Tipo de MKT |
-| :--- | :--- |
-| horas, dias | **MKT Digital Pago (Ads)**  Anúncios pagos em redes sociais e buscadores |
-| horas, dias | **MKT de Performance** Foco em resultados mensuráveis (cliques, leads, vendas) |
-| dias, semanas | **E-mail MKT** Envio de mensagens segmentadas para leads e clientes |
-| dias, semanas | **MKT de Influenciadores** Parcerias com criadores de conteúdo para divulgar produtos |
-| dias, semanas | **MKT de Guerrilha** Ações criativas e de impacto em locais públicos |
-| dias, semanas | **MKT Pago** Mídia Paga / Ads |
-| dias, semanas | **MKT de Eventos** Divulga produtos ou marcas por meio de eventos, feiras, palestras, etc |
-| semanas, meses | **MKT de Afiliados** Vendas via comissões por meio de parceiros |
-| 4 a 8 meses | **MKT de Conteúdo** Conteúdo relevante ao leitor|
-| 4 a 8 meses | **Cause-related MKT** MKT de causa |
-| 3 a 9 meses | **Endomarketing** MKT Interno |
-| 3 a 9 meses | **SEO** Melhora o posicionamento orgânico no Google |
-| 3 a 9 meses | **Social media MKT** MKT de mídia social |
-| meses anos | ** MKT de Relacionamento** Fidelização e retenção de clientes |
 
 
 ## CAC vs CRC
