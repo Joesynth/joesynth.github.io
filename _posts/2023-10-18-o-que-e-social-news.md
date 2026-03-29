@@ -40,6 +40,8 @@ Vamos lá!
 ✏️ Drew Curtis, anos 90.  
 🔗️ fark.com  
 
+Lemmy
+Reddit, mas é FOSS
 
 É isso! Grande abraço.  
 \o/
