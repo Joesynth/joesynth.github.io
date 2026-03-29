@@ -147,3 +147,123 @@ CTR = _________________________ X 100%
 \o/  
 
 [oes: tit !]
+
+Google AdWords
+
+xxx
+
+Bem-vindo à página de...
+Joe Synth no GitHub
+Isto é uma página de exercícios das linguagens HTML, CSS, JS.
+
+Para algo mais sobre Joe S, inclusive contato, veja o blog Joesynth.
+🏃‍♀️️ Animação
+
+    Quadrado aleatório.
+
+🌐️  internet
+
+    ClaroVida.
+
+✍️ Aplicação
+
+    i-Kids.
+    Guri.
+
+👧️ Sites feitos por criança
+
+    Site de Livros.
+    Loja de Pipas.
+    Meus Dados.
+
+🤩️ UI
+Relativo à aparência, interface gráfica.
+
+    Botões (UiBtGroup).
+    Botões (UiBtGroupFantasma).
+    3 botões deslizantes (inputRangeX3).
+    Botão deslizante (UiRangeTrackThumb).
+
+🎵️ Música, áudio & vídeo
+
+    Metrônomo.
+    Kiwi.
+    Áudio.
+
+🔃️ Diversos
+
+    Configurações.
+    Slideshow3.
+
+\o/
+
+xxx
+Contato
+Vide o blog JoeSynth.
+
+xxx
+Aplicações
+
+    Kiwi.
+    i-Kids.
+
+Sites feitos por criança.
+
+    Site de Livros.
+    Loja de Pipas.
+
+xxx
+
+cima de $3000,00.
+
+Google Adwords (foto)
+
+xx
+
+x
+
+Google AdWords
+Ferramentas Google AdWords
+Palavras-chave
+
+adwords.google.com/um/GetStarted/Home?__u=5246593278&__c=8940521202&authuser=0&__b=2505887488&orinoco=true&awx=true#oc
+
+Recomendação Use Google Adwords e não a versão Express. No momento que entra no site já deve estar logado no seu email ideal, caso tenha vários.
+
+Caso apareça o AdWords Express troque para Google Adwords. Há um link no topo da página para fazer isso.
+Keyword Planner
+
+adwords.google.com.br/KeywordPlanner
+
+Google Keyword Planner, ou Planejador de Palavras Chave do Google; agora, integrado ao Adwords.
+
+Para ter acesso ao Google Keyword Planner é necessário que você tenha uma conta no Google Adwords.
+
+O que É? Keyword. Recurso pra planejar palavras. Entre e faça login.
+
+Mas, esteja atento! Na fase de cadastramento é fundamental que você pule a etapa de tutorial (leia todas as informações antes de prosseguir em cada tela!).
+
+Caso contrário, o site pedirá que você cadastre um cartão de crédito e simule uma campanha.
+
+Mesmo que, no final das contas, você não precise mesmo gastar algum dinheiro, saltar essa etapa economiza bastante tempo no cadastro e já te leva direto para a área de pesquisa de palavras chave.
+	
+
+Tutorial:
+https://rockcontent.com/blog/google-keyword-planner/
+
+Google DoubleClick
+agência de marketing especializada em mídia eletrônica (marketing de banner, motores de busca e Rich-Media) https://pt.wikipedia.org/wiki/Lista_de_ferramentas_e_servi%C3%A7os_do_Google +++++++++++++++++++++++++++
+robots.txt
+Vide: pt.wikipedia.org/wiki/Protocolo_de_Exclus%C3%A3o_de_Rob%C3%B4s
+
++++++++++++++++++++++++++++
+
+Veja também Profissionais de Informática.
+
+xxx
+
+É isso!
+\o/
+
+[oes: tit !]
+
