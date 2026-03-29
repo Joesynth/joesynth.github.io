@@ -138,10 +138,71 @@ Vide [Inbound MKT](/inbound-mkt).
 
 ###### MKT digital - outras estratégias
 
+<pre>Legenda
+⚡ Rápido, age rápido.
+🕖️ Tempo.
+</pre>
+
+
+**Ações de engajamento**: engajamento é um conjunto de técnicas que visam aumentar a interação do público com a marca.  
+**Busca de Tendências**: Google Trends.  
+**Consentimento dos usuários**: Estratégia que deve ser clara e explícita, de acordo com a LGPD (Lei Geral de Proteção de Dados).  
+**Co-marketing**: MKT colaborativo ou marketing em parceria. Bem eficaz, é a parceria entre duas empresas, geralmente com público-alvo parecido, mas que não são concorrentes diretas.  
+**E-mail MKT**: Envio de mensagens segmentadas para leads e clientes.  
+⚡ 🕖️ dias, semanas  
+**Mídia Alugada**: Canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
+**MKT de Afiliados**: Vendas via comissões por meio de parceiros.  
+⚡ 🕖️ semanas, meses  
+**MKT de causa** <sup>*Cause-related MKT*</sup>  
+🕖️ 4 a 8 meses  
+**MKT de Conteúdo**: Conteúdo relevante ao leitor.  
+🕖️ 4 a 8 meses  
+**MKT de Eventos**: Divulga produtos ou marca por meio de eventos, feiras, palestras, etc. Inclui criar o próprio evento ou participar de outros.  
+⚡ 🕖️ dias, semanas  
+**MKT de Guerrilha** Ações criativas e de impacto em locais públicos.  
+⚡ 🕖️ dias, semanas  
+**MKT de Influenciadores** Parcerias com criadores de conteúdo para divulgar produtos.  
+⚡ 🕖️ dias, semanas  
+**MKT Interno** <sup>*Endomarketing*</sup>  
+🕖️ 3 a 9 meses  
+**MKT de mídia social** <sup>*Social media MKT*</sup>  
+🕖️ 3 a 9 meses  
+**MKT de Performance**: Foco em resultados mensuráveis (cliques, leads, vendas).  
+⚡ 🕖️ horas, dias  
+**MKT de Relacionamento** Fidelização e retenção de clientes.  
+🕖️ meses anos  
+**MKT Digital Pago (Ads)**: Anúncios pagos em redes sociais e buscadores.  
+⚡ 🕖️ horas, dias  
+**MKT Pago** Mídia Paga / Ads  
+⚡ 🕖️ dias, semanas  
+**MKT para motores de busca ou MKT de Busca** <sup>(SEM - *Search Engine Marketing*)</sup>: SEO e links patrocinados (Google Ads, por ex.).  
+**Neuromarketing**.  
+**Produção de Vídeo**.  
+**Publirreportagem**: Conteúdo publicitário patrocinado tentando parecer um artigo.  
+**Remarketing**: Estratégia que visa aumentar as vendas e conversões. É apresentar anúncios a usuários que já mostraram interesse em uma empresa.  
+**SEO** Melhora o posicionamento orgânico no Google.  
+🕖️ 3 a 9 meses  
+**Site**: Pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
 
 
 
+###### Contexto de Uso - Termos no SEO / Google Ads
 
+Termo para o Topo e Nicho
+
+| "Topo"*<br />(Massa) | "Nicho"*<br />(Específico) |
+| :--- | :--- |
+| **Head Tail**<br />palavra-chave curta | **Long Tail***<br />palavra-chave longa |
+
+###### Head Tail / Long Tail: Softwares
+
+
+| Software | Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
+| :--- | :--- | :--- |
+| **ERP** | Curva A: 20% dos produtos que geram 80% da receita. | Curva C: Itens de baixa rotação que ocupam espaço. |
+| **CRM** | Key Accounts: grandes clientes que sustentam o faturamento. | Long Tail de Clientes: milhares de pequenos clientes atomizados. |
+| **Google Analytics** | Head Keywords: palavras genéricas com alto volume/custo. | Consultas de Pesquisa: frases longas a base de cliques. |
+| **E-commerce** | Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
 
 
 
