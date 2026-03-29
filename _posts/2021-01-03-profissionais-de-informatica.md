@@ -1,11 +1,11 @@
 # Profissionais de informática - Tutorial
 
+
+.  
+
 <span class="emoji120" >🚀</span>
 
 Programação? Tutorial com profissões importantes, salários, o que precisa saber...
-
-Olá!
-
 
 Há tempos que a programação é um saber requisitado não só na área de informática. Linguagens de computador tem a ver com Tecnologia da informação (TI), telecomunicações e mesmo *marketing*; como veremos agora:
 
@@ -31,22 +31,26 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 
 **Webmaster**: Toma decisões referentes ao *web developer* e o *web designer* (veja abaixo).
 
-**Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).
+**Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).  
+
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|HTML, CSS, JS (JavaScript) jQuery, AngularJS|CMS, Framework, editores de código (como Notepad++, Bluefish...)|
+|HTML/CSS/JS, jQuery, AngularJS|CMS, Framework, editores de código|
 
 
 **Desenvolvedor JavaScript**: Tem foco nesta linguagem. É um especialista.
 💰 Acima de $3000,00.
 
-**Desenvolvedor Back-End**: É especialista nessa área, isto é, lidar com infraestrutura, banco de dados.
+**Desenvolvedor Back-End**: É especialista nessa área, isto é, lidar com infraestrutura, banco de dados.  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|NodeJS (JavaScript), PHP, C#, Java, JSP...|NodeJS, NPM, CLI, Framework, editores de código (Notepad++, Bluefish...)|
+|NodeJS, PHP, C#, Java, JSP...|NodeJS, NPM, CLI, Framework, editores de código|
 
 
 ###### Exemplos de classificados
+
 
 <small>**Desenvolvedor Front End**:
 React JS.
@@ -74,6 +78,8 @@ Conhecimento em banco de dados vetorizados (PostgreSQL, MongoDB).
 GitLab e automação de infraestrutura (Docker, por ex.)
 Capacidade de trabalhar de forma independente e em equipe.
 </small>
+
+
 <h5>Outros profissionais</h5>
 **Programador / desenvolvedor/ codificador/ engenheiro de software**
 Quem escreve, desenvolve ou faz manutenção de *software* em um grande sistema, ou alguém que desenvolve *soft* para uso em computadores pessoais.
@@ -81,6 +87,7 @@ Quem escreve, desenvolve ou faz manutenção de *software* em um grande sistema,
 Dependendo da demanda de um ou outro profissional, estes ainda podem necessitar conhecimentos em UI e UX.
 
 ###### Exemplo de classificados
+
 
 <small>**Dev Angular/Nodejs**:
 JSON, Oracle SQL
@@ -105,8 +112,12 @@ GitLab/Gitub: versionamento de código.
 Estilização (Tailwind CSS ou Bootstrap, SASS/SCSS).
 Metodologia de trabalho (Scrum, Kanban).</small>
 
+
+
 ## 🎨️ Área de design
-Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:
+Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:  
+
+
 <small>- programador CSS,
 - UX designer,
 - web designer,
@@ -114,14 +125,18 @@ Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho
 - brand designer,
 </small>
 
-<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="119" height="67" />**Webdesigner**: Cria sites, páginas. Lida com programação, usabilidade, etc. A profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.
+
+
+<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="119" height="67" />**Webdesigner**: Cria sites, páginas. Lida com programação, usabilidade, etc. A profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|HTML, CSS|GIMP, Dreamweaver, Fireworks, Corew Draw|
+|HTML/CSS| GIMP, Dreamweaver, Fireworks, Corew Draw|
 
 💰 Acima de $3000,00, é o que ganha um programador HTML e CSS.
 
 ###### Exemplos de classificados
+
 
 <small>**Web Designer**:
 HTML/CSS/JS; Bootstrap;
@@ -145,15 +160,18 @@ HTML/CSS: noções básicas para criação de assets digitais otimizados.</small
 
 
 
+
+
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" />
 
 
 
 ## 💿️ Área de banco de dados
-<img src="https://dhg1h5j42swfq.cloudfront.net/2023/05/09172211/database-g87972c042_1280-1024x1024.png" width="120" height="120" />**DBA (Administrador de banco de dados)**:
+<img src="https://dhg1h5j42swfq.cloudfront.net/2023/05/09172211/database-g87972c042_1280-1024x1024.png" width="120" height="120" />**DBA (Administrador de banco de dados)**:  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|Linguagem SQL. Para computador *desktop* a linguagem Java é bem-vinda, enquanto Web PHP e ASP são comuns.|Software Livre: MySQL ou PostgreSQL; ou ainda NoSQL como MongoDB e Cassandra. No caso do MongoDB é preciso conhecer json, o que não é difícil se você já sabe JavaScript.|
+| SQL, Java (indicada para computador *desktop*), PHP e ASP (comuns em Web).|Software Livre: MySQL ou PostgreSQL; ou ainda NoSQL como MongoDB e Cassandra. No caso do MongoDB é preciso conhecer json, o que não é difícil se você já sabe JavaScript.|
 
 💰 Acima de $3000,00.
 
@@ -163,9 +181,12 @@ HTML/CSS: noções básicas para criação de assets digitais otimizados.</small
 Ele deve ter uma base sólida em segurança da informação _como prevenir que o sistema seja penetrado. Geralmente é responsável pela segurança do sistema.
 
 Convém saber agir como, por exemplo:
+
 <small>- Administrador de banco de dados (DBA).
 - Administrador redes: lida com infraestrutura (switches, roteadores....).
 </small>
+
+
 
 | 🤖️ | 🔧️ |
 | :---: | :---: |
@@ -185,23 +206,24 @@ O **AD** (administrador de dados) é outro tipo de profissional, enquanto o <spa
 ## 🎵️ Área de Conteúdo
 ⚠️ Conteúdo se refere a texto (um título, um parágrafo...), imagem, áudio, vídeo principalmente.
 Profissões relativas ao conteúdo podem não lidar tão diretamente com programação, mas ainda sim trabalham com informática:
-<ul>
-- AudioVisual: produção, edição, finalização
-- Fotografia: edição de imagens, por exemplo
-- Locução &amp; Narração
-- Design &amp; Criação: design gráfico, ilustração, logotipos
-</ul>
+
+✔ AudioVisual: produção, edição, finalização
+✔ Fotografia: edição de imagens, por exemplo
+✔ Locução &amp; Narração
+✔ Design &amp; Criação: design gráfico, ilustração, logotipos
+
 Ao lidar com conteúdo é necessário facilidade com...
-<ul>
-- escrita
-- exposição de informações
-</ul>
+
+✔ escrita
+✔ exposição de informações
+
 
 
 
 ## 🖥️ Infraestrutura de TI
 
 ###### Exemplos de classificados
+
 
 <small>**Analista de infraestrutura TI:**
 *Linux e Windows (Instalação, configuração e manutenção de servidores).*
@@ -223,18 +245,23 @@ Ao lidar com conteúdo é necessário facilidade com...
 *Certificações (ITIL, Microsoft, Cisco...)*.
 </small>
 
+
+
 ## 📢️ Marketing e RP
 Na área de *marketing* encontramos o programador trabalhando ao lado doutras profissões.
 
 ###### Marketing de conteúdo
 
 Uma empresa pode ter um time de produção de conteúdo composto por...
-<small>- gerente de conteúdo,
-- editores,
-- redatores,
-- designers,
-- pessoa que acompanhe as métricas.
+
+<small>✔ gerente de conteúdo,
+✔ editores,
+✔ redatores,
+✔ designers,
+✔ pessoa que acompanhe as métricas.
 </small>
+
+
 **Gestor de conteúdo** (ou gerente de conteúdo, *content manage*r): lida com a gestão de conteúdo para a publicação numa plataforma digital, como o Facebook.
 
 
@@ -249,18 +276,23 @@ Uma empresa pode ter um time de produção de conteúdo composto por...
 ###### SEO e Links
 
 **Analista de SEO**: otimiza as páginas (e/ou todo site) para se posicionarem na melhor colocação do mecanismo de busca do Google _isso para a busca natural (orgânica), já que é grátis. Numa loja virtual ou blog, o Analista de SEO planeja bem como implementa, supervisiona etc. Note que otimização de sites tem a ver com comunicação. Em suma ele faz 4 coisas:
-<small>- *SEO on-page*,
-- *SEO off-page*,
-- pesquisa de *keywords* (palavras-chave),
-- análise de métricas.
-</small>Qualificação/ferramentas: tem formação relacionada à *marketing*, comunicação, publicidade. É bem-vindo inglês e uma bela escrita.
+
+<small>✔ *SEO on-page*,
+✔ *SEO off-page*,
+✔ pesquisa de *keywords* (palavras-chave),
+✔ análise de métricas.
+</small>
+
+Qualificação/ferramentas: tem formação relacionada à *marketing*, comunicação, publicidade. É bem-vindo inglês e uma bela escrita.  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
 | HTML/CSS, no mínimo! | Conhecimentos em *Google Analytics*, redes sociais.|
 
 💰 Acima de $3000,00.
 
-**Analista de Links Patrocinados**: Lida com os resultados pagos, as propagandas.
+**Analista de Links Patrocinados**: Lida com os resultados pagos, as propagandas.  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
 | HTML em especial; e talvez CSS e  JS possa ser pedido.| Usa programas de *links* patrocinados, como o *Google Adwords*.|
@@ -289,6 +321,7 @@ A área de vendas e *marketing* é abrangente; e portanto, precisando de profiss
 
 ###### Exemplos em classificados
 
+
 <small>**Estágiário de mídias sociais**:
 HTML. 
 Acompanhamento das redes sociais. 
@@ -305,6 +338,8 @@ Boas práticas visuais: conhecimento.</small>
 
 
 
+
+
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="300" height="298" />
 
 
@@ -312,19 +347,22 @@ Boas práticas visuais: conhecimento.</small>
 ## 🛡️ Ciberseguranca e segurança da informação
 A cibersegurança e a segurança da informação são áreas parecidas mas não exatamente iguais. Para as duas conhecer Terminal Linux e Nano é vital.
 
-**Cibersegurança**: Há linguagens que se destacam na cibersegurança.
+**Cibersegurança**: Há linguagens que se destacam na cibersegurança.  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
 |Python, JS, SQL (de banco de dados), PHP, PowerShell.|O profissional deve conhecer Softwares Livres e dominar, por ex., temas como Kali Linux e Wireshark.|
 
 
-**Segurança da informação**: é bem-vindo, além das 4 linguagens citadas:
+**Segurança da informação**: é bem-vindo, além das 4 linguagens citadas:  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
 |Conhecimentos em linguagem C e Assembly _e mesmo outras linguagens.||
 
 
 ###### Exemplo em classificados
+
 
 <small>**Analista de segurança da informação (Jr)**:
 Gerenciar contratos e SLAs relacionados à segurança da informação.
@@ -337,11 +375,14 @@ Monitoramento de relatórios de vulnerabilidade (sistemas Windows, Linux...).
 Automatizar processos (uso de ferramentas PowerShell, Python ou Bash).
 Graduação em áreas como Segurança da Informação, Ciência da Computação ou Sistemas de Informação.</small>
 
+
+
 ## 👷‍♂️️ Trabalhos: mais exemplos do que é solicitado
 Alguns casos do que é pedido por uma empresa para um novo contratado.
 É só exemplos! Cada empresa pode pedir mais coisas ou tarefas diferentes, portanto depende.
 
 **TI**:
+
 <small>**Estagiário de TI**:
 GitHub (saber criar repositórios). 
 Verificar status de projeto online. 
@@ -368,12 +409,14 @@ Inglês fluente.
 OS Linux. 
 Desejável saber metodologia Itil e Scrum.</small>
 
+
+
 ## 🔗️ Informática: áreas associadas
 Muitas áreas estão associadas à informática.
-<ul>
+
 - Atendimento ao Consumidor: suporte técnico
 - Escrita: redação (por ex., o profissional blogueiro)
-</ul>
+
 
 ## Outras áreas
 
@@ -396,7 +439,8 @@ Estuda-se *software* e *hardware* (sensores sonoros, CLPs, microcontroladores, f
 |C++, Lua, C#. É indicado uma noção básica _pois elas utilizadas em motores de jogos (como Unreal e outros).||
 
 
-**Ilustrador de jogos**:
+**Ilustrador de jogos**:  
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
 ||GIMP e Photoshop são ferramentas úteis.|
@@ -413,9 +457,11 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 ## HTML e CSS - resumo de profissões
 À esquerda profissões onde HTML e CSS é um saber opcional, e na direita vital. Também há a função principal de cada atividade.
 *HTML é vital, CSS pode ser opcional (não é necessário conhecimento avançado).
+
 <span style="color: #ff00ff">■</span> área de design.
 <span style="color: #008000">■</span> área de programação.
 <span style="color: #ff0000">■</span> publicidade
+
 <table>
 <tbody>
 <tr>
