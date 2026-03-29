@@ -280,3 +280,67 @@ YT
 -https://youtu.be/x_vdS0cFqJw
 -->
 
+
+# Gedit
+
+
+Olá!
+Bem-vindo ao Gedit, uma bela opção de editor _e que, inclusive, já faz parte do <a href="https://joesynth.wordpress.com/linux-ubuntu/">Ubuntu</a>. Ele possui recursos como:
+<ul>
+ 	<li>Gerenciador de Arquivos;</li>
+ 	<li>Snippets;</li>
+ 	<li>Emoji.</li>
+</ul>
+<h4>Configuração</h4>
+<pre><strong>  Font &amp; Colors</strong>.
+Text Editor (menu lado esquerdo superior), Preferences.
+
+  <strong>Plugins</strong>.
+Text Editor (idem).
+  <strong>Snippets</strong>.
+Text Editor (menu lado esquerdo superior), Manage Snippets.
+</pre>
+
+<h4>Atalhos</h4>
+<pre>  # Básico:
+Ctrl O, Ctrl S # Open, Save (document).
+Ctrl+Shift+S # Save as.
+Ctrl Z, Ctrl+Shift+Z # Undo, Redo.
+Ctrl Q # Quit.
+
+  # Linha:
+
+Ctrl+D      # Delete the current line.
+Ctrl J      # Join selecionadas linhas.
+Alt ↑↓      # Move linha pra cima baixo.
+Shift Enter # Quebra de linha ignorando tab.
+
+Ctrl+I      # Goto line.
+
+
+  # Palavra
+
+Ctrl U, L # Upper case, lower case.
+Alt ← →   # Move palavra atual esquerda direita.
+  ## Pesquisa.
+
+Ctrl F       # Find.
+
+Ctrl+G       # Find the next instance of the string.
+
+Ctrl H        # Find and replace.
+
+  # Tools
+Shift+F7     # Check spelling.
+F8           # Run "make" in the current directory (with plugin).
+
+Ctrl+Backspace # Snippets.</pre>
+
+<h2>Emoji</h2>
+Clique com o botão direito do mouse em cima da área principal para aparecer o menu. Escolha "<em>Insert Emoji</em>".
+
+É isso!  
+Grande abraço, paz do Senhor.  
+\o/  
+
+[oes: tit !]
