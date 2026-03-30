@@ -229,6 +229,7 @@ Agenda de atualização personalizada.
 
 **Trackbook - Movement Recorder**: Grave seu movimento.  
 
+**Signal** - concorrente do Telegram e WhatsApp, é visto como o "padrão ouro" da segurança. Recomando por Elon Musk e Edward Snowden, é utilizado por grandes empresas, pessoal de TI e mesmo militares. Licença AGPL. 
 
 **Extended emulator of МК 61/54**: Emulador de calculadoras MK, da União Soviética.  
 🔗️https://github.com/xvadim/pmk-android  
