@@ -1,4 +1,4 @@
-# Nano - Editor de códigos
+# Nano e Gedit - Editores de códigos
 
 📑️ Antes de continuar essa leitura é recomendado ver Atalhos do Teclado e mesmo [Profissionais de Informática](/profissionais-de-informatica).
 
