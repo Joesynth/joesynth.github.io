@@ -91,12 +91,14 @@ Saiba mais em Qual é o poder do Google?
 
 ## Tipos de sites... e comércio
 
-Neste assunto de comércio devemos ficar atentos aos seguintes tipos de sites:
+Devemos ficar atentos aos seguintes tipos de sites:
 
-- *Site* institucional
-- *E-commerce*
-- *Blog*
-- Mídia Alugada
+|Mídia Própria|Mídia Alugada|
+|:---:|:---:|
+|*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
+
+👉️ Ainda há o termo *E-commerce* e *blog*, este podendo ser Mídia Própria ou Mídia Alugada.
+
 
 
 
