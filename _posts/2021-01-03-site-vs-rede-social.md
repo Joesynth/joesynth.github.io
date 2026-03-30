@@ -13,7 +13,7 @@ Qual investir? Site ou rede social? Sem referências não há escolha.
 5. Conteúdo e o tempo
 6. Credibilidade
 7. Profissional ou amador?
-8. 🎉️ s!
+8. 🎉️ Bônus!
 
 
 
