@@ -60,7 +60,7 @@ Conversas sobre o pensar humano _um dos melhores grupos do Telegram.
 ## Música
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLtdw7ztBsqIUHQPnzmbHNG2kdoSG0e_dDQ&s" width="120" />Músicos no Linux - BRASIL.  
 
-Mmúsicos e artistas que desejam se familiarizar com Linux. Espetacular, em especial por ter gente muito especializada.
+Músicos e artistas que desejam se familiarizar com Linux. Espetacular, em especial por ter gente muito especializada.
 
 ## Estado
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Coat_of_arms_of_the_Brazilian_Army.svg" width="120" />Exército Brasileiro.  
@@ -268,7 +268,6 @@ Leia o tutorial Software Livre e Software Proprietário, caso você (ainda) não
 <pre><small>&gt; *Estado*
 ● Ministério da Defesa
 ● Ministério da Saúde
-● Exército Brasileiro
 ● UFRJ
 
 &gt; *Outros*
