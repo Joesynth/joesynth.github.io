@@ -9,7 +9,7 @@
     "href": "programacao-7-saberes-importantes.html",
     "src": "image/ti.png",
     "h3": "Programação: 7 saberes importantes",
-    "p": "Além de gostar de computador e escrever, o que aprender para ser programador?"
+    "p": "O que aprender para ser programador?"
   },
   {
     "href": "quem-usa-linux.html",
@@ -38,8 +38,8 @@
   {
     "href": "nano-editor-de-codigos.html",
     "src": "image/cli.png",
-    "h3": "Nano: editor de códigos",
-    "p": "Um tutorial vital do editor de códigos Nano, presente no Ubuntu e na maioria dos Linux."
+    "h3": "Nano e Gedit",
+    "p": "Saiba mais sobre os editores de códigos presentes no Ubuntu e na maioria dos Linux."
   },
   {
     "href": "backup.html",
@@ -66,12 +66,6 @@
     "p": "Estudante, concurseiro? Tutorial de <em>hardware</em> e <em>software</em> simples e fácil; além de tecnologias, exercícios..."
   },
   {
-    "href": "gedit.html",
-    "src": "image/linguagem.png",
-    "h3": "Gedit",
-    "p": "Tutorial simples e objetivo do editor de códigos Gedit, Ubuntu."
-  },
-  {
     "href": "vim-e-vi.html",
     "src": "image/cli.png",
     "h3": "Vi, vim, gVim e NeoVim",
@@ -82,12 +76,6 @@
     "src": "image/cli.png",
     "h3": "Bash shell",
     "p": "Tutorial."
-  },
-  {
-    "href": "tutorial-markdown.html",
-    "src": "image/ti.png",
-    "h3": "Tutorial Markdown",
-    "p": "Produção de textos no computador? Saiba agora porque Markdown é espetacular!"
   },
   {
     "href": "termux.html",
@@ -116,7 +104,7 @@
   {
     "href": "opcoes-ao-google-drive.html",
     "src": "image/foss.png",
-    "h3": "Opções ao Google Drive",
+    "h3": "Google Drive: 7 opções livres",
     "p": "Conheça outros meios de guardar seus arquivos; até mais eficientes e, de fato, livres."
   },
   {
@@ -192,6 +180,18 @@
     "p": "Um breve resumo sobre esses dois termos do design, também importantes no marketing."
   },
   {
+    "href": "unicode.html",
+    "src": "image/design.png",
+    "h3": "Unicode?",
+    "p": "Lista com principais ornamentos <em>dingbats</em>, também emojis."
+  },
+  {
+    "href": "media-types-e-media-queries.html",
+    "src": "image/design.png",
+    "h3": "Media types e media queries",
+    "p": "Um guia elementar."
+  },
+  {
     "href": "private.html",
     "src": "image/ti.png",
     "h3": "Sites essenciais para programadores",
@@ -202,12 +202,6 @@
     "src": "image/cli.png",
     "h3": "7 Softwares de linha de comando",
     "p": "Vamos entender um pouco do que se trata o tal do CLI?"
-  },
-  {
-    "href": "unicode.html",
-    "src": "image/design.png",
-    "h3": "Unicode?",
-    "p": "Lista com principais ornamentos <em>dingbats</em>, também emojis."
   },
   {
     "href": "boas-praticas-na-internet.html",
@@ -242,7 +236,7 @@
   {
     "href": "telegram-grupos-interessantes.html",
     "src": "image/ti.png",
-    "h3": "Telegram: grupos interessantes",
+    "h3": "Telegram: 7 grupos interessantes",
     "p": "Uma seleção de grupos no Telegram, passando por tecnologia, jogos, música..."
   },
   {
@@ -268,6 +262,12 @@
     "src": "image/linux.png",
     "h3": "Linux",
     "p": "Um guia sobre o SO mais querido dos profissionais de TI."
+  },
+  {
+    "href": "tutorial-markdown.html",
+    "src": "image/ti.png",
+    "h3": "Tutorial Markdown",
+    "p": "Produção de textos no computador? Saiba agora porque Markdown é espetacular!"
   },
   {
     "href": "regex.html",
@@ -338,7 +338,7 @@
   {
     "href": "json.html",
     "src": "image/linguagem.png",
-    "h3": "Json",
+    "h3": "JSON",
     "p": "Parece nome de linguagem de computador, mas não é! Veja exatamente o que é e qual a relação com linguagem."
   },
   {
@@ -390,12 +390,6 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "software-stack-o-que-e.html",
-    "src": "image/ti.png",
-    "h3": "Software stack: o que é?",
-    "p": "Um guia elementar."
-  },
-  {
     "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Deploy",
@@ -420,12 +414,6 @@
     "p": "Um guia elementar."
   },
   {
-    "href": "media-types-e-media-queries.html",
-    "src": "image/design.png",
-    "h3": "Media types e media queries",
-    "p": "Um guia elementar."
-  },
-  {
     "href": "private.html",
     "src": "image/linguagem.png",
     "h3": "Sites para programadores",
@@ -442,5 +430,11 @@
     "src": "image/ti.png",
     "h3": "API: o que é?",
     "p": "Um guia elementar."
+  },
+  {
+    "href": "software-stack-o-que-e.html",
+    "src": "image/ti.png",
+    "h3": "Software stack: 7 casos",
+    "p": "Saiba o que é e veja exemplos."
   }
 ]
