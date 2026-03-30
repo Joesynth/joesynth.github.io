@@ -1,12 +1,8 @@
-# Boas práticas na internet e no PC: 7 dicas
-
-Um tutorial essencial.
-
-Olá!
+# Boas práticas na internet: 7 dicas
 
 Há tempos existe muita facilidade oferecida pelo acesso dos recursos de informática. Para orientar os usuários de computadores, principalmente da rede, mostramos aqui algumas dicas para melhorar a vida na internet, bem como o uso do próprio PC ou <em>notebook</em> _lembrando que seu celular também é um computador (com processador, memória, <em>softwares</em> etc).
 
-Boas práticas partem do princípio do bom senso, consciência. Ter por preocupação a utilização adequada das ferramentas. É preciso referências certas, hábitos certos... saber limites. Podemos pensar em sete temas...
+Para quem já tem bons hábitos e procedimentos com o computador, certamente, a internet é só uma extensão disso. Parte-se do princípio do bom senso, consciência. Ter por preocupação a utilização adequada das ferramentas. É preciso referências certas, hábitos certos... saber limites. Podemos pensar em sete temas...
 
 
 
