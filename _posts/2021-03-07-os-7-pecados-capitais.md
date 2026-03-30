@@ -24,15 +24,15 @@ Quando classificamos a "avareza" como uma prática de UX, estamos falando de com
 
 ###### Relação entre Pecados Capitais e UX
 
-|	| Conceito UX /<br />Dark Pattern | Descrição |
-| :--- | :--- | :--- |
-| 🍉 Gula | *Infinite<br />Scroll* / *Autoplay* | Incentiva o consumo contínuo e excessivo de conteúdo, removendo pontos de parada naturais. |
-| 💰 Avareza | *Hidden<br />Costs* | Esconder taxas extras até o último passo do *checkout* para evitar que o usuário desista. |
-| ❤️ Luxúria | *Clickbait*<br />Sensacionalista | Uso de imagens ou títulos provocativos para atrair cliques, muitas vezes sem relação com o conteúdo. |
-| 😡 Ira | *Roach<br />Motel* | Criar atritos desnecessários (como exigir ligação telefônica) para impedir o cancelamento de um serviço. |
-| 😒 Inveja | *Social Proof*<br />Falsa | Exibir notificações forjadas de que "50 pessoas compraram este item agora" para gerar FOMO. |
-| 💤 Preguiça | *Default<br />Settings* | Selecionar automaticamente serviços pagos ou permissões de dados, contando que o usuário não mudará o padrão. |
-| 👑 Soberba | *Confirmshaming* | Rotular a opção de recusa de forma que o usuário se sinta tolo ou inferior por não aceitar a oferta. |
+| Conceito UX /<br />Dark Pattern<br />Pecado | Descrição |
+| :--- | :--- |
+| ***Infinite Scroll*<br />/ *Autoplay***<br />🍉 Gula | Incentiva o consumo contínuo e excessivo de conteúdo, removendo pontos de parada naturais. |
+| **Hidden Costs**<br />💰 Avareza |  Esconder taxas extras até o último passo do *checkout* para evitar que o usuário desista. |
+| ***Clickbait*<br />Sensacionalista**<br />❤️ Luxúria | Uso de imagens ou títulos provocativos para atrair cliques, muitas vezes sem relação com o conteúdo. |
+| ***Roach Motel***<br />😡 Ira | Criar atritos desnecessários (como exigir ligação telefônica) para impedir o cancelamento de um serviço. |
+| ***Social Proof* Falsa**<br />😒 Inveja | Exibir notificações forjadas de que "50 pessoas compraram este item agora" para gerar FOMO. |
+| ***Default Settings***<br />💤 Preguiça | Selecionar automaticamente serviços pagos ou permissões de dados, contando que o usuário não mudará o padrão. |
+| ***Confirmshaming***<br />👑 Soberba | Rotular a opção de recusa de forma que o usuário se sinta tolo ou inferior por não aceitar a oferta. |
 
 Notou? Aqui o *designer* não está furioso ou com inveja de alguém. A questão não é sua essência, e ele pode até estar "vazio" de sentimentos, mas utilizar da técnica para se chegar ao objetivo.
 
