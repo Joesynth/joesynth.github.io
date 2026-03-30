@@ -3,11 +3,11 @@
 Olá!
 Indo direto ao assunto de forma simples e objetiva, nós temos:
 
-<strong>O que é?</strong> É uma <em>engine</em> de visualisação. Ferramenta usada no desenvolvimento de aplicações web.
+*O que é?* É uma <em>engine</em> de visualisação. Ferramenta usada no desenvolvimento de aplicações web.
 
-<strong>O Que Faz?</strong> Manipula e organiza conteúdo HTML de forma dinâmica, mantendo o código limpo e enxuto. Nos permite transportar dados do <em>back-end</em> para o <em>front-end</em>. A <em>engine</em> nos dá ganhos de interação, uso de variáveis.
+*O Que Faz?* Manipula e organiza conteúdo HTML de forma dinâmica, mantendo o código limpo e enxuto. Nos permite transportar dados do <em>back-end</em> para o <em>front-end</em>. A <em>engine</em> nos dá ganhos de interação, uso de variáveis.
 
-<strong>Na prática</strong>... A engine renderiza o código da <em>view</em> e envia o HTML gerado para o cliente.
+*Na prática*... A engine renderiza o código da <em>view</em> e envia o HTML gerado para o cliente.
 <h5>O que oferece a <em>template engine</em>?</h5>
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TempEngGen015.svg/220px-TempEngGen015.svg.png" width="150" />
 
@@ -20,25 +20,25 @@ Oferece mais recursos ao HTML. Sendo bem mais dinâmico temos:
 <h5>Exemplos de <em>template engine</em></h5>
 Legenda: ✏️autor 🔗️link 📜️licença.
 
-<img class="alignleft" src="http://handlebarsjs.com/images/handlebars_logo.png" alt="temaplate engine Handlebars" width="60" />⚫️ <strong>Handlebars</strong>.
+<img class="alignleft" src="http://handlebarsjs.com/images/handlebars_logo.png" alt="temaplate engine Handlebars" width="60" />⚫️ *Handlebars*.
 🔗️ handlebarsjs.com
 
-<img class="alignleft" src="https://joesynth.files.wordpress.com/2021/11/17131-0a-bgj1lgbkheglu0.jpg" width="120" />⚫️ <strong>Jade</strong>.
+<img class="alignleft" src="https://joesynth.files.wordpress.com/2021/11/17131-0a-bgj1lgbkheglu0.jpg" width="120" />⚫️ *Jade*.
 🔗️ jade-lang.com
 É o <em>default</em> (padrão) do Express.
 Não usa &lt; ou &gt;. Só abre tag.
 
-<img class="alignleft" src="https://avatars0.githubusercontent.com/u/9338635?s=200&amp;v=4" width="60" />⚫️ <strong>Pug</strong>.
+<img class="alignleft" src="https://avatars0.githubusercontent.com/u/9338635?s=200&amp;v=4" width="60" />⚫️ *Pug*.
 🔗️ https://pugjs.org/
 Nova versão do Jade.
 
-⚫️ <strong>EJS</strong> (<em>Embedded JavaScript Templates</em>).
+⚫️ *EJS* (<em>Embedded JavaScript Templates</em>).
 🔗️ ejs.co
 🔗️ ectjs.com
 🔗️ embeddedjs.com
 Usa tags html e %.
 
-⚫️ <strong>Mustache</strong>.
+⚫️ *Mustache*.
 ✏️ Vários.
 🔗️ https://github.com/mustache/mustache
 📜️ MIT.
@@ -52,7 +52,11 @@ jTemplates
 Template7
 Twig (PHP)
 Underscore
+Liquid
 </pre>
+
+⚠️ Jekyll: um Gerador de Sites Estáticos, o qual usa o Liquid.
+
 
 É isso.
 \o/  
