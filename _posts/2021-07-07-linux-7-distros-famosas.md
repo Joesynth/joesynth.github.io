@@ -7,7 +7,6 @@ Sobre o sistema operacional [Microsoft Windows](/microsoft), veja o que disse a 
 
 Portanto, se você quiser, de fato, ter liberdade com o seu computador, é preciso não ser vigiado e tomar as decisões no dia a dia, daí separamos sete sistemas onde isso será possível:
 
-
 - 🇩🇪 Manjaro
 - 🇫🇷 Open Mandriva
 - 🇺🇸 PCLinuxOS
@@ -100,9 +99,6 @@ Pode ser executado diretamente de um CD, DVD, USB.
 
 🇧🇷 **BigLinux**.
 
-🇧🇷 **EBOS**: "basicamente" um Debian personalizado, usado pelo Exército brasileiro.  
-👉️ Após as denúncias de espionagem de Edward Snowden, o Exército acelerou a implementação do sistema em áreas críticas.  
-
 🇫🇷 **Mageia** [2010].  
 32 ou 64 bits.  
 Derivada do Mandriva.  
@@ -131,7 +127,7 @@ Compatível com português e vários ambientes gráficos, como o KDE.
 
 > "...a ROSA Desktop também recebeu avaliações favoráveis de várias publicações on-line não russas. O site de tecnologia alemão Golem.de elogiou a ROSA por sua estabilidade e suporte ao hardware, enquanto o LinuxInsider.com chamou a ROSA de "uma verdadeira potência"." [wikipedia]
 
-🎈️ Há sistemas para [celular](/7-opcoes-de-sistemas-para-celular) ou mesmo dedicadas a [servidor](/software-servidor), segurança (como a Kali), anonimato (Kodachi, Tails), firewall, medicina...  
+🎈️ Há ainda sistemas operacionais para [celular](/7-opcoes-de-sistemas-para-celular), [servidor](/software-servidor) e mesmo ["distros especiais"](/linux-distros-especiais) (como para a área de segurança ou militar).
 
 
 
