@@ -36,6 +36,33 @@ A agricultura permitiu o excedente alimentar (sobrar comida). Isso criou a neces
 
 
     
+x
+
+A Bíblia Desenterrada" (The Bible Unearthed)
+Israel Finkelstein e Neil Asher Silberman.
+
+Poder e Política na Bíblia
+Herbert Schnädelbach (ou obras de Norman Gottwald
+
+Deus: Uma Biografia
+Jack Miles
+
+Jerusalém: A Biografia
+Simon Sebag Montefiore
+
+História de Israel no Antigo Testamento
+Siegfried Herrmann
+
+A Bíblia: Uma Biografia
+Luiz Felipe Pondé
+Embora Pondé seja conhecido como filósofo, neste livro ele faz uma análise cultural e histórica muito interessante.
+Ele aborda como as narrativas bíblicas moldaram a política e a psicologia do Ocidente. Ele trata os personagens bíblicos com um realismo pragmático, olhando para as motivações humanas por trás das leis e dos conflitos.
+
+História de Israel no Antigo Testamento
+Airton José da Silva
+Este é um dos maiores especialistas brasileiros em história de Israel. Ele segue a linha da historiografia crítica (muito próxima do que faz o Israel Finkelstein, que citei antes)
+A ótica: Ele desconstrói a ideia de uma "conquista militar milagrosa" e analisa a formação de Israel como um processo social e político complexo entre as tribos da montanha e as cidades-estado cananeias. É puramente histórico e geopolítico.
+
 
 x
 
