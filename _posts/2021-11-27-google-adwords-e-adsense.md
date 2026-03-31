@@ -1,88 +1,70 @@
 # Google Adwords e AdSense
 
-<h2>Google Adwords e AdSense</h2>
-.
-<table>
-<tbody>
-<tr>
-<th>Adwords</th>
-<th>AdSense</th>
-</tr>
-<tr>
-<td>🔗️ adwords.google.com/"</td>
-<td>🔗️ google.com/adsense;</td>
-</tr>
-<tr>
-<td>Um anunciante trabalha com o Adwords, e este permite inscrever os que querem anunciar no Google.</td>
-<td>2003;Dono de site permite exibir anúncios (seja, imagem ou vídeo), onde a exibição é administrada pela Google.</td>
-</tr>
-</tbody>
-</table>
-.
+
+## Google Adwords e AdSense
+
+
+
+| Adwords | AdSense |
+| :---: | :---: |
+| 🔗️ [adwords.google.com/](https://google.com) | 🔗️ [google.com/adsense](https://google.com) |
+| Um anunciante trabalha com o Adwords, e este permite inscrever os que querem anunciar no Google. | 2003; Dono de site permite exibir anúncios (seja imagem ou vídeo), onde a exibição é administrada pela Google. |
+
 
 <hr />
 <p id="title">Google Adwords e AdSense</p>
 Serviços de publicidade da Google, sendo o Adwords o principal dessa empresa.
 
 Ambos lidam com CPM e CPC.
-.
-<table class="table">
-<tbody>
-<tr>
-<td>CPM</td>
-<td>CPC</td>
-</tr>
-<tr>
-<td>Cost per 1000 Impressions - Custo por mil impressões</td>
-<td>Custo por Clique</td>
-</tr>
-<tr>
-<td>Se baseia na quantidade de visualizações. Anunciante paga um valor conforme quantidade de vezes que o anúncio é visto pelo consumidor (sem considerar sua ação posterior). No geral o acordo é determinado por cada 1000 impressões.</td>
-<td>Se baseia na quantidade de cliques. Anunciante paga conforme quantidade de vezes que o anúncio é clicado (e não visto).</td>
-</tr>
-<tr>
-<td></td>
-<td>Aqui o usuário realiza a pesquisa e clica o anúncio.</td>
-</tr>
-</tbody>
-</table>
-<h3>Adwords</h3>
+
+📚️ Cost per 1000 Impressions - Custo por mil impressões
+📚️ Custo por Clique
+
+| CPM | CPC |
+| :---: | :---: |
+| Se baseia na quantidade de visualizações. Anunciante paga um valor conforme quantidade de vezes que o anúncio é visto pelo consumidor (sem considerar sua ação posterior). No geral o acordo é determinado por cada 1000 impressões. | Se baseia na quantidade de cliques. Anunciante paga conforme quantidade de vezes que o anúncio é clicado (e não visto). |
+| | Aqui o usuário realiza a pesquisa e clica o anúncio. |
+
+
+
+### Adwords
+
 Se baseia em termos como palavras-chave, rede de Display.
+
 <pre>####
 Monetização wordpress
 https://wordpress.com/br/support/monetize-seu-site/#quem-est%c3%a1-qualificado-para-o-wordads
 
 ####
 </pre>
-<h4>Tipos de Anúncios</h4>
+
+
+#### Tipos de Anúncios
+
 Há anúncios nos motores de pesquisa, na rede Display, no Youtube
-<h3>AdSense</h3>
-.
-<table class="table">
-<tbody>
-<tr>
-<th>Afiliado</th>
-<th>Anunciante</th>
-</tr>
-<tr>
-<td>Quem tem um site e deseja monetizá-lo; logo, um afiliado trabalha com o Adsense. Deve se cadastrar no site provedor de afiliação; consequentemente passando a colocar anúncios do anunciante tal.</td>
-<td>É quem exibe um link (e banners) num site <strong>afiliado</strong>.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<strong>Pequenos sites e blogs</strong> O Adsense é útil a eles para terem alguma receita, oriunda de publicidade. O tipo de anúncio é escolhido confome tipo de conteúdo. Esse "mecânica" também tem relação com Cookies.
+
+### AdSense
+
+
+
+| Afiliado | Anunciante |
+| :--- | :--- |
+| Quem tem um site e deseja monetizá-lo; logo, um afiliado trabalha com o Adsense. Deve se cadastrar no site provedor de afiliação; consequentemente passando a colocar anúncios do anunciante tal. | É quem exibe um link (e banners) num site **afiliado**. |
+| | |
+
+
+**Pequenos sites e blogs** O Adsense é útil a eles para terem alguma receita, oriunda de publicidade. O tipo de anúncio é escolhido confome tipo de conteúdo. Esse "mecânica" também tem relação com Cookies.
 
 Tipo de bonificação aplicado a Programa de Afiliados. É a distribuição de parte do lucro de publicidade entre os participantes que gerarem o tráfego para o site
 
-<strong>"Mecânica"</strong> O <strong>anunciante</strong> exibe link (e banners) no site <strong>afiliado</strong>. O <strong>visitante</strong> (internauta, possível cliente) no site do <strong>afiliado</strong> e clica no anúncio do <strong>anunciante</strong> ocorre o seguinte:
+**"Mecânica"** O **anunciante** exibe link (e banners) no site **afiliado**. O **visitante** (internauta, possível cliente) no site do **afiliado** e clica no anúncio do **anunciante** ocorre o seguinte:
 
 O afiliado recebe algo devido a indicação do link.
+
 <pre>Google AdSense, Caixa Econômica (Poupança), YouTube
 http://www.caixa.gov.br/internacional/ordem-de-pagamento-internacional/recebimentos-do-google/Paginas/default.aspx</pre>
+
+
 <pre>xxx
 xxx
 xxx
@@ -133,13 +115,20 @@ xxx
 N é certo q seja relativo ao título:
 
 </pre>
-<h3>CTR</h3>
+
+
+### CTR
+
+📚️ Click-through rate - Taxa de cliques
+
 <h6>Click-through rate</h6>
 <h6>Taxa de cliques</h6>
 Proporção de usuários que clicam num link. Usado para medir o sucesso duma campanha publicitária ou emails.
+
 <pre><span id="result_box" class="short_text" lang="pt"><span class="">      número de click-throughs
 CTR = _________________________ X 100%
 </span></span>        <span id="result_box" class="short_text" lang="pt"><span class="">número de impressões</span></span></pre>
+
 ###
 
 
