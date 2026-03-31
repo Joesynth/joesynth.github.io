@@ -1,6 +1,4 @@
-# Linux: interfaces
-
-Olá!
+# Linux: 7 interfaces
 
 Escolher a interface?
 
@@ -13,40 +11,60 @@ Outro ponto relevante é a interface. Ela é a responsável pela interação do 
 
 <strong>Ambiente de trabalho: exemplos</strong>:
 
-**KDE Plasma 5**.  
+## KDE Plasma 5
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KDE_5.png/250px-KDE_5.png" width="120" />
 
 **K Desktop Environment**:  
 KDE, anos 90, desenvolvedor.  
 Escrito: C++.  
 📜 GPL.  
 
-**GNOME**:  
+## GNOME
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/GNOME_Shell.png/250px-GNOME_Shell.png" width="120" />
+
 Ex: ● Ubuntu ● Red Hat ● Debian ● Debian ● SUSE...  
 
 **Unity**:  
 Ex: ● Ubuntu.  
 
-**Cinnamon**:  
+## Cinnamon
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LinuxMint22-Wilma-English.png/250px-LinuxMint22-Wilma-English.png" width="120" />
+
 É bem parecida com o Windows.  
 Ex: ●  Linux Mint.
 
-**Xfce**:
+## Xfce
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XFCE_4.20.png/250px-XFCE_4.20.png" width="120" />
+
 Pretende ser rápido e leve, mas ainda visualmente atraente e fácil de usar. Esse ambiente de trabalho foi projetado para incorporar a filosofia tradicional do Unix de modularidade e reutilização, bem como a adesão a padrões; especificamente, aqueles definidos em freedesktop.org.  
 Ex: ● Xubuntu ● Slackware ● MX Linux ● Pentoo ● Gentoo ● Manjaro ● Kali Linux.  
 Anos 90, escrito em C.  
 📜 GPL.  
 
-**LXDE**:  
+## LXDE
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/LXDE_desktop_full.png/250px-LXDE_desktop_full.png" width="120" />
+
 Um ambiente de trabalho com requisitos de recursos relativamente baixos, portanto adequado para computadores pessoais mais antigos ou com recursos limitados, como <em>netbook</em> ou computadores com *sistema em um chip*.  
 Ex: ● Lubuntu (dependendo da versão) ● Raspberry Pi OS.  
 Escrito em C.  
 📜 GPL.  
 
-**LXQt**:
+## LXQt
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LXQt_2.0.0_Ambiance_screenshot.png/250px-LXQt_2.0.0_Ambiance_screenshot.png" width="120" />
+
 Posterior ao LXDE, também é um ambiente leve, portanto bem-vindo para PCs antigos.
 Ex: ● Lubuntu ● ROSA Desktot
 
-**Fluxbox**.  
+## Fluxbox
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fluxbox.png/250px-Fluxbox.png" width="120" />
+
 Outra opção de interface leve, sendo possível usar em várias distros Linux.
 Ex: ● Arch Linux ● Debian ● Gentoo ● Slackware.
 
