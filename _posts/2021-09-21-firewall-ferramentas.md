@@ -8,6 +8,7 @@ Então, agora vamos passar por algumas marcas; seja em *hardware* ou *software*.
 
 😜️ Lembrando! O *firewall* pode ser em *soft* (algo comum em uso doméstico) ou ambos (*hard*/*soft*).
 
+
 ## Firewall em hardware
 
 
@@ -39,7 +40,7 @@ Windows Firewall.
 
 Há casos que são, na verdade, distros.
 
-Vide 7 distros especiais.
+Vide [7 distros especiais](/linux-distros-especiais).
 
 
 
