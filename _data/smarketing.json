@@ -6,6 +6,12 @@
     "p": "Tutorial: o que é exatamente SEO On Page?"
   },
   {
+    "href": "private.html",
+    "src": "image/ti.png",
+    "h3": "O poder do Google",
+    "p": "Google e suas regras."
+  },
+  {
     "href": "wordpress-plugins.html",
     "src": "image/ti.png",
     "h3": "Wordpress plugins",
