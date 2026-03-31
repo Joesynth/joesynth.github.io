@@ -71,6 +71,7 @@ Ex: ● Slackware ● Debian ● Arch Linux ● Gentoo.
 
 ## 🎉️ Bônus
 
-👉️ Vale comentar ainda o **Unity**, um "sabor" conhecido no Ubuntu.  
+Vale comentar ainda o **Unity**, um "sabor" conhecido no Ubuntu.  
+**Plasma Mobile**? Uma interface (baseada no KDE), e pode-se instalar em cima do [postmarketOS](/7-opcoes-de-sistemas-para-celular).
 
 {% include final.html %}
