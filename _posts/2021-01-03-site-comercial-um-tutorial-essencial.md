@@ -178,7 +178,7 @@ Pode estar dentro de um site institucional ou de uma loja virtual.
 
 **<img src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="120" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
 
-> Um exemplo de *blog* é o site [JoeSynth.wordpress.com](joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
+> Um exemplo de *blog* é o site [JoeSynth.wordpress.com](https://joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
 
 Um *blog* em si não é uma ferramenta de venda, mas pode fazer parte do elo.
 
