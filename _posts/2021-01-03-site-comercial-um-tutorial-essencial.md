@@ -55,20 +55,15 @@ Você compraria um tênis de marca desconhecida?
 
 ###### Google sabe coisas sobre *SeuSite*
 
-O Google acha o que procuramos porque sabe dúzias de coisas sobre cada site na internet. Por ex.:
+O Google acha o que procuramos porque sabe dúzias de dados sobre cada site na internet. Por ex.:
 
-<small>
-**Site**:
-✔ Idade do seu site;  
-✔ Se está sempre está no ar;  
-✔ Se é confiável, se é referência no nicho que atua;  
-**Usuários (do seu site)**  
-✔ Visitantes frequentes;  
-✔ Quanto tempo ficam no seu site?  
-**Conteúdo**  
-✔ Se o conteúdo é original, autoral;  
-✔ Há fontes ou referências?  
-</small>
+**Site**: Idade do seu site.  
+**Usuários** (do seu site): A frequência é de quantos num mês?  
+**Marca**: Há menções à sua marca?  
+**Conteúdo**: Se o conteúdo é original, autoral.  
+
+Veja mais em [O Poder do Google](/o-poder-do-google).
+
 
 ###### SEO
 
