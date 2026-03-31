@@ -186,6 +186,12 @@
     "p": "Lista com principais ornamentos <em>dingbats</em>, também emojis."
   },
   {
+    "href": "layout-resolucoes-de-tela-design-mobile-first.html",
+    "src": "image/design.png",
+    "h3": "Layout - resoluções de tela - mobile first",
+    "p": "CSS e uma ideia bem interessante e básica de funcionamento."
+  },
+  {
     "href": "media-types-e-media-queries.html",
     "src": "image/design.png",
     "h3": "Media types e media queries",
@@ -262,6 +268,12 @@
     "src": "image/linux.png",
     "h3": "Linux",
     "p": "Um guia sobre o SO mais querido dos profissionais de TI."
+  },
+  {
+    "href": "linux-distros-especiais.html",
+    "src": "image/linux.png",
+    "h3": "Linux: 7 distros especiais",
+    "p": "Forças armadas, segurança e outras incomuns."
   },
   {
     "href": "tutorial-markdown.html",
@@ -400,12 +412,6 @@
     "src": "image/ti.png",
     "h3": "Google: como pesquisar qualquer coisa?",
     "p": "Um guia elementar."
-  },
-  {
-    "href": "layout-resolucoes-de-tela-design-mobile-first.html",
-    "src": "image/design.png",
-    "h3": "Layout - resoluções de tela - mobile first",
-    "p": "CSS e uma ideia bem interessante e básica de funcionamento."
   },
   {
     "href": "private.html",
