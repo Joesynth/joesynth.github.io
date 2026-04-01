@@ -10,6 +10,9 @@ title: Joe S - Início
             <div class="art-content">
                 <h3>{{ item.h3 }}</h3>
                 <p>{{ item.p }}</p>
+                <p class="item-date">
+  {{ item.date | date: "%d/%m/%Y" }}
+</p>
             </div>
         </article>
     </a>
