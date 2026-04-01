@@ -4,6 +4,8 @@ title: Joe S - Início
 ---
 
 {% for item in site.data.artigo %}
+    {% assign post_real = site.posts | where: "url", item.href | first %}
+
     <a href="{{ item.href }}">
         <article>
             <img src="{{ item.src }}" alt="Artigo" class="art-img">
@@ -11,8 +13,12 @@ title: Joe S - Início
                 <h3>{{ item.h3 }}</h3>
                 <p>{{ item.p }}</p>
                 <p class="item-date">
-  {{ item.data | date: "%d/%m/%Y" }}
-</p>
+                    {% if post_real %}
+                        {{ post_real.date | date: "%d/%m/%Y" }}
+                    {% else %}
+                        {{ item.data | date: "%d/%m/%Y" }}
+                    {% endif %}
+                </p>
             </div>
         </article>
     </a>
