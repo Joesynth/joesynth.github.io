@@ -4,7 +4,11 @@ title: Joe S - Início
 ---
 
 {% for item in site.data.artigo %}
-    {% assign post_real = site.posts | where: "url", item.href | first %}
+    {% comment %} 
+       Filtra os posts para achar aquele cujo arquivo termina 
+       com o mesmo nome que está no seu 'href' do JSON 
+    {% endcomment %}
+    {% assign post_correspondente = site.posts | find_exp: "post", "post.url contains item.href" %}
 
     <a href="{{ item.href }}">
         <article>
@@ -13,8 +17,8 @@ title: Joe S - Início
                 <h3>{{ item.h3 }}</h3>
                 <p>{{ item.p }}</p>
                 <p class="item-date">
-                    {% if post_real %}
-                        {{ post_real.date | date: "%d/%m/%Y" }}
+                    {% if post_correspondente %}
+                        {{ post_correspondente.date | date: "%d/%m/%Y" }}
                     {% else %}
                         {{ item.data | date: "%d/%m/%Y" }}
                     {% endif %}
