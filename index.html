@@ -5,10 +5,14 @@ title: Joe S - Início
 
 {% for item in site.data.artigo %}
     {% comment %} 
-       Filtra os posts para achar aquele cujo arquivo termina 
-       com o mesmo nome que está no seu 'href' do JSON 
+       Pega o nome do arquivo do href (remove o .html)
     {% endcomment %}
-    {% assign post_correspondente = site.posts | find_exp: "post", "post.url contains item.href" %}
+    {% assign slug_do_json = item.href | replace: ".html", "" %}
+    
+    {% comment %} 
+       Busca o post onde o arquivo físico contém esse nome
+    {% endcomment %}
+    {% assign post_encontrado = site.posts | find_exp: "p", "p.path contains slug_do_json" %}
 
     <a href="{{ item.href }}">
         <article>
@@ -17,10 +21,10 @@ title: Joe S - Início
                 <h3>{{ item.h3 }}</h3>
                 <p>{{ item.p }}</p>
                 <p class="item-date">
-                    {% if post_correspondente %}
-                        {{ post_correspondente.date | date: "%d/%m/%Y" }}
+                    {% if post_encontrado %}
+                        {{ post_encontrado.date | date: "%d/%m/%Y" }}
                     {% else %}
-                        {{ item.data | date: "%d/%m/%Y" }}
+                        Data Indisponível
                     {% endif %}
                 </p>
             </div>
