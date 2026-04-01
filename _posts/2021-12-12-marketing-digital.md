@@ -51,6 +51,7 @@ Note que no centro nós temos o **monitoramento** e nas pontas *mailing*, conte�
 
 📚️ cabeça da cauda; cauda longa.
 
+Termos do MKT digital com aplicação em SEO (Search Engine Optimization), MKT de Conteúdo e [Inbound MKT](/inbound-mkt).
 
 **Sinônimos**:  
 Head Tail: Short Head, Hit Market, Massa.  
