@@ -1,19 +1,64 @@
-# Marketplace: 49 sites!
+# Marketplace: 7 sites!
 
 Mercado Livre, OLX... iFood, Uber? Você está no <em>app</em> certo? Saiba mais sobre <em>marketplace</em> nesse tutorial.
 
-Olá!
-
-Bom, primeiro... Quando falamos em site também estamos nos referindo a um <em>software</em>. Isto é, tanto um site que você acessa na internet pelo Google ou um <em>app</em> que você instala no seu celular, são todos aplicações _e construídos através de <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagens</a> de computador (coisas como HTML, JavaScript, etc).
+Bom, primeiro... Quando falamos em site também estamos nos referindo a um <em>software</em>. Isto é, tanto um site que você acessa na internet pelo Google ou um <em>app</em> que você instala no seu celular, são todos aplicações _e construídos através de linguagens de computador (coisas como HTML, JavaScript, etc).
 
 Dito isso, é interessante estarmos atentos aos tipos de <em>softwares</em> que vão surgindo ao longo do tempo, seja eles pra Web ou para o seu celular.
 
-No contexto de <em>marketplace</em> há alguns termos que veremos aqui.
+## 🇦🇷️ Mercado Libre
+
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/MercadoLibre.svg/150px-MercadoLibre.svg.png" width="80" height="72" />Ou Mercado Livre no Brasil, é uma das maiores plataformas de compra e venda da Internet.
+Atualmente lida com milhões de usuários, seja pessoas físicas ou jurídicas e até grandes marcas. O Mercado Livre é o líder no <em>ranking</em> dos <em>marketplaces</em> com 27% de participação de mercado, a maior fatia do bolo.
+✏️  Marcos Galperin  ★déc. 90.
+🔗️ mercadolibre.com.ar/
+
+
+## 🇧🇷 Magazine Luiza
+
+<img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/63f7d-8badea_f91a2d03f88e4b65b460086410ac0c28mv2.jpg" width="120" />Referência em atendimento, o Magazine Luiza expandiu seus negócios com o <em>marketplace</em> e já é um dos principais <em>players</em> nacionais.
+🔗️ especiais.magazineluiza.com.br/marketplace/
+
+
+
+## 🇧🇷 Netshoes (Magazine Luiza)
+
+<img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/2759a-8badea_465f111ca4814529a6489c3136850ea5mv2.png" width="120" />Com atuação no Brasil, Argentina e México, são apontados como o maior e-commerce de artigos esportivos do mundo.
+🔗️ netshoes.com.br/marketplace
+
+
+## 🇧🇷 Estante Virtual
+
+<img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/889f2-8badea_a6bbe35419874caaa21925535ccc8aebmv2.png" width="120" />Marketplace pioneiro no Brasil para compra e venda de livros, seja novos ou usados.
+🔗️ estantevirtual.com.br/
+
+
+## 🇧🇷 Hotmart
+
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hotmart_logo.svg/200px-Hotmart_logo.svg.png" width="120" />Comércio eletrônico onde seu modelo de negócios é focado na distribuição e venda de produtos digitais, como audiolivros, cursos online, podcasts, livros eletrônicos etc.
+
+
+## 🇧🇷️ 99freelas
+
+<img class="alignleft" src="https://www.99freelas.com.br/images/fb-article.jpg" width="120" />👥️ Publica-se um projeto para que os profissionais se candidatem (ou... entrar em contato diretamente).
+Com cada tarefa feita ganha-se <em>scores</em> pelo seu desempenho e competência.
+🛠️ Redação, fotografia, programação, desenvolvimento, <em>social media</em>, SEO, advocacia, administrativo, vendas. Iniciou focada no mercado de programadores e hoje atende várias áreas.
+💸️ Taxa 10% (paga pelo <em>freela</em> por negócio fechado)
+💰️ Há perfil <em>premium</em> pago (e que recebe as vagas primeiro).
+🔗️ 99freelas.com.br/
+
+
+## Bandcamp
+
+Loja para artistas e mesmo selos, como os brasileiros Sinewave e QTV (experimental).
+Eu também estou nele: [Joe S](https://joesynth.bandcamp.com).
+
+Indo além, no contexto de <em>marketplace</em> há alguns termos que veremos aqui.
 Também fizemos uma lista de exemplos de aplicações. Vamos lá!?
 <h2>Marketplace C2C</h2>
 C2C (<span style="color: #0000ff"><em>Consumer to Consumer</em> - Consumidor para Consumidor</span>): Modelo de negócio no qual dois ou mais consumidores realizam transações diretamente. Na verdade uma prática comum em feiras de usados, casas de leilão ou classificados de jornais.
 
-Há outros detalhes, então vide <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">Site Comercial: um tutorial essencial</a>.
+Há outros detalhes, então vide Site Comercial: um tutorial essencial.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/220px-EBay_logo.svg.png" width="60" />🇺🇸 **eBay**.
 
@@ -50,18 +95,9 @@ O maior canal de <em>marketplace</em> dos EUA. Iniciou as vendas no setor de liv
 🔗️ marketplace.walmart.com.br/
 Faz parte da cadeia de supermercados de mesmo nome e integra a maior rede varejista do mundo. Foi lançada em 2009 e em 2016 toma iniciativas para competir com a Amazon.
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/MercadoLibre.svg/150px-MercadoLibre.svg.png" width="80" height="72" />🇦🇷️ **Mercado Libre**.
 
-✏️  Marcos Galperin  ★déc. 90.
-🔗️ mercadolibre.com.ar/
-Ou Mercado Livre no Brasil, é uma das maiores plataformas de compra e venda da Internet.
 
-Atualmente lida com milhões de usuários, seja pessoas físicas ou jurídicas e até grandes marcas. O Mercado Livre é o líder no <em>ranking</em> dos <em>marketplaces</em> com 27% de participação de mercado, portanto a maior fatia do bolo.
 
-<img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/63f7d-8badea_f91a2d03f88e4b65b460086410ac0c28mv2.jpg" width="120" />🇧🇷 **Magazine Luiza**.
-
-🔗️ especiais.magazineluiza.com.br/marketplace/
-Referência em atendimento, o Magazine Luiza expandiu seus negócios com o <em>marketplace</em> e já é um dos principais <em>players</em> nacionais.
 <h6>Outros semelhantes?</h6>
 
 . **Shopee**.
@@ -71,7 +107,7 @@ Referência em atendimento, o Magazine Luiza expandiu seus negócios com o <em>m
 . **Flipkart**.
  - livros, eletrônicos, moda.
 • **Buscapé**.
- - também é um <a href="https://joesynth.wordpress.com/2021/12/12/site-comercial-um-tutorial-essencial/">comparador de preços</a>.
+ - também é um comparador de preços.
 . **Via Varejo**.
  (Casas Bahia, Extra e Ponto Frio.).
 
@@ -85,10 +121,6 @@ Aqui o cliente chega até você com uma intenção de compra bem mais focada.
 🔗️ centauro.com.br/marketplace
 Um <em>marketplace</em> de nicho, focado na categoria de artigos esportivos.
 
-<img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/2759a-8badea_465f111ca4814529a6489c3136850ea5mv2.png" width="120" />• **Netshoes**.
- (Magazine Luiza)
-🔗️ netshoes.com.br/marketplace
-Com atuação no Brasil, Argentina e México, são apontados como o maior e-commerce de artigos esportivos do mundo.
 
 <img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/a6a6f-8badea_a2a3ad4922af4ab8b7e9d9508f23410cmv2.png" width="79" height="46" />🇧🇷 **Enjoei**.
 
@@ -109,18 +141,12 @@ zattini.com.br (Magazine Luiza): moda no geral.
 
 <h6>Nicho: outros</h6>
 
-<img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/889f2-8badea_a6bbe35419874caaa21925535ccc8aebmv2.png" width="120" />🇧🇷 **Estante Virtual**.
-
-🔗️ estantevirtual.com.br/
-Marketplace pioneiro no Brasil para compra e venda de livros, seja novos ou usados.
 
 <img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/3529b-8badea_09821aef9d71483fb9d3af2b106f3dcemv2.png" width="120" />• **E-cavalos**.
 
 🔗️ ecavalos.com/
 É um <em>marketplace</em> de nicho com centenas de artigos para quem gosta de cavalos; desde vestuário, jóias, selaria, calçados, acessórios... O próprio vendedor monta e gerencia sua loja e cadastra os produtos, sem nenhuma intervenção do site.
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hotmart_logo.svg/200px-Hotmart_logo.svg.png" width="120" />🇧🇷 Hotmart
-Comércio eletrônico onde seu modelo de negócios é focado na distribuição e venda de produtos digitais, como audiolivros, cursos online, podcasts, livros eletrônicos etc.
 
 <img class="alignleft" src="https://joesynth.files.wordpress.com/2022/11/7c8ac-8badea_798fdd5d8f0c4059b2af8f28d64b5799mv2.png" width="120" />• **Instacarro**.
 
@@ -156,14 +182,6 @@ Plataforma de serviços <em>online</em>, algo como Uber ou iFood. Um espaço ond
 
 Enquanto no iFood entrega-se comida e no Uber passageiro (ao seu destino), outros entregam serviços como fotografias, eventos etc.
 
-<img class="alignleft" src="https://www.99freelas.com.br/images/fb-article.jpg" width="120" />🇧🇷️ **99freelas**.
-
-🔗️ 99freelas.com.br/
-🛠️ Redação, fotografia, programação, desenvolvimento, <em>social media</em>, SEO, advocacia, administrativo, vendas. Iniciou focada no mercado de programadores e hoje atende várias áreas.
-💸️ Taxa 10% (paga pelo <em>freela</em> por negócio fechado)
-💰️ Há perfil <em>premium</em> pago (e que recebe as vagas primeiro).
-👥️ Publica-se um projeto para que os profissionais se candidatem (ou... entrar em contato diretamente).
-Com cada tarefa feita ganha-se <em>scores</em> pelo seu desempenho e competência.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_Workana.png" width="120" />
 🇦🇷️ **Workana**.
@@ -242,7 +260,7 @@ com | bicos.com.br - Não cobra comissão sobre os serviços.
 . **TaskRabbit**.
 
 
-Ainda na área de redação há várias (por ex. Contentools, Meu Redator, <a href="https://crowd.br.com/">Crowd</a> e Textbroker.
+Ainda na área de redação há várias (por ex. Contentools, Meu Redator, Crowd e Textbroker.
 
 
 
@@ -281,8 +299,6 @@ shoptime.com.br
  - carrefour.com.br - bem variedada, vai desde pneus até roupas de cama, mesa e banho.
 **Elo7**.
  - elo7.com.br - Trabalhos artesanais e feitos sob encomenda.
-.<a href="https://joesynth.wordpress.com/2023/11/26/o-spotify-paga-os-artistas/">**Bandcamp**.
-</a> - loja para artistas.
 **Tricae**.
  - tricae.com.br
 
