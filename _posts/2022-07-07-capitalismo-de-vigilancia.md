@@ -1,6 +1,3 @@
-
-
-
 # Capitalismo de Vigilância
 
 Olá! Indo direto ao assunto.
@@ -33,12 +30,12 @@ Trecho original:
 📚 Big Other (Grande Outro): Uma evolução do conceito de "Big Brother", de Orwell. É um termo crido por Zuboff.   
 📚 nudge: v. empurrar (gentilmente).  
 
-||Big Brother|Big Other|
-| :--- | :---: | :---: |
-|fonte de<br />poder|Estado Totalitário<br />(Oceania)|Corporações<br />(Big Tech)|
-|mecanismo|vigilância física<br />(câmeras)|vigilância digital<br />(dados)|
-|aplicação|medo, tortura|algoritmos, nudging|
-|objetivo|submeter o indivíduo pela força e punição.|modificar o comportamento para lucro (vender previsões).|
+|Big Brother|Big Other|
+| :---: | :---: |
+|**fonte de poder**<br />Estado Totalitário<br />(Oceania)|**fonte de poder**<br />Corporações<br />(Big Tech)|
+|**mecanismo**<br />vigilância física<br />(câmeras)|**mecanismo**<br />vigilância digital<br />(dados)|
+|**aplicação**<br />medo, tortura|**aplicação**<br />algoritmos, nudging|
+|**objetivo**<br />submeter o indivíduo pela força e punição.|**objetivo**<br />modificar o comportamento para lucro (vender previsões).|
 
 ###### Grande Outro: o aparato digital onipresente
 
