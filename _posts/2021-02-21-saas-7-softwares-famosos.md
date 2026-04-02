@@ -8,7 +8,7 @@ Bem, a sigla em inglês é autoexplicativa: software como um serviço; portanto 
 
 Isto é, nesse modelo, há um desenvolvimento e comercialização do <em>software</em> de forma que este gera receita para a empresa com o cliente pagando uma taxa, um valor "x".
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nubank_logo_2021.svg/220px-Nubank_logo_2021.svg.png" width="60" />🇧🇷️ **Nubank**.  
+🇧🇷️ **Nubank**.  
 Serviços financeiros.
 O Nubank é um exemplo. Um processo que antes era feito manualmente _como ir a um banco e criar uma conta_ no SaaS é feito, basicamente, pela automação; utilizando-se de algoritmos: <em>software</em>.  
 
@@ -21,27 +21,32 @@ E o tal do <em>on-premises</em>? Enquanto o SaaS tá na nuvem e é disponibiliza
 
 ## 7 SaaS conhecidos
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Conta_azul_institucional-01.png/200px-Conta_azul_institucional-01.png" width="120" />🇧🇷️ **Conta Azul**.  
+#### 🇧🇷️ Conta Azul
+
 Sistema de gestão financeira na nuvem.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Globoplay_logo_2020.svg/250px-Globoplay_logo_2020.svg.png" width="120" />🇧🇷️ Globoplay.  
+#### 🇺🇲️ Google Drive
+
+Armazenamento de arquivos. 
+
+#### 🇺🇲️ PayPal
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhKoEgJjmoDWpNtlF5J82hcIr85KIOL0gjFA&s" width="120" />Pagamentos online.  
+
+🇧🇷️ Globoplay.  
 Um streaming de vídeo.  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/100px-Google_Drive_icon_%282020%29.svg.png" width="60" />🇺🇲️ **Google Drive**.  
-Armazenamento de arquivos.  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/220px-Spotify_logo_with_text.svg.png" width="120" />🇸🇪️ **Spotify**.  
+ 
+🇸🇪️ **Spotify**.  
 Um streaming de áudio, músicas.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/170px-Netflix_2015_logo.svg.png" width="120" height="33" /> 🇱🇷️ **Netflix**.  
+🇱🇷️ **Netflix**.  
 Um <em>streaming</em> de vídeos, provendo filmes e séries de televisão.  
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/220px-GitHub_logo_2013.svg.png" width="120" />🇱🇷️ **GitHub**.  
+🇱🇷️ **GitHub**.  
 Famosa entre programadores, oferece serviço de hospedagem na Internet para desenvolvimento de <em>software</em> e controle de versão.  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/220px-PayPal.svg.png" width="120" height="32" /> 🇺🇲️ **PayPal**.  
-Pagamentos online.  
+
 
 
 
