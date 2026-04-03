@@ -7,6 +7,7 @@
 - Psicologia cognitiva
 - Software CRM 
 - Um pouco de história
+- 🎉️ Bônus! As linhas de Asch
 
 
 ## Introdução
@@ -216,6 +217,29 @@ Imagine agora que ela tenha seu comportamento previsível, por um estranho. Ao t
 Se alguém consegue prever ou padronizar o brincar, o condicionamento substituiu a liberdade (que para o indivíduo era é a capacidade de iniciar algo novo).
 
 
+## 🎉️ Bônus! As linhas de Asch
+
+<img src="https://upload.wikimedia.org/wikipedia/en/8/8d/Solomon_Asch.jpg" width="120" />🇵🇱 🇺🇸 Solomon Eliot Asch (Polônia /Estados Unidos). Os estudos do psicólogo Asch investigaram se e como os indivíduos cediam ou desafiavam um grupo majoritário e o efeito de tais influências sobre crenças e opiniões.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Asch_experiment.svg/330px-Asch_experiment.svg.png" width="" />A carta da esquerda é a mostra linha de referência e a da direita três linhas para comparar.
+
+Quanto ao tamanho, os olhos lhe dizem claramente, certo? Será!?
+
+No experimento de Asch participou uma pessoa comum, que era o verdadeiro sujeito da pesquisa, e além dela cúmplices.
+Os cúmplices estavam ali, exatamente, para fingirem ser participantes comuns. O foco deles era dar respostas erradas de propósito para pressionar o ingênuo participante (verdadeiro) a se conformar com uma resposta obviamente incorreta. 
+
+Os participantes foram convidados a dizer qual linha correspondia ao comprimento da linha original, a do primeiro cartão. O participante "real" respondeu por último ou penúltimo.
+
+O experimento de Asch demonstra que indivíduos tendem a conformar-se ao grupo, mesmo diante de evidências claras de erro. No CRM, isso se aplica através da prova social, onde o sistema sugere ações baseadas no comportamento da maioria dos usuários de sucesso.
+
+Asch foi um psicólogo da Gestalt, uma escola de psicologia, e pioneiro na psicologia social.
+
+
+\o_
+<!--
+wiki en, wiki pt, IA (penúltimo paragrafo Asch)
+
+-->
 
 É isso!
 \o/
