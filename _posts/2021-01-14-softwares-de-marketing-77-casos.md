@@ -3,6 +3,7 @@
 Conheça programas que podem ser considerados vitais para sua marca.  
 
 
+
 Olá!
 
 
@@ -20,22 +21,22 @@ Outra questão é a instalação do **software**. Há programas que não são in
 
 Vamos lá!
 
-<ul>
-<li>✉️ E-mail marketing</li>
-<li>🎵️ Marketing de eventos</li>
-<li>🤑️ Marketing de afiliados</li>
-<li>✍️ Marketing de conteúdo</li>
-<li>💚 Marketing de causa / institucional</li>
-<li>🏬️ Endomarketing (MKT Interno)</li>
-<li>🔎️ SEO</li>
-<li>👨‍👩‍👦‍👦️ Marketing de mídia social</li>
-<li>🧠 Marketing de relacionamento</li>
-<li>🔢️ Software híbrido de MKT</li>
-<li>🤖️ Automação de marketing vs automação de fluxos ⚙️</li>
-<li>💰️ CAC e o CRC -  Custo de Aquisição / Retenção do Cliente</li>
-<li>🔁️ Plugins</li>
-<li>Scheduler</li>
-</ul>
+
+- ✉️ E-mail marketing
+- 🎵️ Marketing de eventos
+- 🤑️ Marketing de afiliados
+- ✍️ Marketing de conteúdo
+- 💚 Marketing de causa / institucional
+- 🏬️ Endomarketing (MKT Interno)
+- 🔎️ SEO
+- 👨‍👩‍👦‍👦️ Marketing de mídia social
+- 🧠 Marketing de relacionamento
+- 🔢️ Software híbrido de MKT
+- 🤖️ Automação de marketing vs automação de fluxos ⚙️
+- 💰️ CAC e o CRC -  Custo de Aquisição / Retenção do Cliente
+- 🔁️ Plugins
+- Scheduler
+
 
 
 
