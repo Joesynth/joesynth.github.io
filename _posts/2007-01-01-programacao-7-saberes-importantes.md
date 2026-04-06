@@ -6,7 +6,7 @@
 4. Bash
 5. JSON
 6. Nano e Gedit
-7. Console Firefox
+7. Teclado de computador
 8. 🎉️ Bônus!
 
 
@@ -79,15 +79,19 @@ Leia mais sobre [JSON](/json).
 👉️ Neste momento em que escrevo estou usando o Gedit, mas poderia ser o Nano. 
 
 
+## Teclado de computador
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAxOanAFArnxpjDAJYm3CEEZ04uqwsdLF82eg4ODWhhoR1xc0h" width="310" />Conhecer o teclado, no sentido de estar habituado com o mínimo de digitação, é de grande importância. Além disso conhecer atalhos é outro saber bem-vindo.
+Não seria exagero se disséssemos que o teclado equivale ao instrumento musical de um músico.
 
 
-## Console Firefox
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="120" />**Console Firefox**: Semelhante ao Bash, porém em vez de controlar o sistema operacional ele permite controlarmos o que vemos numa página web. É possível até escrevermos código, como se fosse um editor Nano ou Gedit. Nele iremos lidar com linguagens HTML, CSS e JavaScript.
 
 
 
 ## 🎉️ Bônus!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1280px-Firefox_logo%2C_2019.svg.png" width="120" />**Console Firefox**: Semelhante ao Bash, porém em vez de controlar o sistema operacional ele permite controlarmos o que vemos numa página web. É possível até escrevermos código, como se fosse um editor Nano ou Gedit. Nele iremos lidar com linguagens HTML, CSS e JavaScript.
+
 
 <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="120" />🇳🇱 **GitLab**: É uma rede social de programadores. Em vez de publicarmos fotos, como no Instagram, no GitLab postamos códigos de programas que estamos criando.  
 
