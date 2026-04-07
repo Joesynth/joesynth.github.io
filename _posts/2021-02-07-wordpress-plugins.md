@@ -176,12 +176,7 @@ Veja "Pacote".
 <pre>**Disable Comments** 🎉️ Bloqueia comentários de spam ou outras mensagens desagradáveis.
 **Anti-spam** 🎉️ Fuja das mensagens de spam com este plugin fácil de usar e que vai facilitar a vida dos moderadores e dos visitantes do seu site.</pre>
 
-**Marketing Digital** (SEO).
 
-<pre>**SEO Ultimate** 🎉️ 
-**Google XML Sitemaps** 🎉️
-**WordPress SEO by Yoast**.
-**All In One SEO Pack**.</pre>
 
 **Outros**.
 
@@ -257,8 +252,15 @@ HubSpot** CRM para pequenas empresas. Gere melhor seus leads e automatiza aspect
 
 <pre>OneSignal | WonderPush | Smart Notifications (Premium) | Gravitec.net | Fire Push (Premium) | PushAssist | Beamer | LetsPush (Premium) | iZooto Web Push Notification | Subscribers</pre>
 
+###### Marketing Digital** (SEO)
 
-## Google: o "chefe"!
+<pre>**SEO Ultimate** 🎉️ 
+**Google XML Sitemaps** 🎉️
+**WordPress SEO by Yoast**.
+**All In One SEO Pack**.</pre>
+
+
+###### Google: o "chefe"!
 
 O Google tem grande influência na internet. Vide o poder do Google.
 
@@ -273,7 +275,7 @@ Wptouch Mobile** 🎉️ Cria um layout perfeito para ser aberto em dispositivos
 **WP Fastest Cache** 🎉️</pre>
 
 
-## Distribuição (de conteúdo)
+###### Distribuição (de conteúdo)
 
 Vide JetPack.
 
