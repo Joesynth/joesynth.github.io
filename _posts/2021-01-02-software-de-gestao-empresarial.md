@@ -80,11 +80,12 @@ Imagine um atendente inexperiente, um funcionário novo que acabou de chegar par
 
 Sistema de gestão comercial com PDV, dentre outros recursos.  
 💲️ Shareware.  
-😎️ Versão grátis: inclui recursos de controle de vendas, cadastro de produtos, clientes e fornecedores, catálogo online e aplicativo de vendas.  
+😎️ Versão grátis: .  
 
-|👍️|👎️|
+|versão grátis<br />👍️|versão grátis<br />👎️|
 |:---:|:---:|
-|Funciona *offline* e tem-se impressão de nota fiscal.|Facilmente tem-se produtos duplicados no cadastro. Outro inconveniente é a pesquisa de produtos nada objetiva.|  
+|Funciona *offline* e tem-se impressão de nota fiscal.|Facilmente tem-se produtos duplicados no cadastro. Outro inconveniente é a pesquisa de produtos nada objetiva.|
+| Recursos de controle de vendas, cadastro de produtos, clientes e fornecedores, catálogo online e aplicativo de vendas||  
 
 🖥️ Windows (apenas), dispositivos móveis Android e iOS.  
 🔗️ nextar.com.br  
@@ -94,12 +95,11 @@ Sistema de gestão comercial com PDV, dentre outros recursos.
 
 <img class="alignleft" src="https://play-lh.googleusercontent.com/qaMsUSmOaKX0BiPNB5fLVZLIV71Eieuk5eJ_dm5rGdAbWKRq2oJQGehLttbaeCvthEw" width="80" height="80" /> Seu foco são as vendas *online*. Todos os planos dão acesso à ferramenta via aplicativos Android e iOS.  
 💲️ Software de versão gratuita e paga.  
-😎️ Versão gratuita: oferece funcionalidades de PDV; cadastro de produtos ilimitado, criação de um catálogo *online* para os produtos e emissão de recibos digitais, inclusive via WhatsApp, e gestão de pedidos.  
 💰️ Versão paga: temos controle de estoque, gestão de fiado e criação de relatórios.  
 
-||👎️|
+|versão grátis<br />👍️|versão grátis<br />👎️|
 |:---:|:---:|
-||Versão gratuita não gera NF.|  
+| Oferece funcionalidades de PDV; cadastro de produtos ilimitado, criação de um catálogo *online* para os produtos e emissão de recibos digitais, inclusive via WhatsApp, e gestão de pedidos.  |Não gera NF.|  
 
 🖥️ Android e iOS (dependendo do plano escolhido é possível acessar a versão para computador e ter acesso a suporte ao consumidor via chat). 
 🔗️ kyte.com.br  
@@ -109,8 +109,14 @@ Sistema de gestão comercial com PDV, dentre outros recursos.
 ###### 🇧🇷 SmartPOS
 
 <img class="alignleft" src="https://www.smartpos.net.br/wp-content/uploads/2020/11/pdv-1-e1608750675325-1024x821.png" width="120" /> 💲️ Versão grátis e paga.  
-😎️ Versão grátis: funções básicas como cadastro de produtos e clientes, registro de vendas, edição de tipo de pagamento, recebimento com cartões e relatório de vendas. Entretanto não é possível integrar as versões PC e smartphone.  
+ 
 💰️ Plano premium: optando por ele é possível módulo fiscal, sistema de controle de estoque, gestão de fiado e emissão de NF.  
+
+|versão grátis<br />👍️|versão grátis<br />👎️|
+|:---:|:---:|
+|Funções básicas como cadastro de produtos e clientes, registro de vendas, edição de tipo de pagamento, recebimento com cartões e relatório de vendas.| Não é possível integrar as versões PC e smartphone.|
+
+
 🖥️ Windows, aplicativo para Android e iOS.  
 🔗️ smartpos.net.br  
 
@@ -124,15 +130,20 @@ Sistema de Gestão Financeira (SGF).
 
 <img class="alignleft" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95IOGiWIX6fNlozLBjOVCZpqAO7mkd0s6Sg&amp;s" width="310" />
 
-🔎️  Dptº foco: especialmente contabilidade e financeiro. Indicado pequena/média empresa.
+A maioria dos softwares de gestão financeira...  
 
-Normalmente, não há dptº de estoque.
+|👍️|👎️|
+|:---:|:---:|
+|🔎️ Foco: principalmente dptº de contabilidade e financeiro.<br />Permite importar arquivos no formato .ofx.<br />Indicado para pequena/média empresa.|Não há dptº de estoque, normalmente.<br />⚙️ Implementação / complexidade:<br /> média, baixa.|  
 
-A maioria dos softwares de gestão financeira permite importar arquivos no formato .ofx.
 
-Arquivo OFX (*Open Financial Exchange*): essencialmente financeiro, mas também de uso na contabilidade, é o formato de arquivo para extratos e operações bancárias na conciliação. É padrão para a troca de informações entre bancos e sistemas de gestão, facilitando a automação da conciliação bancária.
 
-⚙️ Implementação / complexidade: média, baixa.
+
+**Arquivo OFX**:  
+📚️ *Open Financial Exchange*:  
+Essencialmente financeiro, mas também de uso na contabilidade, é o formato de arquivo para extratos e operações bancárias na conciliação. É padrão para a troca de informações entre bancos e sistemas de gestão, facilitando a automação da conciliação bancária.
+
+
 
 ## Softwares FMS (SGF)
 
@@ -141,24 +152,22 @@ Note que nesta área temos vários softwares livres 🎈.
 
 ###### GnuCash
 Há relatórios e gráficos como despesas e receitas, balanço ou fluxo de caixa.
-🔥️ Tecnologias: XML, arquivo .ofx (pode importar e depois exportar os dados para .csv), banco de dados SQL (SQLite, MySQL...).
 Indicação de uso: desenvolvido para uso pessoal, pequenas e médias empresas; sendo também uma ferramenta para ONGs, igrejas.  
 
-||👎️|
+|🔥️ Tecnologias|👎️|
 |:---:|:---:|
-|| Não importa diretamente arquivo XML de NF-e.|
-||Sem estoque.|  
+|XML, arquivo .ofx (pode importar e depois exportar os dados para .csv).| Não importa diretamente arquivo XML de NF-e.|
+|Banco de dados SQL (SQLite, MySQL...)|Sem estoque.|  
 
 📜️ Software Livre🎈️
 
 
 ###### KMyMoney (by KDE)
-Usuários domésticos e pequenas associações.
-🔥️ ofx, exporta csv.  
+Usuários domésticos e pequenas associações.  
 
-||👎️|
+|🔥️|👎️|
 |:---:|:---:|
-||Não importa diretamente arquivo XML de NF-e.  |
+|ofx, exporta csv.|Não importa diretamente arquivo XML de NF-e.  |
 ||Sem estoque, inventário; gestão de vendas, compras ou produtos.|  
 
 🖥️ Linux, Mac...  
@@ -168,13 +177,12 @@ Usuários domésticos e pequenas associações.
 
 ###### HomeBank
 
-Usuários iniciantes e pequenos projetos.
-🔥️ ofx, exporta csv.  
+Usuários iniciantes e pequenos projetos.  
 
-|👍️|👎️|
-|:---:|:---:|
-|Português.| Sem estoque.|
-||Não importa diretamente arquivo XML de NF-e.|  
+|🔥️|👍️|👎️|
+|:---:|:---:|:---:|
+|ofx, exporta csv.|Português.| Sem estoque.|
+|||Não importa diretamente arquivo XML de NF-e.|  
 
 🖥️ Linux, Mac...
 📜️ Software Livre🎈️
@@ -195,12 +203,19 @@ Suporte a várias moedas, orçamentos e importação de OFX/CSV.</pre>
 Planejamento de Recurso Corporativo.
 
 <img class="alignleft" src="https://media.licdn.com/dms/image/v2/D5612AQGghPl30CY24A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725242534837?e=2147483647&amp;v=beta&amp;t=tUtniVXcqmOZXfFBWTL4VdPeXaSCyjyDjO-3bdzb9MU" width="310" />  
-🔎️  Dptº foco: contabilidade
-e financeiro, porém vai além. Via de regra tem estoque. Indicado média/grande empresa.
+
+|👍️|👎️|
+|:---:|:---:|
+|🔎️  Dptº foco: contabilidade e financeiro, mas vai além.<br />Via de regra tem estoque.<br />Indicado média/grande empresa.|⚙️ Implementação / complexidade:<br /> média, alta.|
+
+
+
+
+
 
 O ERP interliga os diferentes setores de SuaEmpresa _vendas, estoque etc. Ele simplifica os procedimentos, tornando as rotinas da empresa mais rápidas e dinâmicas. Adiciona-se ainda que as informações da empresa ficam armazenadas em bancos de dados e acessadas conforme necessário.
 
-⚙️ Implementação / complexidade: média, alta.
+
 
 ## Softwares ERP
 
@@ -209,13 +224,13 @@ O ERP interliga os diferentes setores de SuaEmpresa _vendas, estoque etc. Ele si
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/AdempiereUI_WEB.png/250px-AdempiereUI_WEB.png" width="120" />Plataformas Apache Tomcat, JBoss, PostgreSQL, Oracle Database.
 ✏️ Jorg Janke | Comunidad Adempiere.
-🔥️ PDV e CRM.
+.
 💽️ github.com/adempiere/adempiere
 🔗️ adempiere.net  
 
-|👍️||
+|🔥️|👍️|
 |:---:|:---:|
-| Importa diretamente arquivo XML de NF-e.||  
+|PDV e CRM| Importa diretamente arquivo XML de NF-e.|  
 
 📜️ GPLv2🎈️
 
@@ -224,14 +239,13 @@ O ERP interliga os diferentes setores de SuaEmpresa _vendas, estoque etc. Ele si
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dolibarr_logo.png/180px-Dolibarr_logo.png" width="80" height="22" />Oferece um pacote completo de sistema de gestão, com acompanhamento de faturas, contratos, estoque, pedidos e pagamentos. Possui uma loja com add-ons que podem ampliar o seu sistema ERP.
 ✏️ Dolibarr team | Laurent Destailleur.
-🔥️ CRM, PDV.
 💽️ sourceforge.net/projects/dolibarr/files/
 ⬇️ F-Droid (DoliDroid).
 🔗️ dolibarr.org  
 
-|👍️||
+|🔥️|👍️|
 |:---:|:---:|
-|| Importa (via módulo) diretamente arquivo XML de NF-e.|  
+|CRM, PDV| Importa (via módulo) diretamente arquivo XML de NF-e.|  
 
 🖥️ Cross-platform (ou nuvem).
 📜️ GPL, Software Livre 🎈️ Mas também podendo ser SaaS (ou cloud).
@@ -241,12 +255,11 @@ O ERP interliga os diferentes setores de SuaEmpresa _vendas, estoque etc. Ele si
 Funcionando online e offline, é baseado em 30 módulos principais, e outros podem ser obtidos. Há, por ex., automação de MKT (gerir posts no Facebook etc). Outras possibilidades incluem integração com Whatsapp ou controle de voluntários (caso de uma ONG, por exemplo).
 ✏️ Fabien Pinckaers | Odoo S.A., Community.
 💽️ github.com/odoo/odoo
-🔥️ CRM, PDV, PostgreSQL, possível integração com o Wordpress.
 💲️ SaaS (há versão gratuita e paga).  
 
-|👍️||
+|🔥️|👍️|
 |:---:|:---:|
-|Importa diretamente arquivo XML de NF-e.||  
+|CRM, PDV, PostgreSQL, possível integração com o Wordpress.|Importa diretamente arquivo XML de NF-e.|  
 
 🖥️ Linux, Unix-like, OS X, Windows, iOS, Android, online (sem necessidade de instalação).
 🔗️ odoo.com
@@ -347,13 +360,12 @@ ERP on-line, ele oferece módulo administrativo, gerenciamento de projetos, ferr
 💰️ Versão paga oferece consultor técnico dedicado e API para integrações.
 ERP que disponibiliza uma solução de frente de caixa, sem limite de usuários/dispositivos, e com integração com estoque e emissão de notas fiscais. Além da NFC-e e da CF-e, o programa também emite a NFS-e (Nota Fiscal de Serviços Eletrônica).
 Na questão do estoque, permite que se controle em tempo real as entradas e saídas de produtos com atualizações automáticas. Tem-se acesso a relatórios com as principais informações de venda, estoque e financeiro. Na "gestão de fiado", oferece a opção de adicionar limite de crédito por cliente.
-Para utilizá-lo basta um *desktop* ou celular com acesso a Web; e para iniciar, acessar o site da empresa a criar uma conta.
-🔥️ PDV, módulos (incluem fiscal, estoque, compras...).  
+Para utilizá-lo basta um *desktop* ou celular com acesso a Web; e para iniciar, acessar o site da empresa a criar uma conta.  
 
-|👍️|👎️|
-|:---:|:---:|
-|PDV com emissão de NF-e (mesmo sem acesso a internet).|Propagandas internas por utilizar o produto.|
-|Funciona tanto *online* como *offline*.||  
+|🔥️|👍️|👎️|
+|:---:|:---:|:---:|
+|PDV|PDV com emissão de NF-e (mesmo sem acesso a internet).|Propagandas internas por utilizar o produto.|
+| Módulos fiscal, estoque, compras...)|Funciona tanto *online* como *offline*.||  
 
 🖥️ Nuvem; qualquer tipo de dispositivo.
 🔗️ marketup.com
@@ -361,8 +373,8 @@ Para utilizá-lo basta um *desktop* ou celular com acesso a Web; e para iniciar,
 
 
 ###### 🇧🇷 Sige Lite
-💲️ Gratuito ou pago.
-Esse ERP conta com uma frente de caixa que emite notas e cupons fiscais (NFC-e CF-e). A ferramenta oferece ainda funcionalidades para controle de contas a pagar e a receber, além de gestão de fiado (que é oferecido como crédito na loja).
+💲️ Gratuito ou pago.  
+Conta com uma frente de caixa que emite notas e cupons fiscais (NFC-e CF-e). A ferramenta oferece ainda funcionalidades para controle de contas a pagar e a receber, além de gestão de fiado (que é oferecido como crédito na loja).
 💰️ Plano pago: acesso a versões personalizadas.  
 
 |👍️||
