@@ -54,23 +54,78 @@ Radio Player (SoftLab) ● WP Radio (SoftLab) ● Hero ● Radio Station ● Str
 
 ## Contabilidade e financeiro
 
-**Pix** (pagamentos ).
+######  Pix (pagamentos)
 
 **PagHiper** (Pix e Boleto bancário): foco em doação para aumentar arrecadações de instituições.
 **GiveWP**: seu site em um sistema de doação.
 **OpenPix**
 
-**Pix Woocommerce**.
+###### Pix Woocommerce
 
-<pre>Pix por Piggly ● Pagarme ● PixNew
-</pre>
+● Pix por Piggly ● Pagarme ● PixNew
 
-**Cartão de crédito**.
 
-<pre>WP Simple Pay ● WPForms ● Easy Digital Downloads ● MemberPress ● WooCommerce ● LearnDash ● Stripe Payments 
-</pre>
+###### Cartão de crédito
 
-.
+● WP Simple Pay ● WPForms ● Easy Digital Downloads ● MemberPress ● WooCommerce ● LearnDash ● Stripe Payments 
+
+
+## ERP/FMS/PDV
+
+###### PDV
+
+● wePOS – Point Of Sale (POS) for WooCommerce
+● WooCommerce POS – Point of Sale
+
+
+###### FMS (SGF)
+
+> ⚠️ "Não há dptº de estoque, normalmente.", " importar arquivos no formato .ofx", "...para pequena/média empresa" [JoeSynth]
+
+● WP Ever Accounting: contabilidade, faturamento para WordPress.
+Permite gerir receitas e despesas, emitir faturas, trabalha com várias moedas, contas bancárias, relatórios.
+● Money Manager
+gere financeiro, contabilidade; empresa pequena.
+.csv (formato para importar transações)
+Gerenciamento de várias contas bancárias em diferentes moedas.
+Registro de depósitos, retiradas, transferências entre contas.
+
+
+###### ERP
+
+● WP ERP - CRM, RH, Contabilidade ● 🇧🇷 Zetta ERP (ZettaBrasil) - NFe, DRE, arquivo etc ● Worksuite WP – ERP ● CRM ERP Business Solution
+
+###### WooCommerce
+
+Por natureza um PDV Digital ou uma plataforma de *e-commerce*, mas também com recursos de FMS (e não chegando a ser um ERP completo por não ter RH, por exemplo).
+
+✔ pedidos "Pendentes" ou "Aguardando"
+✔ Histórico de Devedores
+✔ Baixa Manual: Quando o cliente chega com o dinheiro
+✔ Cadastro de produto
+
+xx
+
+Contas a Receber ou Gestão de Crédito e Cobrança (ou seja, gestão de fiado, caderninho); "Account Funds" (Fundos de Conta) ou "Store Credit" (Crédito na Loja).
+
+WooCommerce Account Funds (Oficial) [plugin específico; "tradicional" WooCommerce (que você instala de graça) não vem com a função de "fiado" ou "carteira" nativa. O WooCommerce Account Funds é uma extensão que você compra e instala "por cima" dele para adicionar essa inteligência financeira.]
+
+Este é o mais profissional para a gestão de fiado.
+
+
+O WooCommerce Tradicional (Grátis)
+Cadastra produtos, controla o estoque e permite criar pedidos manuais.
+cliente comprar sozinho pelo site (E-commerce)
+PDV Digital (pvocê (ou seu vendedor) usar no balcão da loja física para vender para o cliente que está na sua frente).
+
+O Plugin "Account Funds" (Pago)
+Ele cria uma conta corrente para cada cliente dentro do seu site.
+A função de Fiado: Você pode permitir que o cliente compre "usando fundos" que ele não tem, deixando o saldo dele negativo.
+
+xx
+
+
+
 
 ## Comunicação e *marketing*
 
@@ -277,27 +332,6 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 
 
 
-## ERP/CRM/FMS/PDV
-
-
-<pre>PDV
-● wePOS – Point Of Sale (POS) for WooCommerce
-● WooCommerce POS – Point of Sale
-
-FMS (SGF)
-● WP Ever Accounting: contabilidade, faturamento para WordPress.
-Permite gerir receitas e despesas, emitir faturas, trabalha com várias moedas, contas bancárias, relatórios.
-● Money Manager
-gere financeiro, contabilidade; mpresa pequena.
-.csv (formato para importar transações)
-Gerenciamento de várias contas bancárias em diferentes moedas.
-Registro de depósitos, retiradas, transferências entre contas.
-
-
-ERP
-● WP ERP - CRM, RH, Contabilidade ● 🇧🇷 Zetta ERP (ZettaBrasil) - NFe, DRE, arquivo etc ● Worksuite WP – ERP ● CRM ERP Business Solution
-
-</pre>
 
 
 
