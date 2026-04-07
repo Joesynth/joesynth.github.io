@@ -99,9 +99,11 @@ Sistema de gestão comercial com PDV, dentre outros recursos.
 
 ||👎️|
 |:---:|:---:|
-||Versão gratuita não gera NF.|
+||Versão gratuita não gera NF.|  
+
 🖥️ Android e iOS (dependendo do plano escolhido é possível acessar a versão para computador e ter acesso a suporte ao consumidor via chat). 
 🔗️ kyte.com.br  
+
 
 
 ###### 🇧🇷 SmartPOS
@@ -145,7 +147,8 @@ Indicação de uso: desenvolvido para uso pessoal, pequenas e médias empresas; 
 ||👎️|
 |:---:|:---:|
 || Não importa diretamente arquivo XML de NF-e.|
-||Sem estoque.|
+||Sem estoque.|  
+
 📜️ Software Livre🎈️
 
 
@@ -156,7 +159,8 @@ Usuários domésticos e pequenas associações.
 ||👎️|
 |:---:|:---:|
 ||Não importa diretamente arquivo XML de NF-e.  |
-||Sem estoque, inventário; gestão de vendas, compras ou produtos.|
+||Sem estoque, inventário; gestão de vendas, compras ou produtos.|  
+
 🖥️ Linux, Mac...  
 📜️ Software Livre🎈️  
 
@@ -170,7 +174,8 @@ Usuários iniciantes e pequenos projetos.
 |👍️|👎️|
 |:---:|:---:|
 |Português.| Sem estoque.|
-||Não importa diretamente arquivo XML de NF-e.|
+||Não importa diretamente arquivo XML de NF-e.|  
+
 🖥️ Linux, Mac...
 📜️ Software Livre🎈️
 
@@ -210,7 +215,8 @@ O ERP interliga os diferentes setores de SuaEmpresa _vendas, estoque etc. Ele si
 
 |👍️||
 |:---:|:---:|
-| Importa diretamente arquivo XML de NF-e.||
+| Importa diretamente arquivo XML de NF-e.||  
+
 📜️ GPLv2🎈️
 
 
@@ -225,7 +231,8 @@ O ERP interliga os diferentes setores de SuaEmpresa _vendas, estoque etc. Ele si
 
 |👍️||
 |:---:|:---:|
-|| Importa (via módulo) diretamente arquivo XML de NF-e.|
+|| Importa (via módulo) diretamente arquivo XML de NF-e.|  
+
 🖥️ Cross-platform (ou nuvem).
 📜️ GPL, Software Livre 🎈️ Mas também podendo ser SaaS (ou cloud).
 
@@ -239,7 +246,8 @@ Funcionando online e offline, é baseado em 30 módulos principais, e outros pod
 
 |👍️||
 |:---:|:---:|
-|Importa diretamente arquivo XML de NF-e.||
+|Importa diretamente arquivo XML de NF-e.||  
+
 🖥️ Linux, Unix-like, OS X, Windows, iOS, Android, online (sem necessidade de instalação).
 🔗️ odoo.com
 📜️ Software Livre 🎈️ (também há licença privada).
@@ -249,7 +257,8 @@ Funcionando online e offline, é baseado em 30 módulos principais, e outros pod
 
 |👍️||
 |:---:|:---:|
-|Importa diretamente arquivo XML de NF-e.||
+|Importa diretamente arquivo XML de NF-e.||  
+
 📜️ Software Livre 🎈️.
 
 
@@ -270,7 +279,8 @@ Funcionando online e offline, é baseado em 30 módulos principais, e outros pod
 |👍️||
 |:---:|:---:|
 |Emissão de notas fiscais e boletos.||
-|Lida com arquivo .ofx.||
+|Lida com arquivo .ofx.||  
+
 🖥️ Online; app na Google Play.
 📜️ Software comercial 🔒.
 
@@ -285,7 +295,8 @@ Tem grande número de módulos, é flexível e customizável. Conta com módulos
 
 |versão gratuita<br />👍️|versão gratuita<br />👎️|
 |:---:|:---:|
-|Emissão de notas fiscais, emissão de boletos.|Limitada a 2 usuários.|
+|Emissão de notas fiscais, emissão de boletos.|Limitada a 2 usuários.|  
+
 🖥️ Online.
 🔗️ foxmanager.com.br
 📜️ Software comercial 🔒.
@@ -296,7 +307,8 @@ Tem grande número de módulos, é flexível e customizável. Conta com módulos
 
 ||versão gratuita<br />👎️|
 |:---:|:---:|
-||Há restrições quanto a emissão de notas fiscais e no atendimento da assistência técnica. Evidentemente, para solucionar isso pode-se comprar pacotes adicionais.|
+||Há restrições quanto a emissão de notas fiscais e no atendimento da assistência técnica. Evidentemente, para solucionar isso pode-se comprar pacotes adicionais.|  
+
 🖥️ Windows.
 🔗️ erplitefree.com.br
 📜️ Software comercial 🔒.
@@ -309,7 +321,8 @@ Tem grande número de módulos, é flexível e customizável. Conta com módulos
 |👍️|👎️|
 |:---:|:---:|
 |Há estoque com cadastro de produtos.| Estoque um tanto limitado.|
-|Lida com arquivo .ofx.||
+|Lida com arquivo .ofx.||  
+
 🖥️ Nuvem.
 🔗️ contaazul.com
 📜️ Software comercial 🔒.
@@ -321,7 +334,8 @@ ERP on-line, ele oferece módulo administrativo, gerenciamento de projetos, ferr
 
 |👍️||
 |:---:|:---:|
-|CRM.||
+|CRM.||  
+
 🖥️  Nuvem ou instalado no computador (*mobile*/*desktop*).
 🔗️ bitrix24.com.br
 📜️ Software comercial 🔒.
@@ -339,7 +353,8 @@ Para utilizá-lo basta um *desktop* ou celular com acesso a Web; e para iniciar,
 |👍️|👎️|
 |:---:|:---:|
 |PDV com emissão de NF-e (mesmo sem acesso a internet).|Propagandas internas por utilizar o produto.|
-|Funciona tanto *online* como *offline*.||
+|Funciona tanto *online* como *offline*.||  
+
 🖥️ Nuvem; qualquer tipo de dispositivo.
 🔗️ marketup.com
 📜️ Software comercial 🔒.
@@ -353,7 +368,8 @@ Esse ERP conta com uma frente de caixa que emite notas e cupons fiscais (NFC-e C
 |👍️||
 |:---:|:---:|
 |Funciona *offline*, ou seja, mesmo sem conexão com a internet continua-se a executar funções como vendas, emissão de notas...||
-|plano gratuito<br />🔥️ PDV<br />😎️ Relatório de vendas.||
+|plano gratuito<br />🔥️ PDV<br />😎️ Relatório de vendas.||  
+
 🖥️ Linux, Mac, Windows.
 🔗️ sigelite.com.br
 📜️ Software comercial 🔒.
