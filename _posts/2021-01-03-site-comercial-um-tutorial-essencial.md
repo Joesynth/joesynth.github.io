@@ -406,13 +406,19 @@ Baseado na nossa experiência sugerimos:
 
 Pela ótica do MKT digital é vital na estratégia.
 
-✔️ Nome vago (ex. *dulyn.com*): pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida a logomarca, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e asssociamos a tênis e veículos.
-✖️ Nome muito específico (ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*): é a ideia oposta a de cima.
-✖️ Nome com números (ex.: *pipas346.com*).
-✔️ Preferência para nome que possa virar marca: fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma.
-✔️ Mobile friendly: nome fácil de digitar no celular.
-✖️ Nome quase copiado (ex. *CocaTola.com*): Domínio parece com marca famosa.
-✔️ Exensão adequada: .net (geralmente sites de TI), ong etc.
+**Nome vago** (ex. *dulyn.com*): pode vender qualquer coisa, em tese.  
+👍️ Se adapta ao tempo, novos produtos e novas ideias com facilidade.  
+👎️ O *marketing* terá que criar sentido para o nome, visto que as pessoas não ligam a palavra (a marca) a nada. Identidade conhecida é vital. Por exemplo, uma logomarca pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e associamos a tênis e veículos.  
+**Nome muito específico** (ex.: *carrosTony.com*): ✖️ O nome do site ao "carimbar" o nome do produto, "carros", limita o mix de produtos da SuaEmpresa. É ideia oposta ao 'nome vago'.  
+**Nome com números** (ex.: *pipas346.com*): ✖️  
+**Foque em nome que possa virar marca** (robertocarlos.com): ✔️ Fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma. No exemplo, o termo "roberto carlos" é o próprio produto: o artista.  
+***Mobile friendly***: Amigável para dispositivos móveis.  
+👍️ Nome fácil de digitar no celular. A maioria dos acessos de um site vêm de celular e não de *notebook* ou *desktop*.  
+👎️ Número tem que se mudar a tela do teclado para eles aparecerem, o que demora.  
+👎️ Nomes grandes ou com hífen.  
+**Nome quase copiado** (ex. *CocaTola.com*): ✖️ Domínio parece com marca famosa.  
+**Extensão adequada**: ✔️ *.com* para comércio, *.ong* para ONGs, *.net* geralmente sites de TI, etc.  
+
 
 ###### Autoridade (na internet)
 
