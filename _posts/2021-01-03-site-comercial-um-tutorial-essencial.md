@@ -94,8 +94,7 @@ Devemos ficar atentos aos seguintes tipos de sites:
 
 👉️ Ainda há o termo *E-commerce* e *blog*, este podendo ser Mídia Própria ou Mídia Alugada.
 
-
-
+A mídia própria e a mídia alugada são canais de distribuição, tal como o rádio e a tv de antigamente.
 
 ###### Site institucional
 
@@ -146,9 +145,7 @@ E vale lembrar:
 
 Essas informações aliadas a uma apresentação bem bonita e confiável fortalece a sua reputação. Tudo isso gera um clima *online* muito favorável.
 
-###### Loja virtual 
-
-📚️ Virtual Store.
+###### Loja virtual <sup>Virtual Store</sup>
 
     www.seusite.com
 
@@ -158,9 +155,7 @@ Possui estoque e atendimento
 
 A principal diferença funcional entre uma loja virtual  e um site institucional reside na capacidade de realizar transações financeiras automaticamente.
 
-###### E-commerce
-
-📚️ Comércio eletrônico.
+###### E-commerce <sup>Comércio eletrônico</sup>
 
 Diferente de virtual.
 
@@ -225,9 +220,7 @@ Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos so
 
 🤔️ Há a LGPD, mas na prática...
 
-✔  Comparador de preços
-
-Com a popularização dos *marketplaces* esses sites ficaram em segundo plano. Avalie e experimente se *SuaEmpresa* terá retorno com a presença nesse tipo de veículo. Pode ser útil no fortalecimento da marca (junto ao seu site).
+**Comparador de preços**: Com a popularização dos *marketplaces* esses sites ficaram em segundo plano. Avalie e experimente se *SuaEmpresa* terá retorno com a presença nesse tipo de veículo. Pode ser útil no fortalecimento da marca (junto ao seu site).
 
 Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*, redes...) têm pontos positivos a *SuaEmpresa*. É saber usar!
 
@@ -247,6 +240,8 @@ Tem-se variáveis a se pensar.
 
 
 ## 🗣️ Comunicação
+
+Pela ótica "purista" do MKT, site e mídia alugada são canais de distribuição.
 
 
 ###### Site institucional e loja virtual (*e-commerce)*
@@ -382,13 +377,14 @@ Mais pontos a pensar?
 **Mão de obra qualificada**: Se há *blog* integrado ao *SeuSite* um blogueiro será preciso, se é uma loja virtual (*e-commerce*) haverá banco de dados e o profissional de entrada de dados se faz vital. Isso são dois casos e empresas grandes tem até um departamento de TI.
 **Implementações futuras**: Como se sabe um site é um soft. Nem tudo dito aqui pode estar contemplado quando você cria o *SeuSite* _ex.: integração com alguma ferramenta da Google (idem mídia social ou *marketing*), aceitar pagamentos de clientes em todo o mundo, ter produtos/serviços ilimitados, espaço de armazenamento em HD maior, etc. O *SeuSite* sendo modulável, essas e outras implementações são mais "armas" que lhe darão ainda mais "poder de fogo" na concorrência da Web. Embora haja custos, são aprimoramentos (isto é, você começa com *SeuSite* inicial e vai melhorando "conforme o jogo" e as experiências adquiridas). Um site inicial mais simples significa menos investimento e risco, sem contar que ainda ganhamos tempo para irmos "aprendendo a jogar durante o jogo".
 
-**Site institucional**
+**Investimento**:  
 
-💰️ **Investimento**: U$10,0o mês (manutenção), U$250, oo a U$2500,oo (produção).
+|Site institucional|E-commerce|
+|:---:|:---:|
+|💰️ U$10,0o mês (manutenção), U$250, oo a U$2500,oo (produção).|💰️ U$50,00 mês, mas pode ir bem além. Produção pode ficar acima de U$2500,00.|
 
-**E-commerce**
 
-💰️ **Investimento**: U$50,00 mês, mas pode ir bem além. Produção pode ficar acima de U$2500,00.
+
 
 ###### SuaEmpresa realmente precisa ir para Web?
 
@@ -400,40 +396,45 @@ Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses t
 |**Nível 2**<br />site<br />institucional<br />**baixo inves-<br />timento**| Pouco a se investir, dependendo das ferramentas do site. Exemplo. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
 |**Nível 3**<br />*e-commerce*<br />**maiores custos**| Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
 
-###### Dicas
 
-Baseado em experiências próprias sugerimos:
 
-**Nome do site**: pela ótica de marketing digital esta associado a estratégia.
+## 🌟️ Dicas!
+
+Baseado na nossa experiência sugerimos:
+
+###### Nome do site
+
+Pela ótica do MKT digital é vital na estratégia.
+
 ✔️ Nome vago (ex. *dulyn.com*): pode vender qualquer coisa, em tese. Se adapta ao tempo, novos produtos e novas ideias com facilidade; entretanto o *marketing* terá que criar sentido  para o nome pois as pessoas não ligam a palavra (a marca) a nada. Sem uma identidade conhecida a logomarca, por ex., pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e asssociamos a tênis e veículos.
-✖️ Nome muito específico (ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*): é a ideia oposta a de cima _.
+✖️ Nome muito específico (ex.: *carrosTony.com*, *tenisRike.com*, *motosTomah.com*): é a ideia oposta a de cima.
 ✖️ Nome com números (ex.: *pipas346.com*).
 ✔️ Preferência para nome que possa virar marca: fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma.
 ✔️ Mobile friendly: nome fácil de digitar no celular.
 ✖️ Nome quase copiado (ex. *CocaTola.com*): Domínio parece com marca famosa.
 ✔️ Exensão adequada: .net (geralmente sites de TI), ong etc.
 
-**Autoridade** (na internet): vá além do site institucional. Agregue o que for possível para torná-lo um meio de comunicação diferenciado. Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados.
+###### Autoridade (na internet)
+
+Vá além do site institucional. Agregue o que for possível para torná-lo um meio de comunicação diferenciado. Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados.
 ✔️ Blog, rádio, podcasts, vídeos, slides.
 
-**Mix de produtos**: é indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses artigos serão vitais para compôr o conteúdo de SeuSite.
+###### Mix de produtos
 
-Para finalizar tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos, e se não nos mantivermos atualizados... nossos concorrentes "agradecem".
+É indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses artigos serão vitais para compôr o conteúdo de SeuSite.
 
-**Marketing**:
+###### *Marketing* - Tempo médio para retorno
 
-Tempo médio para retornos:
 Vide [Marketing Digital](/marketing-digital).
 
 
-
-## 🌟️ Dica!
+###### Criar um site
 
 Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode ser um bom exercício tecnológico ou até curiosidade, diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Evidentemente, envolve planejamento, ter conhecimento de causa, experiência _para não se criar algo que num futuro, até próximo, poderá ruir.
 
 Nos grupos de Telegram, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. Fale Conosco!
 
-Outra dica? Leia o artigo Site Comercial - Um Tutorial Essencial.
+👉️ Tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados... nossos concorrentes "agradecem".
 
 É isso!  
 Grande abraço... sucesso!  
