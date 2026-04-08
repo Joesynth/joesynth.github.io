@@ -23,32 +23,32 @@ Separamos vários para você conhecer, organizados da seguinte forma:
 - Outros Plugins
 
 
-<pre>🎉️ Grátis. São os verificados. Isto é, pode haver outros grátis nesta lista e não sabemos.</pre>
+🎉️ Grátis. São os verificados. Isto é, pode haver outros grátis nesta lista e não sabemos.
 
 
 ## Multimídia
 
 **Imagem** (Galeria, *slider*, etc).
 
-<pre>**NextGen Gallery** 🎉️ Crie galerias de fotos mais elaboradas.
+**NextGen Gallery** 🎉️ Crie galerias de fotos mais elaboradas.
 **Meta Slider** 🎉️ Crie sliders (imagens rotativas) otimizados para SEO.
 **Image Widget** 🎉️ Coloque imagens onde você quiser bem como criar slideshows e lightboxes.
-**Imsanity** 🎉️ Fotos automaticamente redimensionadas para tamanhos apropriados. Também é possível estabelecer regras de tamanho e converter imagens no próprio plugin.</pre>
+**Imsanity** 🎉️ Fotos automaticamente redimensionadas para tamanhos apropriados. Também é possível estabelecer regras de tamanho e converter imagens no próprio plugin.
 
 **Áudio / Música**.
 
-<pre>**  Música de fundo** (adicionar).
+**  Música de fundo** (adicionar).
 Elfsight Background Audio player ● Background Music Manager ● MP3 Audio Player ● Compact WordPress Audio Player
 
   **Reprodutores de Áudio**.
 PowerPress Podcasting plugin por Blubrry ● AudioIgniter ● Seriously Simple Podcasting ● Smart Podcast Player ● Audio Player ● Music Player for WooCommerce ● ZoomSounds ● WP Audio Player ● tPlayer ● WavePlayer
 
   **Rádio**.
-Radio Player (SoftLab) ● WP Radio (SoftLab) ● Hero ● Radio Station ● StreamCast ● Luna Web Radio Player</pre>
+Radio Player (SoftLab) ● WP Radio (SoftLab) ● Hero ● Radio Station ● StreamCast ● Luna Web Radio Player
 
 **Vídeo**.
 
-<pre>**YouTube** Permite o *embed* mais fácil de vídeos hospedados no YouTube. Também a criação de galerias e até transmissão ao vivo.</pre>
+**YouTube** Permite o *embed* mais fácil de vídeos hospedados no YouTube. Também a criação de galerias e até transmissão ao vivo.
 
 .
 
@@ -95,9 +95,24 @@ Registro de depósitos, retiradas, transferências entre contas.
 
 ● WP ERP - CRM, RH, Contabilidade ● 🇧🇷 Zetta ERP (ZettaBrasil) - NFe, DRE, arquivo etc ● Worksuite WP – ERP ● CRM ERP Business Solution
 
+
 ###### WooCommerce
 
-Por natureza um PDV Digital ou uma plataforma de *e-commerce*, mas também com recursos de FMS (e não chegando a ser um ERP completo por não ter RH, por exemplo).
+**WooCommerce** Tradicional (Grátis)
+✔ Cadastra produtos, controla o estoque e permite criar pedidos manuais.
+✔ E-commerce, isto é, cliente compra sozinho pelo site.
+
+
+**WooCommerce POS <sup>Point of Sale</sup>**: gátis ou pago. PDV Digital. Plugin de caixa que nos dá uma tela selecionar o item (curso de inglês, por ex.), forma pagamento etc. Portanto, é usado no balcão da loja física para vender (ao vivo) para o cliente que está na sua frente.
+**Oliver POS** (pago): opção ao WooCommerce POS.
+
+
+###### WooCommerce
+
+Por natureza uma plataforma de *e-commerce*, mas também com recursos de FMS (e não chegando a ser um ERP completo por não ter RH, por exemplo).
+
+**Plugins**: há plugins que são ao mesmo tempo de WordPress e WooCommerce, caso de PDV Digital.
+
 
 ✔ pedidos "Pendentes" ou "Aguardando"
 ✔ Histórico de Devedores
@@ -108,19 +123,18 @@ xx
 
 Contas a Receber ou Gestão de Crédito e Cobrança (ou seja, gestão de fiado, caderninho); "Account Funds" (Fundos de Conta) ou "Store Credit" (Crédito na Loja).
 
-WooCommerce Account Funds (Oficial) [plugin específico; "tradicional" WooCommerce (que você instala de graça) não vem com a função de "fiado" ou "carteira" nativa. O WooCommerce Account Funds é uma extensão que você compra e instala "por cima" dele para adicionar essa inteligência financeira.]
+**WooCommerce Account Funds <sup>Fundos de Conta</sup>**: função de "fiado" ou "carteira" nativa. É uma extensão que você compra e instala "por cima" dele para adicionar essa inteligência financeira.
+⚠️ WooCommerce "tradicional" que você instala (de graça) não vem com esse recurso. 
 
 Este é o mais profissional para a gestão de fiado.
-
-
-O WooCommerce Tradicional (Grátis)
-Cadastra produtos, controla o estoque e permite criar pedidos manuais.
-cliente comprar sozinho pelo site (E-commerce)
-PDV Digital (pvocê (ou seu vendedor) usar no balcão da loja física para vender para o cliente que está na sua frente).
 
 O Plugin "Account Funds" (Pago)
 Ele cria uma conta corrente para cada cliente dentro do seu site.
 A função de Fiado: Você pode permitir que o cliente compre "usando fundos" que ele não tem, deixando o saldo dele negativo.
+
+
+
+
 
 xx
 
@@ -133,99 +147,99 @@ Plug-ins para diálogo ou alguma relação com os usuários, e mesmo *marketing*
 
 **Tráfego do Site**: estatísticas sobre visitantes, posicionamento nos principais buscadores.
 
-<pre>**Google Analytics by MonsterInsights** 🎉️ 
-**WP Statistics** 🎉️</pre>
+**Google Analytics by MonsterInsights** 🎉️ 
+**WP Statistics** 🎉️
 
 **Área de membros**.
 
-<pre>**s2Member** ● **MemberPress** ● **MemberMouse** ● **LearnDash** (Universidade da Flórida e Universidade do Michigan o utilizam).
+**s2Member** ● **MemberPress** ● **MemberMouse** ● **LearnDash** (Universidade da Flórida e Universidade do Michigan o utilizam).
 **Restrict Content Pro** (criado pelos mesmos desenvolvedores do Easy Digital Downloads, este de venda de conteúdo)
-**Members** 🎉️ Cria uma área de membros para o seu site e restrinja o acesso a páginas e posts para assinantes ou usuários específicos.</pre>
+**Members** 🎉️ Cria uma área de membros para o seu site e restrinja o acesso a páginas e posts para assinantes ou usuários específicos.
 
 **Pesquisa e Construtores de Formulários**: coletar *feedback* do usuário.
 
-<pre>**WP-Polls** 🎉️ Enquete para você saber o que seus leitores e consumidores pensam.
+**WP-Polls** 🎉️ Enquete para você saber o que seus leitores e consumidores pensam.
 
-YOP Poll ● Quiz And Survey Master ● Modal Survey ● CrowdSignal ● Poll, Survey, Form &amp; Quiz Maker by OpinionStage ● Watu Quiz ● Gravity Forms ● Formidable Form Builder ● eForm</pre>
+YOP Poll ● Quiz And Survey Master ● Modal Survey ● CrowdSignal ● Poll, Survey, Form &amp; Quiz Maker by OpinionStage ● Watu Quiz ● Gravity Forms ● Formidable Form Builder ● eForm
 
 **Rede Social**: WhatsApp, Youtube, botões...
 
-<pre>**BuddyPress** 🎉️ Rede social dentro do WordPress. Permite criar perfis e trocar mensagens com outros usuários. Interessante para quem tem um blog e deseja manter o contato com seus leitores.
+**BuddyPress** 🎉️ Rede social dentro do WordPress. Permite criar perfis e trocar mensagens com outros usuários. Interessante para quem tem um blog e deseja manter o contato com seus leitores.
 **Simple Social Icons** 🎉️ Acrescente ícones de redes sociais ao seu site e os customize trocando cor, formato e estilo.
 **Custom Facebook feed** 🎉️ Insere conteúdo do seu Facebook no site permitindo você escolher quais posts quer exibir, proporcionando uma exibição totalmente customizada.
 **Simple Share Buttons Adder** 🎉️ Modelos de botões de compartilhamento nas redes sociais. Bom para o blog que queira aumentar o alcance de público.
 **Instagram Feed** 🎉️ Adiciona o feed do seu perfil do Instagram na home do site ou em uma página específica.
 **Recent Tweets** 🎉️ Faz com que seus últimos tweets apareçam em alguma área do seu site.
-**WhatsApp Chat** Com ele o cliente clica num botão e abre uma conversa do seu site diretamente com o número de telefone WhatsApp, ou WhatsApp Business.</pre>
+**WhatsApp Chat** Com ele o cliente clica num botão e abre uma conversa do seu site diretamente com o número de telefone WhatsApp, ou WhatsApp Business.
 
 **Formulário**.
 
-<pre>**Contact Form** 🎉️ 
-**Contact Form 7** para formulário de contato via e-mail.</pre>
+**Contact Form** 🎉️ 
+**Contact Form 7** para formulário de contato via e-mail.
 
 **Landing Page**.
 
-<pre>Elementor* ● Divi Builder* ● OptimizePress* ● Beaver Builder* ● Thrive Architect*
+Elementor* ● Divi Builder* ● OptimizePress* ● Beaver Builder* ● Thrive Architect*
 ⚠️ * Mais de uma citação na Web.
-Landingi ● SeedProd ● Leadpages ● Instapage ● Unbounce ● WP Profit Builder ● ClickFunnels</pre>
+Landingi ● SeedProd ● Leadpages ● Instapage ● Unbounce ● WP Profit Builder ● ClickFunnels
 
 Veja "Pacote".
 
 **Spam**.
 
-<pre>**Disable Comments** 🎉️ Bloqueia comentários de spam ou outras mensagens desagradáveis.
-**Anti-spam** 🎉️ Fuja das mensagens de spam com este plugin fácil de usar e que vai facilitar a vida dos moderadores e dos visitantes do seu site.</pre>
+**Disable Comments** 🎉️ Bloqueia comentários de spam ou outras mensagens desagradáveis.
+**Anti-spam** 🎉️ Fuja das mensagens de spam com este plugin fácil de usar e que vai facilitar a vida dos moderadores e dos visitantes do seu site.
 
 
 
 **Outros**.
 
-<pre>**Sistema de Comentário Disqus** 🎉️ Permite comentar por meio de perfis das principais redes sociais, o que garante mais comodidade para o seu leitor.
+**Sistema de Comentário Disqus** 🎉️ Permite comentar por meio de perfis das principais redes sociais, o que garante mais comodidade para o seu leitor.
 **Popular Posts** 🎉️ Mostra os seus principais posts para novos visitantes com este plugin que faz as vezes de um widget, permitindo criar listas de postagens e alocá-las onde você quiser.
 **TrustPulse** Prova social. Permite configurar notificações automáticas para melhorar as conversões do site.
 Pode ser instalado em qualquer site sem nenhum código.
 **RafflePress** Brindes e concursos para WordPress. Permite aumentar sua lista de e-mails, seu tráfego e seus seguidores nas mídias sociais com brindes e concursos. Para participar do seu brinde, visitantes devem inserir seus endereços de e-mail, daí ganharmos automaticamente novos assinantes de boletins informativos por e-mail.
 **PushEngage** Software de notificação por *push* para WordPress. Permite enviarmos mensagens *push* automatizadas para os visitantes depois que eles saem do site.Tem recursos avançados de *marketing*.
-**FunnelKit Automations** Ferramenta de automação de marketing para sites WooCommerce. Permite configurarmos facilmente e-mails e SMSs automatizados, dentre outros recursos.</pre>
+**FunnelKit Automations** Ferramenta de automação de marketing para sites WooCommerce. Permite configurarmos facilmente e-mails e SMSs automatizados, dentre outros recursos.
 
 .
 
 **Videoconferência , Webinar, Google Hangouts**:
 
-<pre>WP WebinarSystem (lida com Google Hangouts)
+WP WebinarSystem (lida com Google Hangouts)
 WPWebinar (lida com Google Hangouts)
 GoToWebinar
 WebinarJam (lida com Google Hangouts)
 Webinars OnAir (lida com Google Hangouts)
 AnyMeeting
 WebinarIgnition (lida não só com o Google Hangouts)
-Digital Samba - videoconferência.</pre>
+Digital Samba - videoconferência.
 
 **bate-papo - automação**:
 
-<pre>**ChatBot** Um chatbot de IA. Permite automatizar facilmente o bate-papo ao vivo em seu site. Tem um construtor, daí não precisa de conhecimentos técnicos ou de codificação. Um usuário entra em contato com o chat ao vivo, daí há suporte ao cliente, reservas, venda de produtos...</pre>
+**ChatBot** Um chatbot de IA. Permite automatizar facilmente o bate-papo ao vivo em seu site. Tem um construtor, daí não precisa de conhecimentos técnicos ou de codificação. Um usuário entra em contato com o chat ao vivo, daí há suporte ao cliente, reservas, venda de produtos...
 
 .
 
 **mídia social - automação**:
 
-<pre>**Smash Balloon** Plug-in de feed de mídia social, utilizado por milhões de sites.
+**Smash Balloon** Plug-in de feed de mídia social, utilizado por milhões de sites.
 5 plug-ins diferentes de mídia social (Facebook, Instagram...).
 Automatiza o conteúdo do seu site exibindo as atividades mais recentes nas mídias sociais, o que pode manter os visitantes envolvidos no site; e pode aumentar sua prova social exibindo seus seguidores de mídia social, comentários e contagens de curtidas.
 Além, o Smash Balloon oferece o plug-in Reviews Feed Pro (permite que você exiba automaticamente as avaliações do Facebook, Google, Yelp e TripAdvisor no WordPress).
 Há versões gratuitas do Smash Balloon para que você possa experimentar antes de comprar.
 **ClickSocial** (Smash Balloon): Automatizar suas postagens em mídias sociais.
-Agenda publicações em mídias sociais diretamente do painel do WordPress.</pre>
+Agenda publicações em mídias sociais diretamente do painel do WordPress.
 
 **Facebook - compartilhar conteúdo do WordPress na rede**: automatizar o compartilhamento de conteúdo do WordPress no Facebook
 
-<pre>Facebook Auto Publish | FS Poster | WP2Social Auto Publish | WP to Buffer | Revive Social | SchedulePress</pre>
+Facebook Auto Publish | FS Poster | WP2Social Auto Publish | WP to Buffer | Revive Social | SchedulePress
 
 .
 
 **e-mail - automação**: e-mail automáticos, autorrespostas, *newsletters*...
 
-<pre>**MailPoet Newsletter** 🎉️ newsletter.
+**MailPoet Newsletter** 🎉️ newsletter.
 **WP Mail SMTP** Permite que você envie facilmente e-mails.
 Há uma versão gratuita dele, e funciona com qualquer SMTP ou provedor de serviços de e-mail.
 **<span class="ILfuVd" ><span class="hgKElc">Constant Contact** Cria séries de e-mail automatizados para estabelecer relacionamentos com clientes, vender produtos etc. Fácil configurar e criar seus próprios boletins informativos por e-mail. Se integra a ferramentas populares de geração de leads (WPForms[newsletter], OptinMonster), para automatizar o processo de geração e acompanhamento de leads.
@@ -234,11 +248,11 @@ Brevo (antiga Sendinblue) - alternativa ao <span >Constant Contact. Newsletter.
 **Jackmail Newsletters** newsletter.
 **MailPress** newsletter.
 **MeeNews** newsletter.
-</pre>
+
 
 **Pacote**: vários recursos.
 
-<pre>**JetPack** é nativo, e com upgrade há mais recursos.
+**JetPack** é nativo, e com upgrade há mais recursos.
 - 🎉️ compartilha posts do seu site no Facebook, por ex. 
 
 O acervo Jetpack (Automattic) de ferramentas pode ser usado para automação de atendimento, desenvolvimento de aplicativos e criação de conteúdo (como criar galerias em mosaico, carrosséis de imagens etc).**
@@ -246,33 +260,33 @@ O acervo Jetpack (Automattic) de ferramentas pode ser usado para automação de 
 HubSpot** CRM para pequenas empresas. Gere melhor seus leads e automatiza aspectos do seu mkt on-line. Gratuito, mas há upgrade.
 - Automação de marketing por e-mail. 
 - landing page.
-- opt-in duplo (confirmação em duas etapas) para e-mails.</pre>
+- opt-in duplo (confirmação em duas etapas) para e-mails.
 
 **Push notificações**:
 
-<pre>OneSignal | WonderPush | Smart Notifications (Premium) | Gravitec.net | Fire Push (Premium) | PushAssist | Beamer | LetsPush (Premium) | iZooto Web Push Notification | Subscribers</pre>
+OneSignal | WonderPush | Smart Notifications (Premium) | Gravitec.net | Fire Push (Premium) | PushAssist | Beamer | LetsPush (Premium) | iZooto Web Push Notification | Subscribers
 
 ###### Marketing Digital** (SEO)
 
-<pre>**SEO Ultimate** 🎉️ 
+**SEO Ultimate** 🎉️ 
 **Google XML Sitemaps** 🎉️
 **WordPress SEO by Yoast**.
-**All In One SEO Pack**.</pre>
+**All In One SEO Pack**.
 
 
 ###### Google: o "chefe"!
 
 O Google tem grande influência na internet. Vide o poder do Google.
 
-<pre>**The Events Calendar** 🎉️ Acrescenta calendário de eventos, mostra onde e quando sua marca estará. Permite linkar os compromissos do calendário direto com o seu Google Agenda e outras ferramentas.**
+**The Events Calendar** 🎉️ Acrescenta calendário de eventos, mostra onde e quando sua marca estará. Permite linkar os compromissos do calendário direto com o seu Google Agenda e outras ferramentas.**
 Wptouch Mobile** 🎉️ Cria um layout perfeito para ser aberto em dispositivos móveis, como tablets e smartphones, para que seu site ganhe pontos com o Google e com os usuários.
 **Smush Image Compression and Optimization** 🎉️ Redimensione, comprima e otimize suas imagens para ocuparem menos espaço e carregar mais rápido.
-**Broken Link Checker** 🎉️ Links. Vasculha seu site e ajuda você a identificar e corrigir links errados ou quebrados.</pre>
+**Broken Link Checker** 🎉️ Links. Vasculha seu site e ajuda você a identificar e corrigir links errados ou quebrados.
 
 **Cache**: Acelera o carregamento do seu site, portanto está relacionado a uma melhor experiência do seu usuário. Assim, pode-se ganhar pontos com o Google.
 
-<pre>**W3 Total Cache** 🎉️
-**WP Fastest Cache** 🎉️</pre>
+**W3 Total Cache** 🎉️
+**WP Fastest Cache** 🎉️
 
 
 ###### Distribuição (de conteúdo)
@@ -310,14 +324,14 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 
 **Segurança**.
 
-<pre>**Wordfence Security** 🎉️ Sistema de firewall, login em duas etapas e muito mais.
-**All in One WP Security and Firewall** 🎉️ Diz ser a solução definitiva em proteção de sites WordPress. Ferramentas para fortalecer senha, identifica atividade suspeita e bloqueia tentativas excessivas de login.</pre>
+**Wordfence Security** 🎉️ Sistema de firewall, login em duas etapas e muito mais.
+**All in One WP Security and Firewall** 🎉️ Diz ser a solução definitiva em proteção de sites WordPress. Ferramentas para fortalecer senha, identifica atividade suspeita e bloqueia tentativas excessivas de login.
 
 ***Backup***: Migrar, *backup* do site por questões de segurança
 
-<pre>**WP Clone** 🎉️ Para quem precisa copiar, migrar ou apenas quer fazer do seu site em WordPress .
+**WP Clone** 🎉️ Para quem precisa copiar, migrar ou apenas quer fazer do seu site em WordPress .
 **UpdraftPlus WordPress Backup** 🎉️ Compatível com serviços de cloud, FTP e outras aplicações.
-**Backup Upup** 🎉️ Lida com FTP, pastas na nuvem, email.</pre>
+**Backup Upup** 🎉️ Lida com FTP, pastas na nuvem, email.
 
 
 
@@ -325,12 +339,12 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 
 *Layouts* prontos, criação.
 
-<pre>**Page Builder** 🎉️
+**Page Builder** 🎉️
 **WP Maintenance Mode** 🎉️ Restringir o acesso durante período de construção do site ou fazendo alguma modificação estrutural. Plugin cria telas de manutenção e construção para esses momentos.
 **Beaver Builder** 🎉️ Construir páginas com o sistema arrasta e solta.
 **WP Google Maps** 🎉️ O tema que você escolheu não tem conexão com o Google Maps? Este recurso acrescenta o mapa para você e permite ao visitante traçar rotas e fazer pesquisas na região.
 **WooSidebars** 🎉️ Ajuda a criar barras laterais com as informações e páginas mais importantes do seu site.
-**Insert headers and footers** 🎉️ Dê detalhes de profissional ao seu site mesmo nunca tendo feito um site antes! O plugin lhe ajuda a incluir códigos extras e acrescentar outras funcionalidades na parte de cima ou de baixo do seu site.</pre>
+**Insert headers and footers** 🎉️ Dê detalhes de profissional ao seu site mesmo nunca tendo feito um site antes! O plugin lhe ajuda a incluir códigos extras e acrescentar outras funcionalidades na parte de cima ou de baixo do seu site.
 
 
 
@@ -339,8 +353,6 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 
 ## CRM
 
-
-CRM
 ● CiviCRM ● FluentCRM ● Zero BS CRM ● Jetpack CRM ● WP ERP (vide ERP) <span class="is-markup" dir="auto">● WP Fusion - liga seu site WP a sistemas CRM (HubSpot, por ex.) ● HubSpot ● ActiveCampaign.
 
 
@@ -358,26 +370,26 @@ CRM
 **Widget Importer &amp; Exporter** 🎉️ Importe e exporte seus widgets de um site para o outro e forma fácil e rápida com este plugin.
 **All In One Favicon** 🎉️ Acrescenta favicons para as páginas do seu site. É possível fazer o upload do seu próprio favicon ou criar um com a ferramenta.
 
-<pre>**Tailor** Ajuda na criação de novos temas para WP.
+**Tailor** Ajuda na criação de novos temas para WP.
 **Login LockDown** Segurança.
 **Maintenance Mode** Modo de manutenção
-**JW Player** Player.</pre>
+**JW Player** Player.
 
 **Para o armazenamento de cache**:
 
-<pre>**WP Super Cache**.
-**Quick Cache (Zen Cache)**.</pre>
+**WP Super Cache**.
+**Quick Cache (Zen Cache)**.
 
 .
 
-<pre>**Advanced Custom Fields** para campos personalizados
+**Advanced Custom Fields** para campos personalizados
 **Yoast Google Analytics For WordPress** Monitor acesso.
 **WooCommerce** para loja virtual.
-**Slider Revolution** para sliders (responsivos).</pre>
+**Slider Revolution** para sliders (responsivos).
 
 Telegram (Nov0!)
 
-<pre>WP Telegram (Auto Post and Notifications) ● Replain ● Telegram Bot &amp; Channel</pre>
+WP Telegram (Auto Post and Notifications) ● Replain ● Telegram Bot &amp; Channel
 
 .
 
