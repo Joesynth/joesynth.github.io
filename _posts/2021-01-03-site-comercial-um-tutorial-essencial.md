@@ -30,7 +30,15 @@ Um site é um *software*. Simples assim!
 **Armazenamento**: O site tem "HD", que guarda todos os dados (inclusive os textos ou fotos que vemos no próprio site).
 
 
-Falaremos mais sobre sites neste tutorial.
+Um site vai além de ser um "cartão de visitas" da *SuaEmpresa* na internet. Tem as ferramentas:
+
+
+|Marketing|Venda|Administrativo|Vigilância|
+|:---:|:---:|:---:|:---:|
+|É o destino final de toda a sua Mídia Alugada |É o balcão de negócios, uma loja virtual|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
+
+⚠️ Veja Mídia Alugada abaixo.
+
 
 ## Internet: um aparato comercial
 
