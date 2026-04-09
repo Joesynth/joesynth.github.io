@@ -32,7 +32,7 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 ✔ Aumentar o número de seguidores da marca.
 ✔ Gerar visualizações para vídeos.
 
-## Teia e  Método 8ps
+## Teia
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamO4HdRcHpWAm_2x7fCw7j9EAZE1CNffGFKtClS_kdvDi2WpNSXPMMCyGQDH-RzavzpE&amp;usqp=CAU" width="310" height="222" />
 
@@ -40,11 +40,32 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 Note que no centro nós temos o **monitoramento** e nas pontas *mailing*, conteúdo, mídias sociais etc.
 
-.
+
+
+## Método 8ps
 
 <img src="https://miro.medium.com/1*wXcBy2Z8DlMluorh7owcQQ.jpeg" width="310" /> Estratégia digital: os 8ps do *marketing digital*.
 
-<img class="" src="http://papodebuteco.net/wp-content/uploads/2011/07/8ps-conrado-adolpho.jpg" width="472" height="269" />
+<img class="" src="http://papodebuteco.net/wp-content/uploads/2011/07/8ps-conrado-adolpho.jpg" width="310" />
+
+
+
+## Ps do Marketing
+
+###### 4p
+
+**Produto** <sup>Product</sup>
+**Preço** <sup>Price</sup>
+**Praça** <sup>Place</sup>
+**Promoção** <sup>Promotion</sup>
+
+###### 7p
+
+**Pessoas** <sup>People</sup>
+**Processos** <sup>Processes</sup>
+**Prova Física** <sup>Physical Evidence</sup>
+
+⚠️ Prova Física: não confundir com Prova Social <sup>Social Proof</sup>, este é um gatilho mental e um conceito psicológico.
 
 
 ## Head Tail vs. Long Tail
@@ -72,7 +93,7 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 
 ###### Head Tail / Long Tail: Exemplos de produto
 
-📚️ *Mass Marketing*: Marketing de Massa. <small>Estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.</small> 
+📚️ Marketing de Massa <sup>*Mass Marketing*</sup>: <small>Estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.</small> 
 
 <img src="https://cdn.prod.website-files.com/655cf2bd3b99fedfc8da27d1/655cf2bd3b99fedfc8da2c5a_Marketing%20pol%C3%ADtico.png" width="120" />**O político**: Exemplo clássico do uso de **Marketing de Massa**.
 
@@ -126,8 +147,7 @@ ft:ai
 ✔ Banner: É intrusivo, inclusive interrompe, ou feito para interromper (cores forte, animações que piscam, intuito "gritar"). Quer se destacar da página, por ex., um retângulo colorido. É interruptivo. Ele "grita" por atenção e compete visualmente com o que você está tentando ler. Ex.: "Compre Agora" ou "50% de Desconto".  
 ✔ Pop-up: Banner q abre do nada e tem o x, sendo mais intrusivo que o próprio banner.  
 
-###### Inbound Marketing
-📚️ Marketing de Atração.
+###### Marketing de Atração <sup>Inbound Marketing</sup>
 
 Criação de conteúdo relevante para o público-alvo, criar relação de confiança.  
 
@@ -137,7 +157,7 @@ Vide [Inbound MKT](/inbound-mkt).
 
 
 
-###### MKT digital - outras estratégias
+###### MKT digital - outras estratégias - resumo - tempo
 
 <pre>Legenda
 ⚡ Rápido, age rápido.
@@ -176,7 +196,7 @@ Vide [Inbound MKT](/inbound-mkt).
 ⚡ 🕖️ horas, dias  
 **MKT Pago** Mídia Paga / Ads  
 ⚡ 🕖️ dias, semanas  
-**MKT para motores de busca ou MKT de Busca** <sup>(SEM - *Search Engine Marketing*)</sup>: SEO e links patrocinados (Google Ads, por ex.).  
+**MKT para motores de busca ou MKT de Busca** <sup>SEM - *Search Engine Marketing*</sup>: SEO e links patrocinados (Google Ads, por ex.).  
 **Neuromarketing**.  
 **Produção de Vídeo**.  
 **Publirreportagem**: Conteúdo publicitário patrocinado tentando parecer um artigo.  
@@ -198,12 +218,16 @@ Termo para o Topo e Nicho
 ###### Head Tail / Long Tail: Softwares
 
 
-| Software | Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
-| :--- | :--- | :--- |
-| **ERP** | Curva A: 20% dos produtos que geram 80% da receita. | Curva C: Itens de baixa rotação que ocupam espaço. |
-| **CRM** | Key Accounts: grandes clientes que sustentam o faturamento. | Long Tail de Clientes: milhares de pequenos clientes atomizados. |
-| **Google Analytics** | Head Keywords: palavras genéricas com alto volume/custo. | Consultas de Pesquisa: frases longas a base de cliques. |
-| **E-commerce** | Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
+| Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
+| :---: | :---: |
+|**ERP**|**ERP**|
+| Curva A: 20% dos produtos que geram 80% da receita. | Curva C: Itens de baixa rotação que ocupam espaço. |
+|**CRM**|**CRM**|
+| Key Accounts: grandes clientes que sustentam o faturamento. | Long Tail de Clientes: milhares de pequenos clientes atomizados. |
+|**Google Analytics**|**Google Analytics**|
+| Head Keywords: palavras genéricas com alto volume/custo. | Consultas de Pesquisa: frases longas a base de cliques. |
+|**E-commerce**|**E-commerce**|
+| Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
 
 
 
@@ -219,6 +243,9 @@ Termo para o Topo e Nicho
 ✔ Ciclo de Vida de um mercado
 ✔ Ciclo de Vida do produto ou serviço
 
+Mídia Paga <sup>Paid Media</sup>: Conceito mais amplo. É qualquer espaço publicitário, digital ou não, que você compra para divulgar _rádio etc.
+No digital engloba tudo o que você paga para aparecer (influenciadores, portais de notícia, *banners* em sites).
+|_ MKT Digital Pago: Subgrupo da mídia paga. Acontece exclusivamente no ambiente online.
 
 
 <img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
@@ -248,9 +275,8 @@ Vide [profissionais de informática](/profissionais-de-informatica)  e lá tem u
 
 
 
-## CAC vs CRC
-📚️ *CAC*: Custo de Aquisição de Cliente.
-📚️ *CRC*: Custo de Retenção de Cliente.
+## CAC <sup>Custo de Aquisição de Cliente</sup> vs CRC <sup>Custo de Retenção de Cliente</sup>
+
 
 | CAC | CRC |
 | :---: | :---: |
@@ -262,11 +288,39 @@ xxx
 
 ## Métricas para a empresa que lida com o SaaS
 
-**CAC** (<em>Customer Acquisition Cost</em>): métrica que mostra o custo de aquisição de clientes, ou seja, quanto o negócio está investindo para conquistar cada novo cliente. Essa métrica, comparada ao LTV, ajuda a entender se os investimentos estão valendo a pena ou se estão altos demais em relação ao seu retorno.
+**MRR** <sup>Monthly Recurring Revenue - receita recorrente mensal</sup>: Métricas para avaliar a saúde do negócio no modelo SaaS, pois mede a soma de todas as entradas recorrentes originadas de assinaturas do serviço. O MRR serve para o empresário ter maior previsibilidade sobre o faturamento do mês e planejar suas estratégias e custos de maneira que não prejudique a saúde financeira.
 
-**MRR** (<em>Monthly Recurring Revenue</em> - receita recorrente mensal): métricas para avaliar a saúde do negócio no modelo SaaS, pois mede a soma de todas as entradas recorrentes originadas de assinaturas do serviço. O MRR serve para o empresário ter maior previsibilidade sobre o faturamento do mês e planejar suas estratégias e custos de maneira que não prejudique a saúde financeira.
+**CAC** <sup>Customer Acquisition Cost</sup>: métrica que mostra o custo de aquisição de clientes, ou seja, quanto o negócio está investindo para conquistar cada novo cliente. Essa métrica, comparada ao LTV, ajuda a entender se os investimentos estão valendo a pena ou se estão altos demais em relação ao seu retorno.
 
 xxx
+
+
+## MKT de Busca <sup>*SEM - Search Engine Marketing*</sup>
+
+Estratégias digitais que visam promover um site nas páginas de resultados dos buscadores (SERPs). O objetivo é garantir que, quando alguém pesquisar por algo relacionado ao seu negócio, você esteja lá.
+
+    SEM = SEO + SEA
+
+
+###### SEO vs. SEA
+
+|SEO|SEA|
+|:---:|:---:|
+|**resultado**|**resultado**|
+|Médio a longo prazo|Imediato|
+|**posicionamento**|**posicionamento**|
+|No "meio" da página de busca|No topo ou rodapé (com a tag "Anúncio")|
+|**foco**|**foco**|
+|Autoridade, conteúdo e técnica|Segmentação, lances e conversão rápida|
+
+⚠️ Se está pagando para aparecer no topo agora mesmo, está fazendo SEA/Links Patrocinados.
+
+
+###### SEO - variações
+
+|SEO On-page|Off-page|SEO Técnico|
+|:---:|:---:|:---:|
+|Palavras-chave, títulos e qualidade do conteúdo.|Conseguir links de outros sites (Backlinks) para ganhar autoridade.|Velocidade do site e facilidade de leitura para robôs.|
 
 
 
