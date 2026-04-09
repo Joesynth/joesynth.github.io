@@ -30,12 +30,22 @@ Um site é um *software*. Simples assim!
 **Armazenamento**: O site tem "HD", que guarda todos os dados (inclusive os textos ou fotos que vemos no próprio site).
 
 
-Um site vai além de ser um "cartão de visitas" da *SuaEmpresa* na internet. Tem as ferramentas:
+No início o site funcionava como um cartão de visitas ou *folder* institucional da *SuaEmpresa* na internet, tendo "Quem Somos", "Onde Estamos" e "Nossos Serviços". Hoje, há bem mais ferramentas:
 
 
-|Marketing|Venda|Administrativo|Vigilância|
-|:---:|:---:|:---:|:---:|
-|É o destino final de toda a sua Mídia Alugada |É o balcão de negócios, uma loja virtual|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
+|||
+|:---:|:---:|
+|**marketing**|**venda**|
+|É o destino final de toda a sua Mídia Alugada |É o balcão de negócios, uma loja virtual|
+|**administrativo**|**vigilância**|
+|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
+
+
+
+
+
+
+
 
 ⚠️ Veja Mídia Alugada abaixo.
 
@@ -385,11 +395,13 @@ Mais pontos a pensar?
 **Mão de obra qualificada**: Se há *blog* integrado ao *SeuSite* um blogueiro será preciso, se é uma loja virtual (*e-commerce*) haverá banco de dados e o profissional de entrada de dados se faz vital. Isso são dois casos e empresas grandes tem até um departamento de TI.
 **Implementações futuras**: Como se sabe um site é um soft. Nem tudo dito aqui pode estar contemplado quando você cria o *SeuSite* _ex.: integração com alguma ferramenta da Google (idem mídia social ou *marketing*), aceitar pagamentos de clientes em todo o mundo, ter produtos/serviços ilimitados, espaço de armazenamento em HD maior, etc. O *SeuSite* sendo modulável, essas e outras implementações são mais "armas" que lhe darão ainda mais "poder de fogo" na concorrência da Web. Embora haja custos, são aprimoramentos (isto é, você começa com *SeuSite* inicial e vai melhorando "conforme o jogo" e as experiências adquiridas). Um site inicial mais simples significa menos investimento e risco, sem contar que ainda ganhamos tempo para irmos "aprendendo a jogar durante o jogo".
 
-**Investimento**:  
+**💰️ Investimento**:  
 
-|Site institucional|E-commerce|
+|Site Institucional| Loja Virtual|
 |:---:|:---:|
-|💰️ U$10,0o mês (manutenção), U$250, oo a U$2500,oo (produção).|💰️ U$50,00 mês, mas pode ir bem além. Produção pode ficar acima de U$2500,00.|
+|🖥️ **servidor**<br />U$50<sup>,00</sup> anual |🖥️ **servidor**<br />U$200<sup>,00</sup> anual|
+|✍️ **produção**<br />U$250<sup>,00</sup> a U$2500<sup>,00</sup> |✍️ **produção**<br />Pode ficar acima de U$2500<sup>,00</sup>|
+|👤 **manutenção**<br />U$10<sup>,00</sup> mês |👤 **manutenção**<br />U$50<sup>,00</sup> mês|
 
 
 
@@ -445,6 +457,8 @@ Vide [Marketing Digital](/marketing-digital).
 ###### Criar um site
 
 Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode ser um bom exercício tecnológico ou até curiosidade, diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Evidentemente, envolve planejamento, ter conhecimento de causa, experiência _para não se criar algo que num futuro, até próximo, poderá ruir.
+
+**Site Institucional**: Começe por esse que é o simples, o seu cartao de visitas. Habitue-se e conheça a ferramenta na prática. Após meses, e já tendo certa experiência, amplie conforme sua necessidade e, principalmente, planejamento.
 
 Nos grupos de Telegram, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. Fale Conosco!
 
