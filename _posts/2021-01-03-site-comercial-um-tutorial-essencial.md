@@ -26,28 +26,26 @@ Um site é um *software*. Simples assim!
 
 
 **Criação**: É contruído com linguagens de computador (literalmente escrito em códigos como HTML, CSS...) _ tal como um aplicativo de celular ou *software* de computador.
-**Estrutura do *software***: Pode variar bastante. Um site pode ter desde páginas simples (como "Quem Somos" ou "Contatos") até algo mais sofisticado (*blog* , rádio etc).
-**Armazenamento**: O site tem "HD", que guarda todos os dados (inclusive os textos ou fotos que vemos no próprio site).
 
-
-No início o site funcionava como um cartão de visitas ou *folder* institucional da *SuaEmpresa* na internet, tendo "Quem Somos", "Onde Estamos" e "Nossos Serviços". Hoje, há bem mais ferramentas:
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJftzHpGrxCNznmZychzOPVkU4JJb8OW3fw&s" width="320" />Antigamente era comum *designers* gráficos fazerem os ***folders***. O *folder*, e mesmo o cartão de visita, era uma peça de *marketing* no intuito de apresentar a empresa. No início da internet, o site funcionava como esses materias, e nas últimas décadas passou a ter muito mais ferramentas:  
 
 |||
 |:---:|:---:|
-|**marketing**|**venda**|
-|É o destino final de toda a sua Mídia Alugada |É o balcão de negócios, uma loja virtual|
+|**cartão de visita**|**marketing**|
+|Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
+|**Armazenamento**|**venda**|
+|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|É o balcão de negócios da *SuaEmpresa* na internet, uma loja virtual.|
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
 
+**Estrutura do *software***: sendo um programa de computador e atuando em vários campos, como acabamos de ver, um site pode ir de simples páginas (como "Quem Somos") até algo bem mais sofisticado (com *blog* , rádio etc).
 
 
 
 
 
 
-⚠️ Veja Mídia Alugada abaixo.
 
 
 ## Internet: um aparato comercial
@@ -75,10 +73,13 @@ Você compraria um tênis de marca desconhecida?
 
 O Google acha o que procuramos porque sabe dúzias de dados sobre cada site na internet. Por ex.:
 
-**Site**: Idade do seu site.  
-**Usuários** (do seu site): A frequência é de quantos num mês?  
-**Marca**: Há menções à sua marca?  
-**Conteúdo**: Se o conteúdo é original, autoral.  
+|||
+|:---:|:---:|
+|**site**|**marca**|
+|Idade do seu site.|Há menções à *SuaMarca*?|
+|**usuários do *SeuSite***|**conteúdo**|
+|A frequência é de quantos num mês?|Se o conteúdo é original, autoral.|  
+
 
 Veja mais em [O Poder do Google](/o-poder-do-google).
 
@@ -167,21 +168,20 @@ Essas informações aliadas a uma apresentação bem bonita e confiável fortale
 
     www.seusite.com
 
-Exclusivo, *SeuSite* é a vitrine digital própria da *SuaMarca*, também tendo controle total, tal como o site institucional.
-Possui estoque e atendimento
-É ter seu próprio site com carrinho de compras.
+Exclusivo, SeuSite continua sendo o "cartão de visitas" da SuaEmpresa, porém com um novo foco principal: 
+
+> Ser a vitrine digital da sua *SuaMarca*.
+
+Tal como o site institucional tem o controle total, e vai adiante:
+✔ Possui estoque e atendimento.
+✔ *SeuSite* com carrinho de compras.
 
 A principal diferença funcional entre uma loja virtual  e um site institucional reside na capacidade de realizar transações financeiras automaticamente.
 
-###### E-commerce <sup>Comércio eletrônico</sup>
-
-Diferente de virtual.
-
-Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, Mercado Livre (marketplace / mídia alugada), Facebook (rede social / mídia alugada) e Hotmart (infoproduto).
-
-É um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada.
-
 <img src="https://startupi.com.br/wp-content/uploads/2022/07/20220729_161633_0000.png" width="120" /> A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
+
+
+
 
 
 
@@ -243,6 +243,13 @@ Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos so
 Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*, redes...) têm pontos positivos a *SuaEmpresa*. É saber usar!
 
 
+###### E-commerce <sup>Comércio eletrônico</sup>
+
+Diferente de virtual.
+
+Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, Mercado Livre (marketplace / mídia alugada), Facebook (rede social / mídia alugada) e Hotmart (infoproduto).
+
+É um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada.
 
 
 ## 🗣️ Comunicação | Marketing Digital
@@ -271,18 +278,7 @@ Quando se tem site próprio então...
 ✔ A gestão de informações e vendas é mais organizada.
 ✔ Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.
 
-###### Web: site no ar
 
-Com *SeuSite* na Web temos (de cara!) um novo trabalho: *marketing*.
-Tenha consciência que a partir desse momento disputamos na internet com outros *sites* do nosso segmento. O cenário é o seguinte:
-
-**Site novo**: Os seus concorrentes aparecerão na pesquisa do Google em posição melhor que *SuaEmpresa*, já que *SeuSite* é "novinho" na Web. Ou seja, vamos "brigar" com outros comerciantes que já estavam na internet antes de nós chegarmos _isso, ao menos a princípio. 
-**Pesquisa natural do Google**: Começar a aparecer nas pesquisas naturais que as pessoas fazem no Google é o marco inicial. Nos resultados de pesquisa um site começa timidamente surgindo nas últimas páginas, e vai melhorando com o tempo. Há técnicas e boas práticas para aprimorar isso a ponto de aparecer nas primeiras páginas. Chama-se de SEO e imagina-se 6 meses para ver melhoras. O SEO é um trabalho vital, constante e funciona paralelo às propagandas pagas (sendo que um não substitui o outro). 
-**Anúncios**: Os "*tops sites*" surgirão na pesquisa do Google com destaques graças a propagandas pagas. Você também pode fazer isso, embora não seja recomendado de início. O Google é uma mídia digital e bem diferente de *outdoor* ou revista, então não convém agir sem estratégias claras.
-
-O tema é amplo e foge do escopo de um tutorial. Vide *marketing* digital.
-
-Vale notar que o mundo digital em boa parte replica o que ocorre no físico _manter loja bem organizada, preços visíveis, logomarca bonita, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entregar no prazo etc.
 
 ###### Blog
 
@@ -461,6 +457,21 @@ Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode se
 **Site Institucional**: Começe por esse que é o simples, o seu cartao de visitas. Habitue-se e conheça a ferramenta na prática. Após meses, e já tendo certa experiência, amplie conforme sua necessidade e, principalmente, planejamento.
 
 Nos grupos de Telegram, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. Fale Conosco!
+
+###### Web: site no ar
+
+Com *SeuSite* na Web temos (de cara!) um novo trabalho: *marketing*.
+Tenha consciência que a partir desse momento disputamos na internet com outros *sites* do nosso segmento. O cenário é o seguinte:
+
+**Site novo**: Os seus concorrentes aparecerão na pesquisa do Google em posição melhor que *SuaEmpresa*, já que *SeuSite* é "novinho" na Web. Ou seja, vamos "brigar" com outros comerciantes que já estavam na internet antes de nós chegarmos _isso, ao menos a princípio. 
+**Pesquisa natural do Google**: Começar a aparecer nas pesquisas naturais que as pessoas fazem no Google é o marco inicial. Nos resultados de pesquisa um site começa timidamente surgindo nas últimas páginas, e vai melhorando com o tempo. Há técnicas e boas práticas para aprimorar isso a ponto de aparecer nas primeiras páginas. Chama-se de SEO e imagina-se 6 meses para ver melhoras. O SEO é um trabalho vital, constante e funciona paralelo às propagandas pagas (sendo que um não substitui o outro). 
+**Anúncios**: Os "*tops sites*" surgirão na pesquisa do Google com destaques graças a propagandas pagas. Você também pode fazer isso, embora não seja recomendado de início. O Google é uma mídia digital e bem diferente de *outdoor* ou revista, então não convém agir sem estratégias claras.
+
+O tema é amplo e foge do escopo de um tutorial. Vide *marketing* digital.
+
+Vale notar que o mundo digital em boa parte replica o que ocorre no físico _manter loja bem organizada, preços visíveis, logomarca bonita, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entregar no prazo etc.
+
+
 
 👉️ Tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados... nossos concorrentes "agradecem".
 
