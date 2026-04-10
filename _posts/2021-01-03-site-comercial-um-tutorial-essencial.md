@@ -103,19 +103,19 @@ Saiba mais em Qual é o poder do Google?
 
 
 
-## Tipos de sites... e comércio
+## Mídia Própria e Mídia Alugada
 
-Devemos ficar atentos aos seguintes tipos de sites:
+São canais de distribuição, tal como o rádio e a tv de antigamente.
 
 |Mídia Própria|Mídia Alugada|
 |:---:|:---:|
 |*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
 
-👉️ Ainda há o termo *E-commerce* e *blog*, este podendo ser Mídia Própria ou Mídia Alugada.
 
-A mídia própria e a mídia alugada são canais de distribuição, tal como o rádio e a tv de antigamente.
 
-###### Site institucional
+
+
+###### Site institucional (Mídia Própria)
 
 **<img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/49e17fbc6516b5cb94698be7dec238c4.jpg" width="120" />**Para a *SuaEmpresa* ou trabalho é a forma de *site* mais comum.
 Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão de visita" ou da filipeta, a *SuaMarca (*ou *SuaEmpresa*) promove serviços, eventos ou informa contatos. Entretanto um site institucional vai bem além disso, por ser um modelo digital de mídia, não papel. Nele temos:
@@ -164,7 +164,7 @@ E vale lembrar:
 
 Essas informações aliadas a uma apresentação bem bonita e confiável fortalece a sua reputação. Tudo isso gera um clima *online* muito favorável.
 
-###### Loja virtual <sup>Virtual Store</sup>
+###### Loja virtual <sup>Virtual Store</sup> (Mídia Própria)
 
     www.seusite.com
 
@@ -181,13 +181,15 @@ A principal diferença funcional entre uma loja virtual  e um site institucional
 <img src="https://startupi.com.br/wp-content/uploads/2022/07/20220729_161633_0000.png" width="120" /> A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
 
 
-
+Loja virtual é um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada. Ou seja, tem-se uma intenção e infraestrutura diferenciada.
 
 
 
 ###### Blog
 
-Pode estar dentro de um site institucional ou de uma loja virtual.
+
+
+Pode estar dentro de um site institucional ou de uma loja virtual, portanto Mídia Própria, mas também pode ser Mídia Alugada.
 
 **<img src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="120" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
 
@@ -245,11 +247,9 @@ Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*,
 
 ###### E-commerce <sup>Comércio eletrônico</sup>
 
-Diferente de virtual.
+Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada como Mercado Livre e Facebook ou mesmo Hotmart (infoproduto).
 
-Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, Mercado Livre (marketplace / mídia alugada), Facebook (rede social / mídia alugada) e Hotmart (infoproduto).
 
-É um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada.
 
 
 ## 🗣️ Comunicação | Marketing Digital
@@ -268,6 +268,7 @@ Tem-se variáveis a se pensar.
 
 Pela ótica "purista" do MKT, site e mídia alugada são canais de distribuição.
 
+O pŕoprio site é o destino final de toda a Mídia Alugada
 
 ###### Site institucional e loja virtual (*e-commerce)*
 
@@ -420,19 +421,19 @@ Baseado na nossa experiência sugerimos:
 
 ###### Nome do site
 
-Pela ótica do MKT digital é vital na estratégia.
+Pela ótica do *marketing* digital é vital na estratégia. Foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto/serviço/ideia de alguma forma. Observe:
 
 **Nome vago** (ex. *dulyn.com*): pode vender qualquer coisa, em tese.  
 👍️ Se adapta ao tempo, novos produtos e novas ideias com facilidade.  
-👎️ O *marketing* terá que criar sentido para o nome, visto que as pessoas não ligam a palavra (a marca) a nada. Identidade conhecida é vital. Por exemplo, uma logomarca pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e associamos a tênis e veículos.  
+👎️ O *marketing* terá que criar sentido para o nome, visto que as pessoas não ligam a palavra (a marca) a nada. Identidade conhecida é vital. Por exemplo, um logotipo pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e associamos a tênis e a veículos.  
 **Nome muito específico** (ex.: *carrosTony.com*): ✖️ O nome do site ao "carimbar" o nome do produto, "carros", limita o mix de produtos da SuaEmpresa. É ideia oposta ao 'nome vago'.  
 **Nome com números** (ex.: *pipas346.com*): ✖️  
-**Foque em nome que possa virar marca** (robertocarlos.com): ✔️ Fácil falar, fácil memorizar; se possível que associe com o produto/serviço/ideia de alguma forma. No exemplo, o termo "roberto carlos" é o próprio produto: o artista.  
-***Mobile friendly***: Amigável para dispositivos móveis.  
-👍️ Nome fácil de digitar no celular. A maioria dos acessos de um site vêm de celular e não de *notebook* ou *desktop*.  
-👎️ Número tem que se mudar a tela do teclado para eles aparecerem, o que demora.  
-👎️ Nomes grandes ou com hífen.  
-**Nome quase copiado** (ex. *CocaTola.com*): ✖️ Domínio parece com marca famosa.  
+**Marca Pessoal <sup>Personal Branding</sup>** (robertocarlos.com): O termo "roberto carlos" é o próprio produto: o artista.  
+**Usabilidade**: Amigável para dispositivos móveis. A maioria dos acessos de um site vem de celulares e não de *notebooks* ou *desktops*.
+👍️ Nome fácil de se digitar no celular.   
+👎️ Números: é preciso trocar o teclado para digitá-los, o que atrasa um pouco.  
+👎️ Nomes grandes ou com hífen. Péssimo!  
+**Nome quase copiado** (ex. *CocaTola.com*): ✖️ Domínio parece com marca famosa. O algoritmo do Google pode "achar" que seu site é uma tentativa de fraude ou cópia.
 **Extensão adequada**: ✔️ *.com* para comércio, *.ong* para ONGs, *.net* geralmente sites de TI, etc.  
 
 
