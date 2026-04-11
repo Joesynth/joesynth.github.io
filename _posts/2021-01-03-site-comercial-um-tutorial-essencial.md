@@ -29,7 +29,7 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |:---:|:---:|
 |**cartão de visita**|**marketing**|
 |Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
-|**Armazenamento**|**venda**|
+|**armazenamento**|**venda**|
 |Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|É o balcão de negócios da *SuaEmpresa* na internet, uma loja virtual.|
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
@@ -176,81 +176,15 @@ Não. Eles ajudam *SuaEmpresa* estar mais presente na Web. Isso porque *SuaMarca
 - Melhorar o engajamento com o público.
 
 
-
-
-## 🌐️ Site Institucional ou E-commerce?
-
-Qual escolher? Vejamos...
-
-xxx
-tab > gedit
-xxx
-
-Qualidades em comum:
-
-<small>
-**Nossa "Casa Virtual"**:  Servem como  na internet (representando *NossaEmpresa* de fato);  
-**Vender ou aumentar as vendas** é possível (claro, o *e-commerce*, a loja virtual, é mais dedicado, um outro nível de site _"outro patamar!").  
-**Interagir com clientes**, internautas.  
-**Pagamentos**: PayPal é possível, dentre outras formas.  
-</small>
-
-⚠️ Na loja física ou Site Institucional, onde na prática funciona no horário comercial, é comum o cliente se comunicar sobre o que quer comprar antes de o fazer de fato. Num e-commerce, via de regra, isso é mais dinâmico: o cliente gostou então compra. Simples assim. Então não pode haver transtorno, pois o desejo de comprar com comodidade e facilidade estaria ferido.
-
-## 👥️ E-commerce: Administração
-
-A loja virtual é um ambiente mais complexo e de maior custo que o site institucional. É ilógico meramente criá-lo* e* deixá-lo lá, na Web. É preciso cuidar "do filho" numa administração constante _afinal, é uma loja! Só que virtual.
-
-**Competitividade**: um *e-commerce* é mais sensível a satisfação do cliente. A compra é muito rápida e qualquer transforno pode fazer o consumidor migrar pra outro site _num clique!
-
-Abaixo descrevemos mais pontos a considerar.
-
-###### Loja Virtual: Presença on-line 24h
-
-Imaginemos uma loja on-line vendendo 24h por dia e em todo país.
-
-**Atendimento online**: um suporte é bem-vindo. Pode-se imaginar o cliente que liga pra tirar dúvidas, por ex.
-**Avaliação de pedidos**. Um profissional avaliador de pedidos é uma opção para dar ao cliente um "*feedback*" da compra, esta realizada de madrugada ou num feriado. O profissional pode, por ex., sugerir o envio do produto por transportadora (em vez de Correios), uma outra cor de produto (que não tinha no site no momento da compra), verificar compras suspeitas e mesmo parabenizar o cliente pela aquisição.
-**Estoque**: vender produtos 24h por dia pode resultar em algo desagradável: ficarmos sem estoque. Ou seja, pedidos no *SeuSite* precisam ser contabilizados por um sistema cuidadoso de estoque, evitando que *SeuCliente* compre algo no site que não está disponível no estoque físico. Se isso ocorrer gerará transtorno; e com tantas opções de sites concorrentes na rede há risco do cliente não voltar mais _pois basta ele procurar no Google um outro site. Solução?
-✔ Funcionários mais bem treinados lidarão com isso de forma melhor.
-✔ Dptº de compras se antever e manter o nível de estoque sempre satisfatório.
-**Logística**: Atenção ao envio das encomendas (pedidos). Entregar no prazo é vital para evitar transtornos.
-**Segurança do site**: Precisa-se num nível maior que o convencional, já que são 24h no ar e fazendo transações bancárias.
-
 ## 🌐️ Site vs Rede Social
 
 Vide [Site vs. Rede Social](/site-vs-rede-social).
 
-## Site Institucional ou E-commerce: qual escolher?
 
-<img src="https://joesynth.files.wordpress.com/2021/12/f7042-5ffd70_b46f985d4c574709b796b46c4339702emv2.jpg" width="120" /> A escolha entre Site Institucional ou *E-commerce* depende de certos critérios. Só o proprietário pode analisar o caso da própria empresa, afinal, é o dono (ou sócios) que sabe o que tem e possuem as referências de seu mundo real (quanto há para investir, quem pode colaborar nessa nova missão etc). Em Alice no País das Maravilhas se diz:
 
-<blockquote>"Se você não sabe onde quer ir, qualquer caminho serve"
-[Carroll]</blockquote>
+## 🌐️ Site institucional ou loja virtual?
 
-Podemos refletir sobre o seguinte...
-
-🏠️ **Estrutura física**: já existe? Precisará ser aprimorada a logística, por exemplo? Note que certas informações geram credibilidade da SuaEmpresa para os clientes: endereço fixo conhecido há anos, CNPJ, telefone fixo,*email.*.. Como dito, isso é um diferencial na Web.
-😎️ **Identidade visual**: logomarca bonita, cores da empresa... Já tem?
-🐶️ **Tipo de produto a comercializar**: comida pode estragar pela demora na entrega, caixa de som profissional e de graves é melhor transportadora que Correios... Queremos apenas usuários interessados em serviços?
-
-Mais pontos a pensar?
-
-🌎️ **Espaço geográfico**: Se o foco é trazer pessoas (físicas) ao seu ponto de vendas, então site institucional é bem-vindo. Caso o primordial seja vender produtos/serviços *online* atendendo todo o país aí loja virtual. E se ambos?
-🔧️ **Manutenção de conteúdo**: Uma vez *SeuSite* no ar deve-se ter gente para realizar trabalhos como descrições textuais, edições de imagens ou vídeos, elaboração de títulos etc. Além da boa escrita, outras conhecimentos bem-vindos para o responsável por isso incluem: saber padrões (de imagens por exemplo), SEO on page, medir resultados (gerados pelo site), análise de gráficos, alaboração de pautas de conteúdo. Certas tecnologias da Web priorizam conteúdos atuais, então materiais publicados constantemente é bem relevante.
-
-###### 💰️ Investimentos
-
-**Mão de obra qualificada**: Se há *blog* integrado ao *SeuSite* um blogueiro será preciso, se é uma loja virtual (*e-commerce*) haverá banco de dados e o profissional de entrada de dados se faz vital. Isso são dois casos e empresas grandes tem até um departamento de TI.
-**Implementações futuras**: Como se sabe um site é um soft. Nem tudo dito aqui pode estar contemplado quando você cria o *SeuSite* _ex.: integração com alguma ferramenta da Google (idem mídia social ou *marketing*), aceitar pagamentos de clientes em todo o mundo, ter produtos/serviços ilimitados, espaço de armazenamento em HD maior, etc. O *SeuSite* sendo modulável, essas e outras implementações são mais "armas" que lhe darão ainda mais "poder de fogo" na concorrência da Web. Embora haja custos, são aprimoramentos (isto é, você começa com *SeuSite* inicial e vai melhorando "conforme o jogo" e as experiências adquiridas). Um site inicial mais simples significa menos investimento e risco, sem contar que ainda ganhamos tempo para irmos "aprendendo a jogar durante o jogo".
-
-**💰️ Investimento**:  
-
-|Site Institucional| Loja Virtual|
-|:---:|:---:|
-|🖥️ **servidor**<br />U$50<sup>,00</sup> anual |🖥️ **servidor**<br />U$200<sup>,00</sup> anual|
-|✍️ **produção**<br />U$250<sup>,00</sup> a U$2500<sup>,00</sup> |✍️ **produção**<br />Pode ficar acima de U$2500<sup>,00</sup>|
-|👤 **manutenção**<br />U$10<sup>,00</sup> mês |👤 **manutenção**<br />U$50<sup>,00</sup> mês|
+Qual escolher? 
 
 
 
