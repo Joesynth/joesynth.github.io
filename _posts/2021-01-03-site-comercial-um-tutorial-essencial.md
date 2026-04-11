@@ -22,12 +22,8 @@ Isso, além doutros temas. Portanto vamos lá!?
 
 ## O que é um site?
 
-Um site é um *software*. Simples assim!
-
-
-**Criação**: É contruído com linguagens de computador (literalmente escrito em códigos como HTML, CSS...) _ tal como um aplicativo de celular ou *software* de computador.
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJftzHpGrxCNznmZychzOPVkU4JJb8OW3fw&s" width="320" />Antigamente era comum *designers* gráficos fazerem os ***folders***. O *folder*, e mesmo o cartão de visita, era uma peça de *marketing* no intuito de apresentar a empresa. No início da internet, o site funcionava como esses materias, e nas últimas décadas passou a ter muito mais ferramentas:  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJftzHpGrxCNznmZychzOPVkU4JJb8OW3fw&s" width="320" />Antigamente, o *folder* era uma peça de *marketing* comum no intuito de apresentar a empresa. O cartão de visita e o catálogo de produtos eram mais materiais publicitários criados por *designers* gráficos. Mas com o tempo surge um novo profissional: o *web designer*, um  *designer* gráfico com conhecimentos em programação.
+Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E se no início da web o site funcionava como um *folder* ou cartão de visitas, com o tempo foi se tornando mais sofisticado ainda. Ferramentas:  
 
 |||
 |:---:|:---:|
@@ -37,6 +33,14 @@ Um site é um *software*. Simples assim!
 |Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|É o balcão de negócios da *SuaEmpresa* na internet, uma loja virtual.|
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
+
+
+> Um site é um *software*. Simples assim!
+
+Ele é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.
+
+
+
 
 
 **Estrutura do *software***: sendo um programa de computador e atuando em vários campos, como acabamos de ver, um site pode ir de simples páginas (como "Quem Somos") até algo bem mais sofisticado (com *blog* , rádio etc).
@@ -101,8 +105,6 @@ Portanto quando pensar em Google...
 Saiba mais em Qual é o poder do Google?
 
 
-
-
 ## Mídia Própria e Mídia Alugada
 
 São canais de distribuição, tal como o rádio e a tv de antigamente.
@@ -112,137 +114,10 @@ São canais de distribuição, tal como o rádio e a tv de antigamente.
 |*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
 
 
+Entenda melhor sobre isso lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).
 
 
 
-###### Site institucional (Mídia Própria)
-
-**<img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/49e17fbc6516b5cb94698be7dec238c4.jpg" width="120" />**Para a *SuaEmpresa* ou trabalho é a forma de *site* mais comum.
-Tal como ocorre nos velhos materiais de publicidade, como é o caso do "cartão de visita" ou da filipeta, a *SuaMarca (*ou *SuaEmpresa*) promove serviços, eventos ou informa contatos. Entretanto um site institucional vai bem além disso, por ser um modelo digital de mídia, não papel. Nele temos:
-
-<small>
-**Saída**:  
-✔ Parceiros: quem está junto com você nesta missão? Quem lhe apoia de alguma forma?  
-✔ Endereços: das lojas físicas: informação que gera um certo *status*.  
-✔ Canais oficiais de contato: da *SuaEmpresa* (tel administrativo, Tele-atendimento ou atendimento online (*chat*, tel de suporte técnico humanizado.  
-✔ Email oficial, lista de e-mail.  
-✔ Portfólio.  
-✔ Produtos, serviços, ideias: apresentação do cardápio, bem como orientação para compra.  
-✔ Horário de funcionamento das lojas físicas: algo que evita transtorno ao cliente de ir lá e encontrar fechada.  
-**Saída** (informações institucionais):
-✔ NAP Data *(Name, Address, Phone)* - Dados básicos usados pelo Google.
-✔ Apresentação da empresa: (página “Sobre”): fundamental para apresentar dados gerais da *SuaEmpresa*. Qual a história da empresa? Quem você é? Quais as ideias/volores que sua marca passa?  
-✔ Logotipo.
-**Saída** (interno na própria empresa):  
-✔ Tutoriais para funcionários (boas práticas, por ex.)  
-✔ Parabenizações (aniversários, metas de vendas etc)  
-✔ Relatórios internos.  
-**Entrada**:  
-✔ Coleta de dados: pesquisas com o usuário, cadastro de clientes ao estilo "Fale Conosco" (formulários; portanto com informações do consumidor).  
-✔ Vendas: fechamento via tel (por ex.), recebimento de propostas (de clientes, parceiros, fornecedores).  
-📊️ **Métricas**:  
-✔ Visualizações do site, páginas mais vistas...  
-<small>
-
-
-**Objetivo do site institucional**?
-
-
-> Gerar confiança e autoridade ao visitante. Passar isso aos clientes, concorrentes e parceiros.
-
-
-
-E vale lembrar:
-
-<small>
-✔ Vender produto, serviço ou ideia mais diretamente às pessoas.  
-✔ Ser o 1º contato entre *SuaMarca* e seu cliente.  
-✔ Ponto de encontro entre clientes e empresa (vital para gerar bons números).  
-✔ Segurança da informação:  dados (como horários de funcionamento, CNPJ...) são mais confiáveis no site da *SuaEmpresa* (que é o canal oficial da marca) do que em redes sociais _já que nessas qualquer um pode criar páginas falsas ou clonadas; bem como a própria página sair do ar por um nova regra do Facebook ou Youtube).  
-✔ Dialogar com as pessoas: o site institucional é o contato oficial para se comunicar com clientes, fornecedores, parceiros.  
-</small>
-
-Essas informações aliadas a uma apresentação bem bonita e confiável fortalece a sua reputação. Tudo isso gera um clima *online* muito favorável.
-
-###### Loja virtual <sup>Virtual Store</sup> (Mídia Própria)
-
-    www.seusite.com
-
-Exclusivo, SeuSite continua sendo o "cartão de visitas" da SuaEmpresa, porém com um novo foco principal: 
-
-> Ser a vitrine digital da sua *SuaMarca*.
-
-Tal como o site institucional tem o controle total, e vai adiante:
-✔ Possui estoque e atendimento.
-✔ *SeuSite* com carrinho de compras.
-
-A principal diferença funcional entre uma loja virtual  e um site institucional reside na capacidade de realizar transações financeiras automaticamente.
-
-<img src="https://startupi.com.br/wp-content/uploads/2022/07/20220729_161633_0000.png" width="120" /> A loja virtual é um negócio no qual as transações comerciais acontecem por meio de ferramenta *online*. É uma modalidade de comércio por meio da qual os contratos, bem como as transações financeiras, são feitas totalmente pela internet. Uma loja virtual faz a venda dos seus próprios produtos; ou seja, o foco é a venda de produtos da sua empresa.
-
-
-Loja virtual é um site institucional mais avançado, ou melhor, com foco principal nas vendas _inclusive  automatizada. Ou seja, tem-se uma intenção e infraestrutura diferenciada.
-
-
-
-###### Blog
-
-
-
-Pode estar dentro de um site institucional ou de uma loja virtual, portanto Mídia Própria, mas também pode ser Mídia Alugada.
-
-**<img src="https://blog.scielo.org/wp-content/uploads/2018/03/blogs.png" width="120" />**Mídia ideal para a produção de conteúdo, nela o seu dono conta histórias, publica textos pessoais, etc. Funciona como diário; ou, via de regra, aborda um assunto tal.
-
-> Um exemplo de *blog* é o site [JoeSynth.wordpress.com](https://joesynth.wordpress.com), onde há décadas falamos sobre sintetizadores ou áudio.
-
-Um *blog* em si não é uma ferramenta de venda, mas pode fazer parte do elo.
-
-Em suma, num *blog* cria-se contato/afinidade com consumidores pelos textos de interesse desses leitores.
-**Coleta de dados**: um *blog* emite gráficos com acessos dos clientes, visualizações dia a dia ou mês a mês, etc. Sabemos quais artigos os internautas estão gostando mais _ aí planejamos novos textos e melhoramos o contato com possíveis clientes. Por tudo isso as companhias têm investido no *blog* integrado ao próprio site da empresa; isto é, um *site* + um *blog*. Porém, um trabalho vital é manter o *blog* atualizado (já que sua essência é o próprio conteúdo em si).
-
-
-
-Veja o capítulo comunicação.
-
-
-###### Mídia Alugada
-
-
-Veja alguns exemplos:
-
-|Rede Social|*Marketplace*|comparador de preços|
-|:---:|:---:|:---:|
-|Facebook, YouTube|Mercado Livre|Buscapé, Boa Dica, JáCotei|
-
-<img src="https://static.todamateria.com.br/upload/re/de/redes-sociais-og.jpg?class=ogImageWide" width="120" /> Abordaremos mais detalhes sobre as redes sociais.
-
-O ***marketplace*** atua vendendo como um grande *shopping* virtual, tendo diferentes vendedores e ofertas. Para o consumidor, a grande vantagem está na diversidade de opções _mercadorias, escolha das formas de pagamento, entrega.
-
-É bom *SuaEmpresa* ter produtos em *marketplace*, e eles devem estar atualizados _e nós (a empresa) oferecermos suporte aos clientes. Há profissionais *freelance* que fazem esses serviços. E caso sua empresa tenha um site, é possível integrar sua loja virtual a *marketplaces* (via *softs* específicos).
-
-*Sites* de comparação de preços.
-
-Veja o capítulo comunicação e marketplace:50 sites.
-
-
-
-✔ Rede social vs marketplace vs comparador de preços
-
-
-<blockquote>A internet não é terra de ninguém. Bem pelo contrário, ela é de alguém sim:  instituições e empresas de tecnologia [Joe S]</blockquote>
-
-Esses tipos de sites têm donos e regras a seguirmos. A partir do momento que criamos 'nossa' conta e aceitamos estar nessas plataformas, consequentemente estamos subordinados às diretrizes ditadas por elas. Há o termo cliente / servidor, um modelo de funcionamento. Nele nós somos cliente (usuário) enquanto ele (o Facebook, por ex.) é o servidor (o computador central dono do ambiente todo).
-
-Nesses ambientes pode ocorrer de você não ter acesso a dados mais completos sobre os clientes de *SuaEmpresa*.
-
-<blockquote>No mundo digital o dono da informação é o dono do HD.
-[Joe S]</blockquote>
-
-🤔️ Há a LGPD, mas na prática...
-
-**Comparador de preços**: Com a popularização dos *marketplaces* esses sites ficaram em segundo plano. Avalie e experimente se *SuaEmpresa* terá retorno com a presença nesse tipo de veículo. Pode ser útil no fortalecimento da marca (junto ao seu site).
-
-Em suma... Contudo, como se vê neste artigo, essas plataformas (*marketplaces*, redes...) têm pontos positivos a *SuaEmpresa*. É saber usar!
 
 
 ###### E-commerce <sup>Comércio eletrônico</sup>
@@ -306,33 +181,10 @@ Não. Eles ajudam *SuaEmpresa* estar mais presente na Web. Isso porque *SuaMarca
 ## 🌐️ Site Institucional ou E-commerce?
 
 Qual escolher? Vejamos...
-<table>
-<tbody>
-<tr>
-<td style="text-align: center">**Site institucional**</td>
-<td style="text-align: center"> **E-commerce**</td>
-</tr>
-<tr>
-<td>🤔️ Tem viés mais corporativo _história da empresa, quem é, *cases*, contatos etc.</td>
-<td>🤔️ Semelhante ao site institucional, porém mais voltado à venda _tendo característica de *self service*.</td>
-</tr>
-<tr>
-<td>**💳️ Vendas**: são feitas via assistência pessoal utilizando telefone, *chat*, email.
-⏲️ **Horário:** 24h na Web. Notando que vendas de madrugada podem ser polêmicas pela falta de um atendimento humano.
-**📑️ Página produtos/serviços**: Exibe-se o catálogo de produtos/serviços, usado para apoiar as vendas, e como dito, estas fechadas via telefone, *chat*.
-**📑️ Produtos / Organização**: Podem estar dispostos numa única página, tendo informações (características, benefícios que os produtos têm, etc).
-Com essas informações é oferecido um botão para o cliente fazer um pedido de orçamento (aí a empresa entra em contato com o cliente para detalhes da finalização do pedido). Ou seja, há produtos/serviços disponíveis via catálogo (podendo se vender via telefone, por ex.).
-🚚️ **Logística**: Local, entregas são basicamente no próprio bairro ou próximo.
-💰️ **Investimento**: menor que e-commerce.</td>
-<td>**💳️ Vendas**: Feitas via automação, portanto dispensando vendedores (embora convenha um ou outro).
-⏲️ **Horário:** 24h na Web. Vende-se automaticamente, portanto, mesmo fora do horário comercial a loja vende.
-**📑️ Página Produtos**: Sofisticada, há características de cada produto (forma de utilização, depoimentos de clientes...). Essa estratégia facilita a escolha pelos consumidores.
-**📑️ Produtos / Organização**: Há muitas páginas de produtos, recurso de busca de produtos por categoria... Cada produto é cadastrado num sistema com fotos, separados por tópicos, descrição, preço, quantidade em estoque, ficha técnica, detalhes etc. Há "carrinho de compras".
-🚚️ **Logística**: pra demanda do país, usa-se transportadoras ou Correios, por ex.
-💰️ **Investimento**: maior que site institucional.</td>
-</tr>
-</tbody>
-</table>
+
+xxx
+tab > gedit
+xxx
 
 Qualidades em comum:
 
