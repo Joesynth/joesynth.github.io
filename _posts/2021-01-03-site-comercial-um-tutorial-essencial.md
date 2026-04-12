@@ -54,9 +54,9 @@ Ele é **criado** com linguagens de computador, como HTML ou CSS. É, literalmen
 
 ## Internet: um aparato comercial
 
-Anos 80 houve quem acreditasse que a internet era para pesquisa e não comércio. Nessa mesma época surgiu um serviço de compras *online*; e no Brasil a internet comercial nasceu na década de 90.
+A internet nasceu militar, na época da Guerra Fria. Anos 80 houve quem acreditasse que a internet era para pesquisa e não comércio, sendo que nessa mesma época surgiu um serviço de compras *online*. Na década de 90, no Brasil, a internet comercial nasceu.
 
-A comercialização na internet abrange a criação e o gerenciamento de serviços *on-line*, principalmente para ganho financeiro. Inclui-se ainda as técnicas avançadas de *marketing* (ex.: publicidade personalizada e direcionada).
+A comercialização na internet abrange a criação e o gerenciamento de serviços *on-line*, principalmente para ganho financeiro. Inclui-se ainda as técnicas avançadas de *marketing*, como publicidade personalizada e direcionada, uso de psicologia, espionagem (chamada de "vigilância").
 
 ## Visibilidade, credibilidade, autoridade
 
@@ -77,11 +77,7 @@ Você compraria um tênis de marca desconhecida?
 
 ## O Google: o chefe
 
-<img src="https://lh6.googleusercontent.com/proxy/mzq53TbltU2AOSaND5NzLqJtI_AuaMI3w4h9Afxxn2gbU_uDcckRl0ebPcn_zh5OCc8qmzSHQRfRpvIpKbdbfErY2ckOhMOEyWBHd_In4jEC" width="120" /> Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes. O Google é o site que acha para gente o que pesquisamos na internet. Óbvio, né!? Pesquisamos algo e o Google nos retorna vários sites. Óbvio... também! Mas sabia que eles estão organizados por importância? É um *ranking*! Os mais relevantes surgem em 1º lugar. Claro, isso é o resultado natural, sem ser pago (publicidade).
-
-###### Google sabe coisas sobre *SeuSite*
-
-O Google acha o que procuramos porque sabe dúzias de dados sobre cada site na internet. Por ex.:
+<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />O Google tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
 
 |||
 |:---:|:---:|
@@ -91,6 +87,12 @@ O Google acha o que procuramos porque sabe dúzias de dados sobre cada site na i
 |A frequência é de quantos num mês?|Se o conteúdo é original, autoral.|  
 
 
+Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes. O Google é o site que acha para gente o que pesquisamos na internet. Óbvio, né!? Pesquisamos algo e o Google nos retorna vários sites. Óbvio... também! Mas sabia que eles estão organizados por importância? É um *ranking*! Os mais relevantes surgem em 1º lugar. Claro, isso é o resultado natural, sem ser pago (publicidade).
+
+Ou seja, o Google acha o que procuramos porque sabe dúzias de dados sobre cada site na internet, e isso é o poder dessa corporação, nos restando adaptar nosso site a essa realidade para então ter competitividade.
+
+
+
 Veja mais em [O Poder do Google](/o-poder-do-google).
 
 
@@ -98,14 +100,21 @@ Veja mais em [O Poder do Google](/o-poder-do-google).
 
 Sabendo que o Google sabe coiss sobre cada site, cada empresa se adapta a esse poder _para poder aparecer nos resultados das buscas em vantagem diante de seus concorrentes. Cada dono de site faz uma otimização no próprio site, que é, basicamente, adequar o *SeuSite* a essa dúzia de dados que o Google sabe _e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google. Isso é o trabalho chamado de SEO.
 
-Portanto quando pensar em Google...
+###### Regras
 
-<small>
-**Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.  
-**Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.  
-**Faça SEO**: sim, o Google prioriza sites otimizados. Veja SEO.  
-**Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.  
-</small>
+✔ **Faça SEO**: o Google prioriza sites otimizados.  
+✔ **Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.  
+
+
+
+###### Quando pensar em Google...
+
+✔ **Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.  
+✔ **Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.  
+
+
+
+
 
 
 Saiba mais em Qual é o poder do Google?
@@ -120,8 +129,9 @@ São canais de distribuição, tal como o rádio e a tv de antigamente.
 |*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
 
 
-Entenda melhor sobre isso lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).
-
+Entenda melhor sobre isso lendo:  
+👉️ [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).  
+👉️ Vide [Site vs. Rede Social](/site-vs-rede-social).  
 
 Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
 
@@ -193,9 +203,6 @@ Não. Eles ajudam *SuaEmpresa* estar mais presente na Web. Isso porque *SuaMarca
 - Melhorar o engajamento com o público.
 
 
-## 🌐️ Site vs Rede Social
-
-Vide [Site vs. Rede Social](/site-vs-rede-social).
 
 
 
