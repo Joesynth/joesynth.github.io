@@ -63,7 +63,13 @@ A comercialização na internet abrange a criação e o gerenciamento de serviç
 Você compraria um tênis de marca desconhecida?
 É possível, mas o tênis conhecido seria o mais provável. Nele está implícito a qualidade e credibilidade. Com um site é parecido.
 
-<img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade** É um fator importante para que seu público possa encontrar *SuaEmpresa* de forma fácil e rápida na internet, pois é comum pesquisarmos no Google. A visibilidade online está ligada a estratégias para fazer *SuaEmpresa* estar disponível a seu público via internet _site, redes sociais, email etc.
+|visibilidade<br />(ser visto)|credibilidade<br />(ser confiável)|autoridade<br />(ser referência)|
+|:---:|:---:|:---:|
+|**como conseguir?**|**como conseguir?**|**como conseguir?**|
+|SEM + Mídia Alugada|Design Profissional (Layout limpo e moderno); Prova Social (depoimentos de clientes, logotipos de empresas atendidas e avaliações); Segurança: Certificado SSL (o cadeado no navegador) e políticas de privacidade claras; Transparência: Página "Sobre nós", contatos visíveis e fotos reais da equipe.|Marketing de Conteúdo: Publicar artigos profundos que resolvam problemas reais. Backlinks: Quando outros sites relevantes linkam para o seu (é como um "voto de confiança" digital). Menções Externas: Participar de podcasts, entrevistas ou colunas em portais de notícia.|
+
+
+<img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade** É um fator importante para que seu público possa encontrar *SuaEmpresa* de forma fácil e rápida na internet, Pesquisarmos no Google é um lado disso. A visibilidade online está ligada a estratégias para fazer *SuaMarca* estar disponível a seu público _site, redes sociais, email etc.
 
 **<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade** Podemos considerar o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
@@ -117,26 +123,37 @@ São canais de distribuição, tal como o rádio e a tv de antigamente.
 Entenda melhor sobre isso lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).
 
 
-
-
-
-###### E-commerce <sup>Comércio eletrônico</sup>
-
-Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada como Mercado Livre e Facebook ou mesmo Hotmart (infoproduto).
-
-
-
-
-## 🗣️ Comunicação | Marketing Digital
-
-Como vimos o Google tem grande peso na internet e esta é um ambiente comercial. Portanto *marketing* digital é vital.
-
 Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
 
 Tem-se variáveis a se pensar.
 
 
 
+**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada como Mercado Livre e Facebook ou mesmo Hotmart (infoproduto).
+
+
+
+
+## 🗣️ Comunicação | Marketing Digital
+
+
+###### Google
+
+Como vimos o Google tem grande peso na internet e esta é um ambiente comercial. Portanto *marketing* digital é vital.
+
+
+
+
+###### Nome do site
+
+Parece só um nome, mas pela ótica do *marketing* digital é vital na estratégia. Um nome criado pela inocência ou paixão pode ser um desastre se colidir com questões técnicas, por exemplo. A princípio, foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto/serviço/ideia de alguma forma.
+
+Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
+
+
+###### *Marketing* - Tempo médio para retorno
+
+Vide [Marketing Digital](/marketing-digital).
 
 
 ## 🗣️ Comunicação
@@ -200,27 +217,10 @@ Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses t
 |**Nível 3**<br />*e-commerce*<br />**maiores custos**| Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
 
 
-
 ## 🌟️ Dicas!
 
 Baseado na nossa experiência sugerimos:
 
-###### Nome do site
-
-Pela ótica do *marketing* digital é vital na estratégia. Foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto/serviço/ideia de alguma forma. Observe:
-
-**Nome vago** (ex. *dulyn.com*): pode vender qualquer coisa, em tese.  
-👍️ Se adapta ao tempo, novos produtos e novas ideias com facilidade.  
-👎️ O *marketing* terá que criar sentido para o nome, visto que as pessoas não ligam a palavra (a marca) a nada. Identidade conhecida é vital. Por exemplo, um logotipo pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e associamos a tênis e a veículos.  
-**Nome muito específico** (ex.: *carrosTony.com*): ✖️ O nome do site ao "carimbar" o nome do produto, "carros", limita o mix de produtos da SuaEmpresa. É ideia oposta ao 'nome vago'.  
-**Nome com números** (ex.: *pipas346.com*): ✖️  
-**Marca Pessoal <sup>Personal Branding</sup>** (robertocarlos.com): O termo "roberto carlos" é o próprio produto: o artista.  
-**Usabilidade**: Amigável para dispositivos móveis. A maioria dos acessos de um site vem de celulares e não de *notebooks* ou *desktops*.
-👍️ Nome fácil de se digitar no celular.   
-👎️ Números: é preciso trocar o teclado para digitá-los, o que atrasa um pouco.  
-👎️ Nomes grandes ou com hífen. Péssimo!  
-**Nome quase copiado** (ex. *CocaTola.com*): ✖️ Domínio parece com marca famosa. O algoritmo do Google pode "achar" que seu site é uma tentativa de fraude ou cópia.
-**Extensão adequada**: ✔️ *.com* para comércio, *.ong* para ONGs, *.net* geralmente sites de TI, etc.  
 
 
 ###### Autoridade (na internet)
@@ -232,9 +232,8 @@ Vá além do site institucional. Agregue o que for possível para torná-lo um m
 
 É indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses artigos serão vitais para compôr o conteúdo de SeuSite.
 
-###### *Marketing* - Tempo médio para retorno
 
-Vide [Marketing Digital](/marketing-digital).
+
 
 
 ###### Criar um site
