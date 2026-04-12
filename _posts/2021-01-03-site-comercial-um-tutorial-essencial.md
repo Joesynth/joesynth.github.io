@@ -2,6 +2,7 @@
 
 Site e rede social: por que ter os dois? O que difere? Google? Face? E-commerce?
 
+
 O site é a forma comum de se navegar na internet.
 Exemplo de site? Um portal de notícias, loja *online*...
 
@@ -156,6 +157,7 @@ Como vimos o Google tem grande peso na internet e esta é um ambiente comercial.
 
 ###### Nome do site
 
+
 Parece só um nome, mas pela ótica do *marketing* digital é vital na estratégia. Um nome criado pela inocência ou paixão pode ser um desastre se colidir com questões técnicas, por exemplo. A princípio, foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto/serviço/ideia de alguma forma.
 
 Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
@@ -168,34 +170,38 @@ Vide [Marketing Digital](/marketing-digital).
 
 ## 🗣️ Comunicação
 
+###### Mídia própria e mídia alugada
+
 Pela ótica "purista" do MKT, site e mídia alugada são canais de distribuição.
 
 O pŕoprio site é o destino final de toda a Mídia Alugada
 
-###### Site institucional e loja virtual (*e-commerce)*
+###### Site institucional e loja virtual
 
 Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
 
-Quando se tem site próprio então...
+**Vantagens**:  
 
-✔ A gestão de informações e vendas é mais organizada.
-✔ Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.
+✔ A gestão de informações e vendas é mais organizada.  
+✔ Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.  
+
 
 
 
 ###### Blog
 
-Um site com *blog* incluso é um recurso que contribui na divulgação, e sendo assim um profissional blogueiro fará conteúdos constantemente. O objetivo do *blog* é captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
+Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
+**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
 
 ###### Onipresença: Mídia Alugada
 
-Marketplace serve só pra vender?
-Rede social serve só pra interagir com amigos?
-Site comparador de preços serve só pra "ver" produto caro ou barato?
+|rede social|marketplace|site comparador de preços|
+|:---:|:---:|:---:|
+|Serve só pra interagir com amigos?|Serve só pra vender?|Serve só pra "ver" produto caro ou barato?|
 
-Não. Eles ajudam *SuaEmpresa* estar mais presente na Web. Isso porque *SuaMarca* aparecendo em vários desses sites cria-se um imaginário coletivo de onipresença de *SeuSite* _fortalecendo ou ajudando ainda mais no posicionamento da *SuaMarca*. Portanto aparecendo aqui e ali (nas buscas pelo Google), dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
+Esses ambientes ajudam *SuaEmpresa* a estar mais presente na Web. Quando *SuaMarca* aparece em vários desses sites cria-se um imaginário coletivo de onipresença do *SeuSite* _fortalecendo ou contribuindo ainda mais no posicionamento da *SuaMarca*. Portanto aparecendo aqui e ali (nas buscas pelo Google), dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
 
-⚠️ Cuidado! Ao digitarmos no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, sua página no Facebook, por ex. Há meios de trabalhar para que isso ocorra.
+⚠️ Cuidado! Ao digitarmos no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, sua página no Facebook, por ex. Há meios de trabalhar para que isso ocorra.  
 ⚠️ Para ter negócios fechados o melhor lugar virtual é o SeuSite. Então é decisivo que os clientes o acessem.
 
 🤔️ **Comunicação ou *marketing***.
@@ -245,16 +251,25 @@ Vá além do site institucional. Agregue o que for possível para torná-lo um m
 
 ###### Criar um site
 
-Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode ser um bom exercício tecnológico ou até curiosidade, diversão. Mas não se iluda: um site é de extrema seriedade, exatamente por ser sua empresa ou instituição no domínio digital. Evidentemente, envolve planejamento, ter conhecimento de causa, experiência _para não se criar algo que num futuro, até próximo, poderá ruir.
+Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode funcionar como uma curiosidade, diversão até um exercício de tecnologia. Mas não se iluda...
+
+> Um site é de extrema seriedade, exatamente por ser *SuaMarca* e Sua* no domínio digital.
+
+Evidentemente, ter um empresa ou instituição envolve planejamento, o que é sensato para diminuir riscos. Ter conhecimento de causa e experiência conta bastante no desenvolvimento.
+
 
 **Site Institucional**: Começe por esse que é o simples, o seu cartao de visitas. Habitue-se e conheça a ferramenta na prática. Após meses, e já tendo certa experiência, amplie conforme sua necessidade e, principalmente, planejamento.
 
-Nos grupos de Telegram, pode-se contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. Fale Conosco!
+**Terceirize**: Nos grupos de Telegram podemos contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. [Fale Conosco](https://joesynth.wordpress.com/criacao-de-site-profissional/)!
 
 ###### Web: site no ar
 
 Com *SeuSite* na Web temos (de cara!) um novo trabalho: *marketing*.
 Tenha consciência que a partir desse momento disputamos na internet com outros *sites* do nosso segmento. O cenário é o seguinte:
+
+|👍️|👎️|
+|:---:|:---:|
+|||
 
 **Site novo**: Os seus concorrentes aparecerão na pesquisa do Google em posição melhor que *SuaEmpresa*, já que *SeuSite* é "novinho" na Web. Ou seja, vamos "brigar" com outros comerciantes que já estavam na internet antes de nós chegarmos _isso, ao menos a princípio. 
 **Pesquisa natural do Google**: Começar a aparecer nas pesquisas naturais que as pessoas fazem no Google é o marco inicial. Nos resultados de pesquisa um site começa timidamente surgindo nas últimas páginas, e vai melhorando com o tempo. Há técnicas e boas práticas para aprimorar isso a ponto de aparecer nas primeiras páginas. Chama-se de SEO e imagina-se 6 meses para ver melhoras. O SEO é um trabalho vital, constante e funciona paralelo às propagandas pagas (sendo que um não substitui o outro). 
