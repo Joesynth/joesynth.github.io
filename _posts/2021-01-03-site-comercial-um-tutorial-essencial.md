@@ -249,7 +249,7 @@ Vá além do site institucional. Agregue o que for possível para torná-lo um m
 
 
 
-###### Criar um site
+## Criando um site
 
 Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode funcionar como uma curiosidade, diversão até um exercício de tecnologia. Mas não se iluda...
 
@@ -262,24 +262,12 @@ Evidentemente, ter um empresa ou instituição envolve planejamento, o que é se
 
 **Terceirize**: Nos grupos de Telegram podemos contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. [Fale Conosco](https://joesynth.wordpress.com/criacao-de-site-profissional/)!
 
-###### Web: site no ar
-
-Com *SeuSite* na Web temos (de cara!) um novo trabalho: *marketing*.
-Tenha consciência que a partir desse momento disputamos na internet com outros *sites* do nosso segmento. O cenário é o seguinte:
-
-|👍️|👎️|
-|:---:|:---:|
-|||
-
-**Site novo**: Os seus concorrentes aparecerão na pesquisa do Google em posição melhor que *SuaEmpresa*, já que *SeuSite* é "novinho" na Web. Ou seja, vamos "brigar" com outros comerciantes que já estavam na internet antes de nós chegarmos _isso, ao menos a princípio. 
-**Pesquisa natural do Google**: Começar a aparecer nas pesquisas naturais que as pessoas fazem no Google é o marco inicial. Nos resultados de pesquisa um site começa timidamente surgindo nas últimas páginas, e vai melhorando com o tempo. Há técnicas e boas práticas para aprimorar isso a ponto de aparecer nas primeiras páginas. Chama-se de SEO e imagina-se 6 meses para ver melhoras. O SEO é um trabalho vital, constante e funciona paralelo às propagandas pagas (sendo que um não substitui o outro). 
-**Anúncios**: Os "*tops sites*" surgirão na pesquisa do Google com destaques graças a propagandas pagas. Você também pode fazer isso, embora não seja recomendado de início. O Google é uma mídia digital e bem diferente de *outdoor* ou revista, então não convém agir sem estratégias claras.
-
-O tema é amplo e foge do escopo de um tutorial. Vide *marketing* digital.
-
-Vale notar que o mundo digital em boa parte replica o que ocorre no físico _manter loja bem organizada, preços visíveis, logomarca bonita, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entregar no prazo etc.
 
 
+## Web: site no ar
+
+
+👉️ Note que no mundo digital, em boa parte, se replica o que ocorre no mundo físico: manter loja bem organizada, preços visíveis, logotipo bonito, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entrega no prazo etc.  
 
 👉️ Tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados... nossos concorrentes "agradecem".
 
