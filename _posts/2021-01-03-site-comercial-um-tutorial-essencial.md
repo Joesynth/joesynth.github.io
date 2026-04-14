@@ -224,9 +224,9 @@ Alguns pontos a pensar:
 |:---:|:---:|:---:|
 |mídia alugada|site institucional|loja virtual|
 |**custo "zero"**|**baixo investimento**|**maiores custos**|
-|Criarmos páginas nessas platarformas é um início. Ficaremos subordinados a essas plataformas, deveremos  manter conteúdos (talvez até precisando de gente hábil e com alguma qualificação).|Pouco a se investir, muito a se retornar (como por exemplo saber o que nossos usuários veem no nosso site). É expansível (ex.: integrar *blog* integrado ao site deve-se manter constante o conteúdo.|Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
+|Criar uma página no Facebook pode ser um "tiro no escuro". Sem estratégia mínima, pode-se passar anos e anos e não vender nada. Uma realidade, pois a "máquina" do Facebook é feita para a Meta ganhar dinheiro. |Pouco a se investir, muito a se retornar (como por exemplo saber o que nossos usuários veem no nosso site). É expansível (ex.: integrar *blog* integrado ao site deve-se manter constante o conteúdo.|Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
 
-
+⚠️ Mídia alugada sempre temos que conhecê-la para utilizar. Vide [Site vs. Rede Social](/site-vs-rede-social).
 
 ## 🌟️ Dicas!
 
