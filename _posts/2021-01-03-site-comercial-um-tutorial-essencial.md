@@ -43,10 +43,46 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 
 Ele é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.
 
+###### Estrutura do *software*
+
+Como vemos, esse programa de computador pode atuar em vários campos, tendo desde simples páginas (como "Quem Somos") até algo bem mais sofisticado (como o financeiro). E a coisa não termina por aí!
+
+**Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
+
+**Landing Page**: A principal característica é a ausência de menu, e é uma página "escondida" (não aparece no menu principal).  
+
+Área de membros? Mais um recurso! Pois é, há uma enorme variedade de ferramentas que um site pode ter, e elas interagem entre si. Ou seja, não estão no site meramente por estar, ou por moda. Uma rádio pode ser algo bom para um site de DJ e outro artista não.
+
+###### Software - distribuição
+
+Sendo um software, o site paradoxalmente, também é um produto e precisa ser distribuído.
 
 
-**Estrutura do *software***: sendo um programa de computador e atuando em vários campos, como acabamos de ver, um site pode ir de simples páginas (como "Quem Somos") até algo bem mais sofisticado (com *blog* , rádio etc).
+|SuaEmpresa|vendas||
+|:---:|:---:|:---:|
+|Há financeiro, contabilidade...|o balcão de negócios||
 
+|marketing||
+|canal de distribuição próprio||
+
+um site é paradoxal, pois ao mesmo tempo ele é sua empres virtual, mas também um produto q precisa ser distribuido pois é um software
+
+
+|**cartão de visita**|**marketing**|
+|Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
+|**armazenamento**|**vendas**|
+|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|
+|**administrativo**|**vigilância**|
+|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
+
+
+
+###### Blog - MKT
+
+Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
+**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
+
+###### Landing Page, etc...
 
 
 
@@ -187,19 +223,6 @@ Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-vi
 
 
 
-
-###### Blog
-📚️ Abreviação de *weblog*.
-
-Antigamente, era um tipo de site específico, um "diário" virtual. Uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum tinha um "informativo" global sem precisar de uma editora.
-
-Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
-**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
-
-###### Landing Page, etc...
-
-**Landing Page**: A principal característica é a ausência de menu, e é uma página "escondida" (não aparece no menu principal).
-Ainda rádio, área de membros.
 
 ## 🌐️ Site institucional ou loja virtual?
 
