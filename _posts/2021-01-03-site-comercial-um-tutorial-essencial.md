@@ -99,18 +99,8 @@ Veja mais em [O Poder do Google](/o-poder-do-google).
 
 ###### SEO
 
-Sabendo que o Google sabe coiss sobre cada site, cada empresa se adapta a esse poder _para poder aparecer nos resultados das buscas em vantagem diante de seus concorrentes. Cada dono de site faz uma otimização no próprio site, que é, basicamente, adequar o *SeuSite* a essa dúzia de dados que o Google sabe _e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google. Isso é o trabalho chamado de SEO.
+Sabendo que o Google sabe coisas sobre cada site, cada empresa se adapta a esse poder _e assim surgir nos resultados das buscas em vantagem diante de seus concorrentes. Cada dono de site faz uma otimização no próprio site, que é, basicamente, adequar o *SeuSite* a essa dúzia de dados que o Google sabe _e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google. Isso é o trabalho chamado de SEO.
 
-###### Regras
-
-✔ **Faça SEO**: o Google prioriza sites otimizados.  
-✔ **Seja uma marca consolidada**: Algoritmos favorecem sites com sinais de marca e penalizam empresas sem base sólida para sustentá-las.  
-
-
-
-###### Quando pensar em Google...
-
-✔ **Seja o primeiro** quando alguém "dá um Google" _ou ao menos, apareça nas primeiras páginas.  
 ✔ **Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.  
 
 
@@ -123,12 +113,14 @@ Saiba mais em Qual é o poder do Google?
 
 ## Mídia Própria e Mídia Alugada
 
-São canais de distribuição, tal como o rádio e a tv de antigamente.
+São conceitos referentes a canais de distribuição.
 
-|Mídia Própria|Mídia Alugada|
+|||
 |:---:|:---:|
+|**mídia própria**|**mídia alugada**|
 |*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
-
+|**mídia própria**<br />(antiga)|**mídia alugada**<br />(antiga)|
+|*folders*, informativos, catálogos|rádio e a tv|
 
 Entenda melhor sobre isso lendo:  
 👉️ [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).  
@@ -162,13 +154,6 @@ Parece só um nome, mas pela ótica do *marketing* digital é vital na estratég
 
 Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
 
-
-###### *Marketing* - Tempo médio para retorno
-
-Vide [Marketing Digital](/marketing-digital).
-
-
-## 🗣️ Comunicação
 
 ###### Mídia própria e mídia alugada
 
@@ -243,7 +228,7 @@ Vá além do site institucional. Agregue o que for possível para torná-lo um m
 
 ###### Mix de produtos
 
-É indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses artigos serão vitais para compôr o conteúdo de SeuSite.
+É indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses itens serão vitais para compôr o conteúdo de SeuSite.
 
 
 
