@@ -8,6 +8,9 @@ Exemplo de site? Um portal de notícias, loja *online*...
 
 Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; então vamos falar sobre:
 
+
+⚠️ No decorrer do texto, o que se aplica a produto também vale para serviço ou ideia.
+
 - O que é um site?
 - Internet: um aparato comercial
 - Visibilidade, credibilidade e autoridade
@@ -72,7 +75,10 @@ Você compraria um tênis de marca desconhecida?
 
 **<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade** Podemos considerar o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
-**<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade** Ao lidar com produtos, serviços ou ideia, *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também SERP.
+**<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade** Ao lidar com produtos *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também SERP.
+
+
+
 
 ## O Google: o chefe
 
@@ -170,7 +176,7 @@ Como vimos a internet um ambiente comercial e o Google tem um enorme poder. Port
 ###### Nome do site
 
 
-Parece só um nome, mas pela ótica do *marketing* digital é vital na estratégia. Um nome criado pela inocência ou paixão pode ser um desastre se colidir com questões técnicas, por exemplo. A princípio, foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto/serviço/ideia de alguma forma.
+Parece só um nome, mas pela ótica do *marketing* digital é vital na estratégia. Um nome criado pela inocência ou paixão pode ser um desastre se colidir com questões técnicas, por exemplo. A princípio, foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto de alguma forma.
 
 Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
 
@@ -214,19 +220,20 @@ Alguns pontos a pensar:
 ✔ Precisa aumentar o faturamento?
 ✔ Necessidade ou melhora do controle do financeiro ou comercial.
 
-|||
-|:---:|:---|
-|**Nível 1**<br />mídia<br />alugada<br />**custo "zero"**|Criarmos páginas nessas platarformas é um início. Ficaremos subordinados a essas plataformas, deveremos  manter conteúdos (talvez até precisando de gente hábil e com alguma qualificação).|
-|**Nível 2**<br />site<br />institucional<br />**baixo inves-<br />timento**| Pouco a se investir, muito a se retornar (como por exemplo saber o que nossos usuários veem no nosso site). É expansível (ex.: integrar *blog* integrado ao site deve-se manter constante o conteúdo.|
-|**Nível 3**<br />loja<br /> virtual<br />**maiores custos**| Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
+|Nível 1|Nível 2|Nível 3|
+|:---:|:---:|:---:|
+|mídia alugada|site institucional|loja virtual|
+|**custo "zero"**|**baixo investimento**|**maiores custos**|
+|Criarmos páginas nessas platarformas é um início. Ficaremos subordinados a essas plataformas, deveremos  manter conteúdos (talvez até precisando de gente hábil e com alguma qualificação).|Pouco a se investir, muito a se retornar (como por exemplo saber o que nossos usuários veem no nosso site). É expansível (ex.: integrar *blog* integrado ao site deve-se manter constante o conteúdo.|Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
+
 
 
 ## 🌟️ Dicas!
 
 Vá além do "simples" site institucional.
 ✔️ Planeje bem na criação para agregar o que for possível para torná-lo um meio de comunicação diferenciado.
-✔️ Autoridade: Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados. Ferramentas? Blog, rádio, podcasts, vídeos, slides.
-✔️ Mix de produtos: Tenha um conjunto bem definido de produtos/serviços. Esses itens serão vitais para compôr o conteúdo de SeuSite.
+✔️ Autoridade: Produzir conteúdo útil e informativo a respeito de seus produtos traz resultados. Ferramentas? Blog, rádio, podcasts, vídeos, slides.
+✔️ Mix de produtos: Tenha um conjunto bem definido de produtos. Esses itens serão vitais para compôr o conteúdo de SeuSite.
 
 
 
