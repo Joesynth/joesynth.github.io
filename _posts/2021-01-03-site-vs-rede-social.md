@@ -187,7 +187,7 @@ O site é um "cartão de visitas" que impressiona mais do que um perfil de mídi
 {% include mkt.html %}
 
 
-## 🎉️ s!
+## 🎉️ Bônus!
 
 - Marketing
 - Facebook: como funciona?
