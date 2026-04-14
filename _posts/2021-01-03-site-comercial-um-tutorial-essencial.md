@@ -30,8 +30,8 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |:---:|:---:|
 |**cartão de visita**|**marketing**|
 |Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
-|**armazenamento**|**venda**|
-|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|É o balcão de negócios da *SuaEmpresa* na internet, uma loja virtual.|
+|**armazenamento**|**vendas**|
+|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|É o balcão de negócios da *SuaEmpresa* na internet, onde fechamos vendas.|
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
@@ -39,8 +39,6 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 > Um site é um *software*. Simples assim!
 
 Ele é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.
-
-
 
 
 
@@ -80,6 +78,8 @@ Você compraria um tênis de marca desconhecida?
 
 <img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />O Google tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
 
+> Conheça o Google: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.
+
 |||
 |:---:|:---:|
 |**site**|**marca**|
@@ -88,27 +88,22 @@ Você compraria um tênis de marca desconhecida?
 |A frequência é de quantos num mês?|Se o conteúdo é original, autoral.|  
 
 
-Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes. O Google é o site que acha para gente o que pesquisamos na internet. Óbvio, né!? Pesquisamos algo e o Google nos retorna vários sites. Óbvio... também! Mas sabia que eles estão organizados por importância? É um *ranking*! Os mais relevantes surgem em 1º lugar. Claro, isso é o resultado natural, sem ser pago (publicidade).
+Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes.  
 
-Ou seja, o Google acha o que procuramos porque sabe dúzias de dados sobre cada site na internet, e isso é o poder dessa corporação, nos restando adaptar nosso site a essa realidade para então ter competitividade.
+###### O mecanismo de busca
 
+<img src="https://mangools.com/blog/wp-content/uploads/2018/11/serp-results-page.png" width=""310 >
 
+O Google é o site que acha para gente o que pesquisamos na internet. Buscamos algo e ele nos retorna vários sites, organizados por importância. É um *ranking*! Os mais relevantes aparecem por primeiro. Claro, isso é o resultado natural, sem ser pago (publicidade).
+
+###### SEO
+
+Sabendo que o Google sabe várias coisas sobre cada site, cada empresa na internet se adapta a isso _e assim poder surgir nos resultados das buscas em vantagem diante dos seus concorrentes. Na prática, cada dono de site melhora o seu próprio site conforme as regras do Google. Portanto, o trabalho de **SEO** é fazer exatamente isso: otimizar (um site) para o mecanismo de busca, e assim ter a chance de ver *SuaMarca* aparecendo nas primeiras páginas do Google.
 
 Veja mais em [O Poder do Google](/o-poder-do-google).
 
 
-###### SEO
 
-Sabendo que o Google sabe coisas sobre cada site, cada empresa se adapta a esse poder _e assim surgir nos resultados das buscas em vantagem diante de seus concorrentes. Cada dono de site faz uma otimização no próprio site, que é, basicamente, adequar o *SeuSite* a essa dúzia de dados que o Google sabe _e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google. Isso é o trabalho chamado de SEO.
-
-✔ **Conheça o Google**: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.  
-
-
-
-
-
-
-Saiba mais em Qual é o poder do Google?
 
 
 ## Mídia Própria e Mídia Alugada
@@ -128,22 +123,47 @@ Entenda melhor sobre isso lendo:
 
 Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
 
-Tem-se variáveis a se pensar.
-
-
-
 **E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada como Mercado Livre e Facebook ou mesmo Hotmart (infoproduto).
 
+###### Mídia própria ou alugada: *marketing*
+
+📚️ MKT = *marketing*.
+
+Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são **canais de distribuição**.  
+
+> O pŕoprio site é o destino final de toda a Mídia Alugada.  
+
+###### Mídia Alugada: onipresença
+
+|rede social|marketplace|site comparador de preços|
+|:---:|:---:|:---:|
+|Serve só pra interagir com amigos?|Serve só pra vender?|Serve só pra "ver" produto caro ou barato?|
+|Não|Não|Não|
+
+Quando *SuaMarca* surge em vários canais cria-se um imaginário coletivo de onipresença da *SuaEmpresa*. Aparecendo aqui e ali nas buscas pelo Google, dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
+
+Portanto esses ambientes ajudam *SuaEmpresa* a estar mais presente na Web, pois fortalem ou contribuem ainda mais no posicionamento da *SuaMarca*.
+
+
+###### Mídia própria ou alugada: fechando vendas
+
+Ao digitarmos no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada.
+
+Isso porque, para ter negócios fechados, o melhor lugar virtual é o *SeuSite*. Então é decisivo que os clientes o acessem.
+
+Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alugada:  
+✔ Criar um ambiente atraente.
+✔ Melhorar o engajamento com o público.
 
 
 
-## 🗣️ Comunicação | Marketing Digital
 
 
-###### Google
+## Comunicação | Marketing Digital
 
-Como vimos o Google tem grande peso na internet e esta é um ambiente comercial. Portanto *marketing* digital é vital.
 
+
+Como vimos a internet um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
 
 
 
@@ -155,80 +175,58 @@ Parece só um nome, mas pela ótica do *marketing* digital é vital na estratég
 Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
 
 
-###### Mídia própria e mídia alugada
 
-Pela ótica "purista" do MKT, site e mídia alugada são canais de distribuição.
 
-O pŕoprio site é o destino final de toda a Mídia Alugada
 
-###### Site institucional e loja virtual
-
-Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
-
-**Vantagens**:  
-
-✔ A gestão de informações e vendas é mais organizada.  
-✔ Podemos direcionar ações de *marketing* digital (Facebook Ads, Google Ads etc.) diretamente para ela.  
 
 
 
 
 ###### Blog
+📚️ Abreviação de *weblog*.
+
+Antigamente, era um tipo de site específico, um "diário" virtual. Uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum tinha um "informativo" global sem precisar de uma editora.
 
 Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
 **Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
 
-###### Onipresença: Mídia Alugada
+###### Landing Page, etc...
 
-|rede social|marketplace|site comparador de preços|
-|:---:|:---:|:---:|
-|Serve só pra interagir com amigos?|Serve só pra vender?|Serve só pra "ver" produto caro ou barato?|
-
-Esses ambientes ajudam *SuaEmpresa* a estar mais presente na Web. Quando *SuaMarca* aparece em vários desses sites cria-se um imaginário coletivo de onipresença do *SeuSite* _fortalecendo ou contribuindo ainda mais no posicionamento da *SuaMarca*. Portanto aparecendo aqui e ali (nas buscas pelo Google), dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
-
-⚠️ Cuidado! Ao digitarmos no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, sua página no Facebook, por ex. Há meios de trabalhar para que isso ocorra.  
-⚠️ Para ter negócios fechados o melhor lugar virtual é o SeuSite. Então é decisivo que os clientes o acessem.
-
-🤔️ **Comunicação ou *marketing***.
-- Criar um ambiente atraente.
-- Melhorar o engajamento com o público.
-
-
-
-
+**Landing Page**: A principal característica é a ausência de menu, e é uma página "escondida" (não aparece no menu principal).
+Ainda rádio, área de membros.
 
 ## 🌐️ Site institucional ou loja virtual?
 
 Qual escolher? 
 
+xx
 
+
+
+xx
 
 
 ###### SuaEmpresa realmente precisa ir para Web?
 
-Ou ainda, precisa aumentar o faturamento? Se a resposta for sim, analise esses três pontos:
+Alguns pontos a pensar:  
+✔ Você sente necessidade de ser mais visto do que é?
+✔ Tem consciência de que redes maquiam os dados (portanto é preciso mídia própria).
+✔ Precisa aumentar o faturamento?
+✔ Necessidade ou melhora do controle do financeiro ou comercial.
 
 |||
 |:---:|:---|
-|**Nível 1**<br />mídia<br />alugada<br />**custo "zero"**|Criar essas páginas é xxx nas platarformas, porém *SuaEmpresa* fica subordinada aos caprichos das empresas Facebook, MercadoLivre etc. Por outro lado deve-se manter constante o conteúdo, o que precisa-se de gente hábil e com alguma qualificação.|
-|**Nível 2**<br />site<br />institucional<br />**baixo inves-<br />timento**| Pouco a se investir, dependendo das ferramentas do site. Exemplo. Se há *blog* integrado ao site deve-se manter constante o conteúdo.|
-|**Nível 3**<br />*e-commerce*<br />**maiores custos**| Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
+|**Nível 1**<br />mídia<br />alugada<br />**custo "zero"**|Criarmos páginas nessas platarformas é um início. Ficaremos subordinados a essas plataformas, deveremos  manter conteúdos (talvez até precisando de gente hábil e com alguma qualificação).|
+|**Nível 2**<br />site<br />institucional<br />**baixo inves-<br />timento**| Pouco a se investir, muito a se retornar (como por exemplo saber o que nossos usuários veem no nosso site). É expansível (ex.: integrar *blog* integrado ao site deve-se manter constante o conteúdo.|
+|**Nível 3**<br />loja<br /> virtual<br />**maiores custos**| Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
 
 
 ## 🌟️ Dicas!
 
-Baseado na nossa experiência sugerimos:
-
-
-
-###### Autoridade (na internet)
-
-Vá além do site institucional. Agregue o que for possível para torná-lo um meio de comunicação diferenciado. Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados.
-✔️ Blog, rádio, podcasts, vídeos, slides.
-
-###### Mix de produtos
-
-É indicado SuaEmpresa ter um conjunto bem definido de produtos/serviços. Esses itens serão vitais para compôr o conteúdo de SeuSite.
+Vá além do "simples" site institucional.
+✔️ Planeje bem na criação para agregar o que for possível para torná-lo um meio de comunicação diferenciado.
+✔️ Autoridade: Produzir conteúdo útil e informativo a respeito de seus produtos (serviços ou ideias) traz resultados. Ferramentas? Blog, rádio, podcasts, vídeos, slides.
+✔️ Mix de produtos: Tenha um conjunto bem definido de produtos/serviços. Esses itens serão vitais para compôr o conteúdo de SeuSite.
 
 
 
@@ -238,7 +236,21 @@ Vá além do site institucional. Agregue o que for possível para torná-lo um m
 
 Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode funcionar como uma curiosidade, diversão até um exercício de tecnologia. Mas não se iluda...
 
-> Um site é de extrema seriedade, exatamente por ser *SuaMarca* e Sua* no domínio digital.
+> Um site é de extrema seriedade, exatamente por ser *SuaEmpresa* no domínio digital.
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fsouthjerseyfoodscene.com%2Fwp-content%2Fuploads%2F2020%2F04%2Ffree-lunch.jpg%3Ffit%3D1600%252C1689&f=1&nofb=1&ipt=a522970b67187cad57d04c4576a3535b1524be3e7a9ce2ddf18ca79793b4a929" width="120" />**Não existe almoço grátis**, 1975, livro do economista Friedman. Na verdade essa ideia é do séc. XIX, mas até hoje as pessoas creem que é possível fazer algo sem investimento.
+
+> "O mundo contemporâneo é uma creche para adultos." [Pondé]
+
+Diferente de um brinquedo como o quebra-cabeça, onde a criança monta as pecinhas e no final tem uma linda imagem maravilhosa, o site é uma empresa na Web. Logo, carece de estratégia.
+
+
+Dois sites, ambos de DJs, podem ter desenvolvimentos bem distintos. Isso não se limita só a aparência, como menus ou botões diferentes, mas especialmente por estratégias de atuação (nome, publico-alvo...). 
+
+"As pessoas não compram uma furadeira, elas compram o furo na parede" [Levitt]
+
+
+
 
 Evidentemente, ter um empresa ou instituição envolve planejamento, o que é sensato para diminuir riscos. Ter conhecimento de causa e experiência conta bastante no desenvolvimento.
 
@@ -251,6 +263,9 @@ Evidentemente, ter um empresa ou instituição envolve planejamento, o que é se
 
 ## Web: site no ar
 
+###### Site institucional e loja virtual
+
+Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
 
 👉️ Note que no mundo digital, em boa parte, se replica o que ocorre no mundo físico: manter loja bem organizada, preços visíveis, logotipo bonito, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entrega no prazo etc.  
 
