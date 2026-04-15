@@ -46,6 +46,11 @@ Outros recursos incluem...
 
 Como vimos, um site pode variar bastante em recursos.
 
+
+###### Site institucional e loja virtual
+
+O **site institucional** é a sua empresa na web. Como visto acima, é um aparato que funciona como seu cartão de visita, banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+
 ###### Por dentro de um site
 
 Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
@@ -143,7 +148,7 @@ São conceitos referentes a **canais de distribuição**. No passado nos tínham
 |:---:|:---:|
 |*folders*, informativos, catálogos|rádio, tv, shopping|
 
-Na web, note que o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
+Na web em especial, o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
@@ -189,7 +194,7 @@ Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alu
 
 ###### Blog
 
-Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
+No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que contribuirá na divulgação.
 **Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
 
 
@@ -209,47 +214,6 @@ Parece só um nome, mas pela ótica do *marketing* digital é vital na estratég
 
 Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
 
-
-
-
-
-
-
-
-
-## 🌐️ Site institucional ou loja virtual?
-
-Qual escolher? 
-
-xx
-
-
-
-xx
-
-
-###### SuaEmpresa realmente precisa ir para Web?
-
-Alguns pontos a pensar:  
-✔ Você sente necessidade de ser mais visto do que é?
-✔ Tem consciência de que redes maquiam os dados (portanto é preciso mídia própria).
-✔ Precisa aumentar o faturamento?
-✔ Necessidade ou melhora do controle do financeiro ou comercial.
-
-|Nível 1|Nível 2|Nível 3|
-|:---:|:---:|:---:|
-|mídia alugada|site institucional|loja virtual|
-|**custo "zero"**|**baixo investimento**|**maiores custos**|
-|Criar uma página no Facebook pode ser um "tiro no escuro". Sem estratégia mínima, pode-se passar anos e anos e não vender nada. Uma realidade, pois a "máquina" do Facebook é feita para a Meta ganhar dinheiro. |Pouco a se investir, muito a se retornar (como por exemplo saber o que nossos usuários veem no nosso site). É expansível (ex.: integrar *blog* integrado ao site deve-se manter constante o conteúdo.|Sua empresa está pronta para arcar com todo o operacional que uma loja virtual exige?|
-
-⚠️ Mídia alugada sempre temos que conhecê-la para utilizar. Vide [Site vs. Rede Social](/site-vs-rede-social).
-
-## 🌟️ Dicas!
-
-Vá além do "simples" site institucional.
-✔️ Planeje bem na criação para agregar o que for possível para torná-lo um meio de comunicação diferenciado.
-✔️ Autoridade: Produzir conteúdo útil e informativo a respeito de seus produtos traz resultados. Ferramentas? Blog, rádio, podcasts, vídeos, slides.
-✔️ Mix de produtos: Tenha um conjunto bem definido de produtos. Esses itens serão vitais para compôr o conteúdo de SeuSite.
 
 
 
