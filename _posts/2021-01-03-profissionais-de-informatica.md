@@ -317,7 +317,24 @@ Qualificação/ferramentas: tem formação relacionada à *marketing*, comunica�
 No campo do *marketing* podemos encontrar mais profissões: analista de CRO, analista de UX, analista de qualidade, analista de marca, analista de atendimento, analista de *marketing*, community management, CMO (Diretor de Marketing), designer, redator, analista de *marketing* digital, coordenador de *marketing* digital, assistente de *marketing digital*...
 *[imagem: equipe completa de uma grande empresa**]***
 
+
+
+###### Vendas e *MKT*
+
+Embora empresas tenham um departamento de TI, certos profissionais que lidam com o site no dia a dia estão mais ligados a essas áreas.
+
 A área de vendas e *marketing* é abrangente; e portanto, precisando de profissionais para lidarem com isso. Evidentemente a informática atuará via *softwares*, por exemplo.
+
+###### Marketing
+
+**Blogueiro, Redator de Conteúdo <sup>Content Writer</sup>, Copywriter, Redator SEO <sup>SEO Writer</sup>**: Se há *blog* integrado ao *SeuSite* um profissional desse tipo será necessário. Têm funções ligeiramente diferentes.
+
+👉️ [UPDATE] O blogueiro virou o que chamamos, atualmente, de *influencer*.
+
+###### Operacional / Vendas
+
+**Assistente de E-commerce**: "Braço direito" do dono da loja, faz a parte operacional e, portanto, o site vender e funcionar. Cadastro e descrições de produtos, atualiza disponibilidade no estoque (para não vender o que não tem), atendimento (dúvidas de clientes), acompanha *status* de pagamento e logística,  etc.
+
 
 ###### Exemplos em classificados
 
@@ -415,7 +432,6 @@ Desejável saber metodologia Itil e Scrum.</small>
 Muitas áreas estão associadas à informática.
 
 - Atendimento ao Consumidor: suporte técnico
-- Escrita: redação (por ex., o profissional blogueiro)
 
 
 ## Outras áreas
@@ -486,6 +502,14 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
 
 É isso!  
 Grande abraço.  
