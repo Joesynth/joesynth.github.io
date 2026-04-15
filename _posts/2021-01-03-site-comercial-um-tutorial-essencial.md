@@ -137,36 +137,35 @@ Além, há os **links patrocinados** (tal como Google Ads).
 
 ###### Mídia Própria e Mídia Alugada
 
-São conceitos referentes a canais de distribuição. Note que aqui, o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
-
-|mídia própria|mídia alugada|
-|:---:|:---:|
-|*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
-
-###### Um pouco de história
-
-Esses conceitos eram utilizados no passado.
+São conceitos referentes a **canais de distribuição**. No passado nos tínhamos:
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
 |*folders*, informativos, catálogos|rádio, tv, shopping|
 
+Na web, note que o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
 
-👉️ Entenda mais lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada) e [Site vs. Rede Social](/site-vs-rede-social).  
+|mídia própria|mídia alugada|
+|:---:|:---:|
+|*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
 
-**Mídia alugada, exemplos**: O Facebook é um exemplo de rede social, enquanto Mercado Livre de *marketplace*.
+**Mídia alugada, exemplos**: O Facebook é um exemplo de rede social, enquanto Mercado Livre de *marketplace*.  
 
-**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada ou mesmo o Hotmart (infoproduto).
-
-Ainda há mídia ganha, quando os outros falam de SuaMarca.
-
-###### Mídia própria ou alugada: *marketing*
-
-Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são **canais de distribuição**.  
+Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais de distribuição. Mas...   
 
 > O pŕoprio site é o destino final de toda a Mídia Alugada.
 
-Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
+Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.  
+
+**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada ou mesmo o Hotmart (infoproduto).  
+
+**Mídia ganha**: quando os outros falam de SuaMarca naturalmente.
+
+👉️ Entenda mais lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada) e [Site vs. Rede Social](/site-vs-rede-social).  
+
+
+
+
 
 ###### Mídia Alugada: onipresença
 
@@ -182,27 +181,21 @@ Portanto esses ambientes ajudam *SuaEmpresa* a estar mais presente na Web, pois 
 
 ###### Mídia própria ou alugada: fechando vendas
 
-Ao digitarmos no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada.
-
-Isso porque, para ter negócios fechados, o melhor lugar virtual é o *SeuSite*. Então é decisivo que os clientes o acessem.
+Ao digitar no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada. O motivo é simples: o melhor lugar virtual para fechar negócios é o *SeuSite*. Então é decisivo que os clientes o acessem.
 
 Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alugada:  
 ✔ Criar um ambiente atraente.
 ✔ Melhorar o engajamento com o público.
 
+###### Blog
+
+Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
+**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
 
 
 
 
 ## Comunicação | Marketing Digital
-
-x
-###### Blog - MKT
-
-Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
-**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
-
-x
 
 
 Como vimos a internet um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
