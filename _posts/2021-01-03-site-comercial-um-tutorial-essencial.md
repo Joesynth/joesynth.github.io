@@ -13,7 +13,7 @@ Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; e
 
 - O que é um site?
 - Internet: um aparato comercial
-- Visibilidade, credibilidade e autoridade
+- Comunicação estratégica: reputação
 - O poder do Google
 - Tipos de site... e comércio 
 - Como escolher entre um e outro
@@ -39,9 +39,10 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
 
+Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
+
 > Um site é um *software*. Simples assim!
 
-Ele é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.
 
 ###### Estrutura do *software*
 
@@ -96,24 +97,30 @@ A internet nasceu militar, na época da Guerra Fria. Anos 80 houve quem acredita
 
 A comercialização na internet abrange a criação e o gerenciamento de serviços *on-line*, principalmente para ganho financeiro. Inclui-se ainda as técnicas avançadas de *marketing*, como publicidade personalizada e direcionada, uso de psicologia, espionagem (chamada de "vigilância").
 
-## Visibilidade, credibilidade, autoridade
+## Comunicação estratégica: reputação
 
 Você compraria um tênis de marca desconhecida?
 É possível, mas o tênis conhecido seria o mais provável. Nele está implícito a qualidade e credibilidade. Com um site é parecido.
 
-|visibilidade<br />(ser visto)|credibilidade<br />(ser confiável)|autoridade<br />(ser referência)|
+|visibilidade|credibilidade|autoridade|
 |:---:|:---:|:---:|
-|**como conseguir?**|**como conseguir?**|**como conseguir?**|
-|SEM + Mídia Alugada|Design Profissional (Layout limpo e moderno); Prova Social (depoimentos de clientes, logotipos de empresas atendidas e avaliações); Segurança: Certificado SSL (o cadeado no navegador) e políticas de privacidade claras; Transparência: Página "Sobre nós", contatos visíveis e fotos reais da equipe.|Marketing de Conteúdo: Publicar artigos profundos que resolvam problemas reais. Backlinks: Quando outros sites relevantes linkam para o seu (é como um "voto de confiança" digital). Menções Externas: Participar de podcasts, entrevistas ou colunas em portais de notícia.|
+|ser visto|ser confiável|ser referência|  
 
+<img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade**: Vital para que seu público possa lhe encontrar de forma fácil e rápida. No mundo online está ligado a estratégias para fazer *SuaMarca* estar disponível a seu público _redes sociais, email etc. Pesquisarmos o site da *SuaEmpresa* no Google é um lado disso.
 
-<img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade** É um fator importante para que seu público possa encontrar *SuaEmpresa* de forma fácil e rápida na internet, Pesquisarmos no Google é um lado disso. A visibilidade online está ligada a estratégias para fazer *SuaMarca* estar disponível a seu público _site, redes sociais, email etc.
+**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade**: Considera-se o desenho (*design*) do *SeuSite*,qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
-**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade** Podemos considerar o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
+**<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade**: A *SuaEmpresa* deve ser referência no nicho que atua, seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. 
 
-**<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade** Ao lidar com produtos *SuaEmpresa* deve ser referência no nicho que atua; seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. É claro que pra construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google).  Veja também SERP.
+🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. É claro que, como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
 
+###### Um pouco de história
 
+No passado...
+
+|visibilidade|credibilidade|autoridade|
+|:---:|:---:|:---:|
+|outdoor|"boca a boca"|catálogo técnico| 
 
 
 ## O Google: o chefe
@@ -130,19 +137,24 @@ Você compraria um tênis de marca desconhecida?
 |A frequência é de quantos num mês?|Se o conteúdo é original, autoral.|  
 
 
-Saber como o Google funciona é vital para termos algum resultado na Web, inclusive lidar com concorrentes.  
+Sabermos como o Google funciona é vital para termos resultados na Web, inclusive lidar com a concorrência.  
 
 ###### O mecanismo de busca
 
-<img src="https://mangools.com/blog/wp-content/uploads/2018/11/serp-results-page.png" width=""310 >
+<img src="https://mangools.com/blog/wp-content/uploads/2018/11/serp-results-page.png" width="310" />
 
-O Google é o site que acha para gente o que pesquisamos na internet. Buscamos algo e ele nos retorna vários sites, organizados por importância. É um *ranking*! Os mais relevantes aparecem por primeiro. Claro, isso é o resultado natural, sem ser pago (publicidade).
+**Google**: É o site que acha para a gente o que pesquisamos na internet. Buscamos algo e ele nos retorna vários sites, organizados em um *ranking*: mais importantes<sup>1<sup/> aparecem em primeiro.
+
+<small>**1**: Importante conforme as regras do Google.</small>
+
+Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 ###### SEO
 
-Sabendo que o Google sabe várias coisas sobre cada site, cada empresa na internet se adapta a isso _e assim poder surgir nos resultados das buscas em vantagem diante dos seus concorrentes. Na prática, cada dono de site melhora o seu próprio site conforme as regras do Google. Portanto, o trabalho de **SEO** é fazer exatamente isso: otimizar (um site) para o mecanismo de busca, e assim ter a chance de ver *SuaMarca* aparecendo nas primeiras páginas do Google.
+Sabendo que o Google sabe várias coisas sobre cada site, cada empresa na internet se adapta a isso _e assim poder surgir nos primeiros resultados das buscas, portanto em vantagem diante dos seus concorrentes. Na prática, cada dono de site melhora o seu próprio site conforme as regras do Google. O trabalho de **SEO** é fazer exatamente isso: otimizar (um site) para o mecanismo de busca, e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google.
 
-Veja mais em [O Poder do Google](/o-poder-do-google).
+
+👉️ [O Poder do Google](/private), [SEO On Page](/private), [Software SEO](/private).
 
 
 
@@ -161,7 +173,7 @@ São conceitos referentes a canais de distribuição.
 
 Entenda melhor sobre isso lendo:  
 👉️ [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).  
-👉️ Vide [Site vs. Rede Social](/site-vs-rede-social).  
+👉️ [Site vs. Rede Social](/site-vs-rede-social).  
 
 Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
 
@@ -264,7 +276,7 @@ Vá além do "simples" site institucional.
 
 ## Criando um site
 
-Uma pessoa comum pode criar um site! Há tempos isso é possível, o que pode funcionar como uma curiosidade, diversão até um exercício de tecnologia. Mas não se iluda...
+Uma pessoa comum pode criar um site, mesmo sem conhecer linguagens, como a HTML que mencionamos. Há tempos isso é possível, o que pode funcionar como uma curiosidade, diversão até um exercício de tecnologia. Mas não se iluda...
 
 > Um site é de extrema seriedade, exatamente por ser *SuaEmpresa* no domínio digital.
 
