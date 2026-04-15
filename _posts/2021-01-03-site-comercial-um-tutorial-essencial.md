@@ -141,9 +141,7 @@ Sabermos como o Google funciona é vital para termos resultados na Web, inclusiv
 
 ###### O mecanismo de busca
 
-<img src="https://mangools.com/blog/wp-content/uploads/2018/11/serp-results-page.png" width="310" />
-
-**Google**: É o site que acha para a gente o que pesquisamos na internet. Buscamos algo e ele nos retorna vários sites, organizados em um *ranking*: mais importantes<sup>1<sup/> aparecem em primeiro.
+<img src="https://mangools.com/blog/wp-content/uploads/2018/11/serp-results-page.png" width="310" />O site **Google** acha para a gente o que pesquisamos na internet. Buscamos algo e ele nos retorna vários sites, organizados em um *ranking*: mais importantes<sup>1</sup> aparecem em primeiro.
 
 <small>**1**: Importante conforme as regras do Google.</small>
 
@@ -164,12 +162,18 @@ Sabendo que o Google sabe várias coisas sobre cada site, cada empresa na intern
 
 São conceitos referentes a canais de distribuição.
 
-|||
+|mídia própria|mídia alugada|
 |:---:|:---:|
-|**mídia própria**|**mídia alugada**|
 |*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
-|**mídia própria**<br />(antiga)|**mídia alugada**<br />(antiga)|
+
+###### Um pouco de história
+
+Como esses conceitos eram utilizados no passado?
+
+|mídia própria|mídia alugada|
+|:---:|:---:|
 |*folders*, informativos, catálogos|rádio e a tv|
+
 
 Entenda melhor sobre isso lendo:  
 👉️ [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).  
