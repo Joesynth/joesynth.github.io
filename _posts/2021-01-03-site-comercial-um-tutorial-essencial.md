@@ -38,7 +38,7 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
-Mais alguns recursos...
+Outros recursos incluem...
 
 **Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
 
@@ -60,16 +60,6 @@ Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É,
 ###### Software - distribuição
 
 Sendo um software, o site também é um produto e que precisa ser distribuído.
-
-
-###### Blog - MKT
-
-Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
-**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
-
-###### Landing Page, etc...
-
-
 
 
 
@@ -109,7 +99,7 @@ No passado...
 
 ## O Google: o chefe
 
-<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afianl, ele tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
+<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afinal, ele tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
 
 > O Google "vê" dados e mais dados sobre todos os sites, por isso sabe dúzias de coisas sobre seu site _talvez até mais que o próprio dono do site.
 
@@ -131,18 +121,21 @@ Sabermos como o Google funciona é vital para termos resultados na Web, inclusiv
 
 Claro, isso é o resultado natural, sem ser pago (publicidade).
 
-###### SEO
+
+## Marketing
+
+📚️ MKT = *marketing*.
+
+###### SEO e links patrocinados
 
 Sabendo que o Google sabe várias coisas sobre cada site, cada empresa na internet se adapta a isso _e assim poder surgir nos primeiros resultados das buscas, portanto em vantagem diante dos seus concorrentes. Na prática, cada dono de site melhora o seu próprio site conforme as regras do Google. O trabalho de **SEO** é fazer exatamente isso: otimizar (um site) para o mecanismo de busca, e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google.
 
+Além, há os **links patrocinados** (tal como Google Ads).
 
 👉️ [O Poder do Google](/private), [SEO On Page](/private), [Software SEO](/private).
 
 
-
-
-
-## Mídia Própria e Mídia Alugada
+###### Mídia Própria e Mídia Alugada
 
 São conceitos referentes a canais de distribuição. Note que aqui, o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
 
@@ -152,7 +145,7 @@ São conceitos referentes a canais de distribuição. Note que aqui, o foco não
 
 ###### Um pouco de história
 
-Como esses conceitos eram utilizados no passado?
+Esses conceitos eram utilizados no passado.
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
@@ -161,13 +154,13 @@ Como esses conceitos eram utilizados no passado?
 
 👉️ Entenda mais lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada) e [Site vs. Rede Social](/site-vs-rede-social).  
 
+**Mídia alugada, exemplos**: O Facebook é um exemplo de rede social, enquanto Mercado Livre de *marketplace*.
 
+**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada ou mesmo o Hotmart (infoproduto).
 
-**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada como Mercado Livre e Facebook ou mesmo Hotmart (infoproduto).
+Ainda há mídia ganha, quando os outros falam de SuaMarca.
 
 ###### Mídia própria ou alugada: *marketing*
-
-📚️ MKT = *marketing*.
 
 Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são **canais de distribuição**.  
 
@@ -203,6 +196,13 @@ Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alu
 
 ## Comunicação | Marketing Digital
 
+x
+###### Blog - MKT
+
+Pode estar incluso no *SeuSite*, o que contribuirá muito na divulgação.
+**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
+
+x
 
 
 Como vimos a internet um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
