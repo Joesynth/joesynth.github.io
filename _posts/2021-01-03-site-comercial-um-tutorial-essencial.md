@@ -38,44 +38,28 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
-
-Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
-
-> Um site é um *software*. Simples assim!
-
-
-###### Estrutura do *software*
-
-Como vemos, esse programa de computador pode atuar em vários campos, tendo desde simples páginas (como "Quem Somos") até algo bem mais sofisticado (como o financeiro). E a coisa não termina por aí!
+Mais alguns recursos...
 
 **Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
 
-**Landing Page**: A principal característica é a ausência de menu, e é uma página "escondida" (não aparece no menu principal).  
+**Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
 
-Área de membros? Mais um recurso! Pois é, há uma enorme variedade de ferramentas que um site pode ter, e elas interagem entre si. Ou seja, não estão no site meramente por estar, ou por moda. Uma rádio pode ser algo bom para um site de DJ e outro artista não.
+Como vimos, um site pode variar bastante em recursos.
+
+###### Por dentro de um site
+
+Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
+
+> Um site é um *software* de computador. Simples assim!
+
+**Estrutura do *software***: Como vimos, esse programa de computador pode atuar em vários campos, tendo desde simples páginas (como "Quem Somos") até algo sofisticado, como o financeiro ou mesmo uma rádio.
+
+
+
 
 ###### Software - distribuição
 
-Sendo um software, o site paradoxalmente, também é um produto e precisa ser distribuído.
-
-
-|SuaEmpresa|vendas||
-|:---:|:---:|:---:|
-|Há financeiro, contabilidade...|o balcão de negócios||
-
-|marketing||
-|canal de distribuição próprio||
-
-um site é paradoxal, pois ao mesmo tempo ele é sua empres virtual, mas também um produto q precisa ser distribuido pois é um software
-
-
-|**cartão de visita**|**marketing**|
-|Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
-|**armazenamento**|**vendas**|
-|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|
-|**administrativo**|**vigilância**|
-|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
-
+Sendo um software, o site também é um produto e que precisa ser distribuído.
 
 
 ###### Blog - MKT
@@ -125,9 +109,9 @@ No passado...
 
 ## O Google: o chefe
 
-<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />O Google tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
+<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afianl, ele tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
 
-> Conheça o Google: ele sabe dúzias de dados sobre seu site _provavelmente mais que o dono do site.
+> O Google "vê" dados e mais dados sobre todos os sites, por isso sabe dúzias de coisas sobre seu site _talvez até mais que o próprio dono do site.
 
 |||
 |:---:|:---:|
@@ -160,7 +144,7 @@ Sabendo que o Google sabe várias coisas sobre cada site, cada empresa na intern
 
 ## Mídia Própria e Mídia Alugada
 
-São conceitos referentes a canais de distribuição.
+São conceitos referentes a canais de distribuição. Note que aqui, o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
@@ -172,14 +156,12 @@ Como esses conceitos eram utilizados no passado?
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
-|*folders*, informativos, catálogos|rádio e a tv|
+|*folders*, informativos, catálogos|rádio, tv, shopping|
 
 
-Entenda melhor sobre isso lendo:  
-👉️ [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada).  
-👉️ [Site vs. Rede Social](/site-vs-rede-social).  
+👉️ Entenda mais lendo [Mídia Própria e Mídia Alugada](/midia-propria-e-midia-alugada) e [Site vs. Rede Social](/site-vs-rede-social).  
 
-Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
+
 
 **E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada como Mercado Livre e Facebook ou mesmo Hotmart (infoproduto).
 
@@ -189,7 +171,9 @@ Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas par
 
 Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são **canais de distribuição**.  
 
-> O pŕoprio site é o destino final de toda a Mídia Alugada.  
+> O pŕoprio site é o destino final de toda a Mídia Alugada.
+
+Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.
 
 ###### Mídia Alugada: onipresença
 
@@ -309,11 +293,51 @@ Evidentemente, ter um empresa ou instituição envolve planejamento, o que é se
 
 ## Web: site no ar
 
+
+###### Resumo
+
+|canal|produto||
+|:---:|:---:|:---:|
+|distribuição e marketing|software||
+|vendas||
+|vitrine|botões, menus, monitora o que o usuário vê||
+
+software
+*design* (menus, botões)
+banco de dados
+integrações (pagamentos, por ex.)
+
+empresa na web
+marca, comunicaçõ institucional
+
+|SuaEmpresa|vendas||
+|:---:|:---:|:---:|
+|Há financeiro, contabilidade...|o balcão de negócios||
+
+|marketing||
+|canal de distribuição próprio||
+
+um site é paradoxal, pois ao mesmo tempo ele é sua empres virtual, mas também um produto q precisa ser distribuido pois é um software
+
+
+|**cartão de visita**|**marketing**|
+|Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
+|**armazenamento**|**vendas**|
+|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|
+|**administrativo**|**vigilância**|
+|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
+
+
+
 ###### Site institucional e loja virtual
 
 Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
 
 👉️ Note que no mundo digital, em boa parte, se replica o que ocorre no mundo físico: manter loja bem organizada, preços visíveis, logotipo bonito, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entrega no prazo etc.  
+
+x
+Área de membros? Mais um recurso! Pois é, há uma enorme variedade de ferramentas que um site pode ter, e elas interagem entre si. Ou seja, não estão no site meramente por estar, ou por moda. Uma rádio pode ser algo bom para um site de DJ e outro artista não.
+x
 
 👉️ Tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados... nossos concorrentes "agradecem".
 
