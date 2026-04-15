@@ -8,7 +8,6 @@ Exemplo de site? Um portal de notícias, loja *online*...
 
 Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; então vamos falar sobre:
 
-
 ⚠️ No decorrer do texto, o que se aplica a produto também vale para serviço ou ideia.
 
 - O que é um site?
@@ -221,13 +220,20 @@ Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-vi
 
 ## Criando um site
 
-Uma pessoa comum pode criar um site, mesmo sem conhecer linguagens, como a HTML que mencionamos. Há tempos isso é possível, o que pode funcionar como uma curiosidade, diversão até um exercício de tecnologia. Mas não se iluda...
+Uma pessoa comum pode criar um site, mesmo sem conhecer linguagens, como a HTML que mencionamos. Há décadas isso é possível epode funcionar como uma curiosidade ou mrdmo um exercício de tecnologia. Mas não se iluda...
 
 > Um site é de extrema seriedade, exatamente por ser *SuaEmpresa* no domínio digital.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fsouthjerseyfoodscene.com%2Fwp-content%2Fuploads%2F2020%2F04%2Ffree-lunch.jpg%3Ffit%3D1600%252C1689&f=1&nofb=1&ipt=a522970b67187cad57d04c4576a3535b1524be3e7a9ce2ddf18ca79793b4a929" width="120" />**Não existe almoço grátis**, 1975, livro do economista Friedman. Na verdade essa ideia é do séc. XIX, mas até hoje as pessoas creem que é possível fazer algo sem investimento.
+***Não existe almoço grátis***.  
+***O mundo contemporâneo é uma creche para adultos.***
 
-> "O mundo contemporâneo é uma creche para adultos." [Pondé]
+A primeira frase é do séc. XIX (EUA) e a segunda do filósofo Luiz Felipe Pondé.  
+
+
+
+
+
+> frase comum nos EUA , mas até hoje as pessoas creem que é possível fazer algo sem investimento.
 
 Diferente de um brinquedo como o quebra-cabeça, onde a criança monta as pecinhas e no final tem uma linda imagem maravilhosa, o site é uma empresa na Web. Logo, carece de estratégia.
 
