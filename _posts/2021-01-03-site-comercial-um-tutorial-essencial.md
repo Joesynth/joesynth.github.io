@@ -37,18 +37,18 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
-Outros recursos incluem...
-
-**Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
-
-**Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
-
-Como vimos, um site pode variar bastante em recursos.
-
 
 ###### Site institucional e loja virtual
 
-O **site institucional** é a sua empresa na web. Como visto acima, é um aparato que funciona como seu cartão de visita, banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+O **site institucional** é a sua empresa na web, e que vai bem além de um "cartão de visitas", tendo banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+
+Tanto um quanto outro podem ter ainda mais recursos conforme o projeto.
+
+**Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
+**Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
+
+Rádio, vídeos embutidos, podcasts etc.
+
 
 ###### Por dentro de um site
 
@@ -61,11 +61,22 @@ Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É,
 
 
 
-###### Software - distribuição
+###### Software - distribuição e modelo de Negócio
 
-Sendo um software, o site também é um produto e que precisa ser distribuído.
+Sendo um software, o site também é um produto e que precisa ser distribuído. Assim, além do *web designer* é preciso visão de empreendedor digital, que focará na viabilidade do negócio, estratégia..
 
+E, considerando um site como uma empresa virtual, ele pode ser um modelo de negócio, aí temos termos como Freeware, SaaS etc.
 
+Vide [Modelo de Negócio](/private).
+
+###### Site e profissões
+
+|**web designer**|**empreendedor**|
+|estética, persuasão |visão de produto, gestão de risco. define modelo de negócio| 
+|**marketing**|**desenvolvedor**|
+| o site é um dos canais de distribuição e alvo de alguma estrategia | arquitetura e interações com banco de dados, vigilância etc|
+
+⚠️ Todas essas áreas são estratégicas. Vide por exemplo, [dark patterns](/private).
 
 
 
@@ -216,91 +227,9 @@ Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-vi
 
 
 
+##
 
-
-## Criando um site
-
-Uma pessoa comum pode criar um site, mesmo sem conhecer linguagens, como a HTML que mencionamos. Há décadas isso é possível epode funcionar como uma curiosidade ou mrdmo um exercício de tecnologia. Mas não se iluda...
-
-> Um site é de extrema seriedade, exatamente por ser *SuaEmpresa* no domínio digital.
-
-***Não existe almoço grátis***.  
-***O mundo contemporâneo é uma creche para adultos.***
-
-A primeira frase é do séc. XIX (EUA) e a segunda do filósofo Luiz Felipe Pondé.  
-
-
-
-
-
-> frase comum nos EUA , mas até hoje as pessoas creem que é possível fazer algo sem investimento.
-
-Diferente de um brinquedo como o quebra-cabeça, onde a criança monta as pecinhas e no final tem uma linda imagem maravilhosa, o site é uma empresa na Web. Logo, carece de estratégia.
-
-
-Dois sites, ambos de DJs, podem ter desenvolvimentos bem distintos. Isso não se limita só a aparência, como menus ou botões diferentes, mas especialmente por estratégias de atuação (nome, publico-alvo...). 
-
-"As pessoas não compram uma furadeira, elas compram o furo na parede" [Levitt]
-
-
-
-
-Evidentemente, ter um empresa ou instituição envolve planejamento, o que é sensato para diminuir riscos. Ter conhecimento de causa e experiência conta bastante no desenvolvimento.
-
-
-**Site Institucional**: Começe por esse que é o simples, o seu cartao de visitas. Habitue-se e conheça a ferramenta na prática. Após meses, e já tendo certa experiência, amplie conforme sua necessidade e, principalmente, planejamento.
-
-**Terceirize**: Nos grupos de Telegram podemos contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. [Fale Conosco](https://joesynth.wordpress.com/criacao-de-site-profissional/)!
-
-
-
-## Web: site no ar
-
-
-###### Resumo
-
-|canal|produto||
-|:---:|:---:|:---:|
-|distribuição e marketing|software||
-|vendas||
-|vitrine|botões, menus, monitora o que o usuário vê||
-
-software
-*design* (menus, botões)
-banco de dados
-integrações (pagamentos, por ex.)
-
-empresa na web
-marca, comunicaçõ institucional
-
-|SuaEmpresa|vendas||
-|:---:|:---:|:---:|
-|Há financeiro, contabilidade...|o balcão de negócios||
-
-|marketing||
-|canal de distribuição próprio||
-
-um site é paradoxal, pois ao mesmo tempo ele é sua empres virtual, mas também um produto q precisa ser distribuido pois é um software
-
-
-|**cartão de visita**|**marketing**|
-|Quem Somos, Onde Estamos, Nossos Serviços...|O site é o elemento chave, há páginas e formulários dedicados, por ex. |
-|**armazenamento**|**vendas**|
-|Há banco de dados e mesmo um HD. Guarda-se todos os dados, inclusive os textos ou fotos que vemos no próprio site.|
-|**administrativo**|**vigilância**|
-|Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
-
-
-
-###### Site institucional e loja virtual
-
-Dificilmente haverá boas visualizações sem divulgação, que dirá receita em vendas. É preciso atitude diante disso para ter o sucesso esperado. Isto é, para não correr o risco de poucos acessos no *SeuSite* deve-se ter iniciativas concretas. Saber o que está se fazendo é tão importante quanto as próprias ações em si para não se perder tempo ou ter-se mais danos.
-
-👉️ Note que no mundo digital, em boa parte, se replica o que ocorre no mundo físico: manter loja bem organizada, preços visíveis, logotipo bonito, cliente tratado com comunicação objetiva e respeitosa, cliente não esperando, cliente tendo suporte pós-venda, entrega no prazo etc.  
-
-x
-Área de membros? Mais um recurso! Pois é, há uma enorme variedade de ferramentas que um site pode ter, e elas interagem entre si. Ou seja, não estão no site meramente por estar, ou por moda. Uma rádio pode ser algo bom para um site de DJ e outro artista não.
-x
+xxx
 
 👉️ Tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados... nossos concorrentes "agradecem".
 
