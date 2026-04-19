@@ -1,13 +1,12 @@
 # Site comercial: um tutorial essencial
 
-Site e rede social: por que ter os dois? O que difere? Google? Face? E-commerce?
+Solicitamos um tempo adequado para a leitura.
+
+⚠️
+**1**: Quando falarmos **empresa**, também se aplica a **instituição**, **ONG**.
+**2**: O que é válido para **produto** também serve para **serviço** ou **ideia** (por ex. artista, político...).
 
 
-
-O site é a forma comum de se navegar na internet.
-Exemplo de site? Um portal de notícias, loja *online*...
-
-Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; então vamos falar sobre:
 
 ⚠️ No decorrer do texto, o que se aplica a produto também vale para serviço ou ideia.
 
@@ -19,8 +18,13 @@ Seja produtos, serviços ou ideias, o que nos importa é o contexto de vendas; e
 - Como escolher entre um e outro
 - Site ou rede social: o que é melhor?
 
-Isso, além doutros temas. Portanto vamos lá!?
 
+
+## Internet: um aparato comercial
+
+A internet nasceu militar no século passado, na época da Guerra Fria. Anos 80 houve quem acreditasse que a internet era para pesquisa e não comércio, sendo que nessa mesma época surgiu um serviço de compras *online*. Na década de 90, no Brasil, a internet comercial nasceu.
+
+A comercialização na internet abrange a criação e o gerenciamento de serviços *on-line*, principalmente para ganho financeiro. Inclui-se ainda as técnicas avançadas de *marketing digital*, como publicidade personalizada e direcionada, uso de psicologia, espionagem (chamada de "vigilância").
 
 
 
@@ -41,9 +45,15 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 
 ###### Site institucional e loja virtual
 
-O **site institucional** é o seu "cartão de visitas" na web, e além, há outros recursos poderosos como banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+O **site institucional** é a sua empresa na web, e que vai bem além de um "cartão de visitas", tendo banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
 
-Tanto um quanto outro podem ter ainda mais ferramentas, o que dependerá do projeto do site.
+Tanto um quanto outro podem ter ainda mais recursos conforme o projeto.
+
+**Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
+**Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
+
+Rádio, vídeos embutidos, podcasts etc.
+
 
 ###### Por dentro de um site
 
@@ -51,22 +61,16 @@ Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É,
 
 > Um site é um *software* de computador. Simples assim!
 
-**O *software* em si**: Como vimos, esse programa de computador tem algumas finalidades vitais para uma empresa, como mostrar "quem ela é", onde está, o catálogo de produtos, coletar dados dos clientes etc.
+**Estrutura do *software***: Como vimos, esse programa de computador pode atuar em vários campos, tendo desde simples páginas (como "Quem Somos") até algo sofisticado, como o financeiro ou mesmo uma rádio.
 
-Conforme o projeto do site, o desenvolvimento do software poderá abranger um repertório ainda mais variado de ferramentas, como por ex. rádio, *blog*<sup>1</sup>, *landing page*<sup>2</sup>, vídeos embutidos, *podcasts* etc. Portanto, a quantidade de recursos muda conforme a necessidade, orçamento. Planejamento é uma palavra chave.
-
-<small>
-**1 *Blog*** (Abreviação de *weblog*): Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
-***Landing Page***: Página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
-</small>
 
 
 
 ###### Software - distribuição e modelo de Negócio
 
-Sendo um programa de computador, o site também é um produto e que precisa ser distribuído. Além do *web designer* ou odesenvolvedor de softwares é vital a visão do empreendedor digital, que focará na viabilidade do negócio, estratégia.
+Sendo um software, o site também é um produto e que precisa ser distribuído. Assim, além do *web designer* é preciso visão de empreendedor digital, que focará na viabilidade do negócio, estratégia..
 
-Pela ótica de uma empresa virtual e software, o site é um modelo de negócio. Ele ganha dinheiro não somente vendendo seus produtos, mas também doutras formas. Uma estratégia típica é se mostrar grátis ao usuário e lhe estimular (ou forçar) a assinar o serviço, mais cedo ou mais tarde.
+E, considerando um site como uma empresa virtual, ele pode ser um modelo de negócio, aí temos termos como Freeware, SaaS etc.
 
 Vide [Modelo de Negócio](/private).
 
@@ -81,41 +85,39 @@ Vide [Modelo de Negócio](/private).
 
 
 
-## Internet: um aparato comercial
 
-A internet nasceu militar na época da Guerra Fria. Anos 80 houve quem acreditasse que a internet era para pesquisa e não comércio, sendo que nessa mesma época surgiu um serviço de compras *online*. Na década de 90, no Brasil, a internet comercial nasceu.
-
-A comercialização na internet abrange a criação e o gerenciamento de serviços *on-line*, principalmente para ganho financeiro. Inclui-se ainda as técnicas avançadas de *marketing*, como publicidade personalizada e direcionada, uso de psicologia, espionagem (chamada de "vigilância").
 
 ## Comunicação estratégica: reputação
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdpjye2wk9gi5z.cloudfront.net%2Fwcsstore%2FExtendedSitesCatalogAssetStore%2Fimages%2Fcatalog%2Fzoom%2F1025832-0001V1.jpg&f=1&nofb=1&ipt=59959219c17d8555cadce726e46027d244dd64e09f82e95ea454301d5413aaf8" width="120" />
 Você compraria um tênis de marca desconhecida?
-É possível, mas o tênis conhecido seria o mais provável. Nele está implícito a qualidade e a credibilidade. Com um site é parecido. Antes da internet, poderíamos ter:
+É possível, mas o tênis conhecido seria o mais provável. Nele está implícito qualidade e credibilidade. Com um site é parecido.
 
 |visibilidade|credibilidade|autoridade|
 |:---:|:---:|:---:|
 |ser visto|ser confiável|ser referência|  
-|outdoor|"boca a boca"|catálogo técnico| 
-
-Na web...
 
 <img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade**: Vital para que seu público possa lhe encontrar de forma fácil e rápida. No mundo online está ligado a estratégias para fazer *SuaMarca* estar disponível a seu público _redes sociais, email etc. Pesquisarmos o site da *SuaEmpresa* no Google é um lado disso.
 
-**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade**: Considera-se o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
+**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade**: Considera-se o desenho (*design*) do *SeuSite*,qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
 **<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade**: A *SuaEmpresa* deve ser referência no nicho que atua, seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. 
 
-🤔️ Pensando! A visibilidade não deve ser algo vazio e sim preenchida pela credibilidade, gerando a autoridade. Como dito, para construirmos isso *online* temos que estar presente na internet e sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
+🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. É claro que, como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
 
+###### Um pouco de história
 
+No passado...
+
+|visibilidade|credibilidade|autoridade|
+|:---:|:---:|:---:|
+|outdoor|"boca a boca"|catálogo técnico| 
 
 
 ## O Google: o chefe
 
-<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afinal, ele tem superpoderes.  
+<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afinal, ele tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
 
-> O Google "vê" dados e mais dados sobre todos os sites, por isso sabe dúzias de coisas sobre o seu site _talvez até mais que o próprio dono.
+> O Google "vê" dados e mais dados sobre todos os sites, por isso sabe dúzias de coisas sobre seu site _talvez até mais que o próprio dono do site.
 
 |||
 |:---:|:---:|
@@ -212,16 +214,11 @@ No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que cont
 ## Comunicação | Marketing Digital
 
 
-Como vimos a internet um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
+Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
 
 
 
-###### Nome do site
 
-
-Parece só um nome, mas pela ótica do *marketing* digital é vital na estratégia. Um nome criado pela inocência ou paixão pode ser um desastre se colidir com questões técnicas, por exemplo. A princípio, foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto de alguma forma.
-
-Veia mais em [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
 
 
 
