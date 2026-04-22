@@ -115,9 +115,9 @@ No passado...
 
 ## O Google: o chefe
 
-<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afinal, ele tem superpoderes. Ele "vê" dados e mais dados sobre todos os sites.  
+<img src="https://image.cdn2.seaart.ai/static/801a105c2fa58abe0f9208fa02043241/20230427/81ab61ab67df48f737d1720a3ad547c8_low.webp" width="120" />Conheça o Google, afinal, ele tem superpoderes.
 
-> O Google "vê" dados e mais dados sobre todos os sites, por isso sabe dúzias de coisas sobre seu site _talvez até mais que o próprio dono do site.
+> O Google "vê" dados e mais dados sobre todos os sites, por isso sabe dúzias de coisas sobre um site _talvez até mais que o próprio dono do site.
 
 |||
 |:---:|:---:|
@@ -163,9 +163,12 @@ Na web em especial, o foco não é quem atua no "balcão" aparecendo, mas sim qu
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
-|*site* institucional<br />loja virtual|rede social<br />*marketplace*<br />comparador de preços|
+|*site* institucional|rede social|
+|meusite.com|facebook.com|
+|loja virtual|*marketplace*|
+|minhaloja.com|shopee.com|
 
-**Mídia alugada, exemplos**: O Facebook é um exemplo de rede social, enquanto Mercado Livre de *marketplace*.  
+Para mídia alugada ainda existe o comparador de preços (caso do site Buscapé) e mesmo infoprodutos (Hotmart).
 
 Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais de distribuição. Mas...   
 
@@ -211,7 +214,7 @@ No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que cont
 
 
 
-## Comunicação | Marketing Digital
+## Comunicação / Marketing Digital
 
 
 Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
