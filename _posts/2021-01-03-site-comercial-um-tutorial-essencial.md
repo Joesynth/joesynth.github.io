@@ -8,6 +8,8 @@ Solicitamos um tempo adequado para a leitura.
 
 
 
+
+
 ⚠️ No decorrer do texto, o que se aplica a produto também vale para serviço ou ideia.
 
 - O que é um site?
@@ -76,6 +78,8 @@ Vide [Modelo de Negócio](/private).
 
 ###### Site e profissões
 
+|||
+|:---:|:---:|
 |**web designer**|**empreendedor**|
 |estética, persuasão |visão de produto, gestão de risco. define modelo de negócio| 
 |**marketing**|**desenvolvedor**|
@@ -170,11 +174,7 @@ Na web em especial, o foco não é quem atua no "balcão" aparecendo, mas sim qu
 
 Para mídia alugada ainda existe o comparador de preços (caso do site Buscapé) e mesmo infoprodutos (Hotmart).
 
-Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais de distribuição. Mas...   
 
-> O pŕoprio site é o destino final de toda a Mídia Alugada.
-
-Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.  
 
 **E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada ou mesmo o Hotmart (infoproduto).  
 
@@ -186,39 +186,52 @@ Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas par
 
 
 
-###### Mídia Alugada: onipresença
 
-|rede social|marketplace|site comparador de preços|
-|:---:|:---:|:---:|
-|Serve só pra interagir com amigos?|Serve só pra vender?|Serve só pra "ver" produto caro ou barato?|
-|Não|Não|Não|
+
+
+
+
+
+
+## Marketing Digital
+
+
+Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
+
+###### Mídia Própria e Mídia Alugada
+
+
+**Canais de distribuição**: Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais de distribuição. Mas...   
+
+> O pŕoprio site é o destino final de toda a Mídia Alugada.
+
+Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.  
+
+
+**Onipresença na Mídia Alugada**: Observe:  
+
+|rede social|marketplace|
+|:---:|:---:|
+|Serve só pra interagir com amigos?|Serve só pra vender?|
+|Não|Não|
 
 Quando *SuaMarca* surge em vários canais cria-se um imaginário coletivo de onipresença da *SuaEmpresa*. Aparecendo aqui e ali nas buscas pelo Google, dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
 
 Portanto esses ambientes ajudam *SuaEmpresa* a estar mais presente na Web, pois fortalem ou contribuem ainda mais no posicionamento da *SuaMarca*.
 
+**Mídia própria ou alugada - fechando vendas**: Ao digitar no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada. O motivo é simples:
 
-###### Mídia própria ou alugada: fechando vendas
+> O melhor lugar virtual para fechar negócios é o *SeuSite*.  
 
-Ao digitar no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada. O motivo é simples: o melhor lugar virtual para fechar negócios é o *SeuSite*. Então é decisivo que os clientes o acessem.
-
-Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alugada:  
+Portanto é decisivo que os clientes o acessem. Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alugada:  
 ✔ Criar um ambiente atraente.
 ✔ Melhorar o engajamento com o público.
+
 
 ###### Blog
 
 No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que contribuirá na divulgação.
 **Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
-
-
-
-
-## Comunicação / Marketing Digital
-
-
-Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
-
 
 
 
