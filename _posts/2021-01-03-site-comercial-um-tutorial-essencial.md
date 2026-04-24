@@ -3,10 +3,8 @@
 Solicitamos um tempo adequado para a leitura.
 
 ⚠️
-**1**: Quando falarmos **empresa**, também se aplica a **instituição**, **ONG**.
+**1**: Quando falarmos **empresa**, também se aplica a **instituição**, **ONG**.  
 **2**: O que é válido para **produto** também serve para **serviço** ou **ideia** (por ex. artista, político...).
-
-
 
 
 
@@ -47,30 +45,31 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 
 ###### Site institucional e loja virtual
 
-O **site institucional** é a sua empresa na web, e que vai bem além de um "cartão de visitas", tendo banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+O **site institucional** é a sua empresa na web. Isso vai bem além de um "cartão de visitas", tendo banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
 
 Tanto um quanto outro podem ter ainda mais recursos conforme o projeto.
-
-**Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
-**Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
-
-Rádio, vídeos embutidos, podcasts etc.
 
 
 ###### Por dentro de um site
 
-Um site em si, é **criado** com linguagens de computador, como HTML ou CSS. É, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
+Um site é **criado** com linguagens de computador, como HTML ou CSS. Ele é, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
 
 > Um site é um *software* de computador. Simples assim!
 
-**Estrutura do *software***: Como vimos, esse programa de computador pode atuar em vários campos, tendo desde simples páginas (como "Quem Somos") até algo sofisticado, como o financeiro ou mesmo uma rádio.
+**Estrutura do *software***: Como vimos um site atua desde um "cartão de visitas" com simples páginas (como "Quem Somos" etc) até algo sofisticado (como o financeiro). Entretanto o projeto desse programa de computador (o site) pode ter por ex. radio, *blog*, *landing page*, vídeos embutidos, podcasts etc.  
 
-
+<small>
+**Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
+**Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
+</small>
 
 
 ###### Software - distribuição e modelo de Negócio
 
-Sendo um software, o site também é um produto e que precisa ser distribuído. Assim, além do *web designer* é preciso visão de empreendedor digital, que focará na viabilidade do negócio, estratégia..
+Sendo um software, o site também é uma mercadoria.
+Além do web designer é preciso alguma visão de empreendedor digital para distribuir o produto, focar na viabilidade do negócio, estratégia.
+
+e que precisa ser distribuído. Assim, além do *web designer* é preciso visão de empreendedor digital, que focará na viabilidade do negócio, estratégia..
 
 E, considerando um site como uma empresa virtual, ele pode ser um modelo de negócio, aí temos termos como Freeware, SaaS etc.
 
@@ -78,8 +77,8 @@ Vide [Modelo de Negócio](/private).
 
 ###### Site e profissões
 
-|||
-|:---:|:---:|
+Tal como um avião, que envolve vários profissionias na construção, desenvolver um site é semelhante.
+
 |**web designer**|**empreendedor**|
 |estética, persuasão |visão de produto, gestão de risco. define modelo de negócio| 
 |**marketing**|**desenvolvedor**|
@@ -161,9 +160,9 @@ São conceitos referentes a **canais de distribuição**. No passado nos tínham
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
-|*folders*, informativos, catálogos|rádio, tv, shopping|
+|*folders*, informativos, catálogos|rádio, tv, shopping|  
 
-Na web em especial, o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
+Note que o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
 
 |mídia própria|mídia alugada|
 |:---:|:---:|
@@ -172,11 +171,17 @@ Na web em especial, o foco não é quem atua no "balcão" aparecendo, mas sim qu
 |loja virtual|*marketplace*|
 |minhaloja.com|shopee.com|
 
+<small>
 Para mídia alugada ainda existe o comparador de preços (caso do site Buscapé) e mesmo infoprodutos (Hotmart).
+</small>
 
+Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais de distribuição. Mas...   
 
+> O pŕoprio site é o destino final de toda a Mídia Alugada.
 
-**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral, que envolve qualquer transação comercial pela internet: loja virtual, mídia alugada ou mesmo o Hotmart (infoproduto).  
+Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.  
+
+**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral que envolve qualquer transação comercial pela internet (seja loja virtual ou mídia alugada.  
 
 **Mídia ganha**: quando os outros falam de SuaMarca naturalmente.
 
@@ -186,56 +191,40 @@ Para mídia alugada ainda existe o comparador de preços (caso do site Buscapé)
 
 
 
+###### Mídia Alugada: onipresença
 
-
-
-
-
-
-
-## Marketing Digital
-
-
-Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
-
-###### Mídia Própria e Mídia Alugada
-
-
-**Canais de distribuição**: Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais de distribuição. Mas...   
-
-> O pŕoprio site é o destino final de toda a Mídia Alugada.
-
-Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.  
-
-
-**Onipresença na Mídia Alugada**: Observe:  
-
-|rede social|marketplace|
-|:---:|:---:|
-|Serve só pra interagir com amigos?|Serve só pra vender?|
-|Não|Não|
+|rede social|marketplace|site comparador de preços|
+|:---:|:---:|:---:|
+|Serve só pra interagir com amigos?|Serve só pra vender?|Serve só pra "ver" produto caro ou barato?|
+|Não|Não|Não|
 
 Quando *SuaMarca* surge em vários canais cria-se um imaginário coletivo de onipresença da *SuaEmpresa*. Aparecendo aqui e ali nas buscas pelo Google, dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
 
 Portanto esses ambientes ajudam *SuaEmpresa* a estar mais presente na Web, pois fortalem ou contribuem ainda mais no posicionamento da *SuaMarca*.
 
-**Mídia própria ou alugada - fechando vendas**: Ao digitar no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada. O motivo é simples:
 
-> O melhor lugar virtual para fechar negócios é o *SeuSite*.  
+###### Mídia própria ou alugada: fechando vendas
 
-Portanto é decisivo que os clientes o acessem. Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alugada:  
+Ao digitar no Google o nome da *SuaEmpresa*, o ideal é que na resposta do Google surja *SeuSite* primeiro _e depois sim, a mídia alugada. O motivo é simples: o melhor lugar virtual para fechar negócios é o *SeuSite*. Então é decisivo que os clientes o acessem.
+
+Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alugada:  
 ✔ Criar um ambiente atraente.
 ✔ Melhorar o engajamento com o público.
 
-
 ###### Blog
 
-No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que contribuirá na divulgação.
-**Objetivo**: Captar o interesse dos internautas que viram visitantes, depois assinantes, e por fim clientes. O truque do *blog* é atrair mais acessos, aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.
+No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que contribuirá na divulgação.  
+**Objetivo**: Captar o interesse dos internautas, isto é, atrair mais acessos para aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.  
+**Na prática** o truque é que as pessoas virem visitantes do *blog*, depois assinantes, e por fim clientes.
 
 
 
 
+
+## Comunicação / Marketing Digital
+
+
+Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
 
 
 
