@@ -64,23 +64,23 @@ Um site é **criado** com linguagens de computador, como HTML ou CSS. Ele é, li
 </small>
 
 
-###### Software - distribuição e modelo de Negócio
+###### Software - distribuição e modelo de negócio
 
 Sendo um software, o site também é uma mercadoria.
 Além do web designer é preciso alguma visão de empreendedor digital para distribuir o produto, focar na viabilidade do negócio, estratégia.
 
-e que precisa ser distribuído. Assim, além do *web designer* é preciso visão de empreendedor digital, que focará na viabilidade do negócio, estratégia..
-
-E, considerando um site como uma empresa virtual, ele pode ser um modelo de negócio, aí temos termos como Freeware, SaaS etc.
+E, considerando um site como uma empresa virtual, ele se enquadrará em algum modelo de negócio, como *freeware*, *SaaS* etc.
 
 Vide [Modelo de Negócio](/private).
 
 ###### Site e profissões
 
-Tal como um avião, que envolve vários profissionias na construção, desenvolver um site é semelhante.
+Criar e gerir um site é um processo multidisciplinar. Tal como um avião, que envolve vários profissionias na construção, desenvolver um site é semelhante.
 
+|||
+|:---:|:---:|
 |**web designer**|**empreendedor**|
-|estética, persuasão |visão de produto, gestão de risco. define modelo de negócio| 
+|cuida da estética, persuasão |visão de produto, gestão de risco. define modelo de negócio| 
 |**marketing**|**desenvolvedor**|
 | o site é um dos canais de distribuição e alvo de alguma estrategia | arquitetura e interações com banco de dados, vigilância etc|
 
@@ -98,6 +98,8 @@ Você compraria um tênis de marca desconhecida?
 |visibilidade|credibilidade|autoridade|
 |:---:|:---:|:---:|
 |ser visto|ser confiável|ser referência|  
+|outdoor|"boca a boca"|catálogo técnico| 
+
 
 <img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade**: Vital para que seu público possa lhe encontrar de forma fácil e rápida. No mundo online está ligado a estratégias para fazer *SuaMarca* estar disponível a seu público _redes sociais, email etc. Pesquisarmos o site da *SuaEmpresa* no Google é um lado disso.
 
@@ -107,13 +109,7 @@ Você compraria um tênis de marca desconhecida?
 
 🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. É claro que, como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
 
-###### Um pouco de história
 
-No passado...
-
-|visibilidade|credibilidade|autoridade|
-|:---:|:---:|:---:|
-|outdoor|"boca a boca"|catálogo técnico| 
 
 
 ## O Google: o chefe
@@ -181,7 +177,7 @@ Pela ótica "purista" do MKT, tanto o site quanto a mídia alugada são canais d
 
 Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas para SuaEmpresa, como recursos das estratégias de marketing digital. Muitas dessas tecnologias podem trabalhar em conjunto para chegarmos a resultados. Cada caso é um caso. Uma página no Facebook é tão importante quanto um site _um não substitui o outro.  
 
-**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral que envolve qualquer transação comercial pela internet (seja loja virtual ou mídia alugada.  
+**E-commerce <sup>Comércio eletrônico</sup>**: Um conceito geral que envolve qualquer transação comercial pela internet (seja loja virtual ou mídia alugada).  
 
 **Mídia ganha**: quando os outros falam de SuaMarca naturalmente.
 
@@ -193,10 +189,10 @@ Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas par
 
 ###### Mídia Alugada: onipresença
 
-|rede social|marketplace|site comparador de preços|
-|:---:|:---:|:---:|
-|Serve só pra interagir com amigos?|Serve só pra vender?|Serve só pra "ver" produto caro ou barato?|
-|Não|Não|Não|
+|rede social|marketplace|
+|:---:|:---:|
+|Serve só pra interagir com amigos?|Serve só pra vender?|
+|Não|Não|
 
 Quando *SuaMarca* surge em vários canais cria-se um imaginário coletivo de onipresença da *SuaEmpresa*. Aparecendo aqui e ali nas buscas pelo Google, dá-se a impressão ao cliente que a *SuaMarca* é mais sólida.
 
