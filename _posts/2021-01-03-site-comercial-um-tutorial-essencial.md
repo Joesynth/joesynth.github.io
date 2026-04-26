@@ -2,13 +2,11 @@
 
 Solicitamos um tempo adequado para a leitura.
 
-⚠️
+⚠️  
+<small>
 **1**: Quando falarmos **empresa**, também se aplica a **instituição**, **ONG**.  
-**2**: O que é válido para **produto** também serve para **serviço** ou **ideia** (por ex. artista, político...).
-
-
-
-⚠️ No decorrer do texto, o que se aplica a produto também vale para serviço ou ideia.
+**2**: O que é válido para **produto** também serve para **serviço** ou **ideia** (por ex. artista, político...).  
+</small>
 
 - O que é um site?
 - Internet: um aparato comercial
@@ -45,9 +43,11 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 
 ###### Site institucional e loja virtual
 
-O **site institucional** é a sua empresa na web. Isso vai bem além de um "cartão de visitas", tendo banco de dados, vigilância, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+O **site institucional** é a sua empresa na web. Além do seu "cartão de visitas" na internet, há o banco de dados, recurso de vigilância dos usuários, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
 
-Tanto um quanto outro podem ter ainda mais recursos conforme o projeto.
+Ambos podem ter ainda mais ferramentas conforme o projeto.
+
+Veja [Site Institucional ou Loja Virtual](/private).
 
 
 ###### Por dentro de um site
@@ -56,12 +56,15 @@ Um site é **criado** com linguagens de computador, como HTML ou CSS. Ele é, li
 
 > Um site é um *software* de computador. Simples assim!
 
+Veja [Linguagens - Resumo](/private).  
+
 **Estrutura do *software***: Como vimos um site atua desde um "cartão de visitas" com simples páginas (como "Quem Somos" etc) até algo sofisticado (como o financeiro). Entretanto o projeto desse programa de computador (o site) pode ter por ex. radio, *blog*, *landing page*, vídeos embutidos, podcasts etc.  
 
 <small>
 **Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
 **Landing Page**: página especial, ela não tem menu e é "escondida" (não aparece no menu principal).  
 </small>
+
 
 
 ###### Software - distribuição e modelo de negócio
@@ -84,7 +87,9 @@ Criar e gerir um site é um processo multidisciplinar. Tal como um avião, que e
 |**marketing**|**desenvolvedor**|
 | o site é um dos canais de distribuição e alvo de alguma estrategia | arquitetura e interações com banco de dados, vigilância etc|
 
-⚠️ Todas essas áreas são estratégicas. Vide por exemplo, [dark patterns](/private).
+⚠️ Todas essas áreas são estratégicas.
+
+Vide [Profissionais de informática](/private) e [dark patterns](/private).
 
 
 
@@ -93,19 +98,21 @@ Criar e gerir um site é um processo multidisciplinar. Tal como um avião, que e
 ## Comunicação estratégica: reputação
 
 Você compraria um tênis de marca desconhecida?
-É possível, mas o tênis conhecido seria o mais provável. Nele está implícito qualidade e credibilidade. Com um site é parecido.
+É possível, mas o tênis conhecido seria o mais provável. Nele está implícito qualidade e credibilidade.
 
 |visibilidade|credibilidade|autoridade|
 |:---:|:---:|:---:|
 |ser visto|ser confiável|ser referência|  
-|outdoor|"boca a boca"|catálogo técnico| 
+|outdoor|"boca a boca"|catálogo técnico|  
+
+Com um site é parecido, veja:  
 
 
 <img src="https://fotografiamais.com.br/wp-content/uploads/2019/01/iluminacao-para-fotografia-iluminaco-embrandt.jpg" width="120" /> **Visibilidade**: Vital para que seu público possa lhe encontrar de forma fácil e rápida. No mundo online está ligado a estratégias para fazer *SuaMarca* estar disponível a seu público _redes sociais, email etc. Pesquisarmos o site da *SuaEmpresa* no Google é um lado disso.
 
-**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade**: Considera-se o desenho (*design*) do *SeuSite*,qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
+**<img src="https://veja.abril.com.br/wp-content/uploads/2020/04/shaking-hands-3091906_1920.jpg" width="120" /> Credibilidade**: Considera-se o desenho (*design*) do *SeuSite*, qualidade do conteúdo _dados de contato visíveis (telefone, email, endereço), preços visíveis...
 
-**<img src="https://www.allankern.com.br/blog/wp-content/uploads/2020/05/96136997_10158210786524496_586984010589143040_n.jpg" width="120" /> Autoridade**: A *SuaEmpresa* deve ser referência no nicho que atua, seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. 
+**<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuelintonmorelli.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2FAutoridade-Digital-1.jpg&f=1&nofb=1&ipt=304652502968bef033439b217f3f8673f0192c2b6489210d3a0c648d1c065c98" width="120" /> Autoridade**: A *SuaEmpresa* deve ser referência no nicho que atua, seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. 
 
 🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. É claro que, como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
 
