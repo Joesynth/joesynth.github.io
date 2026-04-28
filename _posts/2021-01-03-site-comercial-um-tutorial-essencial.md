@@ -146,20 +146,33 @@ Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 ## Comunicação / Marketing
 
-O *marketing* começa antes mesmo da empresa criar o site, por ex., definindo o público-alvo. Está no código em si do site, em páginas, imagens etc. E depois de pronto, co-existirá por toda a vida da marca.
+O *marketing* começa antes mesmo da empresa criar o site; por ex., definindo o público-alvo. O *marketing* está, inclusive, no código em si do site _em páginas, imagens etc. Depois de pronto SeuSite, co-existirá por toda a vida da marca.
 
 
-## Comunicação / Marketing Digital
+## Criando um site
+
+###### Qual tipo de site escolher?
+
+Se tratando de profissional liberal ou empresa pequena, começe pelo simples: o site institucional (seu "cartao de visitas". O principal é ele ser idealizado, ter um planejamento para no futuro poder ser expandido. Uma vez construído, habitue-se e conheça a ferramenta na prática. O momento futuro de se fazer um "update" virá naturalmente.
+
+###### Terceirize
+
+Nos grupos de Telegram podemos contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. [Fale Conosco](https://joesynth.wordpress.com/criacao-de-site-profissional/)!
 
 
 
+## Site pronto! Site no ar!
+
+###### Administrador de Site
+
+A partir desse momento é uma questão de gestão, manutenção. Acompanhar estatísticas, monitorar visitantes, gerir pessoas (como autores no caso de um *blog*) etc.
+
+Vide [Profissionais de informática](/private).
+
+###### MKT
 
 
 
-## MKT
-
-
-Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
 
 
 
