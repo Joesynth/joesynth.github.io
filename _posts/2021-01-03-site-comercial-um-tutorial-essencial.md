@@ -168,7 +168,7 @@ xxx
 
 Não use, e sim conheça as táticas adotadas por essas plataformas para para as utilizarem a seu favor:
 
-**Freemium**: Estratégia de [Modelo de Negócio](/software-modelo-de-negocio) (de software) de uma empresa com plano grátis + plano pago. O truque? Oferece-se a versão gratuita para o usuário a "amar", de propósito.  Porém...
+<img src="https://i.redd.it/oqk8062mvgbf1.jpeg" width="120" />**Freemium**: a tática para o ingênuo. Freemium é uma estratégia de [Modelo de Negócio](/software-modelo-de-negocio) (de software) de uma empresa com plano grátis + plano pago. O truque? Oferece-se a versão gratuita para o usuário a "amar", de propósito.  Porém...
 
 > "Não existe almoço grátis, Papai Noel não existe..."
 
@@ -183,6 +183,8 @@ A conversão (pagamento): Quando o usuário precisar de um domínio próprio (ti
 **Propaganda interna**: uma das engrenagens mais poderosas para converter o usuário gratuito em cliente pagante. Há um tipo específico de anúncio que fica camuflado, se parecendo conteúdo (ou interface) para não parecer publicidade comum.
 
 **Autoridade (ser referência)**: Como vimos é a confiança. Autoridade de marca (Wix, por ex.) é um gatilho de segurança psicológica para o leigo. A publicidade faz o usuário associar fama à confiabilidade técnica, e no efeito manada escolhe-se a plataforma só porque "todos usam" (ou seja, reduzir a percepção de risco para o leigo).
+
+Além da confiança (autoridade), que tira obstáculos (medos) do caminho, há a necessidade (desejo) que puxa o cliente pra frente.
 
 **Comodidade**: tal como uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade. Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica (**vendor lock-in**). A facilidade fútil dará um site pronto, mas raramente eficiente como um projeto planejado.
 
