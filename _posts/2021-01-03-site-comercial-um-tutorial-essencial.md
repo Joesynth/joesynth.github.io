@@ -146,36 +146,55 @@ Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 ## Comunicação / Marketing
 
-O *marketing* começa antes mesmo da empresa criar o site; por ex., definindo o público-alvo. O *marketing* está, inclusive, no código em si do site _em páginas, imagens etc. Depois de pronto SeuSite, co-existirá por toda a vida da marca.
+O *marketing* começa antes mesmo da empresa criar o site, por ex., definindo o público-alvo. Está no código em si do site, em páginas, imagens etc. E depois de pronto, co-existirá por toda a vida da marca.
 
 
-## Criando um site
-
-###### Qual tipo de site escolher?
-
-Se tratando de profissional liberal ou empresa pequena, começe pelo simples: o site institucional (seu "cartao de visitas". O principal é ele ser idealizado, ter um planejamento para no futuro poder ser expandido. Uma vez construído, habitue-se e conheça a ferramenta na prática. O momento futuro de se fazer um "update" virá naturalmente.
-
-###### Terceirize
-
-Nos grupos de Telegram podemos contratar *freelancers* experientes e das mais diversas áreas. Nós do *blog* JoeSynth também fazemos este serviço. [Fale Conosco](https://joesynth.wordpress.com/criacao-de-site-profissional/)!
-
-
-
-## Site pronto! Site no ar!
-
-###### Administrador de Site
-
-A partir desse momento é uma questão de gestão, manutenção. Acompanhar estatísticas, monitorar visitantes, gerir pessoas (como autores no caso de um *blog*) etc.
-
-Vide [Profissionais de informática](/private).
-
-###### MKT
+## Comunicação / Marketing Digital
 
 
 
 
 
 
+## MKT
+
+
+Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
+
+
+xxx
+
+###### Plataformas de construção de sites - Elementor (Wp) - Wix
+
+Não use, e sim conheça as táticas adotadas por essas plataformas para para as utilizarem a seu favor:
+
+**Freemium**: Estratégia de [Modelo de Negócio](/software-modelo-de-negocio) (de software) de uma empresa com plano grátis + plano pago. O truque? Oferece-se a versão gratuita para o usuário a "amar", de propósito.  Porém...
+
+> "Não existe almoço grátis, Papai Noel não existe..."
+
+O gatilho? Usuário investe horas montando um site, logo, a barreira psicológica para abandonar a plataforma é alta.  
+A conversão (pagamento): Quando o usuário precisar de um domínio próprio (tirar o ".wixsite.com", por ex.) ou de um recurso avançado, já está "preso" à plataforma, logo, tende a pagar pelo plano Premium.
+
+<small>**1**: Enquanto no *inbound MKT* consome-se conteúdo de forma passiva, no *freemium* usa-se as ferramentas do software de fato para solucionar problemas.
+**2**:PQL (Product Qualified Lead). O "lead comum" dá o e-mail em troca de um e-book, e o PQL já está dentro do sistema, com a mão na massa testando e usando recursos reais.
+</small>
+
+
+**Propaganda interna**: uma das engrenagens mais poderosas para converter o usuário gratuito em cliente pagante. Há um tipo específico de anúncio que fica camuflado, se parecendo conteúdo (ou interface) para não parecer publicidade comum.
+
+**Autoridade (ser referência)**: Como vimos é a confiança. Autoridade de marca (Wix, por ex.) é um gatilho de segurança psicológica para o leigo. A publicidade faz o usuário associar fama à confiabilidade técnica, e no efeito manada escolhe-se a plataforma só porque "todos usam" (ou seja, reduzir a percepção de risco para o leigo).
+
+**Comodidade**: tal como uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade. Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica (**vendor lock-in**). A facilidade fútil dará um site pronto, mas raramente eficiente como um projeto planejado.
+
+
+
+**Aprisionamento Tecnológico** <sup>Vendor Lock-in</sup>: a empresa cria mil barreiras para o cliente não migrar para um concorrente. O cliente está ali não por prazer, mas porque há ônus em sair.
+Incompatibilidade: Site feito no Wix não pode ser exportado para o WP, por exe., devendo ser refeito do zero.
+Barreira de Saída: Custo em tempo, dinheiro e esforço para migrar, o que supera o benefício de sair _e lhe força a aceitar aumentos de preços ou limitações da plataforma.
+Propriedade Limitada: Você é dono do conteúdo, mas não da "engrenagem" que o faz funcionar. Você aluga a tecnologia; se parar de pagar, o site deixa de existir.
+
+
+xxx
 ##
 
 xxx
