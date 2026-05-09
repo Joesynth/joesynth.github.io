@@ -27,9 +27,10 @@ A comercialização na internet abrange a criação e o gerenciamento de serviç
 
 
 ## O que é um site?
+📚️ fold: dobrar.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJftzHpGrxCNznmZychzOPVkU4JJb8OW3fw&s" width="320" />Antigamente, o *folder* era uma peça de *marketing* comum no intuito de apresentar a empresa. O cartão de visita e o catálogo de produtos eram mais materiais publicitários criados por *designers* gráficos. Mas com o tempo surge um novo profissional: o *web designer*, um  *designer* gráfico com conhecimentos em programação.
-Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E se no início da web o site funcionava como um *folder* ou cartão de visitas, com o tempo foi se tornando mais sofisticado ainda. Ferramentas:  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJftzHpGrxCNznmZychzOPVkU4JJb8OW3fw&s" width="320" />Antigamente, *folder*, cartão de visita e o catálogo de produtos eram materiais publicitários criados por *designers* gráficos como peças de *marketing* comuns para apresentar a empresa. Com o tempo surge um novo profissional: o *web designer*, um  *designer* gráfico com conhecimentos em programação.
+Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E se no início da web o site funcionava como um *folder* ou um cartão de visitas, com o tempo ele foi se tornando mais sofisticado ainda. Ferramentas:  
 
 |||
 |:---:|:---:|
@@ -40,6 +41,7 @@ Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E 
 |**administrativo**|**vigilância**|
 |Financeiro, contabilidade...|Monitora o que o usuário vê, por quanto tempo etc|
 
+Visto pelo lado do *marketing* um site é um canal de distribuição, e pela ótica de comunicação é um meio (que reúne o *folder*, o cartão e o catálogo num só meio).
 
 ###### Site institucional e loja virtual
 
@@ -50,7 +52,7 @@ Ambos podem ter ainda mais ferramentas conforme o projeto.
 Veja [Site Institucional ou Loja Virtual](/private).
 
 
-###### Por dentro de um site
+## Por dentro de um site
 
 Um site é **criado** com linguagens de computador, como HTML ou CSS. Ele é, literalmente, escrito em códigos _tal como ocorre com qualquer aplicativo de celular ou programa de computador.  
 
@@ -58,7 +60,7 @@ Um site é **criado** com linguagens de computador, como HTML ou CSS. Ele é, li
 
 Veja [Linguagens - Resumo](/private).  
 
-**Estrutura do *software***: Como vimos um site atua desde um "cartão de visitas" com simples páginas (como "Quem Somos" etc) até algo sofisticado (como o financeiro). Entretanto o projeto desse programa de computador (o site) pode ter por ex. radio, *blog*, *landing page*, vídeos embutidos, podcasts etc.  
+**Estrutura do *software***: Como vimos um site atua desde um "cartão de visitas" para sua empresa, com simples páginas (como "Quem Somos" etc), até algo mais sofisticado (como o financeiro). Entretanto o projeto desse programa de computador (o site) pode ter por ex. radio, *blog*, *landing page*, vídeos embutidos, podcasts etc.  
 
 <small>
 **Blog** <sup>Abreviação de *weblog*</sup>: Antigamente, era um tipo de site específico, um "diário" virtual. O surgimento do *blog* foi uma mudança radical, pois pela 1ª vez no mundo uma pessoa comum, agora, tinha um "informativo" global sem precisar de uma editora.  
@@ -70,9 +72,9 @@ Veja [Linguagens - Resumo](/private).
 ###### Software - distribuição e modelo de negócio
 
 Sendo um software, o site também é uma mercadoria.
-Além do web designer é preciso alguma visão de empreendedor digital para distribuir o produto, focar na viabilidade do negócio, estratégia.
+Além do web designer, que criará o *SeuSite*, é preciso alguma visão de empreendedor digital para distribuir o produto, focar na viabilidade do negócio, estratégia.
 
-E, considerando um site como uma empresa virtual, ele se enquadrará em algum modelo de negócio, como *freeware*, *SaaS* etc.
+E, considerando um site como uma empresa virtual, ele se enquadrará em algum modelo de negócio, como *SaaS*, por exemplo.
 
 Vide [Modelo de Negócio](/private).
 
@@ -85,7 +87,8 @@ Criar e gerir um site é um processo multidisciplinar. Tal como um avião, que e
 |**web designer**|**empreendedor**|
 |cuida da estética, persuasão |visão de produto, gestão de risco. define modelo de negócio| 
 |**marketing**|**desenvolvedor**|
-| o site é um dos canais de distribuição e alvo de alguma estrategia | arquitetura e interações com banco de dados, vigilância etc|
+| o site é um dos canais de distribuição e alvo de alguma estratégia | arquitetura e interações com banco de dados, vigilância etc|
+
 
 ⚠️ Todas essas áreas são estratégicas.
 
@@ -116,8 +119,9 @@ Com um site é parecido, veja:
 
 🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. É claro que, como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
 
+>"O meio é a mensagem" [🇨🇦 Marshall McLuhan].
 
-
+A frase foi dita anos 60, mas se aplica aqui, afinal, Para McLuhan, a forma como a mensagem é entregue (o meio) altera como ela é percebida.
 
 ## O Google: o chefe
 
@@ -166,11 +170,11 @@ xxx
 
 ###### Plataformas de construção de sites - Elementor (Wp) - Wix
 
-Não use, e sim conheça as táticas adotadas por essas plataformas para para as utilizarem a seu favor:
+Não use. Mais que isso, conheça as táticas adotadas por essas plataformas e as utilize a seu favor:
 
 <img src="https://i.redd.it/oqk8062mvgbf1.jpeg" width="120" />**Freemium**: a tática para o ingênuo. Freemium é uma estratégia de [Modelo de Negócio](/software-modelo-de-negocio) (de software) de uma empresa com plano grátis + plano pago. O truque? Oferece-se a versão gratuita para o usuário a "amar", de propósito.  Porém...
 
-> "Não existe almoço grátis, Papai Noel não existe..."
+> "Não existe almoço grátis, nem Papai Noel!"
 
 O gatilho? Usuário investe horas montando um site, logo, a barreira psicológica para abandonar a plataforma é alta.  
 A conversão (pagamento): Quando o usuário precisar de um domínio próprio (tirar o ".wixsite.com", por ex.) ou de um recurso avançado, já está "preso" à plataforma, logo, tende a pagar pelo plano Premium.
@@ -186,14 +190,17 @@ A conversão (pagamento): Quando o usuário precisar de um domínio próprio (ti
 
 Além da confiança (autoridade), que tira obstáculos (medos) do caminho, há a necessidade (desejo) que puxa o cliente pra frente.
 
-**Comodidade**: tal como uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade. Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica (**vendor lock-in**). A facilidade fútil dará um site pronto, mas raramente eficiente como um projeto planejado.
+**Comodidade**: Uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade, lhe sobrando tempo para trabalho, família. Porém, quando facilidade deixa de ser para economizar tempo e vira o objeto final, com futilidade, temos uma distorção.  
+
+> "O mundo contemporâneo é uma creche para adultos" *[Felipe Pondé, filósofo]*.
+
+Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica. A facilidade fútil dará um site pronto, mas raramente eficiente como um projeto planejado.
 
 
-
-**Aprisionamento Tecnológico** <sup>Vendor Lock-in</sup>: a empresa cria mil barreiras para o cliente não migrar para um concorrente. O cliente está ali não por prazer, mas porque há ônus em sair.
-Incompatibilidade: Site feito no Wix não pode ser exportado para o WP, por exe., devendo ser refeito do zero.
-Barreira de Saída: Custo em tempo, dinheiro e esforço para migrar, o que supera o benefício de sair _e lhe força a aceitar aumentos de preços ou limitações da plataforma.
-Propriedade Limitada: Você é dono do conteúdo, mas não da "engrenagem" que o faz funcionar. Você aluga a tecnologia; se parar de pagar, o site deixa de existir.
+**Aprisionamento Tecnológico** <sup>Vendor Lock-in</sup>: Dependência tecnológica. Com o cliente conquistado, a empresa cria mil barreiras para ele não migrar para o concorrente. O cliente está ali não por prazer, mas porque há ônus em sair.
+|incompatibilidade|barreira de saída|propriedade limitada|
+|:---:|:---:|:---:|
+|Site feito no Wix não pode ser exportado para o WP, por exe., devendo ser refeito do zero.|Custo em tempo, dinheiro e esforço para migrar, o que supera o benefício de sair _e lhe força a aceitar aumentos de preços ou limitações da plataforma.|Você é dono do conteúdo, mas não da "engrenagem" que o faz funcionar. Aluga-se a tecnologia, se parar de pagar, deixa-se de existir.|
 
 
 xxx
