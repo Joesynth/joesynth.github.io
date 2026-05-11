@@ -2,8 +2,70 @@
 
 
 
-###### Mídia Própria e Mídia Alugada
 
+
+## MKT para motores de Busca <sup>SEM - *Search Engine Marketing*</sup>
+
+<small>Ou MKT de Busca</small>
+
+SEO e links patrocinados (Google Ads, por ex.).  
+
+Estratégias digitais que visam promover um site nas páginas de resultados dos buscadores (SERPs). O objetivo é garantir que, quando alguém pesquisar por algo relacionado ao seu negócio, você esteja lá.
+
+> SEM = SEO + SEA
+
+
+###### SEO vs. SEA
+
+|SEO|SEA|
+|:---:|:---:|
+|**resultado**|**resultado**|
+|Médio a longo prazo|Imediato|
+|**posicionamento**|**posicionamento**|
+|No "meio" da página de busca|No topo ou rodapé (com a tag "Anúncio")|
+|**foco**|**foco**|
+|Autoridade, conteúdo e técnica|Segmentação, lances e conversão rápida|
+
+⚠️ Se está pagando para aparecer no topo agora mesmo, está fazendo SEA/Links Patrocinados.
+
+
+###### SEO - variações
+
+|SEO On-page|Off-page|SEO Técnico|
+|:---:|:---:|:---:|
+|Palavras-chave, títulos e qualidade do conteúdo.|Conseguir links de outros sites (Backlinks) para ganhar autoridade.|Velocidade do site e facilidade de leitura para robôs.|
+
+###### Contexto de Uso - Termos no SEO / Google Ads
+
+Termo para o Topo e Nicho
+
+| "Topo"*<br />(Massa) | "Nicho"*<br />(Específico) |
+| :--- | :--- |
+| **Head Tail**<br />palavra-chave curta | **Long Tail***<br />palavra-chave longa |
+
+
+###### Head Tail / Long Tail: Softwares
+
+
+| Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
+| :---: | :---: |
+|**ERP**|**ERP**|
+| Curva A: 20% dos produtos que geram 80% da receita. | Curva C: Itens de baixa rotação que ocupam espaço. |
+|**CRM**|**CRM**|
+| Key Accounts: grandes clientes que sustentam o faturamento. | Long Tail de Clientes: milhares de pequenos clientes atomizados. |
+|**Google Analytics**|**Google Analytics**|
+| Head Keywords: palavras genéricas com alto volume/custo. | Consultas de Pesquisa: frases longas a base de cliques. |
+|**E-commerce**|**E-commerce**|
+| Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
+
+
+## Mídia Própria e Mídia Alugada
+x
+
+**Mídia Alugada**: Canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
+**Site**: Pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
+
+x
 São conceitos referentes a **canais de distribuição**. Observe:
 
 |mídia própria|mídia alugada|
