@@ -30,7 +30,7 @@ A comercialização na internet abrange a criação e o gerenciamento de serviç
 📚️ fold: dobrar.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJftzHpGrxCNznmZychzOPVkU4JJb8OW3fw&s" width="320" />Antigamente, *folder*, cartão de visita e o catálogo de produtos eram materiais publicitários criados por *designers* gráficos como peças de *marketing* comuns para apresentar a empresa. Com o tempo surge um novo profissional: o *web designer*, um  *designer* gráfico com conhecimentos em programação.
-Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E se no início da web o site funcionava como um *folder* ou um cartão de visitas, com o tempo ele foi se tornando mais sofisticado ainda. Ferramentas:  
+Isso, devido *software* e internet passarem a ser as novas palavras de ordem. E se no início da web o site funcionava como um *folder* ou um cartão de visitas, com o tempo ele foi se tornando mais sofisticado ainda. Veja:  
 
 |||
 |:---:|:---:|
@@ -45,7 +45,7 @@ Visto pelo lado do *marketing* um site é um canal de distribuição, e pela ót
 
 ###### Site institucional e loja virtual
 
-O **site institucional** é a sua empresa na web. Além do seu "cartão de visitas" na internet, há o banco de dados, recurso de vigilância dos usuários, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+O **site institucional** é a sua empresa na web. Como vimos, além de ser o seu "cartão de visitas" na internet, há o banco de dados, recurso de vigilância dos usuários, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
 
 Ambos podem ter ainda mais ferramentas conforme o projeto.
 
@@ -121,7 +121,7 @@ Com um site é parecido, veja:
 
 >"O meio é a mensagem" [🇨🇦 Marshall McLuhan].
 
-A frase foi dita anos 60, mas se aplica aqui, afinal, Para McLuhan, a forma como a mensagem é entregue (o meio) altera como ela é percebida.
+A frase foi dita anos 60, mas se aplica aqui; afinal, para McLuhan, a forma como a mensagem é entregue (o meio) altera como ela é percebida.
 
 ## O Google: o chefe
 
@@ -150,7 +150,15 @@ Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 ## Comunicação / Marketing
 
-O *marketing* começa antes mesmo da empresa criar o site, por ex., definindo o público-alvo. Está no código em si do site, em páginas, imagens etc. E depois de pronto, co-existirá por toda a vida da marca.
+📚️ MKT = *marketing*.  
+
+O *MKT* começa antes mesmo da empresa criar o seu próprio site, veja:  
+
+|antes da criação|durante|depois de pronto|
+|:---:|:---:|:---:|
+|Definir o público-alvo|Está no código em si do site (em páginas, imagens etc).| Co-existirá por toda a vida da marca.|
+
+
 
 
 ## Comunicação / Marketing Digital
