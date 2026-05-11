@@ -1,5 +1,6 @@
 # Marketing digital - Tutorial
 
+
 Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo direto ao assunto...
 
 📚️ *MKT*: abreviação de marketing.
@@ -109,125 +110,11 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 🤔️ Antigamente um político poderia evitar falar coisas feias (para não perder votos). Mas hoje, fala-se para o nicho (cliente). 
 🤔️ O cliente quanto mais interage (digitalmente) mais alimenta o ciclo. 
 
-
-
-
 ## MKT digital - estratégias
 
-
-###### Outbound Marketing
-📚️ Também conhecido como *marketing* de interrupção.  
-📚️ *outbound*: saída. 
+Vide [Estratégias de MKT Digital](/private).
 
 
-MKT tradicional.
-
-Método antigo com técnicas de venda direta e publicidade para atingir um público amplo.
-
-
-|antigo|recente|
-|:---:|:---:|
-|Anúncios em rádio, TV, Outdoor.<br />Distribuição de folhetos.<br />Telemarketing.<br />|Cold call.<br />Google Ads (banners de anúncio).<br />E-mails marketing.<br />|
-
-
-###### Outbound 2.0
-
-Metodologia de Aaron Ross, que revolucionou os resultados da Salesforce.
-Baseia-se na segmentação e especialização do time de vendas
-Divide o time de vendas em:
-
-|Hunters|Closers|Farmers|
-|:---:|:---:|:---:|
-|identificar potenciais clientes, entender necessidades...|responsáveis por fechar vendas|responsáveis por manter o engajamento do cliente|
-
-ft:ai
-
-###### Ferramentas clássicas
-
-✔ Banner: É intrusivo, inclusive interrompe, ou feito para interromper (cores forte, animações que piscam, intuito "gritar"). Quer se destacar da página, por ex., um retângulo colorido. É interruptivo. Ele "grita" por atenção e compete visualmente com o que você está tentando ler. Ex.: "Compre Agora" ou "50% de Desconto".  
-✔ Pop-up: Banner q abre do nada e tem o x, sendo mais intrusivo que o próprio banner.  
-
-###### Marketing de Atração <sup>Inbound Marketing</sup>
-
-Criação de conteúdo relevante para o público-alvo, criar relação de confiança.  
-
-Vide [Inbound MKT](/inbound-mkt).
-
-
-
-
-
-###### MKT digital - outras estratégias - resumo - tempo
-
-<pre>Legenda
-⚡ Rápido, age rápido.
-🕖️ Tempo.
-</pre>
-
-
-**Ações de engajamento**: engajamento é um conjunto de técnicas que visam aumentar a interação do público com a marca.  
-**Busca de Tendências**: Google Trends.  
-**Consentimento dos usuários**: Estratégia que deve ser clara e explícita, de acordo com a LGPD (Lei Geral de Proteção de Dados).  
-**Co-marketing**: MKT colaborativo ou marketing em parceria. Bem eficaz, é a parceria entre duas empresas, geralmente com público-alvo parecido, mas que não são concorrentes diretas.  
-**E-mail MKT**: Envio de mensagens segmentadas para leads e clientes.  
-⚡ 🕖️ dias, semanas  
-**Mídia Alugada**: Canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
-**MKT de Afiliados**: Vendas via comissões por meio de parceiros.  
-⚡ 🕖️ semanas, meses  
-**MKT de causa** <sup>*Cause-related MKT*</sup>  
-🕖️ 4 a 8 meses  
-**MKT de Conteúdo**: Conteúdo relevante ao leitor.  
-🕖️ 4 a 8 meses  
-**MKT de Eventos**: Divulga produtos ou marca por meio de eventos, feiras, palestras, etc. Inclui criar o próprio evento ou participar de outros.  
-⚡ 🕖️ dias, semanas  
-**MKT de Guerrilha** Ações criativas e de impacto em locais públicos.  
-⚡ 🕖️ dias, semanas  
-**MKT de Influenciadores** Parcerias com criadores de conteúdo para divulgar produtos.  
-⚡ 🕖️ dias, semanas  
-**MKT Interno** <sup>*Endomarketing*</sup>  
-🕖️ 3 a 9 meses  
-**MKT de mídia social** <sup>*Social media MKT*</sup>  
-🕖️ 3 a 9 meses  
-**MKT de Performance**: Foco em resultados mensuráveis (cliques, leads, vendas).  
-⚡ 🕖️ horas, dias  
-**MKT de Relacionamento** Fidelização e retenção de clientes.  
-🕖️ meses anos  
-**MKT Digital Pago (Ads)**: Anúncios pagos em redes sociais e buscadores.  
-⚡ 🕖️ horas, dias  
-**MKT Pago** Mídia Paga / Ads  
-⚡ 🕖️ dias, semanas  
-**MKT para motores de busca ou MKT de Busca** <sup>SEM - *Search Engine Marketing*</sup>: SEO e links patrocinados (Google Ads, por ex.).  
-**Neuromarketing**.  
-**Produção de Vídeo**.  
-**Publirreportagem**: Conteúdo publicitário patrocinado tentando parecer um artigo.  
-**Remarketing**: Estratégia que visa aumentar as vendas e conversões. É apresentar anúncios a usuários que já mostraram interesse em uma empresa.  
-**SEO** Melhora o posicionamento orgânico no Google.  
-🕖️ 3 a 9 meses  
-**Site**: Pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
-
-
-
-###### Contexto de Uso - Termos no SEO / Google Ads
-
-Termo para o Topo e Nicho
-
-| "Topo"*<br />(Massa) | "Nicho"*<br />(Específico) |
-| :--- | :--- |
-| **Head Tail**<br />palavra-chave curta | **Long Tail***<br />palavra-chave longa |
-
-###### Head Tail / Long Tail: Softwares
-
-
-| Representação do Short Head (Massa) | Representação da Long Tail (Nicho) |
-| :---: | :---: |
-|**ERP**|**ERP**|
-| Curva A: 20% dos produtos que geram 80% da receita. | Curva C: Itens de baixa rotação que ocupam espaço. |
-|**CRM**|**CRM**|
-| Key Accounts: grandes clientes que sustentam o faturamento. | Long Tail de Clientes: milhares de pequenos clientes atomizados. |
-|**Google Analytics**|**Google Analytics**|
-| Head Keywords: palavras genéricas com alto volume/custo. | Consultas de Pesquisa: frases longas a base de cliques. |
-|**E-commerce**|**E-commerce**|
-| Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
 
 
 
@@ -291,37 +178,6 @@ xxx
 **MRR** <sup>Monthly Recurring Revenue - receita recorrente mensal</sup>: Métricas para avaliar a saúde do negócio no modelo SaaS, pois mede a soma de todas as entradas recorrentes originadas de assinaturas do serviço. O MRR serve para o empresário ter maior previsibilidade sobre o faturamento do mês e planejar suas estratégias e custos de maneira que não prejudique a saúde financeira.
 
 **CAC** <sup>Customer Acquisition Cost</sup>: métrica que mostra o custo de aquisição de clientes, ou seja, quanto o negócio está investindo para conquistar cada novo cliente. Essa métrica, comparada ao LTV, ajuda a entender se os investimentos estão valendo a pena ou se estão altos demais em relação ao seu retorno.
-
-xxx
-
-
-## MKT de Busca <sup>*SEM - Search Engine Marketing*</sup>
-
-Estratégias digitais que visam promover um site nas páginas de resultados dos buscadores (SERPs). O objetivo é garantir que, quando alguém pesquisar por algo relacionado ao seu negócio, você esteja lá.
-
-    SEM = SEO + SEA
-
-
-###### SEO vs. SEA
-
-|SEO|SEA|
-|:---:|:---:|
-|**resultado**|**resultado**|
-|Médio a longo prazo|Imediato|
-|**posicionamento**|**posicionamento**|
-|No "meio" da página de busca|No topo ou rodapé (com a tag "Anúncio")|
-|**foco**|**foco**|
-|Autoridade, conteúdo e técnica|Segmentação, lances e conversão rápida|
-
-⚠️ Se está pagando para aparecer no topo agora mesmo, está fazendo SEA/Links Patrocinados.
-
-
-###### SEO - variações
-
-|SEO On-page|Off-page|SEO Técnico|
-|:---:|:---:|:---:|
-|Palavras-chave, títulos e qualidade do conteúdo.|Conseguir links de outros sites (Backlinks) para ganhar autoridade.|Velocidade do site e facilidade de leitura para robôs.|
-
 
 
 É isso!  
