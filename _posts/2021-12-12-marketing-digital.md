@@ -5,6 +5,7 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 📚️ *MKT*: abreviação de marketing.
 
+- Público-alvo vs. Persona
 - MKT Digital: Principais objetivos
 - Teia e  Método 8ps
 - Head Tail vs. Long Tail
@@ -17,6 +18,62 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 
 
+
+## Público-alvo vs. Persona
+
+###### Público-alvo
+
+Diferente de estratégia, era um pré-requisito. Na era do rádio/TV, definir o público-alvo era como escolher em qual canal você ia anunciar. Era uma segmentação grosseira, quase um dado logístico: "Se eu vendo fralda, anuncio no intervalo da novela; se vendo cerveja, anuncio no futebol". Era passivo.
+
+###### Persona
+
+É um indivíduo teórico (prototipado) do cliente, feito pela empresa.
+Ou seja, é uma representação fictícia criada para personificar o cliente ideal.
+
+**Como fazer?** A empresa pega dados brutos (pesquisas, histórico de compras, comportamento) e transforma isso em um "protótipo" de ser humano.
+**Pra que fazer isso?** Usa-se esse protótipo para testar se a mensagem do MKT funciona antes de se gastar dinheiro com o público real.
+Uma tentativa de dar um rosto/nome para a estatística. Em vez de a empresa dizer "precisamos vender para o grupo A", ela diz "precisamos vender para o indivíduo teórico que criamos".
+
+**Alvo:**: O indivíduo teórico idealizado.
+
+
+###### Resumo: publico alvo vs. persona
+
+|publico alvo| persona|
+|:---:|:---:|
+|historicmente|historicmente|
+|conceito com décadas anterior a persona|é uma "técnica" de atuação muito mais recente; uma versão evoluída e refinada de Público-Alvo|
+|visão|visão|
+|Macro|Micro|
+|diferença na "evolutiva"|diferença na "evolutiva"|
+|é estático|é dinâmica|
+|O básico|A evolução|
+|É uma descrição. Ele apenas delimita um território. É o "o que é".|É um instrumento de *design*. Ela não só descreve, ela dita o tom de voz, o canal, o tipo de imagem e até o preço.|
+
+🤔️ A Persona não "matou" o Público-Alvo, ela se construiu sobre ele; sendo é a evolução do MKT que entende que dados demográficos não compram produtos, pessoas compram.
+
+
+
+###### Softwares, persona e afins
+
+Make My Persona (HubSpot): A ferramenta mais clássica e gratuita. É um guia interativo que vai montando a ficha do "indivíduo teórico" conforme você responde.
+Gerador de Personas (Rock Content)
+Google Analytics:
+SparkToro: Essencial para entender o "estilo de vida" teórico. Você digita um assunto e ele te diz quais contas de Instagram, YouTube e Podcasts aquele perfil consome.
+Semrush/SimilarWeb (Analisam o comportamento dos clientes dos seus concorrentes)
+Google Analytics 4 (GA4): O rei dos dados. Ele te diz idade, cidade, interesses e o que as pessoas buscam no seu site.
+Hotjar: Ele grava a tela dos usuários e gera mapas de calor. Você vê "a persona" agindo, onde ela clica e onde ela trava.
+Xtensio
+Userforge: Focado em criar personas rápidas e colaborativas, permitindo que várias pessoas da equipe editem o perfil do "indivíduo".
+Mautic (FOSS).
+Matomo (A alternativa ao Google Analytics)
+
+###### Persona e estratégias de MKT
+
+Persona feita, pode-se usar várias estratégias de MKT digital.
+
+
+👉️ Vide [Estratégias de MKT Digital](/private).
 
 
 ## MKT Digital: Principais objetivos
