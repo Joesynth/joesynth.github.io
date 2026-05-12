@@ -1,16 +1,82 @@
 # Estratégias de MKT Digital
 
+📚️ MKT = *marketing*.
 
 
 
 
-## MKT para motores de Busca <sup>SEM - *Search Engine Marketing*</sup>
+## Outbound Marketing
+📚️ Também conhecido como *marketing* de interrupção.  
+📚️ *outbound*: saída. 
+
+MKT tradicional.
+
+Método antigo com técnicas de venda direta e publicidade para atingir um público amplo.
+
+|antigo|recente|
+|:---:|:---:|
+|Anúncios em rádio, TV, Outdoor.<br />Distribuição de folhetos.<br />Telemarketing.<br />|Cold call.<br />Google Ads (banners de anúncio).<br />E-mails marketing.<br />|
+
+
+
+
+
+## Outbound 2.0
+
+Metodologia de Aaron Ross, que revolucionou os resultados da Salesforce.
+Baseia-se na segmentação e especialização do time de vendas
+Divide o time de vendas em:
+
+|Hunters|Closers|Farmers|
+|:---:|:---:|:---:|
+|identificar potenciais clientes, entender necessidades...|responsáveis por fechar vendas|responsáveis por manter o engajamento do cliente|
+
+ft:ai
+
+###### Ferramentas clássicas
+
+✔ Banner: É intrusivo, inclusive interrompe, ou feito para interromper (cores forte, animações que piscam, intuito "gritar"). Quer se destacar da página, por ex., um retângulo colorido. É interruptivo. Ele "grita" por atenção e compete visualmente com o que você está tentando ler. Ex.: "Compre Agora" ou "50% de Desconto".  
+✔ Pop-up: Banner q abre do nada e tem o x, sendo mais intrusivo que o próprio banner.  
+
+
+
+
+
+## MKT de Atração <sup>Inbound Marketing</sup>
+
+Criação de conteúdo relevante para o público-alvo, criar relação de confiança.  
+
+Vide [Inbound MKT](/inbound-mkt).
+
+
+
+
+
+## SEM <sup>*Search Engine Marketing* - MKT para Motores de Busca</sup>
 
 <small>Ou MKT de Busca</small>
 
-SEO e links patrocinados (Google Ads, por ex.).  
+**SEO**: Melhora o posicionamento orgânico no Google.  
+🕖️ 3 a 9 meses  
 
-Estratégias digitais que visam promover um site nas páginas de resultados dos buscadores (SERPs). O objetivo é garantir que, quando alguém pesquisar por algo relacionado ao seu negócio, você esteja lá.
+**SEA** <sup>Search Engine Advertising - Publicidade em Motores de Busca</sup>
+
+
+###### SEO e links patrocinados
+
+Estratégias digitais que visam promover um site nas páginas de resultados dos buscadores (SERPs). Objetivo? Garantir que, quando alguém pesquisar por algo relacionado ao seu negócio, você esteja lá.
+
+Ou seja, sabendo que o Google sabe várias coisas sobre cada site, cada empresa na internet se adapta a isso _e assim poder surgir nos primeiros resultados das buscas, portanto em vantagem diante dos seus concorrentes. Na prática...?
+
+
+|SEO|links patrocinados|
+|:---:|:---:|
+|Cada dono de site melhora o seu próprio site conforme as regras do Google.|Google Ads, por ex.|
+
+Então, o trabalho de **SEO** é fazer exatamente isso: otimizar (um site) para o mecanismo de busca, e assim ter *SuaMarca* aparecendo nas primeiras páginas do Google.
+
+👉️ [O Poder do Google](/private), [SEO On Page](/private), [Software SEO](/private).
+
 
 > SEM = SEO + SEA
 
@@ -59,7 +125,17 @@ Termo para o Topo e Nicho
 | Home Page (Vitrine): onde ficam os produtos "campeões". | Busca Interna / Filtros: onde o cliente acha o item raro. |
 
 
+
+
 ## Mídia Própria e Mídia Alugada
+
+x
+<small>
+Mídia Alugada: É classificada como Shared Media (Mídia Compartilhada) ou, quando envolve anúncios, Paid Media (Mídia Paga).  
+Mídia Própria <sup>Owned Media</sup>: Site é classificado dessa forma. Estrategicamente, é o seu Ativo Digital <sup>Digital Asset</sup> principal.  
+ft:ia
+</small>
+
 x
 
 **Mídia Alugada**: Canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
@@ -96,7 +172,7 @@ Nesse contexto, o site ou as redes sociais podem ser vistos como ferramentas par
 
 **Mídia ganha**: quando os outros falam de SuaMarca naturalmente.
 
-👉️ Entenda mais lendo [Mídia Própria e Mídia Alugada](/private), [Site vs. Rede Social](/private), [Estratégias de MKT Digital](/private) e [Marketing Digital](/private).  
+👉️ Entenda mais lendo [Mídia Própria e Mídia Alugada](/private), [Site vs. Rede Social](/private) e [Marketing Digital](/private).  
 
 
 
@@ -127,8 +203,55 @@ Há meios de se trabalhar para que *SeuSite* tenha prioridade sobre a mídia alu
 ###### Blog
 
 No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que contribuirá na divulgação.  
-**Objetivo**: Captar o interesse dos internautas, isto é, atrair mais acessos para aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.  
-**Na prática** o truque é que as pessoas virem visitantes do *blog*, depois assinantes, e por fim clientes.
+
+|objetivo|na prática|
+|:---:|:---:|
+|Captar o interesse dos internautas, isto é, atrair mais acessos para aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.|O truque é que as pessoas virem visitantes do *blog*, depois assinantes, e por fim clientes.|
+
+
+## Estratégias de MKT Digital - Outros Casos - Resumo - Tempo
+
+
+<pre>Legenda
+⚡ Rápido, age rápido.
+🕖️ Tempo.
+</pre>
+
+
+**Ações de engajamento**: engajamento é um conjunto de técnicas que visam aumentar a interação do público com a marca.  
+**Busca de Tendências**: Google Trends.  
+**Consentimento dos usuários**: Estratégia que deve ser clara e explícita, de acordo com a LGPD (Lei Geral de Proteção de Dados).  
+**Co-marketing**: MKT colaborativo ou marketing em parceria. Bem eficaz, é a parceria entre duas empresas, geralmente com público-alvo parecido, mas que não são concorrentes diretas.  
+**E-mail MKT**: Envio de mensagens segmentadas para leads e clientes.  
+⚡ 🕖️ dias, semanas  
+**MKT de Afiliados**: Vendas via comissões por meio de parceiros.  
+⚡ 🕖️ semanas, meses  
+**MKT de Causa** <sup>*Cause-related MKT*</sup>  
+🕖️ 4 a 8 meses  
+**MKT de Conteúdo**: Conteúdo relevante ao leitor.  
+🕖️ 4 a 8 meses  
+**MKT de Eventos**: Divulga produtos ou marca por meio de eventos, feiras, palestras, etc. Inclui criar o próprio evento ou participar de outros.  
+⚡ 🕖️ dias, semanas  
+**MKT de Guerrilha** Ações criativas e de impacto em locais públicos.  
+⚡ 🕖️ dias, semanas  
+**MKT de Influenciadores** Parcerias com criadores de conteúdo para divulgar produtos.  
+⚡ 🕖️ dias, semanas  
+**MKT Interno** <sup>*Endomarketing*</sup>  
+🕖️ 3 a 9 meses  
+**MKT de mídia social** <sup>*Social media MKT*</sup>  
+🕖️ 3 a 9 meses  
+**MKT de Performance**: Foco em resultados mensuráveis (cliques, leads, vendas).  
+⚡ 🕖️ horas, dias  
+**MKT de Relacionamento** Fidelização e retenção de clientes.  
+🕖️ meses anos  
+**MKT Digital Pago (Ads)**: Anúncios pagos em redes sociais e buscadores.  
+⚡ 🕖️ horas, dias  
+**MKT Pago <sup>Paid Media</sup>**: Mídia Paga / Ads. Conceito macro. É qualquer estratégia que se paga para aparecer _Ads ou MKT offline (revistas, outdoors, patrocínio de eventos físicos, rádio).   
+⚡ 🕖️ dias, semanas  
+**Neuromarketing**.  
+**Produção de Vídeo**.  
+**Publirreportagem**: Conteúdo publicitário patrocinado tentando parecer um artigo.  
+**Remarketing**: Estratégia que visa aumentar as vendas e conversões. É apresentar anúncios a usuários que já mostraram interesse em uma empresa.  
 
 
 
