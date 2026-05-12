@@ -11,9 +11,6 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 - Head Tail vs. Long Tail
 - MKT digital - estratégias
 - Termos relacionados ao marketing digital
-- Content Marketing
-- Outbound Marketing
-- Inbound MKT (marketing de atração)
 - MKT: Custos
 
 
