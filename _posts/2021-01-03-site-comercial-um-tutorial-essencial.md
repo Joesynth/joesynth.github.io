@@ -148,33 +148,44 @@ Sabermos como o Google funciona é vital para termos resultados na Web, inclusiv
 Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 
+
+
 ## Comunicação / Marketing
 
 📚️ MKT = *marketing*.  
 
-O *MKT* começa antes mesmo da empresa criar o seu próprio site, veja:  
+###### Produção do site
 
-|antes da criação|durante|depois de pronto|
+O *MKT* começa antes mesmo da empresa criar o seu próprio site. Veja:  
+
+|pré-produção|produção|pós-produção|
 |:---:|:---:|:---:|
 |Definir o público-alvo|Está no código em si do site (em páginas, imagens etc).| Co-existirá por toda a vida da marca.|
 
+O MKT marketing define para quem o site está sendo feito.
+Se público é Geração Z, então site rápido, visual e focado em mobile.
+Caso diretores de empresas B2B, então site com tom mais formal, dados técnicos e fácil acesso a orçamentos.
+
+**Arquitetura de Conversão (Estratégia)**: Antes de desenhar, o MKT define o objetivo principal. É...?
+
+    gerar vendas diretas (e-commerce)?
+    capturar e-mails (landing page)?
+    apenas autoridade de marca (site institucional)?
+
+Isso dita onde os botões (CTAs) estarão e qual será a jornada do usuário.  
+
+**SEO Estratégico (Busca)**: O MKT de busca começa no planejamento. Deve-se saber quais palavras-chave seu cliente usa para que a estrutura de páginas (e URLs) do site já nasçam otimizadas para o Google. Inserir SEO "guela abaixo" em um site já pronto é mais difícil do que criá-lo otimizado.
+
+O MKT pode até analisar sites concorrentes, permitindo que SeuSite já nasça com um diferencial competitivo.
+
+A competição na internet não é "só" por dinheiro, é por atenção também. Mesmo um site sem interesse comercial disputa por visualisações na web _caso de um *blog* que fala sobre sobre fotografia em preto e branco, uma ONG etc.
+
+
+O tema é bem amplo, então veja [Estratégias de MKT Digital](/private) e [Marketing Digital](/private).
 
 
 
-## Comunicação / Marketing Digital
-
-
-
-
-
-
-## MKT
-
-
-Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
-
-
-xxx
+## Criando SeuSite
 
 ###### Plataformas de construção de sites - Elementor (Wp) - Wix
 
@@ -202,16 +213,35 @@ Além da confiança (autoridade), que tira obstáculos (medos) do caminho, há a
 
 > "O mundo contemporâneo é uma creche para adultos" *[Felipe Pondé, filósofo]*.
 
-Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica. A facilidade fútil dará um site pronto, mas raramente eficiente como um projeto planejado.
+Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica. A facilidade fútil lhe dará um site pronto, mas raramente eficiente como um projeto planejado.
 
 
-**Aprisionamento Tecnológico** <sup>Vendor Lock-in</sup>: Dependência tecnológica. Com o cliente conquistado, a empresa cria mil barreiras para ele não migrar para o concorrente. O cliente está ali não por prazer, mas porque há ônus em sair.
+**Aprisionamento Tecnológico** <sup>Vendor Lock-in</sup>: Dependência tecnológica. Com o cliente conquistado, a empresa cria mil barreiras para ele não migrar para o concorrente. O cliente está ali não por prazer, mas porque há ônus em sair.  
+
+
 |incompatibilidade|barreira de saída|propriedade limitada|
 |:---:|:---:|:---:|
 |Site feito no Wix não pode ser exportado para o WP, por exe., devendo ser refeito do zero.|Custo em tempo, dinheiro e esforço para migrar, o que supera o benefício de sair _e lhe força a aceitar aumentos de preços ou limitações da plataforma.|Você é dono do conteúdo, mas não da "engrenagem" que o faz funcionar. Aluga-se a tecnologia, se parar de pagar, deixa-se de existir.|
 
+###### Investimentos e mão de obra qualificada
+
+Veja [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
+FALTA REVISAR
+
+
+## Site "no ar"!
+
+Com *SeuSite* publicado é hora de focar em gestão, conteúdo, administração, MKT digital.
+
+
 
 xxx
+## MKT Digital
+
+
+Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
+
+
 ##
 
 xxx
