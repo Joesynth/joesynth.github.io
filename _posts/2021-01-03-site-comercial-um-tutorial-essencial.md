@@ -187,7 +187,7 @@ O tema é bem amplo, então veja [Estratégias de MKT Digital](/private) e [Mark
 
 ## Criando SeuSite
 
-###### Plataformas de construção de sites - Elementor (Wp) - Wix
+###### Plataformas de construção de sites - Elementor (WP) - Wix
 
 Não use. Mais que isso, conheça as táticas adotadas por essas plataformas e as utilize a seu favor:
 
@@ -198,18 +198,18 @@ Não use. Mais que isso, conheça as táticas adotadas por essas plataformas e a
 O gatilho? Usuário investe horas montando um site, logo, a barreira psicológica para abandonar a plataforma é alta.  
 A conversão (pagamento): Quando o usuário precisar de um domínio próprio (tirar o ".wixsite.com", por ex.) ou de um recurso avançado, já está "preso" à plataforma, logo, tende a pagar pelo plano Premium.
 
-<small>**1**: Enquanto no *inbound MKT* consome-se conteúdo de forma passiva, no *freemium* usa-se as ferramentas do software de fato para solucionar problemas.
+<small>**1**: Enquanto no *inbound MKT* consome-se conteúdo de forma passiva, no *freemium* usa-se as ferramentas do software de fato para solucionar problemas.  
 **2**:PQL (Product Qualified Lead). O "lead comum" dá o e-mail em troca de um e-book, e o PQL já está dentro do sistema, com a mão na massa testando e usando recursos reais.
 </small>
 
 
-**Propaganda interna**: uma das engrenagens mais poderosas para converter o usuário gratuito em cliente pagante. Há um tipo específico de anúncio que fica camuflado, se parecendo conteúdo (ou interface) para não parecer publicidade comum.
+**Propaganda interna**: uma das engrenagens mais poderosas para converter o usuário gratuito em cliente pagante. Há um tipo específico de anúncio que fica camuflado, se parecendo conteúdo (ou interface) para não parecer publicidade comum. Vide [Estratégias de MKT Digital](/private).  
 
 **Autoridade (ser referência)**: Como vimos é a confiança. Autoridade de marca (Wix, por ex.) é um gatilho de segurança psicológica para o leigo. A publicidade faz o usuário associar fama à confiabilidade técnica, e no efeito manada escolhe-se a plataforma só porque "todos usam" (ou seja, reduzir a percepção de risco para o leigo).
 
 Além da confiança (autoridade), que tira obstáculos (medos) do caminho, há a necessidade (desejo) que puxa o cliente pra frente.
 
-**Comodidade**: Uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade, lhe sobrando tempo para trabalho, família. Porém, quando facilidade deixa de ser para economizar tempo e vira o objeto final, com futilidade, temos uma distorção.  
+**Comodidade**: Por exemplo. Uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade, lhe sobrando tempo para trabalho, família. Porém, quando facilidade deixa de ser para economizar tempo e vira o objeto final, com futilidade, temos uma distorção.  
 
 > "O mundo contemporâneo é uma creche para adultos" *[Felipe Pondé, filósofo]*.
 
@@ -223,13 +223,18 @@ Num site o "preço" alto será a performance degradada (site lento) e a dependê
 |:---:|:---:|:---:|
 |Site feito no Wix não pode ser exportado para o WP, por exe., devendo ser refeito do zero.|Custo em tempo, dinheiro e esforço para migrar, o que supera o benefício de sair _e lhe força a aceitar aumentos de preços ou limitações da plataforma.|Você é dono do conteúdo, mas não da "engrenagem" que o faz funcionar. Aluga-se a tecnologia, se parar de pagar, deixa-se de existir.|
 
-###### Investimentos e mão de obra qualificada
+###### Mão de obra qualificada
 
-Veja [Site Institucional ou Loja Virtual](/site-institucional-ou-loja-virtual).
-FALTA REVISAR
+Veja [Site Institucional ou Loja Virtual](/private).
 
+###### Investimentos
 
-## Site "no ar"!
+A produção de um site institucional pode ficar entre U$250,00 a U$2500,00. Como vimos, um site é um software de computador e os recursos variam bastante. Quem vai criar deve entender o desejo e demandas da empresa; bem como alertar das possibilidades.  
+Veja [Site Institucional ou Loja Virtual](/private).
+
+######
+
+###### Site "no ar"!
 
 Com *SeuSite* publicado é hora de focar em gestão, conteúdo, administração, MKT digital.
 
