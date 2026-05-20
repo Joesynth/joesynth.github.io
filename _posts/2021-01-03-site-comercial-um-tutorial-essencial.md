@@ -158,19 +158,21 @@ Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 O *MKT* começa antes mesmo da empresa criar o seu próprio site. Veja:  
 
-|pré-produção|produção|pós-produção|
+**Pré-produção**: Definir nome do site com estratégia (e não mera escolha "no tiro"); público-alvo etc.  
+Saber para quem o site "fala" é um ponto chave. Se público é Geração Z, então site rápido, visual e focado em *mobile*.
+Caso diretores de empresas B2B, então site com tom formal, dados técnicos, fácil acesso a orçamentos.
+**Produção**: Está no código em si do site (em páginas, imagens etc).  
+**Pós-produção**: Co-existirá por toda a vida da marca.  
+
+📚️ B2B: Business-to-Business, Empresa para Empresa.
+
+
+**Arquitetura de Conversão (Estratégia)**: Antes de desenhar, o MKT define o objetivo principal.
+
+|Site Institucional|E-commerce|Landing Page|
 |:---:|:---:|:---:|
-|Definir o público-alvo|Está no código em si do site (em páginas, imagens etc).| Co-existirá por toda a vida da marca.|
-
-O MKT marketing define para quem o site está sendo feito.
-Se público é Geração Z, então site rápido, visual e focado em mobile.
-Caso diretores de empresas B2B, então site com tom mais formal, dados técnicos e fácil acesso a orçamentos.
-
-**Arquitetura de Conversão (Estratégia)**: Antes de desenhar, o MKT define o objetivo principal. É...?
-
-    gerar vendas diretas (e-commerce)?
-    capturar e-mails (landing page)?
-    apenas autoridade de marca (site institucional)?
+|apenas autoridade de marca?|gerar vendas diretas?|capturar e-mails?|
+    
 
 Isso dita onde os botões (CTAs) estarão e qual será a jornada do usuário.  
 
@@ -181,9 +183,17 @@ O MKT pode até analisar sites concorrentes, permitindo que SeuSite já nasça c
 A competição na internet não é "só" por dinheiro, é por atenção também. Mesmo um site sem interesse comercial disputa por visualisações na web _caso de um *blog* que fala sobre sobre fotografia em preto e branco, uma ONG etc.
 
 O sucesso de um site é medido por vários indicadores (número de visitantes, taxa de conversão etc).  
-O tema é bem amplo, então veja [Estratégias de MKT Digital](/private) e [Marketing Digital](/private).
+O tema é bem amplo. Veja [Marketing Digital](/private) e [Estratégias de MKT Digital](/private).
 
 
+###### Mídia alugada
+
+O pŕoprio site é...
+
+    o destino final de toda a mídia alugada.
+    o melhor lugar virtual para fechar vendas.
+
+👉️ Para mídia alugada vide [Estratégias de MKT Digital](/private).
 
 
 ## Criando SeuSite
