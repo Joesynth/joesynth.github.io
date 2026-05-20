@@ -180,12 +180,17 @@ O MKT pode até analisar sites concorrentes, permitindo que SeuSite já nasça c
 
 A competição na internet não é "só" por dinheiro, é por atenção também. Mesmo um site sem interesse comercial disputa por visualisações na web _caso de um *blog* que fala sobre sobre fotografia em preto e branco, uma ONG etc.
 
-
+O sucesso de um site é medido por vários indicadores (número de visitantes, taxa de conversão etc).  
 O tema é bem amplo, então veja [Estratégias de MKT Digital](/private) e [Marketing Digital](/private).
 
 
 
+
 ## Criando SeuSite
+
+- Plataformas de construção de sites
+- Mão de obra qualificada
+- Investimento
 
 ###### Plataformas de construção de sites - Elementor (WP) - Wix
 
@@ -227,24 +232,24 @@ Num site o "preço" alto será a performance degradada (site lento) e a dependê
 
 Veja [Site Institucional ou Loja Virtual](/private).
 
-###### Investimentos
+###### Investimento
 
 A produção de um site institucional pode ficar entre U$250,00 a U$2500,00. Como vimos, um site é um software de computador e os recursos variam bastante. Quem vai criar deve entender o desejo e demandas da empresa; bem como alertar das possibilidades.  
 Veja [Site Institucional ou Loja Virtual](/private).
 
-######
 
-###### Site "no ar"!
+
+
+## Site "no ar"!
 
 Com *SeuSite* publicado é hora de focar em gestão, conteúdo, administração, MKT digital.
 
 
 
-xxx
-## MKT Digital
+###### MKT Digital
 
 
-Como vimos a internet é um ambiente comercial e o Google tem um enorme poder. Portanto *marketing* digital é vital.
+Como vimos a internet é um ambiente comercial, o MKT começa mesmo antes de se criar o *SeuSite* e o Google tem um enorme poder. Portanto *marketing* digital é vital.
 
 
 ##
