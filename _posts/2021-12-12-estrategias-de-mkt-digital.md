@@ -136,23 +136,24 @@ Mídia Própria <sup>Owned Media</sup>: Site é classificado dessa forma. Estrat
 ft:ia
 </small>
 
-x
+|Site|Mídia Alugada|
+|:---:|:---:|
+|Pilar central na internet que funciona como a "casa própria" da *SuaMarca*.|Canal que se constrói uma audiência, mas não temos total controle sobre ele.|
+|**exemplo**|**exemplo**|
+|SeuSite.com|Facebook.com|  
 
-**Mídia Alugada**: Canal que se constrói uma audiência, mas não temos total controle sobre ele. Exemplo: Facebook.  
-**Site**: Pilar central na internet que funciona como a "casa própria" da *SuaMarca*. Exemplo: *SeuSite.com*.  
-
-x
 São conceitos referentes a **canais de distribuição**. Observe:
 
-|mídia própria|mídia alugada|
+|Mídia Própria<br />Séc. XX|Mídia Alugada<br />Séc. XX|
 |:---:|:---:|
-|**Séc. XX**|**Séc. XX**|
 |*folders*, informativos, catálogos|rádio, tv, shopping|
-|**Séc. XXI**|**Séc. XXI**|
+
+|Mídia Própria<br />Séc. XXI|Mídia Alugada<br />Séc. XXI|
+|:---:|:---:|
 |*site* institucional|rede social|
 |meusite.com|facebook.com|
 |loja virtual|*marketplace*|
-|minhaloja.com|shopee.com|
+|minhaloja.com|shopee.com<br />netshoes.com.br<br />Mercado Livre|
 
 Seja antigamente ou hoje, note que o foco não é quem atua no "balcão" aparecendo, mas sim quem dá as regras do jogo.
 
