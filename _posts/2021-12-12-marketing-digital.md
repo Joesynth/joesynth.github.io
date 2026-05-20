@@ -50,6 +50,9 @@ Foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possíve
 **Extensão adequada**: ✔️ *.com* para comércio, *.ong* para ONGs, *.net* geralmente sites de TI, etc.  
 
 
+<small>O Branding tem séculos, e está associado a marcar (registrar) a fogo e ferro, e não talco onde se perderá facilmente.</small>
+
+
 ## Mídia Paga <sup>Paid Media</sup>
 
 Conceito amplo. É qualquer espaço publicitário, digital ou não, que você compra para divulgar _rádio etc.  
