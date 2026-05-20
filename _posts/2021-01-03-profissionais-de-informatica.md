@@ -27,26 +27,46 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 
 
 ## ✍️ Profissionais de programação
-**Web developer** (<span style="color: #0000ff">desenvolvedor web</span>): Trabalha com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*. Também lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou *marketing*, por exemplo.
 
-**Webmaster**: Toma decisões referentes ao *web developer* e o *web designer* (veja abaixo).
+
+
+
+
+
+
+**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: Termos semelhantes, onde um site moderno é dividido em duas partes: Front-End e Back-End.  O trabalho consiste...
+
+|Front-End|Back-End|Full-Stack|
+|:---:|:---:|:---:|
+|Cara do código web focado no visual e na interação.|Cara do código web focado nos servidores, segurança e banco de dados.|Cara que chuta com as duas pernas, dominando o Front e o Back.|
+|HTML, CSS, JavaScript|Node.js, Python, PHP|-|
+
+Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*_, bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
+
+<del>**Webmaster**</del>: surgido nos anos 90, era um faz tudo (*web developer*, *web designer*, criação de conteúdo, administração de servidor), .
 
 **Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).  
 
-
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|HTML/CSS/JS, jQuery, AngularJS|CMS, Framework, editores de código|
-
-
-**Desenvolvedor JavaScript**: Tem foco nesta linguagem. É um especialista.
-💰 Acima de $3000,00.
+|HTML/CSS/JS|editores de código, jQuery, CMS, Framework (AngularJS)|
 
 **Desenvolvedor Back-End**: É especialista nessa área, isto é, lidar com infraestrutura, banco de dados.  
 
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|NodeJS, PHP, C#, Java, JSP...|NodeJS, NPM, CLI, Framework, editores de código|
+|JS, PHP, C#, Java, JSP...|editores de código, CLI, NodeJS, NPM, Framework|
+
+
+**Desenvolvedor JavaScript**<sup>JavaScript Developer</sup>: Tem foco nesta linguagem. É um especialista.
+
+| 🤖️ | 🔧️ |
+| :---: | :---: |
+|HTML/CSS/JS|editores de código, Frameworks (React, Angular, Vue), jQuery|
+
+
+💰 Acima de $3000,00.
+
 
 
 ###### Exemplos de classificados
@@ -131,7 +151,7 @@ Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho
 
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|HTML/CSS| GIMP, Dreamweaver, Fireworks, Corew Draw|
+|HTML/CSS| Penpot, GIMP, Corew Draw, Dreamweaver, Fireworks|
 
 💰 Acima de $3000,00, é o que ganha um programador HTML e CSS.
 
