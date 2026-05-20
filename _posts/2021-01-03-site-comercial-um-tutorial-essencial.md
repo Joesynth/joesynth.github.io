@@ -1,6 +1,7 @@
 # Site comercial: um tutorial essencial
 
-Solicitamos um tempo adequado para a leitura.
+Solicitamos um tempo adequado para a leitura.  
+
 
 ⚠️  
 <small>
@@ -240,7 +241,18 @@ Num site o "preço" alto será a performance degradada (site lento) e a dependê
 
 ###### Mão de obra qualificada
 
-Veja [Site Institucional ou Loja Virtual](/private).
+**Terceirizar**: saiba em que atua os **profissionais de programação**?
+Veja [Profissionais de informática](/private) e [Site Institucional ou Loja Virtual](/private).
+
+Basicamente, alguns especialistas lidam mais com a aparência enquanto outros banco de dados.
+O "eu-equipe" é comum em projetos pequenos, mas raramente é excelente em todas as áreas (ex: um ótimo programador que é um mal *designer*).
+
+**Onde encontrar profissionais?**:
+
+[Telegram: 7 grupos interessantes](/telegram-grupos-interessantes).  
+
+Nós do *blog* *JoeSynth* também desenvolvemos SeuSite. e com parceirinhos bem bacanas, jovens que estão aprendendo a programar.  
+[Fale Conosco](servico);
 
 ###### Investimento
 
