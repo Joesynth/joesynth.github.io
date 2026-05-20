@@ -5,6 +5,7 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 📚️ *MKT*: abreviação de marketing.
 
+- PMKT
 - Público-alvo vs. Persona
 - MKT Digital: Principais objetivos
 - Teia e  Método 8ps
@@ -13,6 +14,17 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 - Termos relacionados ao marketing digital
 - MKT: Custos
 
+
+## PMKT <sup>Product Marketing (Marketing de Produto)</sup>
+
+4 Pilares do PMKT
+
+|||
+|:---:|:---:|
+|Público-Alvo (Persona)|Posicionamento e Mensagem|
+|Lançamento (Go-to-Market)|Capacitação de Vendas|
+
+Resumo? **Entender** o mercado, **posicionar** o valor, **lançar** com estratégia e **capacitar** o time comercial.
 
 
 
@@ -29,7 +41,7 @@ Ou seja, é uma representação fictícia criada para personificar o cliente ide
 
 **Como fazer?** A empresa pega dados brutos (pesquisas, histórico de compras, comportamento) e transforma isso em um "protótipo" de ser humano.
 **Pra que fazer isso?** Usa-se esse protótipo para testar se a mensagem do MKT funciona antes de se gastar dinheiro com o público real.
-Uma tentativa de dar um rosto/nome para a estatística. Em vez de a empresa dizer "precisamos vender para o grupo A", ela diz "precisamos vender para o indivíduo teórico que criamos".
+Uma tentativa de dar um rosto/ para a estatística. Em vez de a empresa dizer "precisamos vender para o grupo A", ela diz "precisamos vender para o indivíduo teórico que criamos".
 
 **Alvo:**: O indivíduo teórico idealizado.
 
