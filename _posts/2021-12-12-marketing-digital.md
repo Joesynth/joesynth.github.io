@@ -5,6 +5,8 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 
 📚️ *MKT*: abreviação de marketing.
 
+- Branding
+- Mídia Paga
 - PMKT
 - Público-alvo vs. Persona
 - MKT Digital: Principais objetivos
@@ -13,6 +15,48 @@ Apresentamos um tutorial voltado para micro e pequenas empresas, marcas.  Indo 
 - MKT digital - estratégias
 - Termos relacionados ao marketing digital
 - MKT: Custos
+
+## Branding <sup>Marca, Gestão de Marca</sup>
+
+Base para as estratégia de marketing, não é exclusivo do digital. Envolve construção de identidade, diferenciação (por que eu deveria comprar neste site e não no outro?), reputação e lembrança (SeuSite se torne um substantivo na cabeça do cliente).
+
+O nome do site (bem como a logomarca e as cores) tem a ver com a identidade. Semelhante... Quem somos nós? Qual o nosso propósito? Como queremos que o mundo nos veja?  
+
+O Branding é o conceito abstrato, a promessa que a empresa faz ao mercado.
+
+👉️ Dentro do Branding, existe uma disciplina específica chamada Naming (o processo de dar nome a coisas).  
+UberEats da Uber é um exemplo.
+
+
+###### Nome do site
+
+Parece só um nome, mas pela ótica do *marketing* digital é vital na estratégia. Um nome criado por inocência ou paixão pode ser um desastre se colidir com questões técnicas, por exemplo.
+
+Foque em nome que possa virar marca. Fácil falar, fácil memorizar _se possível que associe com o produto/serviço/ideia de alguma forma.
+
+
+
+**Nome vago** (ex. *dulyn.com*): pode vender qualquer coisa, em tese.  
+👍️ Se adapta ao tempo, novos produtos e novas ideias com facilidade.  
+👎️ O *marketing* terá que criar sentido para o nome, visto que as pessoas não ligam a palavra (a marca) a nada. Identidade conhecida é vital. Por exemplo, um logotipo pode não trazer sentido algum, sendo tão somente um desenho estiloso e belo. Nike e Honda podemos dizer que são nomes vagos, porém já existe sentido e associamos a tênis e a veículos.  
+**Nome muito específico** (ex.: *carrosTony.com*): ✖️ O nome do site ao "carimbar" o nome do produto, "carros", limita o mix de produtos da SuaEmpresa. É ideia oposta ao 'nome vago'.  
+**Nome com números** (ex.: *pipas346.com*): ✖️  
+**Marca Pessoal <sup>Personal Branding</sup>** (robertocarlos.com): O termo "roberto carlos" é o próprio produto: o artista.  
+**Usabilidade**: Amigável para dispositivos móveis. A maioria dos acessos de um site vem de celulares e não de *notebooks* ou *desktops*.
+👍️ Nome fácil de se digitar no celular.   
+👎️ Números: é preciso trocar o teclado para digitá-los, o que atrasa um pouco.  
+👎️ Nomes grandes ou com hífen. Péssimo!  
+**Nome quase copiado** (ex. *CocaTola.com*): ✖️ Domínio parece com marca famosa. O algoritmo do Google pode "achar" que seu site é uma tentativa de fraude ou cópia.
+**Extensão adequada**: ✔️ *.com* para comércio, *.ong* para ONGs, *.net* geralmente sites de TI, etc.  
+
+
+## Mídia Paga <sup>Paid Media</sup>
+
+Conceito amplo. É qualquer espaço publicitário, digital ou não, que você compra para divulgar _rádio etc.  
+
+No digital engloba tudo o que você paga para aparecer (influenciadores, portais de notícia, *banners* em sites).
+|_ MKT Digital Pago: Subgrupo da mídia paga. Acontece exclusivamente no ambiente online.
+
 
 
 ## PMKT <sup>Product Marketing (Marketing de Produto)</sup>
@@ -160,21 +204,9 @@ Long Tail: Niche Market, Mercado de Nicho, Cauda.
 
 ###### Head Tail / Long Tail: Exemplos de produto
 
-📚️ Marketing de Massa <sup>*Mass Marketing*</sup>: <small>Estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.</small> 
-
-<img src="https://cdn.prod.website-files.com/655cf2bd3b99fedfc8da27d1/655cf2bd3b99fedfc8da2c5a_Marketing%20pol%C3%ADtico.png" width="120" />**O político**: Exemplo clássico do uso de **Marketing de Massa**.
-
-<img src="https://f.i.uol.com.br/fotografia/2021/06/25/162465761160d64ecb0596c_1624657611_3x2_md.jpg" width="120" />**Lula e Bolsonaro**: A princípio Short Head, pelo volume massivo, mas opera-se na lógica de nicho algoritmo. Cada um desses produtos (de ideias) utilizam várias palavras-chaves.
+Veja Estratégias de MKT Digital.
 
 
-|Lula|Bolsonaro|
-|:---:|:---:|
-|meio-ambiente|armas|
-
- 
-
-🤔️ Antigamente um político poderia evitar falar coisas feias (para não perder votos). Mas hoje, fala-se para o nicho (cliente). 
-🤔️ O cliente quanto mais interage (digitalmente) mais alimenta o ciclo. 
 
 ## MKT digital - estratégias
 
@@ -196,12 +228,9 @@ Vide [Estratégias de MKT Digital](/private).
 ✔ Ciclo de Vida de um mercado
 ✔ Ciclo de Vida do produto ou serviço
 
-Mídia Paga <sup>Paid Media</sup>: Conceito mais amplo. É qualquer espaço publicitário, digital ou não, que você compra para divulgar _rádio etc.
-No digital engloba tudo o que você paga para aparecer (influenciadores, portais de notícia, *banners* em sites).
-|_ MKT Digital Pago: Subgrupo da mídia paga. Acontece exclusivamente no ambiente online.
 
 
-<img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="119" height="80" />Mais termos relacionados ao *MKT digital* incluem:
+<img src="https://neilpatel.com/wp-content/uploads/2019/11/cobranca-dos-anuncuios-de-site-no-google.jpeg" width="120" />Mais termos relacionados ao *MKT digital* incluem:
 ● Busca orgânica do Google e SERP, 
 ● Fan Page (Facebook),
 ● Ferramentas de anúncio para sua estratégia digital, 
