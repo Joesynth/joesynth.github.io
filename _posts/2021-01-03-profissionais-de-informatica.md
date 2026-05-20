@@ -43,13 +43,13 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 
 Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*_, bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
 
-<del>**Webmaster**</del>: surgido nos anos 90, era um faz tudo (*web developer*, *web designer*, criação de conteúdo, administração de servidor), .
+<del>**Webmaster**</del>: surgido nos anos 90, era um faz tudo (*web developer*, *web designer*, criação de conteúdo, administração de servidor).
 
 **Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).  
 
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|HTML/CSS/JS|editores de código, jQuery, CMS, Framework (AngularJS)|
+|HTML/CSS/JS, TypeScript|editores de código, jQuery, CMS, Framework (Angular, <del>AngularJS</del>)|
 
 **Desenvolvedor Back-End**: É especialista nessa área, isto é, lidar com infraestrutura, banco de dados.  
 
