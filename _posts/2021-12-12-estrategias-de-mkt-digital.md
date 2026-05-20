@@ -256,4 +256,41 @@ No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que cont
 
 
 
+
+
+## Marketing Tradicional <sup>Traditional Marketing</sup>
+
+Termos semelhantes.
+
+
+|MKT de Massa|MKT Outbound ou Outbound MKT|Mídia Offline ou MKT Offline|
+|:---:|:---:|:---:|
+|Foco no Alcance|Foco na Abordagem|Foco no Canal|
+
+
+
+## Marketing de Massa <sup>*Mass Marketing*</sup>
+
+Estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.
+
+<img src="https://cdn.prod.website-files.com/655cf2bd3b99fedfc8da27d1/655cf2bd3b99fedfc8da2c5a_Marketing%20pol%C3%ADtico.png" width="120" />**O político**: Exemplo clássico do uso de **Marketing de Massa**.
+
+
+<small>A Prensa de Gutenberg (Século XV) e a Prensa Industrial a Vapor (Século XIX) foram as sementes do MKT de massa, mas o rádio foi a grande ferramenta (que não precisava saber ler, e sim ouvir a mesma mensagem no mesmo segundo, então, definição pura de massa, além de criar conexão emocional com um locutor carismático).</small>
+
+###### Head Tail / Long Tail: Exemplos de produto
+
+<img src="https://f.i.uol.com.br/fotografia/2021/06/25/162465761160d64ecb0596c_1624657611_3x2_md.jpg" width="120" />**Lula e Bolsonaro**: A princípio Short Head, pelo volume massivo, mas opera-se na lógica de nicho algoritmo. Cada um desses produtos (de ideias) utilizam várias palavras-chaves.
+
+
+|Lula|Bolsonaro|
+|:---:|:---:|
+|meio-ambiente|armas|
+
+ 
+
+🤔️ Antigamente um político poderia evitar falar coisas feias (para não perder votos). Mas hoje, fala-se para o nicho (cliente). 
+🤔️ O cliente quanto mais interage (digitalmente) mais alimenta o ciclo. 
+
+
 \o/
