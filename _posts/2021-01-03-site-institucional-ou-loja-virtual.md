@@ -1,5 +1,8 @@
 ## Site Institucional ou Loja Virtual: qual escolher?
 
+
+Antes, leia [Site Comercial: Um Tutorial Essencial](/site-comercial-um-tutorial-essencial).
+
 <img src="https://joesynth.files.wordpress.com/2021/12/f7042-5ffd70_b46f985d4c574709b796b46c4339702emv2.jpg" width="120" /> A escolha entre um e outro depende de do proprietário analisar o contexto, afinal, donos e sócios sabem o que têm e o que possuem de referências e experiências em seu mundo real. Exemplo:
 ✔ Quanto há para investir?
 ✔ Quem pode colaborar nessa nova missão.
