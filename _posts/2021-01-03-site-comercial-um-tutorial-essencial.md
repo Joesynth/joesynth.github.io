@@ -10,7 +10,7 @@ Solicitamos um tempo adequado para a leitura.
 </small>
 
 - O que é um site?
-- Internet: um aparato comercial
+- Internet: é só um aparato comercial?
 - Comunicação estratégica: reputação
 - O poder do Google
 - Tipos de site... e comércio 
@@ -19,7 +19,7 @@ Solicitamos um tempo adequado para a leitura.
 
 
 
-## Internet: um aparato comercial
+## Internet: é só um aparato comercial?
 
 A internet nasceu militar no século passado, na época da Guerra Fria. Anos 80 houve quem acreditasse que a internet era para pesquisa e não comércio, sendo que nessa mesma época surgiu um serviço de compras *online*. Na década de 90, no Brasil, a internet comercial nasceu.
 
@@ -215,7 +215,7 @@ O gatilho? Usuário investe horas montando um site, logo, a barreira psicológic
 A conversão (pagamento): Quando o usuário precisar de um domínio próprio (tirar o ".wixsite.com", por ex.) ou de um recurso avançado, já está "preso" à plataforma, logo, tende a pagar pelo plano Premium.
 
 <small>**1**: Enquanto no *inbound MKT* consome-se conteúdo de forma passiva, no *freemium* usa-se as ferramentas do software de fato para solucionar problemas.  
-**2**:PQL (Product Qualified Lead). O "lead comum" dá o e-mail em troca de um e-book, e o PQL já está dentro do sistema, com a mão na massa testando e usando recursos reais.
+**2**: PQL (Product Qualified Lead). O "lead comum" dá o e-mail em troca de um e-book, e o PQL já está dentro do sistema, com a mão na massa testando e usando recursos reais.
 </small>
 
 
@@ -241,11 +241,13 @@ Num site o "preço" alto será a performance degradada (site lento) e a dependê
 
 ###### Mão de obra qualificada
 
-**Terceirizar**: saiba em que atua os **profissionais de programação**?
+Como vimos, o **desenvolvimento** de um site é uma tarefa multidisciplinar.
+Alguns especialistas lidam mais com a aparência do site (estética) enquanto outros banco de dados, vigilância, marketing e mesmo o site ser pensado como um produto em si.
+
+**Terceirizar**: para a equipe é bom conhecer os **profissionais de programação**.
 Veja [Profissionais de informática](/private) e [Site Institucional ou Loja Virtual](/private).
 
-Basicamente, alguns especialistas lidam mais com a aparência enquanto outros banco de dados.
-O "eu-equipe" é comum em projetos pequenos, mas raramente é excelente em todas as áreas (ex: um ótimo programador que é um mal *designer*).
+**Projetos pequenos**: e "eu-equipe" é comum para empresas menores, mas raramente é excelente em todas as áreas (ex: um ótimo programador que é um mal *designer*. Contudo, a experiência é fundamental no processo inicial.
 
 **Onde encontrar profissionais?**:
 
