@@ -3,6 +3,16 @@
 📚️ MKT = *marketing*.
 
 
+- Outbound Marketing
+- Outbound 2.0
+- MKT de Atração
+- SEM (SEO, SEA, links patrocinados)
+- Mídia Própria e Mídia Alugada
+- Estratégias de MKT Digital - Outros Casos - Resumo - Tempo
+- Marketing Tradicional (Marketing  )
+
+
+
 
 
 ## Outbound Marketing
@@ -210,6 +220,20 @@ No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que cont
 |Captar o interesse dos internautas, isto é, atrair mais acessos para aumentar o tráfego do *SeuSite*; ampliando as chances de fazer mais vendas.|O truque é que as pessoas virem visitantes do *blog*, depois assinantes, e por fim clientes.|
 
 
+
+
+## MKT Pago - Mídia Paga / Ads <sup>Paid Media</sup>
+
+Conceito macro. É qualquer estratégia que se paga para aparecer.
+
+|Mídia Paga Tradicional<br />(Off-line, MKT offline)|Mídia Paga Digital<br />MKT Digital Pago (Ads)|
+|:---:|:---:|
+|Revistas, outdoors, patrocínio de eventos físicos, rádio|Anúncios pagos em redes sociais e buscadores.|
+|⚡ 🕖️ dias, semanas |⚡ 🕖️ horas, dias  |
+
+
+
+
 ## Estratégias de MKT Digital - Outros Casos - Resumo - Tempo
 
 
@@ -245,10 +269,7 @@ No contexto do MKT o *blog* pode (e deve) estar incluso no *SeuSite*, o que cont
 ⚡ 🕖️ horas, dias  
 **MKT de Relacionamento** Fidelização e retenção de clientes.  
 🕖️ meses anos  
-**MKT Digital Pago (Ads)**: Anúncios pagos em redes sociais e buscadores.  
-⚡ 🕖️ horas, dias  
-**MKT Pago <sup>Paid Media</sup>**: Mídia Paga / Ads. Conceito macro. É qualquer estratégia que se paga para aparecer _Ads ou MKT offline (revistas, outdoors, patrocínio de eventos físicos, rádio).   
-⚡ 🕖️ dias, semanas  
+
 **Neuromarketing**.  
 **Produção de Vídeo**.  
 **Publirreportagem**: Conteúdo publicitário patrocinado tentando parecer um artigo.  
@@ -269,7 +290,7 @@ Termos semelhantes.
 
 
 
-## Marketing de Massa <sup>*Mass Marketing*</sup>
+###### Marketing de Massa <sup>*Mass Marketing*</sup>
 
 Estratégia de negócio que trata o mercado como um todo, ignora as diferenças de nichos.
 
