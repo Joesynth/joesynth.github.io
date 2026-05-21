@@ -2,15 +2,35 @@
 
 📚️ MKT = *marketing*.
 
-
+- Native Advertising
 - Outbound Marketing
-- Outbound 2.0
 - MKT de Atração
 - SEM (SEO, SEA, links patrocinados)
 - Mídia Própria e Mídia Alugada
 - Estratégias de MKT Digital - Outros Casos - Resumo - Tempo
-- Marketing Tradicional (Marketing  )
+- Marketing Tradicional e Marketing de Massa
 
+
+
+## Native Advertising <sup>Publicidade Nativa</sup>
+
+Estratégia de MKT digital, especificamente inserida na subárea de MKT de conteúdo e mídia paga (Outbound MKT).  
+
+
+**Objetivo**: Veicular anúncio que não interrompa a experiência do usuário, integrando a publicidade de forma orgânica ao formato do canal de comunicação.  
+
+Enquadra-se como uma tática de distribuição dentro do MKT de Conteúdo porque, para funcionar, o anúncio precisa entregar um conteúdo útil, informativo ou de entretenimento que seja relevante para o leitor, mimetizando a linha editorial do site.  
+
+
+**Native Ads**: peça publicitária concreta e executada (o material "palpável", objeto físico em si).  
+
+|Sponsored (Patrocinado) na SERP|Banner tradicional|
+|:---:|:---:|
+|Exemplo clássico de Native Advertising|Não pode ser considerado Native Advertising|
+
+
+Pode ocorrer em Mídia Própria ou Mídia Alugada.
+<small>O conceito de Native Advertising define o formato de integração visual da peça, independentemente de ela estar alocada em uma plataforma própria ou não</small>
 
 
 
@@ -27,11 +47,7 @@ Método antigo com técnicas de venda direta e publicidade para atingir um públ
 |:---:|:---:|
 |Anúncios em rádio, TV, Outdoor.<br />Distribuição de folhetos.<br />Telemarketing.<br />|Cold call.<br />Google Ads (banners de anúncio).<br />E-mails marketing.<br />|
 
-
-
-
-
-## Outbound 2.0
+###### Outbound 2.0
 
 Metodologia de Aaron Ross, que revolucionou os resultados da Salesforce.
 Baseia-se na segmentação e especialização do time de vendas
