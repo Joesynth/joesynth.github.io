@@ -102,20 +102,20 @@ HTML/CSS/JS, SCSS.
 Sistema de controle de versão GIT.
 Noções de Arquitetura REST.
 Frameworks de testes automatizados (Jest, React Testing Library...).
-Conhecimento em TypeScript.
+Conhecimento em TypeScript.  
 **Estágio Back End**:
 Uma das responsabilidades é ajudar a construir nossos produtos (SaaS, PaaS e Wallet)
 Tecnologias GO, SQL/NoSQL, AWS, Serveless, DevSecOps.
 Boas práticas de desenvolvimento de software (design patterns, SOLID, Clean code)
 Familiaridade com banco de dados SQL Postgres.
-Familiaridade com testes automatizados, cloud computing (desejável AWS).
+Familiaridade com testes automatizados, cloud computing (desejável AWS).  
 **Desenvolvimento Backend (Sênior)**:
 Experiência com C, ASP.NET, bem como desenvolvimento de Websites e APIs
-SQL Server.
+SQL Server.  
 **Desenvolvedor Backend**:
 PHP, frameworks (Laravel, Lumen)
 DB: MySQL, SQL Server, Postgres, MongoDB.
-Metodologia de trabalho: SCRUM
+Metodologia de trabalho: SCRUM  
 **Desenvolvedor especialista Backend (Sênior)**:
 Conhecimento em banco de dados vetorizados (PostgreSQL, MongoDB).
 GitLab e automação de infraestrutura (Docker, por ex.)
@@ -135,7 +135,7 @@ Dependendo da demanda de um ou outro profissional, estes ainda podem necessitar 
 <small>**Dev Angular/Nodejs**:
 JSON, Oracle SQL
 Inglês avançado.
-Área profissional: informática, TI.
+Área profissional: informática, TI.  
 **Desenvolvedor  DevOps**:
 Inglês avançado (incluindo conversação);
 Lógica de programação, redes (protocolos básicos de comunicação);
@@ -145,7 +145,7 @@ Banco de dados SQL;
 Ao menos duas linguagens de programação (Java, NodeJS, Python, Ruby, Go e PHP);
 Servidores Web (Apache, Nginx ou Tomcat);
 Git;
-Experiência com AWS, GCP ou Azure e docker;
+Experiência com AWS, GCP ou Azure e docker;  
 **Desenvolvedor PHP**:
 Servidor Linux: configuração, segurança e otimização.
 Banco de dados: MySQL (modelagem, otimização, integração).
@@ -186,12 +186,12 @@ HTML/CSS/JS; Bootstrap;
 Photoshop e Ilustrator (para design gráfico);
 UI e UX: conhecimento para melhorar a experiência do usuário;
 Familiaridade com Adobe Premiere para edição de videos;
-Diferencial: conhecimento em Google Ads e Facebook Ads (para campanhas publicitárias)**;
+Diferencial: conhecimento em Google Ads e Facebook Ads (para campanhas publicitárias)**;  
 UX Designer**:
 Atuar em diversos ambientes (desktop, mobile);
 Conhecimentos em métodos de pesquisa com usuários e benchmark;
 UX: conhecimento em elaboração de documentação (personas, jornadas de usuário, userflows); 
-HTML/CSS (diferencial): familiaridade em metodologias ágeis (Scrum e Kanban).
+HTML/CSS (diferencial): familiaridade em metodologias ágeis (Scrum e Kanban).  
 **Designer Gráfico Multimídia**:
 Criação de arte (vídeos, GIFs, motions);
 Uso em campanhas impressas e digitais _redes sociais, banners, apresentações e materiais institucionais);
@@ -277,7 +277,7 @@ Ao lidar com conteúdo é necessário facilidade com...
 *Middleware IIS, Apache, Nginx, Tomcat...*
 *HTML/CSS, Scripts (Shell, Powershell).*
 *Hardware (Dell, HP, Supermicro).*
-*Storage (Dell, HP, NetApp, Hitachi)*.
+*Storage (Dell, HP, NetApp, Hitachi)*.  
 **Analista de infraestrutura (Senior)**:
 *Servidores (Windows, Linux) e virtualização (VMware, Hyper-V etc).*
 *Gerenciar backup, planos de recuperação de desastres (DRP) e continuidde de negócios (BCP).*
@@ -388,7 +388,7 @@ Acompanhamento das redes sociais.
 Criação de campanhas e conteúdo. 
 Conhecimentos com Canva. 
 Gráficos/Web: Adobe Photoshop. 
-Edição de vídeo, edição de som, servidores de e-mail, servidores Web. 
+Edição de vídeo, edição de som, servidores de e-mail, servidores Web.  
 **Assistente de inbound marketing (Junior)**:
 HubSpot, RD Station (automação): experiência em ferramentas de marketing.
 CRM 'Marketing'. 
@@ -427,7 +427,7 @@ A cibersegurança e a segurança da informação são áreas parecidas mas não 
 <small>**Analista de segurança da informação (Jr)**:
 Gerenciar contratos e SLAs relacionados à segurança da informação.
 Resposta a ameaças como exploits, malware e ataques zero-day.
-Certificações (CEH, CISM, CompTIA Security+, CRISC, ISO 27001, ITIL, CISSP, CEH, OSCP, Microsoft Certified (SC-900) etc).
+Certificações (CEH, CISM, CompTIA Security+, CRISC, ISO 27001, ITIL, CISSP, CEH, OSCP, Microsoft Certified (SC-900) etc).  
 **Analista de segurança da informação (Sr)**:
 Certificações, contratos e SLAs: idem acima.
 Respostas a ameaças: idem acima.
@@ -451,16 +451,16 @@ JSON (entender o mínimo): criar e editar arquivos.
 Banco de dados MySQL (conhecimento básico): cadastrar/atualizar informações do banco de dados, adicionar usuário. 
 HTML/CSS/JS: fazer alterações básicas (trocar cores, fontes, criar telinhas simples). 
 Linux (entender o mínimo). 
-Interesse em jogos ou tecnologia voltada para o entretenimento. 
+Interesse em jogos ou tecnologia voltada para o entretenimento.  
 **Analista de infraestrutura de TI (Jr)**:
 Endereçamento IP, sub-redes e protocolos de comunicação (TCP/IP, DNS, DHCP);
 Configuração de roteadores e switches; 
 Firewall: Configuração (regras de acesso e monitoramento); 
-Backup e recuperação de dados (configuração e monitoramento de sistemas de backup); 
+Backup e recuperação de dados (configuração e monitoramento de sistemas de backup);  
 **Assistente de suporte em TI**:
 Desejável: conhecimento básico de SQL. 
 Experiência na atuação de suporte a hardware e sistemas. 
-Conhecimentos básicos de programação. 
+Conhecimentos básicos de programação.  
 **Analista de TI**:
 Garantir o versionamento dos códigos no repositório. 
 Desenvolvimento de interfaces de integração (API, WebServices). 
