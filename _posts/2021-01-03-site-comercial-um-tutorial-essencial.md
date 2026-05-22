@@ -25,6 +25,8 @@ A internet nasceu militar no século passado, na época da Guerra Fria. Anos 80 
 
 A comercialização na internet abrange a criação e o gerenciamento de serviços *on-line*, principalmente para ganho financeiro. Inclui-se ainda as técnicas avançadas de *marketing digital*, como publicidade personalizada e direcionada, uso de psicologia, espionagem (chamada de "vigilância").
 
+**A atenção**: A competição na internet não é "só" por dinheiro, é por atenção também. Mesmo um site sem interesse comercial disputa por visualisações na web _caso de um *blog* que fala sobre sobre fotografia em preto e branco, uma ONG etc.
+
 
 
 ## O que é um site?
@@ -46,7 +48,9 @@ Visto pelo lado do *marketing* um site é um canal de distribuição, e pela ót
 
 ###### Site institucional e loja virtual
 
-O **site institucional** é a sua empresa na web. Como vimos, além de ser o seu "cartão de visitas" na internet, há o banco de dados, recurso de vigilância dos usuários, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
+Ambos são sua empresa na web.
+
+Como vimos, o **site institucional**, além de ser o seu "cartão de visitas" na internet, possui o banco de dados, recursos de vigilância dos usuários, vendas etc. A **loja virtual** tem o mesmo poder, porém com um foco nas vendas automatizadas.
 
 Ambos podem ter ainda mais ferramentas conforme o projeto.
 
@@ -118,11 +122,11 @@ Com um site é parecido, veja:
 
 **<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuelintonmorelli.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2FAutoridade-Digital-1.jpg&f=1&nofb=1&ipt=304652502968bef033439b217f3f8673f0192c2b6489210d3a0c648d1c065c98" width="120" /> Autoridade**: A *SuaEmpresa* deve ser referência no nicho que atua, seja para consumidores, parceiros e concorrência. Isso gera respeito ao seu negócio, marca. 
 
-🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. É claro que, como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
+🤔️ Podemos pensar que a visibilidade não seja algo vazio, e sim preenchido pela credibilidade, gerando a autoridade. Como dito, para construirmos isso *online* temos que estar presente na internet, sermos encontrados nos motores de busca (Google). Semelhante, e comercialmente, pouco adiante entender tudo de avião e ter um site até bonito, mas burocrático. 
 
 >"O meio é a mensagem" [🇨🇦 Marshall McLuhan].
 
-A frase foi dita anos 60, mas se aplica aqui; afinal, para McLuhan, a forma como a mensagem é entregue (o meio) altera como ela é percebida.
+A frase foi dita anos 60, mas se aplica aqui. Afinal, para McLuhan, a forma como a mensagem é entregue (o meio) altera como ela é percebida.
 
 ## O Google: o chefe
 
@@ -153,35 +157,41 @@ Claro, isso é o resultado natural, sem ser pago (publicidade).
 
 ## Comunicação / Marketing
 
-📚️ MKT = *marketing*.  
+📚️ MKT = *marketing*.
 
-###### Produção do site
+O *MKT* começa antes mesmo da empresa criar o seu próprio site. Veja: 
 
-O *MKT* começa antes mesmo da empresa criar o seu próprio site. Veja:  
+- Pré-produção
+- Produção do site
+- Pós-produção
 
-**Pré-produção**: Definir nome do site com estratégia (e não mera escolha "no tiro"); público-alvo etc.  
-Saber para quem o site "fala" é um ponto chave. Se público é Geração Z, então site rápido, visual e focado em *mobile*.
+###### Pré-produção
+
+Definir nome do site com estratégia (e não mera escolha "no tiro"); público-alvo etc.  
+Saber para quem o site "fala" é um ponto chave. Se público é Geração Z, então site rápido, belo visual e focado em *mobile*.
 Caso diretores de empresas B2B, então site com tom formal, dados técnicos, fácil acesso a orçamentos.
-**Produção**: Está no código em si do site (em páginas, imagens etc).  
-**Pós-produção**: Co-existirá por toda a vida da marca.  
 
 📚️ B2B: Business-to-Business, Empresa para Empresa.
 
-
 **Arquitetura de Conversão (Estratégia)**: Antes de desenhar, o MKT define o objetivo principal.
 
-|Site Institucional|E-commerce|Landing Page|
+|Site Institucional|Loja Virtual|Landing Page|
 |:---:|:---:|:---:|
 |apenas autoridade de marca?|gerar vendas diretas?|capturar e-mails?|
     
-
-Isso dita onde os botões (CTAs) estarão e qual será a jornada do usuário.  
+Isso dita onde os botões (CTAs) estarão e qual será a jornada do usuário. 
 
 **SEO Estratégico (Busca)**: O MKT de busca começa no planejamento. Deve-se saber quais palavras-chave seu cliente usa para que a estrutura de páginas (e URLs) do site já nasçam otimizadas para o Google. Inserir SEO "guela abaixo" em um site já pronto é mais difícil do que criá-lo otimizado.
 
 O MKT pode até analisar sites concorrentes, permitindo que SeuSite já nasça com um diferencial competitivo.
 
-A competição na internet não é "só" por dinheiro, é por atenção também. Mesmo um site sem interesse comercial disputa por visualisações na web _caso de um *blog* que fala sobre sobre fotografia em preto e branco, uma ONG etc.
+###### Produção
+
+O *MKT* está no código em si do site (em páginas, imagens etc).  
+
+###### Pós-produção
+
+O *MKT* co-existirá por toda a vida da marca.  
 
 O sucesso de um site é medido por vários indicadores (número de visitantes, taxa de conversão etc).  
 O tema é bem amplo. Veja [Marketing Digital](/private) e [Estratégias de MKT Digital](/private).
@@ -191,8 +201,8 @@ O tema é bem amplo. Veja [Marketing Digital](/private) e [Estratégias de MKT D
 
 O pŕoprio site é...
 
-    o destino final de toda a mídia alugada.
-    o melhor lugar virtual para fechar vendas.
+✔ o destino final de toda a mídia alugada.  
+✔ o melhor lugar virtual para fechar vendas.
 
 👉️ Para mídia alugada vide [Estratégias de MKT Digital](/private).
 
@@ -221,33 +231,34 @@ A conversão (pagamento): Quando o usuário precisar de um domínio próprio (ti
 
 **Propaganda interna**: uma das engrenagens mais poderosas para converter o usuário gratuito em cliente pagante. Há um tipo específico de anúncio que fica camuflado, se parecendo conteúdo (ou interface) para não parecer publicidade comum. Vide [Estratégias de MKT Digital](/private).  
 
-**Autoridade (ser referência)**: Como vimos é a confiança. Autoridade de marca (Wix, por ex.) é um gatilho de segurança psicológica para o leigo. A publicidade faz o usuário associar fama à confiabilidade técnica, e no efeito manada escolhe-se a plataforma só porque "todos usam" (ou seja, reduzir a percepção de risco para o leigo).
+**Autoridade (ser referência)**: Como vimos é a confiança, que, por sinal, tira obstáculos (medos) do caminho. Autoridade de marca (Wix, por ex.) é um gatilho de segurança psicológica para o leigo. A publicidade faz o usuário associar fama à confiabilidade técnica, e no efeito manada escolhe-se a plataforma só porque "todos usam" (ou seja, reduzir a percepção de risco para o leigo).
 
-Além da confiança (autoridade), que tira obstáculos (medos) do caminho, há a necessidade (desejo) que puxa o cliente pra frente.
+Além da autoridade, há o desejo (a necessidade) que puxa o cliente pra frente.
 
-**Comodidade**: Por exemplo. Uma loja de conveniência num posto de gasolina, paga-se não pelo produto em si, mas pelo acesso e agilidade, lhe sobrando tempo para trabalho, família. Porém, quando facilidade deixa de ser para economizar tempo e vira o objeto final, com futilidade, temos uma distorção.  
+**Comodidade**: Por exemplo. Em uma loja de conveniência num posto de gasolina, o cliente paga não pelo produto em si, mas pelo acesso e agilidade, lhe sobrando tempo para trabalho, família. Porém, quando facilidade deixa de ser para economizar tempo e vira o objeto final, com futilidade, temos uma distorção.  
 
 > "O mundo contemporâneo é uma creche para adultos" *[Felipe Pondé, filósofo]*.
 
 Num site o "preço" alto será a performance degradada (site lento) e a dependência tecnológica. A facilidade fútil lhe dará um site pronto, mas raramente eficiente como um projeto planejado.
 
-
 **Aprisionamento Tecnológico** <sup>Vendor Lock-in</sup>: Dependência tecnológica. Com o cliente conquistado, a empresa cria mil barreiras para ele não migrar para o concorrente. O cliente está ali não por prazer, mas porque há ônus em sair.  
 
-
-|incompatibilidade|barreira de saída|propriedade limitada|
+|incompatibi<br />lidade|barreira de saída|propriedade limitada|
 |:---:|:---:|:---:|
 |Site feito no Wix não pode ser exportado para o WP, por exe., devendo ser refeito do zero.|Custo em tempo, dinheiro e esforço para migrar, o que supera o benefício de sair _e lhe força a aceitar aumentos de preços ou limitações da plataforma.|Você é dono do conteúdo, mas não da "engrenagem" que o faz funcionar. Aluga-se a tecnologia, se parar de pagar, deixa-se de existir.|
 
+
+
 ###### Mão de obra qualificada
 
-Como vimos, o **desenvolvimento** de um site é uma tarefa multidisciplinar.
-Alguns especialistas lidam mais com a aparência do site (estética) enquanto outros banco de dados, vigilância, marketing e mesmo o site ser pensado como um produto em si.
+Como vimos, o **desenvolvimento** de um site é uma tarefa multidisciplinar, envolvendo especialistas que lidam tanto com a aparência do site (a estética) quanto com a retaguarda (o banco de dados, por exemplo). E ainda há questões como a vigilância, marketing, o site ser pensado como um produto em si, etc.
 
 **Terceirizar**: para a equipe é bom conhecer os **profissionais de programação**.
 Veja [Profissionais de informática](/private) e [Site Institucional ou Loja Virtual](/private).
 
-**Projetos pequenos**: e "eu-equipe" é comum para empresas menores, mas raramente é excelente em todas as áreas (ex: um ótimo programador que é um mal *designer*. Contudo, a experiência é fundamental no processo inicial.
+**Projetos pequenos**: para uma empresa pequena ou um profissional autônomo
+
+e "eu-equipe" é comum para empresas menores, mas raramente é excelente em todas as áreas (ex: um ótimo programador que é um mal *designer*. Contudo, a experiência é fundamental no processo inicial.
 
 **Onde encontrar profissionais?**:
 
