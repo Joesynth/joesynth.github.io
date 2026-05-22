@@ -44,15 +44,6 @@ Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cri
 
 <del>**Webmaster**</del>: surgido nos anos 90, era um faz tudo (*web developer*, *web designer*, criação de conteúdo, administração de servidor).
 
-<del>Web Designer</del> (Anos 1990 - 2010): Era um profissional generalista e visual.
-|Design|Código|
-|:---:|:---:|
-|Criava a identidade visual, o layout e o tratamento de imagens em softwares gráficos|Escrevia o HTML estrutural e o CSS básico. Era comum usar ferramentas visuais que geravam o código automaticamente.|
-|Fireworks e Photoshop|Dreamweaver|
-
-Com o aumento da complexidade da internet e o surgimento das aplicações web modernas, a profissão de Web Designer desmembrou-se em Desenvolvedor Front-End e UI/UX Designer.
-
-
 **Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).  
 
 | 🤖️ | 🔧️ |
@@ -68,9 +59,6 @@ Com o aumento da complexidade da internet e o surgimento das aplicações web mo
 |
 |Precisa saber HTML/CSS, obrigatoriamente.|Não precisa saber HTML/CSS, mas é considerado um diferencial de mercado.|
 |Nível: Avançado / Especialista.|Nível: Básico / Conceitual.|
-
-
-
 
 
 **Desenvolvedor Back-End**: É especialista nessa área, isto é, lidar com infraestrutura, banco de dados.  
@@ -90,12 +78,19 @@ Com o aumento da complexidade da internet e o surgimento das aplicações web mo
 
 
 
-
-
 ###### Exemplos de classificados
 
+##### Outros profissionais
 
-<small>**Desenvolvedor Front End**:
+**Programador / desenvolvedor/ codificador/ engenheiro de software**
+Quem escreve, desenvolve ou faz manutenção de *software* em um grande sistema, ou alguém que desenvolve *soft* para uso em computadores pessoais.
+
+Dependendo da demanda de um ou outro profissional, estes ainda podem necessitar conhecimentos em UI e UX.
+
+###### Exemplo de classificados
+
+<small>
+**Desenvolvedor Front End**:
 React JS.
 Desenvolver código simples, limpo, eficaz, escalável, levígel e de fácil manutenção.
 HTML/CSS/JS, SCSS.
@@ -119,20 +114,9 @@ Metodologia de trabalho: SCRUM
 **Desenvolvedor especialista Backend (Sênior)**:
 Conhecimento em banco de dados vetorizados (PostgreSQL, MongoDB).
 GitLab e automação de infraestrutura (Docker, por ex.)
-Capacidade de trabalhar de forma independente e em equipe.
-</small>
+Capacidade de trabalhar de forma independente e em equipe.  
 
-
-<h5>Outros profissionais</h5>
-**Programador / desenvolvedor/ codificador/ engenheiro de software**
-Quem escreve, desenvolve ou faz manutenção de *software* em um grande sistema, ou alguém que desenvolve *soft* para uso em computadores pessoais.
-
-Dependendo da demanda de um ou outro profissional, estes ainda podem necessitar conhecimentos em UI e UX.
-
-###### Exemplo de classificados
-
-
-<small>**Dev Angular/Nodejs**:
+**Dev Angular/Nodejs**:
 JSON, Oracle SQL
 Inglês avançado.
 Área profissional: informática, TI.  
@@ -157,32 +141,39 @@ Metodologia de trabalho (Scrum, Kanban).</small>
 
 
 
+
 ## 🎨️ Área de design
 Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:  
 
-
-<small>- programador CSS,
-- UX designer,
-- web designer,
-- designer gráfico,
-- brand designer,
-</small>
-
+- UX designer
+- web designer
+- designer gráfico
+- brand designer
 
 
 <img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="119" height="67" />**Webdesigner**: Cria sites, páginas. Lida com programação, usabilidade, etc. A profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
 
+Profissão antiga, anos 90 era um profissional generalista e visual.
+
+|Design|Código|
+|:---:|:---:|
+|Criava a identidade visual, o layout e o tratamento de imagens em softwares gráficos|Escrevia o HTML estrutural e o CSS básico. Era comum usar ferramentas visuais que geravam o código automaticamente.|
+|<del>Fireworks</del> e Photoshop|<del>Dreamweaver</del>|
+
+Com o aumento da complexidade da internet e o surgimento das aplicações web modernas, a profissão de Web Designer desmembrou-se em Desenvolvedor Front-End e UI/UX Designer.
+
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|HTML/CSS| Penpot, GIMP, Corew Draw, Dreamweaver, Fireworks|
+|HTML/CSS| Penpot, Inkscape |
 
 💰 Acima de $3000,00, é o que ganha um programador HTML e CSS.
 
 ###### Exemplos de classificados
 
+*HTML/CSS pedido em todos.  
 
 <small>**Web Designer**:
-HTML/CSS/JS; Bootstrap;
+JS; Bootstrap;
 Photoshop e Ilustrator (para design gráfico);
 UI e UX: conhecimento para melhorar a experiência do usuário;
 Familiaridade com Adobe Premiere para edição de videos;
@@ -191,7 +182,7 @@ UX Designer**:
 Atuar em diversos ambientes (desktop, mobile);
 Conhecimentos em métodos de pesquisa com usuários e benchmark;
 UX: conhecimento em elaboração de documentação (personas, jornadas de usuário, userflows); 
-HTML/CSS (diferencial): familiaridade em metodologias ágeis (Scrum e Kanban).  
+familiaridade em metodologias ágeis (Scrum e Kanban).  
 **Designer Gráfico Multimídia**:
 Criação de arte (vídeos, GIFs, motions);
 Uso em campanhas impressas e digitais _redes sociais, banners, apresentações e materiais institucionais);
