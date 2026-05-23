@@ -31,27 +31,22 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 
 ## ✍️ Profissionais de programação
 
+Um site moderno é dividido em duas partes: Front-End e Back-End.
+
+**Desenvolvedor Back-End**: Especialista nessa área, sendo o cara do código web focado nos servidores, segurança e banco de dados.
+
+| 🤖️ | 🔧️ | 🧠 |
+| :---: | :---: |:---: |
+|JS, PHP, C#, Java, JSP...|editores de código, CLI, NodeJS, NPM, Framework| Banco de dados|
 
 
-**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: Termos semelhantes, onde um site moderno é dividido em duas partes: Front-End e Back-End.  O trabalho consiste...
-
-|Front-End|Back-End|Full-Stack|
-|:---:|:---:|:---:|
-|Cara do código web focado no visual e na interação.|Cara do código web focado nos servidores, segurança e banco de dados.|Cara que chuta com as duas pernas, dominando o Front e o Back.|
-|HTML, CSS, JavaScript|Node.js, Python, PHP|-|
-
-Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*_, bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
-
-
-**Desenvolvedor Front-End**: É semelhante ao web developer, porém é um especialista na parte visual (botões e demais componentes).  
+**Desenvolvedor Front-End**: Especialista na parte visual (botões e demais componentes).  
+Focado estritamente na engenharia e programação da interface. Ele não desenha o layout.
+Ele recebe o design pronto e o transforma em código.
 
 | 🤖️ | 🔧️ |🧠|
 | :---: | :---: |:---: |
 |HTML/CSS/JS, TypeScript|editores de código, jQuery, CMS, Framework (Angular, <del>AngularJS</del>)|Criar LPs|
-
-Focado estritamente na engenharia e programação da interface. Ele não desenha o layout.
-Ele recebe o design pronto e o transforma em código.
-
 
 **Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto**: Focado estritamente na estética, usabilidade e comportamento da interface. Ele faz pesquisas com usuários e desenha as telas em ferramentas modernas (como o Figma), mas não escreve o código final da aplicação.
 
@@ -60,14 +55,24 @@ Ele recebe o design pronto e o transforma em código.
 |Indicado saber HTML/CSS, sendo um diferencial de mercado.|Figma, Penpot|
 
 
-**Desenvolvedor Back-End**: Especialista nessa área, lida com infraestrutura, banco de dados.  
 
-| 🤖️ | 🔧️ |
-| :---: | :---: |
-|JS, PHP, C#, Java, JSP...|editores de código, CLI, NodeJS, NPM, Framework|
+xxx
+**Desenvolvedor Front-End**: É semelhante ao Desenvolvedor Web,
+xxx
+
+**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: Termos semelhantes, onde   O trabalho consiste...
+
+|Front-End|Back-End|Full-Stack|
+|:---:|:---:|:---:|
+|Cara do código web focado no visual e na interação.| # |Cara que chuta com as duas pernas, dominando o Front e o Back.|
+|HTML, CSS, JavaScript|Node.js, Python, PHP|-|
+
+Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*_, bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
 
 
-**Desenvolvedor JavaScript**<sup>JavaScript Developer</sup>: Tem foco nesta linguagem. É um especialista.
+
+
+**Desenvolvedor JavaScript** <sup>JavaScript Developer</sup>: Tem foco nesta linguagem. É um especialista.
 
 | 🤖️ | 🔧️ |
 | :---: | :---: |
@@ -114,7 +119,6 @@ Metodologia de trabalho: SCRUM
 Conhecimento em banco de dados vetorizados (PostgreSQL, MongoDB).
 GitLab e automação de infraestrutura (Docker, por ex.)
 Capacidade de trabalhar de forma independente e em equipe.  
-
 **Dev Angular/Nodejs**:
 JSON, Oracle SQL
 Inglês avançado.
@@ -136,7 +140,8 @@ Laravel 9+: desenvolvimento de APIs, middleware, testes.
 JS (manipulação do DOM, jQuery, React).
 GitLab/Gitub: versionamento de código.
 Estilização (Tailwind CSS ou Bootstrap, SASS/SCSS).
-Metodologia de trabalho (Scrum, Kanban).</small>
+Metodologia de trabalho (Scrum, Kanban).
+</small>
 
 
 
@@ -146,22 +151,22 @@ Metodologia de trabalho (Scrum, Kanban).</small>
 ## 🎨️ Área de design
 Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:  
 
+- Web designer
 - UX designer
-- web designer
-- designer gráfico
-- brand designer
+- Designer gráfico
+- Brand designer
 
 ###### Web designer
 
-<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="120" />**Webdesigner**: Cria sites, páginas. Lida com programação, usabilidade, etc. A profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
+<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="120" />**Web designer**: Cria sites, páginas. Lida com programação, usabilidade, etc. A profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
 
 |🤖️|🔧️|🧠|
-| :---: | :---: |
-|HTML/CSS| Penpot, Inkscape (opcional) | Criar LPs|
+|:---:|:---:|:---:|
+|HTML/CSS | Penpot, Inkscape (opcional) | Criar LPs|
 
 💰 Acima de $3000,00.
 
-###### Um pouco de história
+###### Um pouco de história: Web designer
 
 Profissão antiga, anos 90 era um profissional generalista e visual.
 
@@ -546,10 +551,6 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 </tr>
 </tbody>
 </table>
-
-
-
-
 
 
 
