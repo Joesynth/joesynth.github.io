@@ -41,22 +41,15 @@ Um site moderno é dividido em duas partes: Front-End e Back-End.
 
 
 **Desenvolvedor Front-End**: Especialista na parte visual (botões e demais componentes).  
-Focado estritamente na engenharia e programação da interface. Ele não desenha o *layout*, e sim, recebe o *design* pronto e o transforma em código.
+Focado estritamente na engenharia e programação da interface. Ele não desenha o *layout*, e sim, recebe o *design* pronto e o transforma em código. Ou seja, cara do código web focado no visual e na interação.
 
 | 🤖️ | 🔧️ |🧠|
 | :---: | :---: |:---: |
 |HTML/CSS/JS, TypeScript, Markdown |editores de código, jQuery, CMS, Framework (Angular, <del>AngularJS</del>)|Criar LPs|
 
-**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: É semelhante ao Desenvolvedor Front-End e o Desenvolvedor Back-End, só que juntos. Ou seja, é o Cara que chuta com as duas pernas, dominando o Front e o Back.
+**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: É semelhante ao Desenvolvedor Front-End e o Desenvolvedor Back-End, só que juntos. Ou seja, é o cara que chuta com as duas pernas, dominando o Front e o Back.
 
-Termos semelhantes, onde   O trabalho consiste...
-
-|Front-End|Back-End|Full-Stack|
-|:---:|:---:|:---:|
-|Cara do código web focado no visual e na interação.| # |#|
-||, |#|
-
-Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*_, bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
+Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades (é o chamado *front-end*), bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
 
 
 
@@ -152,14 +145,14 @@ Criar identidade visual, o layout e o tratamento de imagens em softwares gráfic
 
 |🤖️|🔧️|🧠|
 |:---:|:---:|:---:|
-|HTML/CSS | Penpot, Inkscape (opcional), Photoshop, <del>Fireworks</del>, <del>Dreamweaver</del> | Criar LPs, usabilidade|
+|HTML/CSS | Penpot, Inkscape (opcional), Photoshop, <del>Fireworks</del>, <del>Dreamweaver</del> | usabilidade, criar LPs|
 
 💰 Acima de $3000,00.
 
 <small>Profissão antiga, anos 90 era um profissional generalista e visual. Escrevia o HTML estrutural e o CSS básico. Era comum usar ferramentas visuais que geravam o código automaticamente. Com o aumento da complexidade da internet e o surgimento das aplicações web modernas, a profissão de Web Designer desmembrou-se em Desenvolvedor Front-End e UI/UX Designer.
 </small>
 
-**Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto**: Focado estritamente na estética e comportamento da interface. Ele faz pesquisas com usuários e desenha as telas em ferramentas como o Figma, mas não escreve o código final da aplicação.
+**Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto**: Focado estritamente na estética e comportamento da interface. Ele faz pesquisas com usuários e desenha as telas em ferramentas como o Penpot, mas não escreve o código final da aplicação.
 
 | 🤖️ | 🔧️ | 🧠 |
 |:---:|:---:|:---:|
@@ -197,6 +190,11 @@ HTML/CSS: noções básicas para criação de assets digitais otimizados.</small
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" />
 
 
+**Brand designer** <sup>Designer de Marca</sup>: Profissão pertence ao campo do Design Gráfico Estratégico.
+
+|🤖️|🔧️|
+|:---:|:---:|
+|-|Inkscape, Adobe Illustrator, GIMP, Photoshop, Synfig Studio (FOSS), Adobe After Effects.|
 
 ## 💿️ Área de banco de dados
 <img src="https://dhg1h5j42swfq.cloudfront.net/2023/05/09172211/database-g87972c042_1280-1024x1024.png" width="120" height="120" />**DBA (Administrador de banco de dados)**:  
@@ -214,15 +212,16 @@ Ele deve ter uma base sólida em segurança da informação _como prevenir que o
 
 Convém saber agir como, por exemplo:
 
-<small>- Administrador de banco de dados (DBA).
-- Administrador redes: lida com infraestrutura (switches, roteadores....).
+<small>
+✔ Administrador de banco de dados (DBA).  
+✔ Administrador redes: lida com infraestrutura (switches, roteadores....).
 </small>
 
 
 
 | 🤖️ | 🔧️ |
 | :---: | :---: |
-|Shell Scripting e outras linguagens de programação usadas para *scripts* ou automação de tarefas, ou mesmo agendar.| Aplicações como Nano, vi (Vim); SO  _bem como solucionar problemas de hardware.|
+|Shell Scripting e outras linguagens de programação usadas para *scripts* ou automação de tarefas, ou mesmo agendar.| Nano, vi (Vim); SO  _bem como solucionar problemas de hardware.|
 
 💰 Acima de $3000,00; média $3500.
 
@@ -233,7 +232,11 @@ Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de 
 
 **Administrador de Site**: lida com CMS e plataformas web. Gerencia sites e blogs, como é o caso do Wordpress - geri pessoas como autores e usuários (inclusive interagindo), acompanha estatísticas, instala plugins como ERP, CRM, formulários etc. No YouTube e demais plataformas é semelhante, inclusive podendo lidar também com MKT Digital, vital nos dias atuais.
 
-O **AD** (administrador de dados) é outro tipo de profissional, enquanto o <span style="color: #ff6600">administrador de redes</span> é semelhante ao Admin, porém com foco em redes, evidentemente.
+**AD** (administrador de dados)
+
+**Administrador de redes**: é semelhante ao Admin, porém com foco em redes.
+
+
 
 ## 🎵️ Área de Conteúdo
 ⚠️ Conteúdo se refere a texto (um título, um parágrafo...), imagem, áudio, vídeo principalmente.
@@ -534,7 +537,6 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 </tr>
 </tbody>
 </table>
-
 
 
 
