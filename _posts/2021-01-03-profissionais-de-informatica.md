@@ -37,35 +37,24 @@ Um site moderno é dividido em duas partes: Front-End e Back-End.
 
 | 🤖️ | 🔧️ | 🧠 |
 | :---: | :---: |:---: |
-|JS, PHP, C#, Java, JSP...|editores de código, CLI, NodeJS, NPM, Framework| Banco de dados|
+|Bash, JS, Markdown, PHP, C#, Python, Java, JSP...|editores de código, CLI, NodeJS, NPM, Framework| Banco de dados|
 
 
 **Desenvolvedor Front-End**: Especialista na parte visual (botões e demais componentes).  
-Focado estritamente na engenharia e programação da interface. Ele não desenha o layout.
-Ele recebe o design pronto e o transforma em código.
+Focado estritamente na engenharia e programação da interface. Ele não desenha o *layout*, e sim, recebe o *design* pronto e o transforma em código.
 
 | 🤖️ | 🔧️ |🧠|
 | :---: | :---: |:---: |
-|HTML/CSS/JS, TypeScript|editores de código, jQuery, CMS, Framework (Angular, <del>AngularJS</del>)|Criar LPs|
+|HTML/CSS/JS, TypeScript, Markdown |editores de código, jQuery, CMS, Framework (Angular, <del>AngularJS</del>)|Criar LPs|
 
-**Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto**: Focado estritamente na estética, usabilidade e comportamento da interface. Ele faz pesquisas com usuários e desenha as telas em ferramentas modernas (como o Figma), mas não escreve o código final da aplicação.
+**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: É semelhante ao Desenvolvedor Front-End e o Desenvolvedor Back-End, só que juntos. Ou seja, é o Cara que chuta com as duas pernas, dominando o Front e o Back.
 
-|🤖️|🔧️|
-|:---:|:---:|
-|Indicado saber HTML/CSS, sendo um diferencial de mercado.|Figma, Penpot|
-
-
-
-xxx
-**Desenvolvedor Front-End**: É semelhante ao Desenvolvedor Web,
-xxx
-
-**Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: Termos semelhantes, onde   O trabalho consiste...
+Termos semelhantes, onde   O trabalho consiste...
 
 |Front-End|Back-End|Full-Stack|
 |:---:|:---:|:---:|
-|Cara do código web focado no visual e na interação.| # |Cara que chuta com as duas pernas, dominando o Front e o Back.|
-|HTML, CSS, JavaScript|Node.js, Python, PHP|-|
+|Cara do código web focado no visual e na interação.| # |#|
+||, |#|
 
 Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades _é o chamado *front-end*_, bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
 
@@ -81,15 +70,15 @@ Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cri
 💰 Acima de $3000,00.
 
 
-
-###### Exemplos de classificados
-
 ##### Outros profissionais
 
 **Programador / desenvolvedor/ codificador/ engenheiro de software**
 Quem escreve, desenvolve ou faz manutenção de *software* em um grande sistema, ou alguém que desenvolve *soft* para uso em computadores pessoais.
 
 Dependendo da demanda de um ou outro profissional, estes ainda podem necessitar conhecimentos em UI e UX.
+
+<del>**Webmaster**</del>: surgido nos anos 90, era um faz tudo (*web developer*, *web designer*, criação de conteúdo, administração de servidor).
+
 
 ###### Exemplo de classificados
 
@@ -145,42 +134,36 @@ Metodologia de trabalho (Scrum, Kanban).
 
 
 
-<small>**Webmaster**: surgido nos anos 90, era um faz tudo (*web developer*, *web designer*, criação de conteúdo, administração de servidor).
-</small>
+
 
 ## 🎨️ Área de design
+
 Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:  
 
 - Web designer
+- Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto
 - UX designer
 - Designer gráfico
 - Brand designer
 
-###### Web designer
+<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="120" />**Web designer**: Cria sites, páginas. Lida com programação, sendo que a profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
 
-<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="120" />**Web designer**: Cria sites, páginas. Lida com programação, usabilidade, etc. A profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
+Criar identidade visual, o layout e o tratamento de imagens em softwares gráficos.  
 
 |🤖️|🔧️|🧠|
 |:---:|:---:|:---:|
-|HTML/CSS | Penpot, Inkscape (opcional) | Criar LPs|
+|HTML/CSS | Penpot, Inkscape (opcional), Photoshop, <del>Fireworks</del>, <del>Dreamweaver</del> | Criar LPs, usabilidade|
 
 💰 Acima de $3000,00.
 
-###### Um pouco de história: Web designer
+<small>Profissão antiga, anos 90 era um profissional generalista e visual. Escrevia o HTML estrutural e o CSS básico. Era comum usar ferramentas visuais que geravam o código automaticamente. Com o aumento da complexidade da internet e o surgimento das aplicações web modernas, a profissão de Web Designer desmembrou-se em Desenvolvedor Front-End e UI/UX Designer.
+</small>
 
-Profissão antiga, anos 90 era um profissional generalista e visual.
+**Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto**: Focado estritamente na estética e comportamento da interface. Ele faz pesquisas com usuários e desenha as telas em ferramentas como o Figma, mas não escreve o código final da aplicação.
 
-|Design|Código|
-|:---:|:---:|
-|Criava a identidade visual, o layout e o tratamento de imagens em softwares gráficos|Escrevia o HTML estrutural e o CSS básico. Era comum usar ferramentas visuais que geravam o código automaticamente.|
-|<del>Fireworks</del> e Photoshop|<del>Dreamweaver</del>|
-
-Com o aumento da complexidade da internet e o surgimento das aplicações web modernas, a profissão de Web Designer desmembrou-se em Desenvolvedor Front-End e UI/UX Designer.
-
-
-
-
-
+| 🤖️ | 🔧️ | 🧠 |
+|:---:|:---:|:---:|
+|HTML/CSS (indicado saber, sendo um diferencial de mercado).|Figma, Penpot|usabilidade|
 
 
 ###### Exemplos de classificados
