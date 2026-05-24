@@ -49,7 +49,7 @@ Focado estritamente na engenharia e programação da interface. Ele não desenha
 
 **Desenvolvedor Web <sup>Web Developer</sup>, Desenvolvedor Mobile <sup>Mobile Developer</sup>, Desenvolvedor Web Full-Stack" (ou Full-Stack Developer)**: É semelhante ao Desenvolvedor Front-End e o Desenvolvedor Back-End, só que juntos. Ou seja, é o cara que chuta com as duas pernas, dominando o Front e o Back.
 
-Ou seja,  Essas profissões ditas acima trabalham com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades (é o chamado *front-end*), bem como, lida com o back-end, (infraestrutura, banco de dados). Escreve código, principalmente. Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
+Ou seja, esses profissionais escrevem código, principalmente, trabalhando com desenvolvimento *web*. Cria a estrutura do site, botões, componentes variados e funcionalidades (é o chamado *front-end*), bem como, lida com o back-end, (infraestrutura, banco de dados). Pode atuar junto a outros profissionais na área de *design* ou MKT, por exemplo.
 
 
 
@@ -206,9 +206,11 @@ HTML/CSS: noções básicas para criação de assets digitais otimizados.</small
 💰 Acima de $3000,00.
 
 ## 👤️ Admin
+
+
 <img src="https://w7.pngwing.com/pngs/701/653/png-transparent-computer-icons-system-administrator-administrator-icon-silhouette-desktop-wallpaper-administrator-icon-thumbnail.png" width="120" height="134" />**Administrador de sistemas** (<span style="color: #0000ff">Sysadmin, admin</span>): Numa rede, mantém e opera computadores _ex.: instalar ou manter um servidor, programar *scripts*. Deve ter competência técnica e responsabilidade para resolver problemas. Em casos de restrições e *stress*, ele é chamado quando um sistema fica inoperante ou mal funciona, sendo capaz de rapidamente diagnosticar o erro e apontar a melhor maneira de retornar ao estado normal.
 
-Ele deve ter uma base sólida em segurança da informação _como prevenir que o sistema seja penetrado. Geralmente é responsável pela segurança do sistema.
+
 
 Convém saber agir como, por exemplo:
 
@@ -218,17 +220,20 @@ Convém saber agir como, por exemplo:
 </small>
 
 
+| 🤖️ | 🔧️ | 🧠 |
+| :---: | :---: | :---: |
+|Shell Scripting e outras linguagens de programação usadas para *scripts* ou automação de tarefas, ou mesmo agendar.| Nano<br />vi<br />Vim; SO | Solucionar problemas de hardware. Ter uma base sólida em segurança da informação _como prevenir que o sistema seja penetrado. Geralmente é responsável pela segurança do sistema.|
 
-| 🤖️ | 🔧️ |
-| :---: | :---: |
-|Shell Scripting e outras linguagens de programação usadas para *scripts* ou automação de tarefas, ou mesmo agendar.| Nano, vi (Vim); SO  _bem como solucionar problemas de hardware.|
 
 💰 Acima de $3000,00; média $3500.
 
 Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de Operação, ganhar experiência no trabalho e chegar a Administrador de Sistemas.
-⚠️ O termo administrador (ou root) também é usado para descrever o privilégio que o dono de uma máquina tem para realizar ações como instalações, mesmo que o computador não faça parte de um sistema maior.
 
-⚠️ *Admin* não é desenvolvedor. Não é do seu cotidiano projetar e implementar novas aplicações de *software*. Porém, deve entender o comportamento de um *software* para poder implantá-lo e resolver problemas.
+<small>
+⚠️ *Admin* não é desenvolvedor. Não é do seu cotidiano projetar e implementar novas aplicações de *software*. Porém, deve entender o comportamento de um *software* para poder implantá-lo e resolver problemas.  
+
+⚠️ Administrador (ou root): esse termo também é usado para descrever o privilégio que o dono de uma máquina tem para realizar ações como instalações, mesmo que o computador não faça parte de um sistema maior.
+</small>
 
 **Administrador de Site**: lida com CMS e plataformas web. Gerencia sites e blogs, como é o caso do Wordpress - geri pessoas como autores e usuários (inclusive interagindo), acompanha estatísticas, instala plugins como ERP, CRM, formulários etc. No YouTube e demais plataformas é semelhante, inclusive podendo lidar também com MKT Digital, vital nos dias atuais.
 
@@ -239,6 +244,7 @@ Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de 
 
 
 ## 🎵️ Área de Conteúdo
+
 ⚠️ Conteúdo se refere a texto (um título, um parágrafo...), imagem, áudio, vídeo principalmente.
 Profissões relativas ao conteúdo podem não lidar tão diretamente com programação, mas ainda sim trabalham com informática:
 
@@ -310,19 +316,11 @@ Uma empresa pode ter um time de produção de conteúdo composto por...
 
 ###### SEO e Links
 
-**Analista de SEO**: otimiza as páginas (e/ou todo site) para se posicionarem na melhor colocação do mecanismo de busca do Google _isso para a busca natural (orgânica), já que é grátis. Numa loja virtual ou blog, o Analista de SEO planeja bem como implementa, supervisiona etc. Note que otimização de sites tem a ver com comunicação. Em suma ele faz 4 coisas:
+**Analista de SEO**: otimiza as páginas (e/ou todo site) para se posicionarem na melhor colocação do mecanismo de busca do Google _isso para a busca natural (orgânica), já que é grátis. Numa loja virtual ou blog, o Analista de SEO planeja bem como implementa, supervisiona etc. Note que otimização de sites tem a ver com comunicação. 
 
-<small>✔ *SEO on-page*,
-✔ *SEO off-page*,
-✔ pesquisa de *keywords* (palavras-chave),
-✔ análise de métricas.
-</small>
-
-Qualificação/ferramentas: tem formação relacionada à *marketing*, comunicação, publicidade. É bem-vindo inglês e uma bela escrita.  
-
-| 🤖️ | 🔧️ |
-| :---: | :---: |
-| HTML/CSS, no mínimo! | Conhecimentos em *Google Analytics*, redes sociais.|
+| 🤖️ | 🔧️ | 🧠 |
+| :---: | :---: |:---:|
+| HTML/CSS, no mínimo! | Conhecimentos em *Google Analytics*, redes sociais.| Em suma faz 4 coisas: ✔ *SEO on-page* ✔ *SEO off-page* ✔ pesquisa de *keywords* (palavras-chave) ✔ análise de métricas |
 
 💰 Acima de $3000,00.
 
