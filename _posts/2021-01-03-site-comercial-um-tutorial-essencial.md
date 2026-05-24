@@ -251,14 +251,13 @@ Num site o "preço" alto será a performance degradada (site lento) e a dependê
 
 ###### Mão de obra qualificada
 
-Como vimos, o **desenvolvimento** de um site é uma tarefa multidisciplinar, envolvendo especialistas que lidam tanto com a aparência do site (a estética) quanto com a retaguarda (o banco de dados, por exemplo). E ainda há questões como a vigilância, marketing, o site ser pensado como um produto em si, etc.
+Como vimos, o desenvolvimento de um site é uma tarefa multidisciplinar. Alguns profissionais lidar mais com a aparência (estética), outros com o banco de dados, marketing etc.
 
-**Terceirizar**: para a equipe é bom conhecer os **profissionais de programação**.
-Veja [Profissionais de informática](/private) e [Site Institucional ou Loja Virtual](/private).
+Para uma empresa pequena ou o site de um profissional autônomo podemos contratar um Web Designer ou um Desenvolvedor Web Full-Stack. O **Web Designer** pode dar resultados melhores no quesito estética, enquanto o **Desenvolvedor Web Full-Stack** pode ser mais indicado para uma Loja Virtual.
 
-**Projetos pequenos**: para uma empresa pequena ou um profissional autônomo
+A experiência do profissional é fundamental no processo inicial, pois quem vai criar deve entender os desejos e demandas da empresa; bem como alertar das possibilidades. 
 
-e "eu-equipe" é comum para empresas menores, mas raramente é excelente em todas as áreas (ex: um ótimo programador que é um mal *designer*. Contudo, a experiência é fundamental no processo inicial.
+Veja [Profissionais de informática](/private) e [Site Institucional ou Loja Virtual](/private).  
 
 **Onde encontrar profissionais?**:
 
@@ -269,16 +268,16 @@ Nós do *blog* *JoeSynth* também desenvolvemos SeuSite. e com parceirinhos bem 
 
 ###### Investimento
 
-A produção de um site institucional pode ficar entre U$250,00 a U$2500,00. Como vimos, um site é um software de computador e os recursos variam bastante. Quem vai criar deve entender o desejo e demandas da empresa; bem como alertar das possibilidades.  
+A produção de um site institucional pode ficar entre U$250,00 a U$2500,00. Como dito, o site é um software de computador e os recursos variam bastante.  
 Veja [Site Institucional ou Loja Virtual](/private).
-
-
 
 
 ## Site "no ar"!
 
 Com *SeuSite* publicado é hora de focar em gestão, conteúdo, administração, MKT digital.
 
+Administrador de Site ou Assistente de E-commerce são profissionais bem-vindos.
+Veja [Profissionais de informática](/private)
 
 
 ###### MKT Digital
