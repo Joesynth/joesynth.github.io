@@ -235,8 +235,6 @@ Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de 
 ⚠️ Administrador (ou root): esse termo também é usado para descrever o privilégio que o dono de uma máquina tem para realizar ações como instalações, mesmo que o computador não faça parte de um sistema maior.
 </small>
 
-**Administrador de Site**: lida com CMS e plataformas web. Gerencia sites e blogs, como é o caso do Wordpress - geri pessoas como autores e usuários (inclusive interagindo), acompanha estatísticas, instala plugins como ERP, CRM, formulários etc. No YouTube e demais plataformas é semelhante, inclusive podendo lidar também com MKT Digital, vital nos dias atuais.
-
 **AD** (administrador de dados)
 
 **Administrador de redes**: é semelhante ao Admin, porém com foco em redes.
@@ -248,6 +246,14 @@ Numa empresa pode começar como Técnico de Apoio ao Usuário ou um Técnico de 
 ⚠️ Conteúdo se refere a texto (um título, um parágrafo...), imagem, áudio, vídeo principalmente.
 Profissões relativas ao conteúdo podem não lidar tão diretamente com programação, mas ainda sim trabalham com informática:
 
+<small>   
+⚠️ Editores Gráficos Rápidos e Otimizadores de Assets  
+Profissionais de conteúdo não criam layouts do zero, mas precisam tratar e redimensionar imagens antes do upload.  
+Canva / Adobe Express: Utilizados para criação rápida de banners promocionais, imagens para posts de blog ou criativos de ofertas.  
+GIMP / Photoshop (Uso Básico): cortar imagens, remover fundos de fotos de produtos, exportar os arquivos em formatos otimizados para web (como WebP).  
+TinyPNG / Optimizilla: compactar o peso das imagens antes de subi-las na plataforma, garantindo que o site continue rápido.  
+</small>
+
 ✔ AudioVisual: produção, edição, finalização
 ✔ Fotografia: edição de imagens, por exemplo
 ✔ Locução &amp; Narração
@@ -258,7 +264,48 @@ Ao lidar com conteúdo é necessário facilidade com...
 ✔ escrita
 ✔ exposição de informações
 
+**Administrador de Site**: Gerencia sites e blogs, geri pessoas como autores e usuários (inclusive interagindo ou moderando comentários). No YouTube e demais plataformas é semelhante, inclusive podendo lidar também com MKT Digital, vital nos dias atuais.
 
+| 🔧️ | 🧠 |
+| :---: | :---: |
+|Wordpress, <br />Google Analytics, <br />Google Search Console | Lidar com CMS e plataformas web, SEO On-Page, acompanha estatísticas (comportamento dos usuários, páginas mais acessadas), manutenção operacional (configurações visuais e administrativas, mas sem escrever linhas de código), instala plugins (ERP, CRM, formulários etc), verificação de links quebrados, garantir que os formulários de contato estão enviando as mensagens.|
+
+⚠️ Google Search Console (verificar a saúde do SEO, identificar erros de indexação no Google e monitorar palavras-chave).  
+
+O conhecimento em tecnologia é focado em infraestrutura web básica, servindo de ponte para os especialistas:  
+Configuração e renovação de domínios (DNS) e certificados de segurança (SSL). 
+Gerenciamento do painel de hospedagem (cPanel ou similares) para monitorar espaço em disco e tráfego de dados.  
+Configuração de rotinas automatizadas de backup.  
+
+Resumo? É gestor operacional, foca no conteúdo, na atualização e no funcionamento correto das regras de negócio do site. Se o site apresentar um erro crítico de código ou necessitar de uma nova funcionalidade complexa, ele acionará o Desenvolvedor Web; se precisar de uma reformulação visual completa, acionará o Web Designer.
+
+
+<small>
+⚠️ O Administrador de Site é a evolução direta do antigo **Webmaster** dos anos 1990. O mercado de tecnologia cresceu e se especializou. A infraestrutura pesada foi para o SysAdmin/DevOps, a programação complexa para o Desenvolvedor Front-End e Back-End, e design de interface para o Web Designer.  
+A criação dos sistemas de gerenciamento de conteúdo (como o WordPress) eliminaram a necessidade de programar para colocar um texto no ar, o termo "Webmaster" caiu em desuso corporativo (embora ainda conste em registros oficiais de emprego).  
+O profissional renasceu como o Administrador de Site (ou **Analista de Web**, **Gestor de Conteúdo Web**).  
+Herdou do Webmaster a visão geral do site, mas hoje trabalha gerenciando a plataforma através de painéis visuais, focando muito mais na estratégia de comunicação do que nos bastidores do código.
+</small>
+
+###### Operacional / Vendas
+
+**Assistente de E-commerce**: "Braço direito" do dono da loja, faz a parte operacional e, portanto, o site vender e funcionar. 
+É considerado da área de conteúdo, mas com foco total em operações comerciais e conversão de vendas.
+Atualizar disponibilidade de produtos no estoque (para não vender o que não tem), atendimento (dúvidas de clientes), acompanha *status* de pagamento e logística,  etc.
+
+|🔧️|🧠|
+|:---:|:---:|
+| WooCommerce | Cadastrar e e descrever produtos, gerenciar pedidos.|
+
+Shopify / VTEX / Nuvemshop: Softwares como serviço (SaaS) específicos para e-commerce. São o ambiente de trabalho diário para controle de estoque, preços e promoções.
+Google Analytics (monitorar o volume de acessos, de onde vêm os visitantes e quais páginas ou produtos geram mais conversões).
+Google Merchant Center: enviar o catálogo de produtos para o Google Shopping e criar campanhas de anúncios.
+
+
+ERPs e Hubs de Integração (também de conhecimento do **Administrador de Site**).  
+Softwares que conectam a loja virtual com o mundo externo (estoque físico, notas fiscais e marketplaces). São eles:
+Bling / Tiny ERP - Sistemas de gestão utilizados pelo Assistente de E-commerce para emitir notas fiscais e sincronizar o estoque físico com o virtual.
+Anymarket / Plugg.to - Hubs utilizados para unificar o cadastro de produtos e distribuí-lo automaticamente para múltiplos marketplaces (Mercado Livre, Amazon, Magalu).
 
 
 ## 🖥️ Infraestrutura de TI
@@ -364,9 +411,7 @@ A área de vendas e *marketing* é abrangente; e portanto, precisando de profiss
 
 👉️ [UPDATE] O blogueiro virou o que chamamos, atualmente, de *influencer*.
 
-###### Operacional / Vendas
 
-**Assistente de E-commerce**: "Braço direito" do dono da loja, faz a parte operacional e, portanto, o site vender e funcionar. Cadastro e descrições de produtos, atualiza disponibilidade no estoque (para não vender o que não tem), atendimento (dúvidas de clientes), acompanha *status* de pagamento e logística,  etc.
 
 
 ###### Exemplos em classificados
