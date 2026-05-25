@@ -274,21 +274,19 @@ Veja [Site Institucional ou Loja Virtual](/private).
 
 ## Site "no ar"!
 
-Com *SeuSite* publicado é hora de focar em gestão, conteúdo, administração, MKT digital.
+Com *SeuSite* publicado o cenário muda para gestão, administração.
+É preciso focar em conteúdo, operacional, vendas, marketing.
 
-Administrador de Site ou Assistente de E-commerce são profissionais bem-vindos.
+Nesse contexto o Administrador de Site ou Assistente de E-commerce são profissionais bem-vindos.
 Veja [Profissionais de informática](/private)
 
 
 ###### MKT Digital
 
 
-Como vimos a internet é um ambiente comercial, o MKT começa mesmo antes de se criar o *SeuSite* e o Google tem um enorme poder. Portanto *marketing* digital é vital.
+Como vimos a internet é um ambiente comercial, o Google tem um enorme poder, e o MKT (que começou mesmo antes de se criar o *SeuSite*) deve seguir caminho agora. Portanto *marketing* digital é vital.
 
 
-##
-
-xxx
 
 👉️ Tenha em mente que o mundo muda cada vez mais rápido com os últimos avanços tecnológicos. Se não nos mantivermos atualizados... nossos concorrentes "agradecem".
 
