@@ -10,6 +10,7 @@ Solicitamos um tempo adequado para a leitura.
 </small>
 
 - O que é um site?
+- Convergência digital
 - Internet: é só um aparato comercial?
 - Comunicação estratégica: reputação
 - O poder do Google
@@ -55,6 +56,52 @@ Como vimos, o **site institucional**, além de ser o seu "cartão de visitas" na
 Ambos podem ter ainda mais ferramentas conforme o projeto.
 
 Veja [Site Institucional ou Loja Virtual](/private).
+
+
+
+## Convergência digital
+
+Conceito referente à tecnologia digital e ao computador (visto em seu sentido amplo de arquitetura de processamento de dados).
+
+A convergência digital só é possível porque a tecnologia digital converte qualquer tipo de informação (texto, imagem, som, luz) em um código binário (zeros e uns).
+
+A ideia de unificar diferentes mídias, tecnologias e funções — que antes exigiam dispositivos e redes totalmente separados — em uma única linguagem digital (bits) e sob uma mesma infraestrutura.
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_997898-MLB72582492097_102023-O.webp&f=1&nofb=1&ipt=7c3b8b363c7135ea4fed3a8a55fc3acecef74b3dfb377634a819763dbf54ab7e" width="" /> Revista Natura, em papel.
+
+A convergência digital manifesta-se em um site de comércio eletrônico por meio da centralização de funções que antes dependiam de diferentes suportes físicos, infraestruturas locais e hardwares dedicados.
+
+|suporte físico |infraestrutura local|hardware dedicado|
+|:---:|:---:|:---:|
+|papel | balcões de atendimento | terminais de PDV|
+
+
+
+Note nesses exemplos que cumpre-se exatamente a função de substituir ou pelo outro, representando marcos da convergência digital.
+
+|mundo real|site|
+|:---:|:---:|
+|vitrine física |vitrine virtual (página principal do site)|
+|catálogo de produtos em papel| arquivo .pdf ou menus de navegação|
+
+
+O smartphone é, essencialmente, um computador de bolso. A convergência física e funcional ocorre na arquitetura computacional.
+
+
+A internet atua como vetor de expansão. Ela não é a causa da convergência de componentes de hardware (como a lanterna ou o microfone no aparelho), mas sim a infraestrutura que amplificou a convergência de serviços e mídias.
+
+O que ocorre? A internet permite que, além do hardware, os canais de distribuição (rádio, jornais impressos, serviços postais) também convirjam para o mesmo dispositivo.
+
+Mecanismo de Convergência nas Redes:
+
+| Meio Analógico Tradicional | Infraestrutura Original | Forma de Dados na Internet (Protocolos IP) |
+| :--- | :--- | :--- |
+| **Telefone** | Linhas de cobre / Comutação de circuitos | Pacotes de dados de voz (VoIP / SIP) |
+| **Rádio** | Ondas de rádio (AM / FM) | *Streaming* de áudio (HTTP / RTSP) |
+| **Televisão** | Antenas de radiodifusão (VHF / UHF) | *Streaming* de vídeo / Vídeo sob demanda |    
+
+Assim, a internet é a infraestrutura de rede, ou seja, o meio de comunicação e transporte de dados. Ela não é a convergência em si, mas atua como o principal catalisador para que a convergência digital se expanda do nível do hardware para o nível dos serviços e da cultura.
+
 
 
 ## Por dentro de um site
