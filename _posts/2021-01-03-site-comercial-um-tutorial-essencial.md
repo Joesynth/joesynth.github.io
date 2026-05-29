@@ -102,7 +102,9 @@ Mecanismo de Convergência nas Redes:
 
 Assim, a internet é a infraestrutura de rede, ou seja, o meio de comunicação e transporte de dados. Ela não é a convergência em si, mas atua como o principal catalisador para que a convergência digital se expanda do nível do hardware para o nível dos serviços e da cultura.
 
+Então é isso, é a integração de diferentes tecnologias, mídias e redes de comunicação em um único ambiente ou dispositivo digital
 
+Veja mais em [Convergência digital](/private).
 
 ## Por dentro de um site
 
