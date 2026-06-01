@@ -2,6 +2,7 @@
 
 📚️ MKT = *marketing*.
 
+- MKT Transacional e Relacional
 - Native Advertising
 - Outbound Marketing
 - MKT de Atração
@@ -9,6 +10,47 @@
 - Mídia Própria e Mídia Alugada
 - Estratégias de MKT Digital - Outros Casos - Resumo - Tempo
 - Marketing Tradicional e Marketing de Massa
+
+
+## MKT Transacional e Relacional
+
+
+Ambos são conceitos e estratégias. 
+
+Os conceitos se transformam em estratégias práticas.
+
+|MKT Transacional| MKT Relacional (ou de Relacionamento)|
+|:---:|:---:|
+| Foco| Foco|
+| A transação em si (o produto e o preço)| O cliente e a experiência dele. Cria-se vínculo com o cliente. Venda é vista só como o início de uma relação.|
+| Prazo| Prazo|
+| Curto prazo (vendeu, acabou).| Longo (empresa busca-se fidelizar para que dure anos).|
+| Interação||
+| Comunicação: Pouca ou nenhuma após a compra.| Comunicação: Contínua (pós-venda, conteúdos úteis, mimos, suporte de qualidade).|
+| Exemplo||
+| Promoção de supermercado ou uma loja de conveniência. Compra um produto porque está barato ou porque precisa dele naquele exato momento, paga e vai embora.| Empresa lhe manda um e-mail no seu aniversário com um cupom de desconto e tem um programa de pontos incrível. Eles querem que você compre hoje, mês que vem e daqui a cinco anos.|
+
+
+
+O conceito é mentalidade da empresa, a teoria e o objetivo final. A liderança senta e decide:
+
+|MKT Transacional| MKT Relacional (ou de Relacionamento)|
+|:---:|:---:|
+|Como Conceito| Como Conceito|
+| Nossa filosofia de negócio foca no volume rápido de vendas| Nossa filosofia será focar na fidelização. |
+
+
+Como Estratégia: É o plano de ação que nasce dessa mentalidade. É o "como" a empresa vai executar isso no dia a dia.
+
+Conceito virando estratégia na prática: a estratégia são as técnicas e ferramentas que você usa para chegar lá.
+
+| estratégia transacional| estratégia relacional|
+|:---:|:---:|
+| Ações práticas. Ex.| Ações práticas. Ex.|
+| Fazer queima de estoque com grandes descontos (ex: Black Friday agressiva). Investir em anúncios de conversão rápida ("Compre agora por R$ 9,90").| Criar um programa de pontos ou milhas (fidelidade). Implementar um sistema de pós-venda para saber se o cliente gostou do produto. Produzir conteúdos gratuitos (blogs, newsletters) para ajudar o cliente, mesmo sem ele estar comprando nada. |
+
+
+Hoje em dia, a maioria das grandes marcas usa os dois conceitos em momentos diferentes da jornada do cliente.
 
 
 
