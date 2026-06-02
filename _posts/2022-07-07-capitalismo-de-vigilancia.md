@@ -85,6 +85,46 @@ A Infraestrutura Crítica já é Linux: servidores do governo, sistemas de saté
 
 Veja também [Microsoft](/microsoft) e [Dark Patterns](/ui-e-ux-dark-patterns).
 
+## Apêndice
+
+###### Excedente Comportamental e Desapropriação por Espionagem
+
+📚️ Behavioral Surplus Dispossession by Stealth
+⚠️ Espionagem é uma tradução de brasileiros, outros países adotam camuflagem, astúcia. 
+
+<small>
+A edição brasileira usa "espionagem", palavra que pressupõe um agente ativo monitorando um alvo. O termo original de Zuboff (stealth), mantido noutros países, foca na propriedade da interface: o software é desenhado de forma tão invisível e silenciosa que a extração de dados ocorre sem que o usuário perceba qualquer fricção.
+Particularmente, penso que independente dos termos, há a essência ruim caracterizada pela má fé, e de fato, obtem-se os dados com facilidade. 
+</small>
+
+
+**Excedente Comportamental**: Na relação empresa-usuário ("cliente"), é capturar um comentário na web que a pessoa não disse formalmente à empresa. É o objeto, isto é, o dado bruto gerado pelo usuário, mas "capturado". É o produto físico/digital "extraído". Equivale ao ouro retirado da terra (a matéria-prima)
+
+| O Cadastro (Dado Necessário)| Excedente Comportamental|
+|:---:|:---:|
+| O que digitamos formalmente para o serviço funcionar.| Dados adicionais e invisíveis que o sistema rouba da sua atividade enquanto você usa o software.|
+| Nome, CPF, produto que quer comprar| Velocidade com que se arrasta a tela, palavras do seu comentário, nível da sua bateria, localização via GPS.|
+
+
+**Desapropriação por Espionagem**: É a ação (o "como"). Método técnico utilizado para capturar esse excedente pelas costas do usuário, ignorando sua privacidade e consentimento real. Ou seja, refere-se à estratégia operacional e de engenharia de software utilizada pela empresa para obter esse objeto sem o consentimento real do usuário. Equivale ao método de roubo; por exemplo, o ato de invadir o terreno à noite e cavar em segredo. Na prática? Configura-se o aplicativo ou o CRM para rastrear em segundo plano, mascarando a captura.
+
+Ou seja, Excedente Comportamental e Desapropriação por Espionagem descrevem o dado obtido e a ação técnica na interface entre a empresa e o cliente.
+
+###### Imperativo de Extração <sup>Extraction Imperative</sup>
+
+É um conceito macro, estrutural e global. É a lei econômica global que rege todo o Capitalismo de Vigilância. Zuboff define como uma necessidade sistêmica no mercado atual. Para que uma empresa de tecnologia sobreviva, cresça e atraia capital, ela é obrigada pelas forças de mercado a expandir constantemente suas operações de coleta de dados.
+
+Ou seja, não se trata de recursos específicos de programação em um software CRM, mas lógica macroeconômica dominante que dita como as corporações globais devem estruturar suas arquiteturas de software para garantir o fornecimento contínuo de matéria-prima comportamental.
+
+No capitalismo industrial, as potências centrais mapeavam, invadiam e reivindicavam territórios geográficos (Américas, África, Ásia) para extrair os recursos naturais que estavam sob a terra (ferro, carvão, borracha, petróleo).
+No Capitalismo de Vigilância, as corporações de tecnologia tratam a experiência humana subjetiva (seus pensamentos, rotinas, emoções e conversas) como um novo território virgem a ser colonizado, mapeado e expropiado.
+
+Assim como as metrópoles extraíam a matéria-prima barata das colônias, processavam-na em suas indústrias e vendiam os produtos manufaturados de volta para essas mesmas colônias com margens de lucro abusivas:
+
+As plataformas de tecnologia "extraem" o Excedente Comportamental (dados brutos) gratuitamente do usuário, processam essa matéria-prima (em infraestruturas próprias), transformam esses dados em produtos de previsão comportamental (manufaturados), e por fim, vendem esses produtos de volta para o mercado para induzir, modificar e controlar o comportamento do próprio usuário que forneceu o dado inicial.
+
+
+
 É isso!
 \o/
 
