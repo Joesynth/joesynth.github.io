@@ -54,6 +54,8 @@ Hoje em dia, a maioria das grandes marcas usa os dois conceitos em momentos dife
 
 **Jagdish Sheth** 🇮🇳 🇺🇸 e **Christian Grönroos** 🇫🇮: os pais do MKT de Relacionamento. O MKT de relacionamento nasceu nas décadas de 1970 e 1980.
 
+O software CRM está ligado ao MKT de relacionamento, portanto é uma ferramenta para esse tipo de estratégia.
+
 
 
 ## Native Advertising <sup>Publicidade Nativa</sup>
