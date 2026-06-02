@@ -52,6 +52,8 @@ Conceito virando estratégia na prática: a estratégia são as técnicas e ferr
 
 Hoje em dia, a maioria das grandes marcas usa os dois conceitos em momentos diferentes da jornada do cliente.
 
+**Jagdish Sheth** 🇮🇳 🇺🇸 e **Christian Grönroos** 🇫🇮: os pais do MKT de Relacionamento. O MKT de relacionamento nasceu nas décadas de 1970 e 1980.
+
 
 
 ## Native Advertising <sup>Publicidade Nativa</sup>
