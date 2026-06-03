@@ -12,14 +12,14 @@
 - Marketing Tradicional e Marketing de Massa
 
 
-## MKT Transacional e Relacional
+## MKT Transacional e Relacional (ou de Relacionamento)
 
 
 Ambos são conceitos e estratégias. 
 
 Os conceitos se transformam em estratégias práticas.
 
-|MKT Transacional| MKT Relacional (ou de Relacionamento)|
+|MKT Transacional| MKT Relacional |
 |:---:|:---:|
 | Foco| Foco|
 | A transação em si (o produto e o preço)| O cliente e a experiência dele. Cria-se vínculo com o cliente. Venda é vista só como o início de uma relação.|
@@ -54,7 +54,7 @@ Hoje em dia, a maioria das grandes marcas usa os dois conceitos em momentos dife
 
 **Jagdish Sheth** 🇮🇳 🇺🇸 e **Christian Grönroos** 🇫🇮: os pais do MKT de Relacionamento. O MKT de relacionamento nasceu nas décadas de 1970 e 1980.
 
-O software CRM está ligado ao MKT de relacionamento, portanto é uma ferramenta para esse tipo de estratégia.
+O software [CRM](/o-que-e-crm) é a principal ferramenta para a estratégia de MKT de relacionamento, embora haja outras (como Plataformas de Automação de MKT etc).
 
 
 
