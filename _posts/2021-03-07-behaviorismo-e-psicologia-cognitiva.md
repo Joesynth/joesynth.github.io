@@ -235,6 +235,46 @@ O experimento de Asch demonstra que indivíduos tendem a conformar-se ao grupo, 
 Asch foi um psicólogo da Gestalt, uma escola de psicologia, e pioneiro na psicologia social.
 
 
+
+## Bônus - Serotonina vs dopamina
+
+Ambos eurotransmissor, bem como a ocitocina.
+
+
+|dopamina | serotonina|
+|:---:|:---:|
+|Lida com a antecipação, a busca e a recompensa imediata. O motor do engajamento. | Atua na regulação do estatuto social (*status*), do sentimento de importância, da previsibilidade e do pertencimento.|
+|É o gatilho que faz o usuário abrir o aplicativo ou buscar a próxima venda||
+
+Ainda temos a ocitocina, que tem a ver com conexão e confiança.
+
+
+Claro, o MKT não te dá uma pilula, como se fosse um remédio. Em vez disso, desenha estímulos que ativam os sistemas neuroquímicos do cérebro.
+
+Essa aplicação é o cerne do Neuromarketing e do Design Comportamental.
+Cientificamente, redes sociais, aplicativos e e-commerces são projetados com base em modelos de psicologia comportamental (Modelo de Ganchos de Nir Eyal, Behavior Model de B.J. Fogg) que espelham perfeitamente o funcionamento da dopamina e da serotonina no cérebro humano.
+
+
+**CRMs - serotonina**: Os CRMs analíticos de larga escala e as plataformas de engajamento manipulam a serotonina, operando de forma complementar à dopamina.
+
+###### Softwares
+
+
+Softwares modernos são desenhados para estimular e *hackear* essas substâncias (serotonina/dopa...), seja na mente do cliente ou do vendedor que usa o software.
+
+Essa é a premissa da Engenharia Comportamental e do Product Design moderno. Os softwares não são meras ferramentas de trabalho ou plataformas de e-commerce; são arquiteturas neurobiológicas projetadas para criar dependência e direcionar ações específicas através do manejo desses neurotransmissores.
+
+|||||
+| :---: | :---: | :---: | :---: |
+|CRM| CDP| Plataforma de Automação de MKT | Sistema de Gamificação de Vendas|
+| Pipedrive (CRM (Operacional)| Twilio Segment| Customer.io| Spinify|
+
+|Cérebro do Cliente| Cérebro do Vendedor|
+|:---:|:---:|
+|dopamina está ligada à antecipação da compra (notificações de ofertas, cupons de desconto). Serotonina? Atua no pós-venda. Programas de fidelidade ou tratamento exclusivo gera sensação "status", satisfação. | dopamina atua como o combustível de execução (busca e ação), enquanto a serotonina atua como o estabilizador de status (reconhecimento e humor)|
+
+
+
 \o_
 <!--
 wiki en, wiki pt, IA (penúltimo paragrafo Asch)
