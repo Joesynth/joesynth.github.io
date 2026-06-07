@@ -241,12 +241,10 @@ Asch foi um psicólogo da Gestalt, uma escola de psicologia, e pioneiro na psico
 Ambos eurotransmissor, bem como a ocitocina.
 
 
-|dopamina | serotonina|
-|:---:|:---:|
-|Lida com a antecipação, a busca e a recompensa imediata. O motor do engajamento. | Atua na regulação do estatuto social (*status*), do sentimento de importância, da previsibilidade e do pertencimento.|
-|É o gatilho que faz o usuário abrir o aplicativo ou buscar a próxima venda||
-
-Ainda temos a ocitocina, que tem a ver com conexão e confiança.
+|dopamina | serotonina| ocitocina|
+|:---:|:---:|:---:|
+|Lida com a antecipação, a busca e a recompensa imediata. O motor do engajamento. | Atua na regulação do estatuto social (*status*), do sentimento de importância, da previsibilidade.| conexão, pertencimento, confiança.
+|**Gatilho**: Faz o usuário abrir o aplicativo ou buscar a próxima venda| **Gatilho**: Faz o usuário manter a fidelidade pela estabilidade da rotina ou pelo orgulho da exclusividade VIP.| **Gatilho**: Faz o usuário cooperar sem resistência e aceitar a indicação por se sentir seguro na relação.|
 
 
 Claro, o MKT não te dá uma pilula, como se fosse um remédio. Em vez disso, desenha estímulos que ativam os sistemas neuroquímicos do cérebro.
@@ -264,10 +262,15 @@ Softwares modernos são desenhados para estimular e *hackear* essas substâncias
 
 Essa é a premissa da Engenharia Comportamental e do Product Design moderno. Os softwares não são meras ferramentas de trabalho ou plataformas de e-commerce; são arquiteturas neurobiológicas projetadas para criar dependência e direcionar ações específicas através do manejo desses neurotransmissores.
 
-|||||
-| :---: | :---: | :---: | :---: |
-|CRM| CDP| Plataforma de Automação de MKT | Sistema de Gamificação de Vendas|
-| Pipedrive (CRM (Operacional)| Twilio Segment| Customer.io| Spinify|
+|CRM Operacional| CDP| 
+| :---: | :---: |
+|dopamina e serotonina, também serve de base para a ocitocina| dopamina (pela antecipação do consumo)|
+| Pipedrive| Twilio Segment|  
+
+|Plataforma de Automação de MKT | Sistema de Gamificação de Vendas|
+| :---: | :---:|
+|dopamina (escassez/urgência), ocitocina (reciprocidade)| serotonina (status e orgulho no ranking)|
+|Customer.io| Spinify|
 
 |Cérebro do Cliente| Cérebro do Vendedor|
 |:---:|:---:|
