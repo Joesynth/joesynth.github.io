@@ -8,6 +8,7 @@
 - Software CRM 
 - Um pouco de história
 - 🎉️ Bônus! As linhas de Asch
+- 🎉️ Bônus! Bônus! Neurotransmissores
 
 
 ## Introdução
@@ -29,11 +30,12 @@ Ela é o "combustível" tanto do Behaviorismo quanto da Psicologia Cognitiva no 
 
 No contexto de UI/UX e tecnologia, ela é usada para criar o que chamamos de Loop de Hábito.
 
-A Dopamina no Behaviorismo (O Reforço):  
-Skinner (o mentor do Behaviorismo) não falava de dopamina (ele focava no comportamento externo), mas a ciência moderna provou que o que ele chamava de "Reforço Positivo" é, na verdade, uma descarga de dopamina no cérebro.  
+  
+|No Behaviorismo| Na Psi. Cognitiva|
+|:---:|:---:|
+|O Reforço| A Tomada de Decisão|
+|Skinner (o mentor do Behaviorismo) não falava de dopamina (ele focava no comportamento externo), mas a ciência moderna provou que o que ele chamava de "Reforço Positivo" é, na verdade, uma descarga de dopamina no cérebro.| Aqui, ela atua no foco e na memória. Quando você sente que "aprendeu" algo novo ou "resolveu" um problema em um app (tipo passar de fase ou organizar uma lista), a dopamina ajuda a fixar essa experiência como algo positivo, criando um Modelo Mental de que "usar este app é bom".|
 
-A Dopamina na Psicologia Cognitiva (A Tomada de Decisão):  
-Aqui, ela atua no foco e na memória. Quando você sente que "aprendeu" algo novo ou "resolveu" um problema em um app (tipo passar de fase ou organizar uma lista), a dopamina ajuda a fixar essa experiência como algo positivo, criando um Modelo Mental de que "usar este app é bom".
 
 
 ###### Resumo do "Sequestro" de Dopamina
@@ -63,8 +65,12 @@ Era um fisiologista, e não psicólogo de formação.
 
 🏆 Ivan Pavlov é o "avô" do Behaviorismo. Ele ganhou o Nobel de Medicina em 1904.  
 
-🇺🇸 **John B. Watson**: O "pai" do Behaviorismo. Publicou o manifesto que dizia que a psicologia deveria ser uma ciência natural e objetiva.  
-🇺🇸 **B.F. Skinner**: O nome mais famoso. Criou o Condicionamento Operante (recompensas e punições). Ele é o responsável pela lógica que faz você ficar viciado em "likes" no Instagram hoje em dia.  
+|🇺🇸 John B. Watson| 🇺🇸 B.F. Skinner|
+|:---:|:---:|
+|"Pai" do Behaviorismo.| O nome mais famoso.|
+|Publicou o manifesto que dizia que a psicologia deveria ser uma ciência natural e objetiva.| Criou o Condicionamento Operante (recompensas e punições). Ele é o responsável pela lógica que faz você ficar viciado em "likes" no Instagram hoje em dia.|
+
+
 
 ## Psicologia Cognitiva
 
@@ -89,17 +95,15 @@ Linguista que "destruiu" a ideia de Skinner, de que a fala era apenas hábito, p
 
 O software [CRM](/o-que-e-crm) é ferramenta chave nesse contexto de behaviorismo e psicologia cognitiva. Ele une essas disciplinas na prática, ou seja, permite que o behaviorismo e a psicologia cognitiva sejam aplicados em escala através do design de UI/UX.
 
-###### Behaviorismo (Ação e Reação)
+###### CRM: Behaviorismo e Psicologia Cognitiva
 
-O CRM registra cada interação do usuário (cliques, compras, tempo de inatividade).
+|Behaviorismo| Psicologia Cognitiva|
+|:---:|:---:|
+|Ação e Reação| Processamento de Informação|
+|O CRM registra cada interação do usuário (cliques, compras, tempo de inatividade).| O CRM ajuda a mapear como o usuário percebe o produto e toma decisões.|
+|Aplicação| Aplicação|
+|Se o usuário não compra há 30 dias (estímulo), o CRM dispara um e-mail com desconto (reforço) para gerar uma nova compra (resposta).| Analisando os dados, entende-se quais informações (textos, imagens) facilitam a decisão de compra e quais geram carga cognitiva (confusão).|
 
-**Aplicação**: Se o usuário não compra há 30 dias (estímulo), o CRM dispara um e-mail com desconto (reforço) para gerar uma nova compra (resposta).
-
-###### Psicologia Cognitiva (Processamento de Informação)
-
-O CRM ajuda a mapear como o usuário percebe o produto e toma decisões.
-
-**Aplicação**: Analisando os dados, entende-se quais informações (textos, imagens) facilitam a decisão de compra e quais geram carga cognitiva (confusão).
 
 ###### UI/UX (A Arquitetura de Escolha)
 
@@ -111,47 +115,7 @@ Resumo: a psicologia fornece a teoria da mente, o CRM fornece os dados comportam
 
 
 
-###### CRM vs. midi: uma analogia
 
-Em termos de extração de dados de comportamento, o CRM equivale ao sintetizador MIDI. Por que a analogia é perfeita? Veja:
-
-**O "Rastro" da Intenção**: Tanto o MIDI quanto o CRM não armazenam apenas o resultado final (a nota musical tocada ou a compra), mas todo o processo que levou até ali: a hesitação, a velocidade, a frequência.
-**A Máquina como Espelho**: O músico "se vê" nos dados MIDI. A empresa "vê" o cliente nos dados do CRM, criando um "duplo digital" do comportamento humano para análise e predição.
-
-No MIDI há o arquivo midi, que contém todas as ações do músico, no caso, suas expressões musicais. O CRM também tem um arquivo que contém as ações do usuário. No caso do CRM, esse "arquivo" não é um único arquivo de extensão .midi ou .json, mas sim um banco de dados relacional ou um data lake que armazena todos os rastros de comportamento do usuário.
-
-A estudiosa Zuboff chama isso de "perfil comportamental" ou "duplo digital".
-
-
-| elemento | na música (MIDI) | na gestão/venda (CRM) |
-| :--- | :--- | :--- |
-| agente | músico | cliente / usuário |
-| ação<br />física | tocar notas, girar botões | clicar botões, navegar, comprar |
-| ação<br />digital | codificação de dados (tom de cada nota, "volume" de cada nota ) | codificação de dados (rastros, tempo) |
-| máquina/<br />interface| sintetizador / DAW (sistema de gravação) | App / Site / Interface UI |
-| produto | ) | perfil do cliente (dados da intenção) |
-
-###### O arquivo digital
-
-Esses sistemas geram um arquivo, tal como existe em qualquer aplicação digital, como áudio (.mp3), vídeo (.mp4), imagem (jpg), .pdf etc.
-
-Note que, sem querer, o músico está criando um produto digital, que é arquivo MIDI. Esse arquivo contém dados da performance musical, ou seja, um produto gerado pelo próprio músico naturalmente à medida que toca seu instrumento. Certamente, o músico está bem mais preocupado com sua música e sua performance, afinal, está fazendo arte.
-
-E o CRM?  
-
-| elemento | na música (MIDI) | na gestão/venda (CRM) |
-| :--- | :--- | :--- |
-| arquivo de<br />armazenamento | .mid` ou `.smf` | Banco de Dados SQL / Data Warehouse |
-| conteúdo<br />do<br />arquivo | notas, "volumes", efeitos, o tempo | cliques, páginas visitadas, tempo de permanência, compras |
-| "expressão"<br />do agente | interpretação musical (intensidade do toque, por ex.) | iIntenção de compra, hesitação, interesse genuíno |
-
-O que o CRM registra: as expressões do usuário:
-
-**Eventos explícitos**: cliques em botões, cadastro em formulários,compras...
-**Eventos implícitos (o superávit)**: quanto tempo o mouse ficou parado sobre um produto sem clicar (hesitação), o horário em que o usuário está mais ativo, a velocidade de rolagem da página (interesse).
-
-
-Veja [CRM](/o-que-e-crm).
 
 
 ## Um pouco de história
@@ -217,6 +181,8 @@ Imagine agora que ela tenha seu comportamento previsível, por um estranho. Ao t
 Se alguém consegue prever ou padronizar o brincar, o condicionamento substituiu a liberdade (que para o indivíduo era é a capacidade de iniciar algo novo).
 
 
+
+
 ## 🎉️ Bônus! As linhas de Asch
 
 <img src="https://upload.wikimedia.org/wikipedia/en/8/8d/Solomon_Asch.jpg" width="120" />🇵🇱 🇺🇸 Solomon Eliot Asch (Polônia /Estados Unidos). Os estudos do psicólogo Asch investigaram se e como os indivíduos cediam ou desafiavam um grupo majoritário e o efeito de tais influências sobre crenças e opiniões.
@@ -236,15 +202,19 @@ Asch foi um psicólogo da Gestalt, uma escola de psicologia, e pioneiro na psico
 
 
 
-## Bônus - Serotonina vs dopamina
 
-Ambos eurotransmissor, bem como a ocitocina.
 
+## 🎉️ Bônus! Neurotransmissores
+
+
+<img src="" width="120">Livro biologia J
 
 |dopamina | serotonina| ocitocina|
 |:---:|:---:|:---:|
-|Lida com a antecipação, a busca e a recompensa imediata. O motor do engajamento. | Atua na regulação do estatuto social (*status*), do sentimento de importância, da previsibilidade.| conexão, pertencimento, confiança.
-|**Gatilho**: Faz o usuário abrir o aplicativo ou buscar a próxima venda| **Gatilho**: Faz o usuário manter a fidelidade pela estabilidade da rotina ou pelo orgulho da exclusividade VIP.| **Gatilho**: Faz o usuário cooperar sem resistência e aceitar a indicação por se sentir seguro na relação.|
+| Lida com...| Lida com...| Lida com...|
+|Primordialmente a antecipação. A busca e a recompensa imediata. O motor do engajamento. A Caça. | Atua na regulação do estatuto social (*status*), do sentimento de importância, da previsibilidade.| conexão, pertencimento, confiança.
+|Gatilho| Gatilho| Gatilho|
+|Faz o usuário abrir o aplicativo ou buscar a próxima venda| Faz o usuário manter a fidelidade pela estabilidade da rotina ou pelo orgulho da exclusividade VIP.| Faz o usuário cooperar sem resistência e aceitar a indicação por se sentir seguro na relação.|
 
 
 Claro, o MKT não te dá uma pilula, como se fosse um remédio. Em vez disso, desenha estímulos que ativam os sistemas neuroquímicos do cérebro.
