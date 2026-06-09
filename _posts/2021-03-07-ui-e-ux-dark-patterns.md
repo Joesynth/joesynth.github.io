@@ -4,6 +4,8 @@
 <img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="120" />No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
 
+
+
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -41,11 +43,13 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 
 ## Técnicas de Dark Patterns
 
+
+<small>
 | Padrão Obscuro  
 | Descrição Técnica  
 | 📱 Implementação na UI  
 | 🚀 Objetivo do Sistema  
-
+</small>
 
 | **Roach Motel**  
 | `Entry: Low / Exit: High  
@@ -68,12 +72,14 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 | Pop-ups constantes solicitando permissões ou aceites de missões.  
 🚀 Vencer a resistência do usuário através do cansaço e interrupção da tarefa.  
 
-| **Bait and Switch** (Isca e Troca)  
+**Isca e Troca** <sup>Bait and Switch</sup>  
 | `Function Swapping  
 📱 O botão "X" de fechar inicia uma ação de "Saiba Mais" ou aceita um termo. 
 🚀 Transformar a intenção de saída em uma ação de engajamento forçado.  
 
 No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atualização), instalava. Vide [Microsoft](/microsoft).  
+
+Ou seja, **Bait and Switch**: O botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
 
 | **Hidden Costs**  
 | `Value Masking  
@@ -88,7 +94,7 @@ No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atu
 Técnica	Aplicação Prática	Objetivo no Sistema  
 
 **Roach Motel**: Fácil de entrar (cadastro), quase impossível de sair (deletar conta/logoff). Manter na base de dados.  
-**Bait and Switch**: O botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
+
 **Confirmshaming**	Linguagem que faz o usuário se sentir culpado ao negar algo (ex: "Não, prefiro ganhar menos"). Manipulação emocional via micro-copy.  
 **Disguised Ads**;Pedidos ou anúncios que se parecem com conteúdo orgânico ou notificações de sistema.	Aumentar a taxa de clique (CTR) enganando o olho.  
 
@@ -101,17 +107,25 @@ A UX é fluida para o que gera lucro e "travada" para o que gera custo ou saída
 
 ###### Gamificação e Design de Status
 
-Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.  
+Um bom caso disso é um fóruns sw técnicos ou comunidades de software livre onde usuários ganham títulos (ex: "Colaborador Master") com base na qualidade das respostas dadas à comunidade. Mas no contexto aqui dos padrões obscuros...
 
-**Progress Bar e Badges**: Barras de progresso ("Faltam 2 entregas para bater a meta") utilizam o Efeito Zeigarnik (nosso cérebro detesta tarefas incompletas).  
-**Leaderboards e Tiers**: Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial. O design usa cores metálicas e brilhos para dar a ilusão de prestígio a uma métrica de produtividade severa.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Ty2lt2shr69JRD3EseS-FgHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=c3517be43876b3884c93c248634bd5ff02d3ce042352391838b2030fa3ea08ac&ipo=images" width="310" />Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.  
+
+|Barras de progresso (Progress Bar e Badges)| Leaderboards e Tiers|
+|:---:|:---:|
+|Utilizam o Efeito Zeigarnik (nosso cérebro detesta tarefas incompletas).| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
+|Faltam 2 entregas para bater a meta| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
+
 
 ###### Arquitetura de Escolha (Nudging)
 
-O design não te obriga, mas "empurra" você para a escolha que o sistema deseja.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fmulher-militar-armada-11353162.jpg&f=1&nofb=1&ipt=6202108ce70df585d24acfa1fb2934d2085bab3fa51b0c92addd61796ef0096f" width="120" />Aqui a arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer.  
 
-**Default Option (Opção Padrão)**: O sistema deixa pré-selecionada a opção mais lucrativa para a rede (ex: a rota mais longa ou o seguro mais caro).  
-**Ancoragem de Preços**: Mostrar um valor alto primeiro para que o valor seguinte pareça "justo" ou "barato".  
+|Opção Padrão (Default Option)| Ancoragem de Preços|
+|:---:|:---:|
+|Sistema deixa pré-selecionado a opção mais lucrativa para a rede.| Mostrar um valor alto primeiro para que o valor seguinte pareça "barato"|
+|Ex.: a rota mais longa ou o seguro mais caro. | Ex.: Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
+ 
 
 👉 Design de Fricção Seletiva, Gamificação e Design de Status e Arquitetura de Escolha (Nudging) são três temas prioritariamente do campo de UX. Podem ou não não serem considerados Dark Patterns, conforme uso. Independente disso, tratam da estratégia psicológica, do fluxo da jornada e da intenção de manipular ou guiar o comportamento do indivíduo.  
 
