@@ -46,7 +46,20 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 
 
 
+
 ## Técnicas de Dark Patterns
+
+###### Baixo Contraste </sup>Low Contrast</sup> ou Obscuridade Visual </sup>Visual Obscurity</sup>
+
+Desenvolvedor reduz o contraste do botão de fechar para violar as regras de acessibilidade básicas.
+Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase invisível para quem olha rápido.
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115610_y.jpg" width="120" >+Entregas, iFood.  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115609_y.jpg" width="120" >+Entregas 2, iFood.  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962709_y.jpg" width="120" />+Entregas 3, iFood.  
+
+
 
 ###### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
 
