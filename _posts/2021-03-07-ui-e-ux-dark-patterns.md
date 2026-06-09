@@ -15,6 +15,8 @@
 - Um pouco de história
 
 
+
+
 ## Introdução
 
 
@@ -41,7 +43,35 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 |**como o ataque ocorre**<br />direciona o olhar para longe do que importa.|**como o ataque ocorre**<br />gera medo de perder algo (gatilho de escassez)|**como o ataque ocorre**<br />usa a memória muscular contra o usuário|
 |**exemplo**<br />o "X" para fechar o anúncio é quase invisível|**exemplo**<br />"apenas 1 unidade restante!" (mesmo sendo mentira)|**exemplo**<br />inverter a posição dos botões "Sim" e "Não" num popup|
 
+
+
+
 ## Técnicas de Dark Patterns
+
+###### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" >"O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro". Além, há triangulo com o simbolo de uma interrogação.
+
+Cancelamento foi gerado por terceiros ou pelo sistema, mas a interface comunica um impacto emocional diretamente para o trabalhador. A interface verbaliza a perda do dinheiro: "você não vai ganhar".
+Isso funciona exatamente como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
+Noutro lado, o banco de dados (onde a elite trabalha), teria-se uma informação neutra (Status: Cancelado).
+
+O objetivo do Gamified Shaming é usar o constrangimento ou o saldo negativo na interface como combustível psicológico para manter o usuário engajado na mecânica do aplicativo.
+
+###### Confirmshaming
+
+Rótulos de botões normalmente são curtos, uma ou duas palavras, verbos no infinitivo (salvar etc) ou imperativo (clique aqui). Garantir clareza é o foco, mas não no confirmshaming.
+
+Há botão depreciativo para o usuário clicar. 
+O botão que você é obrigado a clicar teria que conter uma frase de autodepreciação ou constrangimento para punir sua escolha de não seguir o que a empresa quer.
+
+
+
+| **Confirmshaming**  
+| `Social Engineering  
+📱 Mensagem de recusa tipo: "Não, eu não quero ser um motorista de elite".  
+🚀 Usar a manipulação emocional para impedir que o usuário negue uma função.  
+
 
 
 <small>
@@ -50,6 +80,9 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 | 📱 Implementação na UI  
 | 🚀 Objetivo do Sistema  
 </small>
+
+
+
 
 | **Roach Motel**  
 | `Entry: Low / Exit: High  
@@ -62,10 +95,6 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 📱 Botão "Aceitar" em destaque (cor/tamanho); "Recusar" em cinza e sem contraste.  
 🚀 Induzir o clique acidental ou forçado na opção que gera lucro para a rede.  
 
-| **Confirmshaming**  
-| `Social Engineering  
-📱 Mensagem de recusa tipo: "Não, eu não quero ser um motorista de elite".  
-🚀 Usar a manipulação emocional para impedir que o usuário negue uma função.  
 
 | **Nagging**  
 | `Iterative Intrusion  
