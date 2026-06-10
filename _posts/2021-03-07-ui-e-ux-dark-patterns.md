@@ -46,6 +46,46 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 
 
 
+## UX: campos
+
+
+- Design de Fricção Seletiva
+- Gamificação
+- Design de Status
+Arquitetura de Escolha (Nudging)
+
+Esses temas podem, ou não não, serem considerados padrões, conforme uso.
+
+
+###### Design de Fricção Seletiva  
+
+A UX é fluida para o que gera lucro e "travada" para o que gera custo ou saída.  
+
+**Fricção Zero para Compra/Aceite**: O botão de "Aceitar Corrida" é enorme e ocupa metade da tela. Muitas vezes, um toque acidental em qualquer lugar da tela valida a ação.  
+**Fricção Alta para Suporte/Cancelamento**: O fluxo de cancelamento ou suporte é escondido atrás vários submenus ("Labirinto de Cliques"). Isso desestimula o usuário a reclamar ou desistir.  
+
+###### Gamificação e Design de Status
+
+Um bom caso disso é um fóruns sw técnicos ou comunidades de software livre onde usuários ganham títulos (ex: "Colaborador Master") com base na qualidade das respostas dadas à comunidade. Mas no contexto aqui dos padrões obscuros...
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Ty2lt2shr69JRD3EseS-FgHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=c3517be43876b3884c93c248634bd5ff02d3ce042352391838b2030fa3ea08ac&ipo=images" width="310" />Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.  
+
+|Barras de progresso (Progress Bar e Badges)| Leaderboards e Tiers|
+|:---:|:---:|
+|Utilizam o Efeito Zeigarnik (nosso cérebro detesta tarefas incompletas).| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
+|Faltam 2 entregas para bater a meta| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
+
+
+###### Arquitetura de Escolha (Nudging)
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fmulher-militar-armada-11353162.jpg&f=1&nofb=1&ipt=6202108ce70df585d24acfa1fb2934d2085bab3fa51b0c92addd61796ef0096f" width="120" />Aqui a arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer.  
+
+|Opção Padrão (Default Option)| Ancoragem de Preços|
+|:---:|:---:|
+|Sistema deixa pré-selecionado a opção mais lucrativa para a rede.| Mostrar um valor alto primeiro para que o valor seguinte pareça "barato"|
+|Ex.: a rota mais longa ou o seguro mais caro. | Ex.: Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
+ 
+
 
 
 ## Técnicas de Dark Patterns
@@ -101,6 +141,29 @@ De forma digital a plataforma induz para que ele corra para "bater a meta".
 👉️ Vale lembrar que tudo isso tem, e muito, a ver com não sermos o dono do software. Veja FOSS.
 
 
+
+###### Notificação?
+
+Notificação Falsa (False Notification)
+Badge Vermelho Induzido (Misleading Badging)
+Badge Induzido (Misleading Notification)
+
+
+**Notificação Falsa / Badge Induzido (Misleading Notification)**: 
+O uso do contador numérico (badge) na cor vermelha explora um gatilho psicológico de urgência e pendência. Ao exibir um número sem correspondência real com novas interações diretas (mensagens ou curtidas não lidas), o sistema falsifica o estado de atividade da conta.
+
+**Isca e Troca (Bait and Switch)**:A interface atrai a atenção do usuário para um ponto específico (a suposta mensagem ou notificação relevante) e, ao efetuar o clique, entrega um conteúdo genérico, como sugestões de novos produtos no Marketplace, perfis recomendados no Namoro ou publicações antigas no Messenger.
+
+**Incentivo por Curiosidade (Artificial Engagement / Curiosity Gap)**:O objetivo técnico é inflar artificialmente as métricas de Engajamento Diário Ativo (DAU - Daily Active Users) e o tempo de permanência na plataforma. O sistema força o usuário a navegar por seções secundárias na tentativa de "limpar" o indicador visual.
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962702_y.jpg" width="120" />Bolinha vermelha (no *marketplace*) mostra 5.
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962703_y.jpg" width="120" />Caixa de entrada sem nada. Além, 3 avaliações [algo do próprio sistema).
+
+
+Mais...
+
       Legenda:
     Padrão Obscuro  
     Descrição Técnica  
@@ -154,36 +217,6 @@ Técnica	Aplicação Prática	Objetivo no Sistema
 **Confirmshaming**	Linguagem que faz o usuário se sentir culpado ao negar algo (ex: "Não, prefiro ganhar menos"). Manipulação emocional via micro-copy.  
 **Disguised Ads**;Pedidos ou anúncios que se parecem com conteúdo orgânico ou notificações de sistema.	Aumentar a taxa de clique (CTR) enganando o olho.  
 
-###### Design de Fricção Seletiva  
-
-A UX é fluida para o que gera lucro e "travada" para o que gera custo ou saída.  
-
-**Fricção Zero para Compra/Aceite**: O botão de "Aceitar Corrida" é enorme e ocupa metade da tela. Muitas vezes, um toque acidental em qualquer lugar da tela valida a ação.  
-**Fricção Alta para Suporte/Cancelamento**: O fluxo de cancelamento ou suporte é escondido atrás vários submenus ("Labirinto de Cliques"). Isso desestimula o usuário a reclamar ou desistir.  
-
-###### Gamificação e Design de Status
-
-Um bom caso disso é um fóruns sw técnicos ou comunidades de software livre onde usuários ganham títulos (ex: "Colaborador Master") com base na qualidade das respostas dadas à comunidade. Mas no contexto aqui dos padrões obscuros...
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Ty2lt2shr69JRD3EseS-FgHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=c3517be43876b3884c93c248634bd5ff02d3ce042352391838b2030fa3ea08ac&ipo=images" width="310" />Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.  
-
-|Barras de progresso (Progress Bar e Badges)| Leaderboards e Tiers|
-|:---:|:---:|
-|Utilizam o Efeito Zeigarnik (nosso cérebro detesta tarefas incompletas).| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
-|Faltam 2 entregas para bater a meta| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
-
-
-###### Arquitetura de Escolha (Nudging)
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fmulher-militar-armada-11353162.jpg&f=1&nofb=1&ipt=6202108ce70df585d24acfa1fb2934d2085bab3fa51b0c92addd61796ef0096f" width="120" />Aqui a arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer.  
-
-|Opção Padrão (Default Option)| Ancoragem de Preços|
-|:---:|:---:|
-|Sistema deixa pré-selecionado a opção mais lucrativa para a rede.| Mostrar um valor alto primeiro para que o valor seguinte pareça "barato"|
-|Ex.: a rota mais longa ou o seguro mais caro. | Ex.: Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
- 
-
-👉 Design de Fricção Seletiva, Gamificação e Design de Status e Arquitetura de Escolha (Nudging) são três temas prioritariamente do campo de UX. Podem ou não não serem considerados Dark Patterns, conforme uso. Independente disso, tratam da estratégia psicológica, do fluxo da jornada e da intenção de manipular ou guiar o comportamento do indivíduo.  
 
 
 
