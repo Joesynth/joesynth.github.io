@@ -6,6 +6,7 @@
 
 
 
+
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -60,24 +61,11 @@ Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962709_y.jpg" width="120" />+Entregas 3, iFood.  
 
 
-
-###### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" >"O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro". Além, há triangulo com o simbolo de uma interrogação.
-
-Cancelamento foi gerado por terceiros ou pelo sistema, mas a interface comunica um impacto emocional diretamente para o trabalhador. A interface verbaliza a perda do dinheiro: "você não vai ganhar".
-Isso funciona exatamente como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
-Noutro lado, o banco de dados (onde a elite trabalha), teria-se uma informação neutra (Status: Cancelado).
-
-O objetivo do Gamified Shaming é usar o constrangimento ou o saldo negativo na interface como combustível psicológico para manter o usuário engajado na mecânica do aplicativo.
-
 ###### Confirmshaming
 
-Rótulos de botões normalmente são curtos, uma ou duas palavras, verbos no infinitivo (salvar etc) ou imperativo (clique aqui). Garantir clareza é o foco, mas não no confirmshaming.
+Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.).  Mas no *confirmshaming* isso é diferente.
 
-Há botão depreciativo para o usuário clicar. 
-O botão que você é obrigado a clicar teria que conter uma frase de autodepreciação ou constrangimento para punir sua escolha de não seguir o que a empresa quer.
-
+No botão que o usuário clica, há algo depreciativo ou de constrangimento para punir a escolha dele de não seguir o que a empresa quer.
 
 
 | **Confirmshaming**  
@@ -85,14 +73,31 @@ O botão que você é obrigado a clicar teria que conter uma frase de autodeprec
 📱 Mensagem de recusa tipo: "Não, eu não quero ser um motorista de elite".  
 🚀 Usar a manipulação emocional para impedir que o usuário negue uma função.  
 
+x
+
+###### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
+
+Note que o texto abaixo funciona, exatamente, como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
+
+> "O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro".
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" > Além, há um triangulo com o simbolo de uma interrogação.
+
+O cancelamento foi gerado por terceiros ou pelo sistema, mas a interface comunica um impacto emocional diretamente para o trabalhador. A interface verbaliza a perda do dinheiro: **"você não vai ganhar"**.
+
+Noutro lado, no banco de dados (onde a elite trabalha), certamente tem-se uma informação neutra, por ex. "*Status*: Cancelado".
+
+O objetivo do **Punição Gamificada** é usar o constrangimento ou o saldo negativo, na interface, como combustível psicológico para manter o usuário engajado na mecânica do aplicativo.
 
 
-<small>
-| Padrão Obscuro  
-| Descrição Técnica  
-| 📱 Implementação na UI  
-| 🚀 Objetivo do Sistema  
-</small>
+
+
+      Legenda:
+    Padrão Obscuro  
+    Descrição Técnica  
+    📱 Implementação na UI  
+    🚀 Objetivo do Sistema  
+
 
 
 
