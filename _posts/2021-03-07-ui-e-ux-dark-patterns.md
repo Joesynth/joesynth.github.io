@@ -89,7 +89,16 @@ Noutro lado, no banco de dados (onde a elite trabalha), certamente tem-se uma in
 
 O objetivo do **Punição Gamificada** é usar o constrangimento ou o saldo negativo, na interface, como combustível psicológico para manter o usuário engajado na mecânica do aplicativo.
 
+Outro caso?
 
+> "Falta pouco. Os usuários gostam de entregas dentro do prazo." [Uber]
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962710_y.jpg" width="120" />. [patrão cobrando, nudge.
+Aqui há uma verdade óbvia, mas a interface dá uma advertência, um tom de bronca. A tela em si poderia ser do tipo que surge, fica por 1 s e some, ou, ter um o "x" de fechar. Mas não, há o botão grandão com "Ok" para a pessoa clicar; que é, lireralmente, a aceitação de um "puxão de orelha" digital. 
+
+De forma digital a plataforma induz para que ele corra para "bater a meta".
+
+👉️ Vale lembrar que tudo isso tem, e muito, a ver com não sermos o dono do software. Veja FOSS.
 
 
       Legenda:
