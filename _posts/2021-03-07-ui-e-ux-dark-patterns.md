@@ -1,7 +1,8 @@
 # UI e UX: Dark Patterns
 
+📚️ Dark Patterns: Padrões Obscuros
 
-<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="120" />No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
+<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="310" />No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
 
 
@@ -22,17 +23,28 @@
 ## Introdução
 
 
-##### Dark Patterns (Padrões Obscuros)
+##### Padrões Obscuros
 
-Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que *está de maldade* pensando em ataues financeiros ou em servidores.
+Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que *está de maldade* pensando em ataques financeiros ou em servidores. O "hacker de interface" é semelhante, mas ataca o indivíduo (usuário ou nó).
 
-O "hacker de interface" (ou "black hat UX" ou ainda "black hat UI") é semelhante, mas ataca o indivíduo (usuário ou nó).
+📚️ "hacker de interface" ou "black hat UX" ou ainda "black hat UI".  
 
-Dark Patterns são técnicas desenhadas para enganar ou dificultar ações que não interessam ao Dono da Rede (uma plataforma, como Uber, por ex.).
+|hacker de computador| hacker de interface|
+|:---:|:---:|
+|ataque| ataque|
+|financeiro ou ao servidor | o indivíduo (usuário ou nó)|
+
+
+**Padrões Obscuros*8 são técnicas desenhadas para enganar ou dificultar ações que não interessam ao Dono da Rede (uma plataforma, como Uber, por ex.).
 
 ###### Dark Patterns: hack psicológico
 
-Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, que, obviamente, é nosso cérebro humano. Ele não quebra a segurança do seu computador; ele quebra a sua autonomia de decisão.
+|vírus| padrões obscuros|
+|:---:|:---:|
+|ataca| ataca|
+|SO do computador| o nosso "SO", nosso cérebro humano|
+
+Ele não quebra a segurança do seu computador; ele quebra a sua autonomia de decisão.
 
 ###### Os 3 Alvos da "Invasão" Psicológica
 
@@ -135,9 +147,9 @@ De forma digital a plataforma induz para que ele corra para "bater a meta".
 
 #### Notificação?
 
-Notificação Falsa (False Notification)
-Badge Vermelho Induzido (Misleading Badging)
-Badge Induzido (Misleading Notification)
+    Notificação Falsa (False Notification)  
+    Badge Vermelho Induzido (Misleading Badging)  
+    Badge Induzido (Misleading Notification)  
 
 
 **Notificação Falsa / Badge Induzido (Misleading Notification)**: 
@@ -162,7 +174,7 @@ Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962703_y.jpg" width="120" />Caixa de entrada sem nada. Além, 3 avaliações [algo do próprio sistema).
 
-
+Notificações Falsas ou Engajamento Artificial são táticas que pertencem ao grupo maior de Interferência na Interface (Interface Interference).
 
 
 
@@ -208,10 +220,18 @@ Destacar visualmente o redirecionamento público apenas para avaliações positi
 
 Táticas específicas dentro do campo **misdirection**.
 
-|Confirmshaming| Visual Interference|
+|Confirmshaming| Interferência Visual|
 |:---:|:---:|
-|Linguagem que faz o usuário se sentir culpado ao negar algo; manipulação emocional via pequenos textos (micro-copy).| 🎯️ Foco na estética|
-|"Não, prefiro ganhar menos"| Usar cores, tamanhos e contrastes para destacar o que dá lucro, esconder o que o usuário quer. |
+|"Constangimento de Confirmação")|Visual Interference|
+|🎯️ Foco: desvio de atenção é emocional e textual.| 🎯️ Foco: desvio de atenção é óptico e mecânico.|
+||Há uma manipulação deliberada da hierarquia visual para induzir o usuário a um comportamento que atenda aos interesses jurídicos ou operacionais da plataforma, em detrimento de uma navegação fluida.|
+|🎯️ Foco: manipulação psicológica e emocional. Linguagem que faz o usuário se sentir culpado ao negar algo; manipulação emocional via pequenos textos (micro-copy).| 🎯️ Foco: Subverte-se a lógica do bom design — que deveria servir à clareza — para transformá-lo em uma ferramenta de indução de comportamento voltada ao desejo do autor|
+|| Usar cores, tamanhos e contrastes para destacar o que interessa ao autor, esconder o que convém ao usuário. |
+|📱 "Não, prefiro ganhar menos"| 📱 Loja virtual, frete com seguro:  botão grande: "Finalizar Compra", texto pequeno bem tímido com link "não quero seguro".|
+
+
+
+
 
 **Confirmshaming**: 
 Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.). Mas no *confirmshaming* isso é diferente.
@@ -223,10 +243,9 @@ Resumo:
 📱 Mensagem de recusa tipo: "Não, eu não quero ser um motorista de elite".  
 🚀 Usar a manipulação emocional para impedir que o usuário negue uma função.  
 
-**Interferência Visual** <sup>Visual Interference</sup>.
 
-Há uma manipulação deliberada da hierarquia visual para induzir o usuário a um comportamento que atenda aos interesses jurídicos ou operacionais da plataforma, em detrimento de uma navegação fluida.
-📱
+
+
 
 
 **Ocultação Deliberada <sup>Deliberate Hiding</sup>**
