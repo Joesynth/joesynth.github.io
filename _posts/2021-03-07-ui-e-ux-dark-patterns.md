@@ -164,6 +164,106 @@ Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar 
 
 x
 
+#### Misdirection
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatthewfurman.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmisdirection-in-magic.jpg&f=1&nofb=1&ipt=1bc57dadcb3bbd53bd844623440d670dc85423a3842a2f50c9c7cc16d7dceb5b" width="310" />
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.zXhiWm3zOGtpf-sxnfJX6wHaHt%3Fpid%3DApi&f=1&ipt=7aaee21598f921d1a8a2f16ea04dbf2cd5bb78356bef40ccda36d2a5f0e93d20" width="120" />
+
+📚️ Desvio de Atenção (tradução mais comum em artigos de Experiência do Usuário (UX Design) e em relatórios de órgãos de defesa do consumidor (como a Senacon ou o IDP).) Direcionamento Incorreto (A tradução descritiva)
+
+<small>
+O termo misdirection vem diretamente do ilusionismo (a arte do mágico de fazer o público olhar para a mão direita enquanto a mão esquerda esconde a carta). Na interface, o design foca propositadamente a sua atenção em um elemento (um botão grande e colorido para assinar um serviço) para distrair a sua atenção de outro (o link pequeno, cinza e escondido para recusar a oferta).
+Indução ao Erro 
+</small>
+
+Direcionamento Incorreto / Indução ao Erro;  [[CONFIRMAR TDODOS]
+
+Utilizar elementos visuais ou fluxos de navegação para desviar a atenção do usuário de uma escolha óbvia ou desejada, direcionando-o deliberadamente para uma ação que beneficia exclusivamente a plataforma (geralmente financeira ou na coleta de dados).
+
+🎯️ Foco: manipulação da atenção _não foca na força bruta ou no erro mecânico do clique (como um botão que se move sozinho segundos antes do toque)
+🚀 Induzir o clique acidental ou forçado na opção que interessa para a plataforma, app etc (gerar lucro para a rede, coletar de dados (pessoais, biométricos etc)  
+📱 Botão "Aceitar" em destaque (cor/tamanho); "Recusar" em cinza e sem contraste.  
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115604_y.jpg" width="120" >Antes de começar confira... [botão tá muito embaixo]. ifood. 
+
+A interface utiliza elementos de design para guiar a atenção do usuário para longe do botão de ação principal (Iniciar) e direcioná-la para um elemento secundário (o link dos Termos de Uso). Ao "chutar" o botão principal para fora da área imediatamente visível (a chamada linha de dobra ou above the fold), a plataforma força o olhar do usuário a focar no link centralizado.
+
+Vide **Ocultação Deliberada** abaixo.
+
+<small>
+<strong>Outros interesses da plataforma</strong>
+👉️ comunicação direta
+garantir permissão para bombardear o usuário com alertas futuros
+👉️ engajamento
+inflar o tempo de tela do usuário dentro do app
+👉️ crescimento (growth|
+expansão rápida da base de usuários sem custo de MKT
+👉️ retenção de base
+Evitar a perda de clientes (churn) e garantir a manutenção de mensalidades (Esconder o botão de "Cancelar Assinatura" ou "Excluir Conta" em submenus profundos com fontes minúsculas e sem contraste). 
+👉️ Reputação Visual
+Blindagem da imagem pública e notas altas nas lojas de aplicativos (Play Store).
+Destacar visualmente o redirecionamento público apenas para avaliações positivas (5 estrelas), enquanto críticas negativas são desviadas para um SAC interno oculto.
+</small>
+
+
+###### Misdirection: tipos
+
+Táticas específicas dentro do campo **misdirection**.
+
+|Confirmshaming| Visual Interference|
+|:---:|:---:|
+|Linguagem que faz o usuário se sentir culpado ao negar algo; manipulação emocional via pequenos textos (micro-copy).| 🎯️ Foco na estética|
+|"Não, prefiro ganhar menos"| Usar cores, tamanhos e contrastes para destacar o que dá lucro, esconder o que o usuário quer. |
+
+**Confirmshaming**: 
+Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.). Mas no *confirmshaming* isso é diferente.
+
+No botão que o usuário clica, há algo depreciativo ou de constrangimento para punir a escolha dele de não seguir o que a empresa quer.
+
+
+Resumo: 
+📱 Mensagem de recusa tipo: "Não, eu não quero ser um motorista de elite".  
+🚀 Usar a manipulação emocional para impedir que o usuário negue uma função.  
+
+**Interferência Visual** <sup>Visual Interference</sup>.
+
+Há uma manipulação deliberada da hierarquia visual para induzir o usuário a um comportamento que atenda aos interesses jurídicos ou operacionais da plataforma, em detrimento de uma navegação fluida.
+📱
+
+
+**Ocultação Deliberada <sup>Deliberate Hiding</sup>**
+
+Ofuscação e Ocultação Abaixo da Dobra são tipos de **Ocultação Deliberada**.
+
+📚️ Obfuscation | Below-the-fold Hiding
+
+|Ofuscação| Ocultação Abaixo da Dobra|
+|:---:|:---:|
+|Informação ou opção está na tela e até acessível, mas distorcida, camuflada ou sobrecarregada. Foco? Usuário não consigui compreender ou identificá-la com clareza.| Uso do próprio tamanho físco da tela como uma barreira, seja monitor ou smartphone.|
+|Visual (fonte pequena, cores sem contrastes com o fundo etc); linguística (abreviações incomuns ou redação confusa para o usuário desistir de ler e só aceitar a opção padrão.)| Cookies: botão "Aceitar Todos" grande, colorido e visível, mas opção "Rejeitar" ou "Configurar" surge de forma muito "tímida" (posicionada abaixo, oculta em um link ou é preciso rolar a tela).|
+
+Ocultação Deliberada temos uso incorreto do layout, não por falha técnica ou amadorismo _pois mesmo uma criança resolveria facilmente com linguagem CSS, flex-box. Trata-se de uma decisão de design para ocultar parcialmente o botão até que o usuário interaja rolando a tela, e por outro lado, força o elemento que a plataforma deseja que você interaja ou leia: os Termos de Uso.
+
+👉️ Inversão de Padrão e Falsa Hierarquia** O usuário abre a tela esperando realizar a ação declarada no título ("Reconhecimento Facial"). Ao ocultar o botão de ação e centralizar o texto/link de termos, o aplicativo quebra o fluxo natural de navegação esperado pelo usuário.
+👉️ Objetivo da plataforma: Garantir o respaldo jurídico de que o usuário viu ou teve acesso direto aos Termos de Uso antes de iniciar o procedimento biométrico?
+Daí, a plataforma a própria estrutura física da tela para desviar a atenção do botão de execução.
+
+**Trick Questions**: focado na linguagem e lógica (confundir o usuário com frases de dupla negação para fazê-lo marcar a opção errada). 
+
+xxx
+manipulação da atenção, subverter a autonomia do usuário.
+🎯️ Foco
+
+|Visual/Estrutural| Semântico/Linguístico| Mecânico/Físico|
+|:---:|:---:|:---:|
+|Misdirection| Perguntas Pegadinha| Interferência na Interface|
+||||
+
+Misdirection (Direcionamento Incorreto)
+Trick Questions (Perguntas Pegadinha).
+Interface Interference (Interferência na Interface) / Forced Action (Ação Forçada).
+
 
 Mais...
 
@@ -280,6 +380,50 @@ Os casos, abaixo, podem pender mais para um ou outro pilar.
 A UX agressiva utiliza técnicas intensas de persuasão e nudging (arquitetura de escolha) para conduzir o usuário a uma ação, mas não necessariamente mente ou engana. Em suma, ela força a barra, digamos.  
 
 
+
+
+## Manipular a escolha
+
+#### Misdirection vs. Trick Question
+
+🔫 Ataque: onde ocorre? Camada da percepção
+🎯️ Foco? O ponto chave na arquitetura do software: a ilusão de escolha!
+
+
+Ataca-se a sua percepção e na interpretação do texto. Ele ataca a pressa e o hábito de leitura rápida do usuário.
+
+> Há escolha na tela, mas o sistema engana a sua mente ou os seus olhos para você escolher a opção que favorece a empresa.
+
+|Misdirection| Trick Question|
+|:---:|:---:|
+|Formas, cores, contraste | Texto Escrito|
+|é a referência que o cérebro utiliza para processar a informação e tomar a decisão. Ele sabota os sinais que guiam a sua atenção:||
+|Explora o *"scanning"* (varredura visual rápida). | Explora a leitura.|
+
+|Misdirection| Trick Question|
+|:---:|:---:|
+|a plataforma sabota...| a plataforma sabota...|
+|sua percepção visual rápida| sua cognição linguística|
+|ele assume que...| ela assume que...|
+|você não vai ler nada, só olhar formas, cores| você vai ler, mas que seu cérebro vai preencher o sentido da frase de forma automática baseado no hábito, sem notar a pegadinha gramatical|
+|onde você olha| o que você interpreta|
+|Botão grande verde diz "Avançar" e um *link* cinza tímido diz "Não quero" | O usuário lê rápido e marca achando que está cancelando, mas está confirmando|
+|resultado| resultado|
+|Design escondeu onde está a recusa| O usuário lê rápido e marca achando que está cancelando, mas está confirmando|
+
+
+
+## Coerção técnica
+
+#### Ação Forçada ou Consentimento Forçado
+
+📚️ Forced Action ou Forced Consent.  
+
+Embora diferentes, ambos obrigam o usuário a realizar uma ação contra a sua vontade original.  
+
+Exemplos:  
+👉️ Impedir o fechamento de um aviso ou janela pop-up antes que um contador de tempo (ex: 10 segundos de publicidade) termine.  
+👉️ Trocar os botões de cookies por um aviso único: "Ao continuar navegando, você concorda com todos os termos de rastreamento", sem fornecer um botão visível e equivalente para rejeitar.  
 
 
 ## Um pouco de história
