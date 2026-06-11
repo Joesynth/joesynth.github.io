@@ -91,7 +91,7 @@ Um bom caso disso é um fóruns sw técnicos ou comunidades de software livre on
 
 ## Técnicas de Dark Patterns
 
-###### Baixo Contraste ou Obscuridade Visual
+#### Baixo Contraste ou Obscuridade Visual
 
 📚️ Low Contrast, Visual Obscurity
 
@@ -106,7 +106,7 @@ Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase 
 
 xxx
 
-###### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
+#### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
 
 Note que o texto abaixo funciona, exatamente, como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
 
@@ -133,7 +133,7 @@ De forma digital a plataforma induz para que ele corra para "bater a meta".
 
 
 
-###### Notificação?
+#### Notificação?
 
 Notificação Falsa (False Notification)
 Badge Vermelho Induzido (Misleading Badging)
@@ -163,7 +163,7 @@ No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atu
 
 Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
 
-x
+
 
 #### Misdirection
 
@@ -264,6 +264,13 @@ Misdirection (Direcionamento Incorreto)
 Trick Questions (Perguntas Pegadinha).
 Interface Interference (Interferência na Interface) / Forced Action (Ação Forçada).
 
+#### Configurações Pré-definidas ou Caixas de Seleção Pré-marcadas
+
+📚️ Default Settings | Pre-selected Checkboxes.
+
+São táticas específicas que se enquadram em campos maiores dos padrões obscuros (Action Blockers / Obstruction (Obstaculização) e Interface Interference (Interferência na Interface)).
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/yahoo-dark-pattern.png" width="120" />Yahoo, caixa pre selecionada
 
 Mais...
 
@@ -507,7 +514,7 @@ Abaixo, épocas.
 🤔 É certo que uma prática de persuasão coercitiva, sendo que a computação deu o meio mais eficiente que a humanidade já inventou para aplicá-la. A questão é que, agora, essa eficiência se resume em subjugar: xeque-mate no usuário, no "nó".  
 
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/yahoo-dark-pattern.png" width="120" />Yahoo, caixa pre selecionada
+
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Fum-homem-esta-sentado-em-um-tabuleiro-de-xadrez-com-uma-partida-de-xadrez-a-sua-frente_849761-19805.jpg&f=1&nofb=1&ipt=86c380545b8a84bc2f96f525b916795695b105dbc082b31986a2c6117e766ce9" width="310" />Tabuleiro
 
