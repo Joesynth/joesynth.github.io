@@ -52,7 +52,7 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 - Design de Fricção Seletiva
 - Gamificação
 - Design de Status
-Arquitetura de Escolha (Nudging)
+- Arquitetura de Escolha (Nudging)
 
 Esses temas podem, ou não não, serem considerados padrões, conforme uso.
 
@@ -90,7 +90,9 @@ Um bom caso disso é um fóruns sw técnicos ou comunidades de software livre on
 
 ## Técnicas de Dark Patterns
 
-###### Baixo Contraste </sup>Low Contrast</sup> ou Obscuridade Visual </sup>Visual Obscurity</sup>
+###### Baixo Contraste ou Obscuridade Visual
+
+📚️ Low Contrast, Visual Obscurity
 
 Desenvolvedor reduz o contraste do botão de fechar para violar as regras de acessibilidade básicas.
 Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase invisível para quem olha rápido.
@@ -101,19 +103,7 @@ Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962709_y.jpg" width="120" />+Entregas 3, iFood.  
 
 
-###### Confirmshaming
-
-Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.).  Mas no *confirmshaming* isso é diferente.
-
-No botão que o usuário clica, há algo depreciativo ou de constrangimento para punir a escolha dele de não seguir o que a empresa quer.
-
-
-| **Confirmshaming**  
-| `Social Engineering  
-📱 Mensagem de recusa tipo: "Não, eu não quero ser um motorista de elite".  
-🚀 Usar a manipulação emocional para impedir que o usuário negue uma função.  
-
-x
+xxx
 
 ###### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
 
@@ -161,6 +151,19 @@ O uso do contador numérico (badge) na cor vermelha explora um gatilho psicológ
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962703_y.jpg" width="120" />Caixa de entrada sem nada. Além, 3 avaliações [algo do próprio sistema).
 
+x
+
+**Isca e Troca** <sup>Bait and Switch</sup>  
+| `Function Swapping  
+📱 O botão "X" de fechar inicia uma ação de "Saiba Mais" ou aceita um termo. 
+🚀 Transformar a intenção de saída em uma ação de engajamento forçado.  
+
+No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atualização), instalava. Vide [Microsoft](/microsoft).  
+
+Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
+
+x
+
 
 Mais...
 
@@ -179,26 +182,14 @@ Mais...
 📱 Cadastro simplificado; botão de "Excluir Conta" oculto em submenus.  
 🚀 Manter o nó (usuário) ativo na base de dados para inflar métricas.  
 
+**Roach Motel**: Fácil de entrar (cadastro), quase impossível de sair (deletar conta/logoff). Manter na base de dados.  
 
-| **Misdirection**  
-| `Visual Deception  
-📱 Botão "Aceitar" em destaque (cor/tamanho); "Recusar" em cinza e sem contraste.  
-🚀 Induzir o clique acidental ou forçado na opção que gera lucro para a rede.  
 
 
 | **Nagging**  
 | `Iterative Intrusion  
 | Pop-ups constantes solicitando permissões ou aceites de missões.  
 🚀 Vencer a resistência do usuário através do cansaço e interrupção da tarefa.  
-
-**Isca e Troca** <sup>Bait and Switch</sup>  
-| `Function Swapping  
-📱 O botão "X" de fechar inicia uma ação de "Saiba Mais" ou aceita um termo. 
-🚀 Transformar a intenção de saída em uma ação de engajamento forçado.  
-
-No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atualização), instalava. Vide [Microsoft](/microsoft).  
-
-Ou seja, **Bait and Switch**: O botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
 
 | **Hidden Costs**  
 | `Value Masking  
@@ -212,9 +203,8 @@ Ou seja, **Bait and Switch**: O botão parece uma coisa (ex: fechar), mas execut
 
 Técnica	Aplicação Prática	Objetivo no Sistema  
 
-**Roach Motel**: Fácil de entrar (cadastro), quase impossível de sair (deletar conta/logoff). Manter na base de dados.  
 
-**Confirmshaming**	Linguagem que faz o usuário se sentir culpado ao negar algo (ex: "Não, prefiro ganhar menos"). Manipulação emocional via micro-copy.  
+
 **Disguised Ads**;Pedidos ou anúncios que se parecem com conteúdo orgânico ou notificações de sistema.	Aumentar a taxa de clique (CTR) enganando o olho.  
 
 
