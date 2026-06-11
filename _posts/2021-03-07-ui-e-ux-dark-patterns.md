@@ -7,6 +7,7 @@
 
 
 
+
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -166,18 +167,15 @@ x
 
 #### Misdirection
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatthewfurman.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmisdirection-in-magic.jpg&f=1&nofb=1&ipt=1bc57dadcb3bbd53bd844623440d670dc85423a3842a2f50c9c7cc16d7dceb5b" width="310" />
+📚️ Desvio de atenção; ou  direcionamento incorreto, indução ao rrro.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.zXhiWm3zOGtpf-sxnfJX6wHaHt%3Fpid%3DApi&f=1&ipt=7aaee21598f921d1a8a2f16ea04dbf2cd5bb78356bef40ccda36d2a5f0e93d20" width="120" />
+Direcionamento Incorreto / ;  [[CONFIRMAR TDODOS]
 
-📚️ Desvio de Atenção (tradução mais comum em artigos de Experiência do Usuário (UX Design) e em relatórios de órgãos de defesa do consumidor (como a Senacon ou o IDP).) Direcionamento Incorreto (A tradução descritiva)
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatthewfurman.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmisdirection-in-magic.jpg&f=1&nofb=1&ipt=1bc57dadcb3bbd53bd844623440d670dc85423a3842a2f50c9c7cc16d7dceb5b" width="310" />É parecido com os truques de ilusionismo.A arte do mágico de fazer o público pestar atenção em uma mão enquanto esconde a carta na outra.
 
-<small>
-O termo misdirection vem diretamente do ilusionismo (a arte do mágico de fazer o público olhar para a mão direita enquanto a mão esquerda esconde a carta). Na interface, o design foca propositadamente a sua atenção em um elemento (um botão grande e colorido para assinar um serviço) para distrair a sua atenção de outro (o link pequeno, cinza e escondido para recusar a oferta).
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.zXhiWm3zOGtpf-sxnfJX6wHaHt%3Fpid%3DApi&f=1&ipt=7aaee21598f921d1a8a2f16ea04dbf2cd5bb78356bef40ccda36d2a5f0e93d20" width="120" />Na interface, o design foca propositadamente a sua atenção em um elemento (um botão grande e colorido para assinar um serviço) para distrair a sua atenção de outro (o link pequeno, cinza e escondido para recusar a oferta).
 Indução ao Erro 
-</small>
 
-Direcionamento Incorreto / Indução ao Erro;  [[CONFIRMAR TDODOS]
 
 Utilizar elementos visuais ou fluxos de navegação para desviar a atenção do usuário de uma escolha óbvia ou desejada, direcionando-o deliberadamente para uma ação que beneficia exclusivamente a plataforma (geralmente financeira ou na coleta de dados).
 
@@ -185,9 +183,7 @@ Utilizar elementos visuais ou fluxos de navegação para desviar a atenção do 
 🚀 Induzir o clique acidental ou forçado na opção que interessa para a plataforma, app etc (gerar lucro para a rede, coletar de dados (pessoais, biométricos etc)  
 📱 Botão "Aceitar" em destaque (cor/tamanho); "Recusar" em cinza e sem contraste.  
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115604_y.jpg" width="120" >Antes de começar confira... [botão tá muito embaixo]. ifood. 
 
-A interface utiliza elementos de design para guiar a atenção do usuário para longe do botão de ação principal (Iniciar) e direcioná-la para um elemento secundário (o link dos Termos de Uso). Ao "chutar" o botão principal para fora da área imediatamente visível (a chamada linha de dobra ou above the fold), a plataforma força o olhar do usuário a focar no link centralizado.
 
 Vide **Ocultação Deliberada** abaixo.
 
@@ -244,6 +240,10 @@ Ofuscação e Ocultação Abaixo da Dobra são tipos de **Ocultação Deliberada
 |Visual (fonte pequena, cores sem contrastes com o fundo etc); linguística (abreviações incomuns ou redação confusa para o usuário desistir de ler e só aceitar a opção padrão.)| Cookies: botão "Aceitar Todos" grande, colorido e visível, mas opção "Rejeitar" ou "Configurar" surge de forma muito "tímida" (posicionada abaixo, oculta em um link ou é preciso rolar a tela).|
 
 Ocultação Deliberada temos uso incorreto do layout, não por falha técnica ou amadorismo _pois mesmo uma criança resolveria facilmente com linguagem CSS, flex-box. Trata-se de uma decisão de design para ocultar parcialmente o botão até que o usuário interaja rolando a tela, e por outro lado, força o elemento que a plataforma deseja que você interaja ou leia: os Termos de Uso.
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115604_y.jpg" width="120" >Antes de começar confira... [botão tá muito embaixo]. ifood. 
+
+A interface utiliza elementos de design para guiar a atenção do usuário para longe do botão de ação principal (Iniciar) e direcioná-la para um elemento secundário (o link dos Termos de Uso). Ao "chutar" o botão principal para fora da área imediatamente visível (a chamada linha de dobra ou above the fold), a plataforma força o olhar do usuário a focar no link centralizado.
 
 👉️ Inversão de Padrão e Falsa Hierarquia** O usuário abre a tela esperando realizar a ação declarada no título ("Reconhecimento Facial"). Ao ocultar o botão de ação e centralizar o texto/link de termos, o aplicativo quebra o fluxo natural de navegação esperado pelo usuário.
 👉️ Objetivo da plataforma: Garantir o respaldo jurídico de que o usuário viu ou teve acesso direto aos Termos de Uso antes de iniciar o procedimento biométrico?
@@ -505,6 +505,11 @@ Abaixo, épocas.
 |**Dark Pattern Exemplo**<br />itens essenciais no fundo da loja|**Dark Pattern Exemplo**<br />muita dificuldade em desligar ou cancelar|**Dark Pattern Exemplo**<br />assinatura em 1 clique, cancelar 10 telas|
 
 🤔 É certo que uma prática de persuasão coercitiva, sendo que a computação deu o meio mais eficiente que a humanidade já inventou para aplicá-la. A questão é que, agora, essa eficiência se resume em subjugar: xeque-mate no usuário, no "nó".  
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/yahoo-dark-pattern.png" width="120" />Yahoo, caixa pre selecionada
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Fum-homem-esta-sentado-em-um-tabuleiro-de-xadrez-com-uma-partida-de-xadrez-a-sua-frente_849761-19805.jpg&f=1&nofb=1&ipt=86c380545b8a84bc2f96f525b916795695b105dbc082b31986a2c6117e766ce9" width="310" />Tabuleiro
 
 É certo também que temos escolhas em alguma medida, então fazer o bem é possível.
 
