@@ -49,13 +49,14 @@ Enquanto um vírus ataca o SO do computador, o Dark Pattern ataca o nosso SO, qu
 
 ## UX: campos
 
+|Design de Fricção Seletiva| Gamificação|
+|:---:|:---:|
 
-- Design de Fricção Seletiva
-- Gamificação
-- Design de Status
-- Arquitetura de Escolha (Nudging)
+|Arquitetura de Escolha| Design de Status|
+|:---:|:---:|
 
-Esses temas podem, ou não não, serem considerados padrões, conforme uso.
+
+Esses temas podem, ou não não, serem considerados padrões obscuros, conforme uso.
 
 
 ###### Design de Fricção Seletiva  
@@ -67,9 +68,9 @@ A UX é fluida para o que gera lucro e "travada" para o que gera custo ou saída
 
 ###### Gamificação e Design de Status
 
-Um bom caso disso é um fóruns sw técnicos ou comunidades de software livre onde usuários ganham títulos (ex: "Colaborador Master") com base na qualidade das respostas dadas à comunidade. Mas no contexto aqui dos padrões obscuros...
+Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um título (ex: "Colaborador Master") com base na qualidade das respostas dadas ao grupo. Mas no contexto aqui dos padrões obscuros...
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Ty2lt2shr69JRD3EseS-FgHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=c3517be43876b3884c93c248634bd5ff02d3ce042352391838b2030fa3ea08ac&ipo=images" width="310" />Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.Ty2lt2shr69JRD3EseS-FgHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=c3517be43876b3884c93c248634bd5ff02d3ce042352391838b2030fa3ea08ac&ipo=images" width="120" />Transformar o trabalho ou o consumo em um jogo para mascarar a exploração.  
 
 |Barras de progresso (Progress Bar e Badges)| Leaderboards e Tiers|
 |:---:|:---:|
@@ -104,7 +105,6 @@ Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962709_y.jpg" width="120" />+Entregas 3, iFood.  
 
 
-xxx
 
 #### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
 
@@ -145,15 +145,6 @@ O uso do contador numérico (badge) na cor vermelha explora um gatilho psicológ
 
 **Isca e Troca (Bait and Switch)**:A interface atrai a atenção do usuário para um ponto específico (a suposta mensagem ou notificação relevante) e, ao efetuar o clique, entrega um conteúdo genérico, como sugestões de novos produtos no Marketplace, perfis recomendados no Namoro ou publicações antigas no Messenger.
 
-**Incentivo por Curiosidade (Artificial Engagement / Curiosity Gap)**:O objetivo técnico é inflar artificialmente as métricas de Engajamento Diário Ativo (DAU - Daily Active Users) e o tempo de permanência na plataforma. O sistema força o usuário a navegar por seções secundárias na tentativa de "limpar" o indicador visual.
-
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962702_y.jpg" width="120" />Bolinha vermelha (no *marketplace*) mostra 5.
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962703_y.jpg" width="120" />Caixa de entrada sem nada. Além, 3 avaliações [algo do próprio sistema).
-
-x
-
 **Isca e Troca** <sup>Bait and Switch</sup>  
 | `Function Swapping  
 📱 O botão "X" de fechar inicia uma ação de "Saiba Mais" ou aceita um termo. 
@@ -162,6 +153,16 @@ x
 No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atualização), instalava. Vide [Microsoft](/microsoft).  
 
 Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
+
+
+**Incentivo por Curiosidade (Artificial Engagement / Curiosity Gap)**:O objetivo técnico é inflar artificialmente as métricas de Engajamento Diário Ativo (DAU - Daily Active Users) e o tempo de permanência na plataforma. O sistema força o usuário a navegar por seções secundárias na tentativa de "limpar" o indicador visual.
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962702_y.jpg" width="120" />Bolinha vermelha (no *marketplace*) mostra 5.
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962703_y.jpg" width="120" />Caixa de entrada sem nada. Além, 3 avaliações [algo do próprio sistema).
+
+
 
 
 
