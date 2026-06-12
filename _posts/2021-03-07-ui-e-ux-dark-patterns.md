@@ -171,6 +171,20 @@ No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atu
 Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
 
 
+**Isca e Troca vs. Clickbait**:
+
+Clickbait é semelhante.
+📱 Título diz "Você não vai acreditar no que aconteceu". Usuário clica, cai em artigo genérico cheio de anúncios, que não resolve a promessa. Dano ao usuário? Perda de tempo.
+
+|Isca e Troca| Clickbait|
+|:---:|:---:|
+|Isca da...| Isca da...|
+|Obviedade| Curiosidade|
+|Explora...| Explora...|
+|o automatismo e o hábito| a lacuna de informação|
+|o autor| o autor|
+|utiliza um texto de significado tão óbvio ou consolidado que o usuário clica no ato, onde pouco lê ou desconfia| instiga o usuário a agir voluntariamente para satisfazer um desejo de conhecimento criado artificialmente.|
+
 **Incentivo por Curiosidade (Artificial Engagement / Curiosity Gap)**:O objetivo técnico é inflar artificialmente as métricas de Engajamento Diário Ativo (DAU - Daily Active Users) e o tempo de permanência na plataforma. O sistema força o usuário a navegar por seções secundárias na tentativa de "limpar" o indicador visual.
 
 
@@ -186,9 +200,7 @@ Notificações Falsas ou Engajamento Artificial são táticas que pertencem ao g
 
 📚️ Desvio de atenção; ou  direcionamento incorreto, indução ao rrro.
 
-Direcionamento Incorreto / ;  [[CONFIRMAR TDODOS]
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatthewfurman.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmisdirection-in-magic.jpg&f=1&nofb=1&ipt=1bc57dadcb3bbd53bd844623440d670dc85423a3842a2f50c9c7cc16d7dceb5b" width="310" />É parecido com os truques de ilusionismo.A arte do mágico de fazer o público pestar atenção em uma mão enquanto esconde a carta na outra.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatthewfurman.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmisdirection-in-magic.jpg&f=1&nofb=1&ipt=1bc57dadcb3bbd53bd844623440d670dc85423a3842a2f50c9c7cc16d7dceb5b" width="310" />É parecido com os truques de ilusionismo. A arte do mágico de fazer o público pestar atenção em uma mão enquanto esconde a carta na outra.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.zXhiWm3zOGtpf-sxnfJX6wHaHt%3Fpid%3DApi&f=1&ipt=7aaee21598f921d1a8a2f16ea04dbf2cd5bb78356bef40ccda36d2a5f0e93d20" width="120" />Na interface, o design foca propositadamente a sua atenção em um elemento (um botão grande e colorido para assinar um serviço) para distrair a sua atenção de outro (o link pequeno, cinza e escondido para recusar a oferta).
 Indução ao Erro 
@@ -196,7 +208,7 @@ Indução ao Erro
 
 Utilizar elementos visuais ou fluxos de navegação para desviar a atenção do usuário de uma escolha óbvia ou desejada, direcionando-o deliberadamente para uma ação que beneficia exclusivamente a plataforma (geralmente financeira ou na coleta de dados).
 
-🎯️ Foco: manipulação da atenção _não foca na força bruta ou no erro mecânico do clique (como um botão que se move sozinho segundos antes do toque)
+🎯️ Foco: manipulação da atenção _não foca na força bruta ou no erro mecânico do clique (como um botão que se move sozinho segundos antes do toque).  
 🚀 Induzir o clique acidental ou forçado na opção que interessa para a plataforma, app etc (gerar lucro para a rede, coletar de dados (pessoais, biométricos etc)  
 📱 Botão "Aceitar" em destaque (cor/tamanho); "Recusar" em cinza e sem contraste.  
 
@@ -261,17 +273,20 @@ Ofuscação e Ocultação Abaixo da Dobra são tipos de **Ocultação Deliberada
 |Ofuscação| Ocultação Abaixo da Dobra|
 |:---:|:---:|
 |Informação ou opção está na tela e até acessível, mas distorcida, camuflada ou sobrecarregada. Foco? Usuário não consigui compreender ou identificá-la com clareza.| Uso do próprio tamanho físco da tela como uma barreira, seja monitor ou smartphone.|
-|Visual (fonte pequena, cores sem contrastes com o fundo etc); linguística (abreviações incomuns ou redação confusa para o usuário desistir de ler e só aceitar a opção padrão.)| Cookies: botão "Aceitar Todos" grande, colorido e visível, mas opção "Rejeitar" ou "Configurar" surge de forma muito "tímida" (posicionada abaixo, oculta em um link ou é preciso rolar a tela).|
+|📱 Visual (fonte pequena, cores sem contrastes com o fundo etc); linguística (abreviações incomuns ou redação confusa para o usuário desistir de ler e só aceitar a opção padrão.)| 📱 Cookies: botão "Aceitar Todos" grande, colorido e visível, mas opção "Rejeitar" ou "Configurar" surge de forma muito "tímida" (posicionada abaixo, oculta em um link ou é preciso rolar a tela).|
 
-Ocultação Deliberada temos uso incorreto do layout, não por falha técnica ou amadorismo _pois mesmo uma criança resolveria facilmente com linguagem CSS, flex-box. Trata-se de uma decisão de design para ocultar parcialmente o botão até que o usuário interaja rolando a tela, e por outro lado, força o elemento que a plataforma deseja que você interaja ou leia: os Termos de Uso.
+Na **Ocultação Deliberada** temos uso incorreto do layout, não por falha técnica ou amadorismo _pois mesmo uma criança resolveria facilmente com linguagem CSS, flex-box. Trata-se de uma decisão de design para ocultar parcialmente o botão até que o usuário interaja rolando a tela, e por outro lado, força o elemento que a plataforma deseja que você interaja ou leia: os Termos de Uso.
+
+
+> Na tela "Reconhecimento Facial" do iFood o botão foi chutado para baixo, mesmo havendo espaços sobrando, e quem surge em destaque é o link dos Termos de Uso.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115604_y.jpg" width="120" >Antes de começar confira... [botão tá muito embaixo]. ifood. 
 
 A interface utiliza elementos de design para guiar a atenção do usuário para longe do botão de ação principal (Iniciar) e direcioná-la para um elemento secundário (o link dos Termos de Uso). Ao "chutar" o botão principal para fora da área imediatamente visível (a chamada linha de dobra ou above the fold), a plataforma força o olhar do usuário a focar no link centralizado.
 
 👉️ Inversão de Padrão e Falsa Hierarquia** O usuário abre a tela esperando realizar a ação declarada no título ("Reconhecimento Facial"). Ao ocultar o botão de ação e centralizar o texto/link de termos, o aplicativo quebra o fluxo natural de navegação esperado pelo usuário.
-👉️ Objetivo da plataforma: Garantir o respaldo jurídico de que o usuário viu ou teve acesso direto aos Termos de Uso antes de iniciar o procedimento biométrico?
-Daí, a plataforma a própria estrutura física da tela para desviar a atenção do botão de execução.
+
+👔 Objetivo da plataforma? Garantir respaldo jurídico de que o usuário teve acesso direto aos Termos de Uso antes de iniciar o procedimento. Daí, a plataforma a própria estrutura física da tela para desviar a atenção do botão de execução.
 
 **Trick Questions**: focado na linguagem e lógica (confundir o usuário com frases de dupla negação para fazê-lo marcar a opção errada). 
 
@@ -294,7 +309,9 @@ Interface Interference (Interferência na Interface) / Forced Action (Ação For
 
 São táticas específicas que se enquadram em campos maiores dos padrões obscuros (Action Blockers / Obstruction (Obstaculização) e Interface Interference (Interferência na Interface)).
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/yahoo-dark-pattern.png" width="120" />Yahoo, caixa pre selecionada
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/yahoo-dark-pattern.png" width="120" />📱 Yahoo: caixa pré-selecionada.
 
 Mais...
 
@@ -308,18 +325,15 @@ Mais...
 
 
 
-| **Roach Motel**  
+**Roach Motel**: Fácil de entrar, difícil de sair.  
 | `Entry: Low / Exit: High  
 📱 Cadastro simplificado; botão de "Excluir Conta" oculto em submenus.  
-🚀 Manter o nó (usuário) ativo na base de dados para inflar métricas.  
+📱 Cadastro simples. Excluir 'conta/logoff' quase impossível
+👔 Manter o usuário (nó) ativo na base de dados para inflar métricas.  
 
-**Roach Motel**: Fácil de entrar (cadastro), quase impossível de sair (deletar conta/logoff). Manter na base de dados.  
-
-
-
-| **Nagging**  
-| `Iterative Intrusion  
-| Pop-ups constantes solicitando permissões ou aceites de missões.  
+**Nagging**: importunação, persistência incômoda.  
+🎯️ Repetição, cansaço.
+📱 Pop-ups constantes solicitando permissões ou aceites de missões. "Aceite os cookies adicionais" ou "Assine o plano Premium". O sistema repete essa de forma intrusa se o usuário clicar em "Agora não".  
 🚀 Vencer a resistência do usuário através do cansaço e interrupção da tarefa.  
 
 | **Hidden Costs**  
@@ -327,9 +341,8 @@ Mais...
 | Taxas e descontos que só aparecem na última etapa da transação/corrida.  
 🚀 Reduzir a taxa de abandono escondendo o custo real até o processamento final.  
 
-| **Disguised Ads**  
+**Disguised Ads**: Promoções que mimetizam notificações urgentes do sistema operacional.
 | `Content Camouflage  
-📱 Promoções que mimetizam notificações urgentes do sistema operacional.  
 🚀 Enganar o usuário para que ele clique em algo que normalmente ignoraria.  
 
 Técnica	Aplicação Prática	Objetivo no Sistema  
@@ -362,13 +375,13 @@ A empresa num app, trocando em miúdos, é uma equipe multidisciplinar unida par
 
 
 
-## Dark Patterns: Por que é um Ataque Psicológico?
+## Dark Patterns: por que é um ataque psicológico?
 
 Há dois pilares da psicologia:
 
-|||
+|Condicionamento| Exploração de Vieses Cognitivos|
 |:---:|:---:|
-|Condicionamento|Exploração de Vieses Cognitivos|
+|||
 
 Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).
 
@@ -379,14 +392,14 @@ O design é projetado para explorar gatilhos biológicos (dopamina).
 
 
 
-|Behaviorismo|P. Cognitiva|
+|Behaviorismo| P. Cognitiva|
 | :---: | :---: |
 |**foco principal**<br />ação e reação (comportamento)|**foco principal**<br />pensamento e memória (processamento)|
 |**UX/UI (aplicação)**<br />botões, notificações e recompensas| **UX/UI (aplicação)**<br />hierarquia visual, clareza e navegação intuitiva|
 
 
 
-Os casos, abaixo, podem pender mais para um ou outro pilar.
+Abaixo, os casos podem pender mais para um ou outro pilar.
 
 **Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.  
 **Recompensa Variável**: O design de "puxar para atualizar" (como uma alavanca de cassino) e o som de notificação de pedido criam um ciclo de ansiedade e prazer.  
@@ -398,11 +411,11 @@ Os casos, abaixo, podem pender mais para um ou outro pilar.
 
 | Termo | O que ataca? | Tática |
 | :---: | :---: | :---: |
-| **FOMO** | Ansiedade / Medo | Urgência/Escassez falsa |
-| **Confirm-<br />shaming**| Ego / Culpa | Frases humilhantes no "Não" |
-| **Roach Motel** | Preguiça / Tempo | Dificultar o cancelamento |
-| **Bait and Switch**| Atenção / Intenção | Enganar o clique |
-| **Hidden Costs** | Comprometimento | Ocultar taxas até o final |
+| **FOMO** | ansiedade / medo | Urgência/Escassez falsa |
+| **Confirm-<br />shaming**| ego / culpa | Frases humilhantes no "Não" |
+| **Roach Motel** | preguiça / tempo | Dificultar o cancelamento |
+| **Bait and Switch**| atenção / intenção | Enganar o clique |
+| **Hidden Costs** | comprome-<br />timento | Ocultar taxas até o final |
 
 
 
