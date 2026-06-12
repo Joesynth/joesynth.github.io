@@ -9,6 +9,7 @@
 
 
 
+
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -55,28 +56,30 @@ Ele não quebra a segurança do seu computador; ele quebra a sua autonomia de de
 |Atenção|Emoção|Hábito|
 | :---: | :---: | :---: |
 |**como o ataque ocorre**<br />direciona o olhar para longe do que importa.|**como o ataque ocorre**<br />gera medo de perder algo (gatilho de escassez)|**como o ataque ocorre**<br />usa a memória muscular contra o usuário|
-|**exemplo**<br />o "X" para fechar o anúncio é quase invisível|**exemplo**<br />"apenas 1 unidade restante!" (mesmo sendo mentira)|**exemplo**<br />inverter a posição dos botões "Sim" e "Não" num popup|
+|📱 O "X" para fechar o anúncio é quase invisível|📱 "Apenas 1 unidade restante!" (mesmo sendo mentira)|📱 Inverter a posição dos botões "Sim" e "Não" num popup|
 
 
 
 ## UX: campos
 
 |Design de Fricção Seletiva| Gamificação|
-|:---:|:---:|
+|:---:|:---:|  
 
 |Arquitetura de Escolha| Design de Status|
-|:---:|:---:|
+|:---:|:---:|  
 
 
-Esses temas podem, ou não não, serem considerados padrões obscuros, conforme uso.
+Esses temas podem, ou não, serem considerados padrões obscuros, conforme uso.
 
 
 ###### Design de Fricção Seletiva  
 
 A UX é fluida para o que gera lucro e "travada" para o que gera custo ou saída.  
 
-**Fricção Zero para Compra/Aceite**: O botão de "Aceitar Corrida" é enorme e ocupa metade da tela. Muitas vezes, um toque acidental em qualquer lugar da tela valida a ação.  
-**Fricção Alta para Suporte/Cancelamento**: O fluxo de cancelamento ou suporte é escondido atrás vários submenus ("Labirinto de Cliques"). Isso desestimula o usuário a reclamar ou desistir.  
+**Fricção Zero para Compra/Aceite**: 📱 Botão de "Aceitar Corrida" enorme.  
+👉️ Muitas vezes, um leve toque acidental na tela já valida a ação.  
+**Fricção Alta para Suporte/Cancelamento**: 📱 Fluxo de cancelamento ou suporte é escondido atrás vários submenus ("Labirinto de Cliques").  
+👉️ Isso desestimula o usuário a reclamar ou desistir.  
 
 ###### Gamificação e Design de Status
 
@@ -86,8 +89,8 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 
 |Barras de progresso (Progress Bar e Badges)| Leaderboards e Tiers|
 |:---:|:---:|
-|Utilizam o Efeito Zeigarnik (nosso cérebro detesta tarefas incompletas).| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
-|Faltam 2 entregas para bater a meta| Níveis como "Diamante" ou "Nuvem Prioritária" criam uma hierarquia social artificial.|
+|Utilizam o Efeito Zeigarnik (nosso cérebro detesta tarefas incompletas).| Criar uma hierarquia social artificial.|
+|📱 Faltam 2 entregas para bater a meta| 📱 Níveis como "Diamante" ou "Nuvem Prioritária".|
 
 
 ###### Arquitetura de Escolha (Nudging)
@@ -97,7 +100,7 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 |Opção Padrão (Default Option)| Ancoragem de Preços|
 |:---:|:---:|
 |Sistema deixa pré-selecionado a opção mais lucrativa para a rede.| Mostrar um valor alto primeiro para que o valor seguinte pareça "barato"|
-|Ex.: a rota mais longa ou o seguro mais caro. | Ex.: Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
+|📱  O seguro mais caro. | 📱 Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
  
 
 
@@ -108,40 +111,42 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 
 📚️ Low Contrast, Visual Obscurity
 
-Desenvolvedor reduz o contraste do botão de fechar para violar as regras de acessibilidade básicas.
-Exemplo? Janela pop-up preta com o botão "X" em cinza-escuro, tornando-o quase invisível para quem olha rápido.
+Reduz-se o contraste do botão de fechar, o que viola as regras básicas de acessibilidade.
+📱 Janela pop-up preta com o botão "X" em cinza-escuro.  
+👉️ O "X" se torna quase invisível para quem olha rápido.
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115610_y.jpg" width="120" >+Entregas, iFood.  
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115609_y.jpg" width="120" >+Entregas 2, iFood.  
+
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962709_y.jpg" width="120" />+Entregas 3, iFood.  
 
 
 
-#### Humilhação/Punição Gamificada <sup>Gamified Shaming</sup>
+#### Humilhação / Punição Gamificada <sup>Gamified Shaming</sup>
 
 Note que o texto abaixo funciona, exatamente, como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
 
-> "O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro".
+📱 Uber. Simbolo de exclamação no topo, fazendo papel de título e junto o texto (uma mensagem à pessoa da logística).
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" > Além, há um triangulo com o simbolo de uma interrogação.
+> "O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro". .
 
-O cancelamento foi gerado por terceiros ou pelo sistema, mas a interface comunica um impacto emocional diretamente para o trabalhador. A interface verbaliza a perda do dinheiro: **"você não vai ganhar"**.
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" > O cancelamento foi gerado por terceiros ou pelo sistema, e não pelo entregador, mas a interface comunica um impacto emocional diretamente para este. A interface comunica que ele vai perder dinheiro: **"você não vai ganhar"**.
 
-Noutro lado, no banco de dados (onde a elite trabalha), certamente tem-se uma informação neutra, por ex. "*Status*: Cancelado".
+🤔️ Noutro lado, no banco de dados (onde a elite trabalha), certamente tem-se uma comunicação mais neutra. 📱 "*Status*: Cancelado".
 
-O objetivo do **Punição Gamificada** é usar o constrangimento ou o saldo negativo, na interface, como combustível psicológico para manter o usuário engajado na mecânica do aplicativo.
+🎯️ Ao comentar a perda pela interface, o objetivo é usar o constrangimento como um combustível psicológico para manter o usuário engajado na mecânica do aplicativo.
 
-Outro caso?
+Neste caso há *sludge*.
 
-> "Falta pouco. Os usuários gostam de entregas dentro do prazo." [Uber]
+📱 Uber. Desenho de ampulheta em destaque, agindo como título, e o texto escrito...
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962710_y.jpg" width="120" />. [patrão cobrando, nudge.
-Aqui há uma verdade óbvia, mas a interface dá uma advertência, um tom de bronca. A tela em si poderia ser do tipo que surge, fica por 1 s e some, ou, ter um o "x" de fechar. Mas não, há o botão grandão com "Ok" para a pessoa clicar; que é, lireralmente, a aceitação de um "puxão de orelha" digital. 
+> "Falta pouco. Os usuários gostam de entregas dentro do prazo."
 
-De forma digital a plataforma induz para que ele corra para "bater a meta".
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962710_y.jpg" width="120" />Aqui há uma verdade óbvia, mas a interface dá uma advertência, um tom de bronca. A tela em si poderia ser do tipo que surge, fica por 1 s e some, ou, ter um o "x" de fechar. Mas não, há o botão grandão com "Ok" para a pessoa clicar; que é, lireralmente, a aceitação de um "puxão de orelha" digital. 
 
-👉️ Vale lembrar que tudo isso tem, e muito, a ver com não sermos o dono do software. Veja FOSS.
+🎭️ A plataforma se mascara, não assumino o papel de cobradora transferindo a cobrança para o cliente final. Mascara uma ordem direta ("ande mais rápido"). De forma digital a plataforma induz para que ele corra para "bater a meta".
+
+🎈 Vale lembrar que tudo isso tem, e muito, a ver com não sermos o dono do software. Veja FOSS.
 
 
 
@@ -155,10 +160,9 @@ De forma digital a plataforma induz para que ele corra para "bater a meta".
 **Notificação Falsa / Badge Induzido (Misleading Notification)**: 
 O uso do contador numérico (badge) na cor vermelha explora um gatilho psicológico de urgência e pendência. Ao exibir um número sem correspondência real com novas interações diretas (mensagens ou curtidas não lidas), o sistema falsifica o estado de atividade da conta.
 
-**Isca e Troca (Bait and Switch)**:A interface atrai a atenção do usuário para um ponto específico (a suposta mensagem ou notificação relevante) e, ao efetuar o clique, entrega um conteúdo genérico, como sugestões de novos produtos no Marketplace, perfis recomendados no Namoro ou publicações antigas no Messenger.
+**Isca e Troca** <sup>Bait and Switch</sup>:O autor cria um texto confiante (botão, palavra "grátis" etc) para ser mostrado na tela, e o usuário clica na fé que o resultado será o dito. 
+Ou seja, a interface atrai a atenção do usuário e, com um clique feito, o sistema entrega um conteúdo genérico (de interesse do autor).
 
-**Isca e Troca** <sup>Bait and Switch</sup>  
-| `Function Swapping  
 📱 O botão "X" de fechar inicia uma ação de "Saiba Mais" ou aceita um termo. 
 🚀 Transformar a intenção de saída em uma ação de engajamento forçado.  
 
