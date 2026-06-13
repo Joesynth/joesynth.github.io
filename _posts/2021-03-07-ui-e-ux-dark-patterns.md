@@ -8,8 +8,6 @@
 
 
 
-
-
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -21,10 +19,10 @@
 
 
 
+
 ## Introdução
 
 Padrões Obscuros são técnicas desenhadas para enganar ou dificultar ações que não interessam ao autor do sistema _dono da rede, uma plataforma (como Uber etc). 
-x
 
 Padrões Obscuros são truques usados em sites e aplicativos que fazem você fazer coisas que você não pretendia, como comprar ou se inscrever em algo.
 
@@ -46,31 +44,10 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 |hacker de computador| hacker de interface|
 |:---:|:---:|
-|ataque| ataque|
-|financeiro ou ao servidor | o indivíduo (usuário ou nó)|
+|ataca o...| ataca o...|
+|financeiro ou ao servidor | indivíduo (usuário ou nó)|
 
 
-**Padrões Obscuros*8 são técnicas desenhadas para enganar ou dificultar ações que não interessam ao Dono da Rede (uma plataforma, como Uber, por ex.).
-
-###### Dark Patterns: hack psicológico
-
-|vírus| padrões obscuros|
-|:---:|:---:|
-|ataca| ataca|
-|SO do computador| o nosso "SO", nosso cérebro humano|
-
-Ele não quebra a segurança do seu computador; ele quebra a sua autonomia de decisão.
-
-###### Os 3 Alvos da "Invasão" Psicológica
-
-
-
-
-
-|Atenção|Emoção|Hábito|
-| :---: | :---: | :---: |
-|**como o ataque ocorre**<br />direciona o olhar para longe do que importa.|**como o ataque ocorre**<br />gera medo de perder algo (gatilho de escassez)|**como o ataque ocorre**<br />usa a memória muscular contra o usuário|
-|📱 O "X" para fechar o anúncio é quase invisível|📱 "Apenas 1 unidade restante!" (mesmo sendo mentira)|📱 Inverter a posição dos botões "Sim" e "Não" num popup|
 
 
 
@@ -386,40 +363,6 @@ A empresa num app, trocando em miúdos, é uma equipe multidisciplinar unida par
 |:--- |:--- |
 |**o coletivo**<br />psicólogos comportamentais, engenheiros de dados, especialistas em marketing|**o indivíduo solitário**<br /> muitas vezes com pressa ou distraído, reagindo em tempo real a estímulos desenhados para explorar suas fraquezas cognitivas|
 
-
-
-
-
-
-## Dark Patterns: por que é um ataque psicológico?
-
-Há dois pilares da psicologia:
-
-|Condicionamento| Exploração de Vieses Cognitivos|
-|:---:|:---:|
-|||
-
-Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).
-
-
-###### Psicologia Cognitiva e Behaviorismo
-
-O design é projetado para explorar gatilhos biológicos (dopamina).  
-
-
-
-|Behaviorismo| P. Cognitiva|
-| :---: | :---: |
-|**foco principal**<br />ação e reação (comportamento)|**foco principal**<br />pensamento e memória (processamento)|
-|**UX/UI (aplicação)**<br />botões, notificações e recompensas| **UX/UI (aplicação)**<br />hierarquia visual, clareza e navegação intuitiva|
-
-
-
-Abaixo, os casos podem pender mais para um ou outro pilar.
-
-**Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.  
-**Recompensa Variável**: O design de "puxar para atualizar" (como uma alavanca de cassino) e o som de notificação de pedido criam um ciclo de ansiedade e prazer.  
-**Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.  
 
 
 
