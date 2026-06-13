@@ -61,12 +61,13 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 **Os 3 alvos da "invasão" psicológica** e **como o ataque ocorre**?
 
-|Atenção|Emoção|Hábito|
+
+|👁️ Atenção |💔 Emoção| 🔄 Hábito|
 | :---: | :---: | :---: |
-|direciona o olhar para longe do que importa. |gera medo de perder algo (gatilho de escassez) |usa a memória muscular contra o usuário|
-|📱 O "X" para fechar o anúncio é quase invisível |📱 "Apenas 1 unidade restante!" (mesmo sendo mentira) |📱 Inverter a posição dos botões "Sim" e "Não" num popup|
-
-
+|psi. cognitiva |meurociência |comportamen-<br />talismo|
+|🎯 Objetivo é hackear o filtro perceptivo do usuário.|🎯 Foco é ignorar o raciocínio lógico e forçar uma tomada de decisão instintiva e irracional.|🎯 Consolidar a manipulação a longo prazo. |
+|Camuflar é uma palavra-chave. A atenção é um recurso escasso e limitado. |Gera medo de perder algo (gatilho de escassez) |Transformar ações induzidas em automações motoras repetitivas. Treina-se o usuário a executar gestos mecânicos sem reflexão|
+|📱 O "X" para fechar o anúncio é quase invisível |📱 "Apenas 1 unidade restante!" (mesmo sendo mentira) |📱 Rolar a tela infinitamente ou clicar sequencialmente em "Avançar"|
 
 
 
