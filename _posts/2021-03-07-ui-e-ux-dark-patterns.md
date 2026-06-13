@@ -49,6 +49,53 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 
 
+###### Padrões obscuros: hack psicológico
+
+|vírus| padrões obscuros|
+|:---:|:---:|
+|ataca| ataca|
+|SO do computador| o nosso "SO", nosso cérebro humano|
+
+
+<img src="image/cerebro.png" width="120" />Os **padrões obscuros** não não quebram a segurança do seu computador; eles quebram é a sua autonomia de decisão.
+
+**Os 3 alvos da "invasão" psicológica** e **como o ataque ocorre**?
+
+|Atenção|Emoção|Hábito|
+| :---: | :---: | :---: |
+|direciona o olhar para longe do que importa. |gera medo de perder algo (gatilho de escassez) |usa a memória muscular contra o usuário|
+|📱 O "X" para fechar o anúncio é quase invisível |📱 "Apenas 1 unidade restante!" (mesmo sendo mentira) |📱 Inverter a posição dos botões "Sim" e "Não" num popup|
+
+
+
+
+
+## Por que é um ataque psicológico?
+
+**Comportamentalismo (Behaviorismo) e Psicologia Cognitiva**: Os dois pilares da psicologia utilizados na criação de padrões obscuros.
+
+|Comportamen-<br />talismo| Psicologia Cognitiva|
+|:---:|:---:|
+|condicionamento |exploração de vieses cognitivos|
+|**foco principal**|**foco principal**|
+|ação e reação (comportamento) |pensamento e memória (processamento)|
+|**UX/UI (aplicação)**| **UX/UI (aplicação)**|
+|botões, notificações e recompensas|hierarquia visual, clareza e navegação intuitiva|
+
+Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).  
+
+O design é projetado para explorar gatilhos biológicos (dopamina).  
+
+
+Abaixo, os casos podem pender mais para um ou outro pilar.
+
+**Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.  
+**Recompensa Variável**: O design de "puxar para atualizar" (como uma alavanca de cassino) e o som de notificação de pedido criam um ciclo de ansiedade e prazer.  
+**Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.  
+
+
+
+
 
 
 ## UX: campos
