@@ -2,7 +2,7 @@
 
 📚️ Dark Patterns: Padrões Obscuros
 
-<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="310" />No contexto de plataformas ou corporações, como Uber ou Microsoft, o design de UI e UX não são feitos para "ajudar" o usuário no sentido tradicional, mas para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
+<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="310" />Uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas as quais não queriam.
 
 
 
@@ -23,12 +23,26 @@
 
 ## Introdução
 
+Padrões Obscuros são técnicas desenhadas para enganar ou dificultar ações que não interessam ao autor do sistema _dono da rede, uma plataforma (como Uber etc). 
+x
 
-##### Padrões Obscuros
+Padrões Obscuros são truques usados em sites e aplicativos que fazem você fazer coisas que você não pretendia, como comprar ou se inscrever em algo.
+
+
+> Um padrão obscuro é uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas, como comprar um seguro junto com sua passagem aérea ou inscrever-se em cobranças recorrentes. [*A dark pattern is a user interface that has been carefully crafted to trick users into doing things, such as buying insurance with their flight or signing up for recurring bills.*]
+
+É a definição exata de Harry no lançamento do site darkpatterns.org em 2010.
+
+
+No contexto dos padrões obscuros o design de UI/UX não é feito para ajudar o usuário no sentido tradicional, mas sim para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
+
+##### Hacker de interface
+
+📚️ Ou *black hat UX* ou ainda *black hat UI*. 
 
 Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que *está de maldade* pensando em ataques financeiros ou em servidores. O "hacker de interface" é semelhante, mas ataca o indivíduo (usuário ou nó).
 
-📚️ "hacker de interface" ou "black hat UX" ou ainda "black hat UI".  
+ 
 
 |hacker de computador| hacker de interface|
 |:---:|:---:|
@@ -63,10 +77,12 @@ Ele não quebra a segurança do seu computador; ele quebra a sua autonomia de de
 ## UX: campos
 
 |Design de Fricção Seletiva| Gamificação|
-|:---:|:---:|  
+|:---:|:---:|
+|||  
 
 |Arquitetura de Escolha| Design de Status|
-|:---:|:---:|  
+|:---:|:---:|
+|||  
 
 
 Esses temas podem, ou não, serem considerados padrões obscuros, conforme uso.
