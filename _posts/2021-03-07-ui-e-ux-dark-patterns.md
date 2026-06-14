@@ -8,6 +8,8 @@
 
 
 
+
+
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -475,6 +477,58 @@ Embora diferentes, ambos obrigam o usuário a realizar uma ação contra a sua v
 Exemplos:  
 👉️ Impedir o fechamento de um aviso ou janela pop-up antes que um contador de tempo (ex: 10 segundos de publicidade) termine.  
 👉️ Trocar os botões de cookies por um aviso único: "Ao continuar navegando, você concorda com todos os termos de rastreamento", sem fornecer um botão visível e equivalente para rejeitar.  
+
+
+
+
+
+## Nem tudo é hack psicológico
+
+Virus clássicos... mas no contexto de padrões obscuros. Aqui foca-se exclusivamente em código.
+
+Existe uma linha divisória clara entre a manipulação da mente e a violação técnica do sistema. O que diferencia os dois cenários é o vetor de ataque e a vulnerabilidade que está sendo explorada.
+
+
+###### Hack Psicológico vs. Hack Tradicional
+
+|Hack Psicológico |Hack Tradicional|
+|:---:|:---:|
+|**padrões obscuros e engenharia social** |**ataque técnico**|
+|**Alvo**: o fator humano |**Alvo**: a máquina, o código ou protocolo|
+|**código** é legítimo, não há código malicioso| **código** é ilegítimo, há código malicioso (malware / exploit)|
+|📱 Sistema apresenta um botão cinza quase invisível para cancelar a assinatura. Não há vírus, não há invasão técnica; o código é legítimo, mas o design manipula a sua decisão. |keylogger: código que grava o que o usuário digita|
+
+
+
+###### Exemplos
+
+
+**Ransomware / Extorsão via Bloqueio**:
+
+|vírus| padrão obscuro|
+|:---:|:---:|
+|Criptografa arquivos do sistema e exige pagamento para liberá-los.| Código que bloqueia dados ou funções essenciais do próprio usuário, exigindo assinatura para devolver o acesso.|
+
+**Adware / Injeção de Publicidade Forçada**:
+
+|vírus| padrão obscuro|
+|:---:|:---:|
+|Roda processos ocultos para exibir anúncios pop-up invasivos no sistema.| Scripts monitoram a rolagem (onScroll) para disparar janelas de anúncios que travam a tela e o conteúdo.|
+
+**Trojan Horse (Cavalo de Troia) / Ofuscação de Carga Útil**:
+
+|vírus| padrão obscuro|
+|:---:|:---:|
+|Disfarça um código prejudicial dentro de um programa legítimo.| O script executa rotinas paralelas ocultas (como ativar serviços terceiros) de carona em uma ação legítima do usuário.
+
+
+**Hijacking (Sequestro de Sessão / Navegador)**:
+
+|vírus| padrão obscuro|
+|:---:|:---:|
+|Altera à força as configurações e páginas do navegador do usuário.| Scripts bloqueiam ou alteram a função do botão "Voltar", forçando o usuário a permanecer na página.|
+
+
 
 
 ## Um pouco de história
