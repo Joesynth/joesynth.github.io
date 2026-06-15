@@ -8,8 +8,6 @@
 
 
 
-
-
 - Introdução
 - Técnicas de Dark Patterns
 - Confronto assimétrico
@@ -64,9 +62,9 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 **Os 3 alvos da "invasão" psicológica** e **como o ataque ocorre**?
 
 
-|👁️ Atenção |💔 Emoção| 🔄 Hábito|
+|👁️<br />Atenção |💔<br />Emoção| 🔄<br />Hábito|
 | :---: | :---: | :---: |
-|psi. cognitiva |meurociência |comportamen-<br />talismo|
+|psi. cognitiva |meurociência |comporta-<br />mentalismo|
 |🎯 Objetivo é hackear o filtro perceptivo do usuário.|🎯 Foco é ignorar o raciocínio lógico e forçar uma tomada de decisão instintiva e irracional.|🎯 Consolidar a manipulação a longo prazo. |
 |Camuflar é uma palavra-chave. A atenção é um recurso escasso e limitado. |Gera medo de perder algo (gatilho de escassez) |Transformar ações induzidas em automações motoras repetitivas. Treina-se o usuário a executar gestos mecânicos sem reflexão|
 |📱 O "X" para fechar o anúncio é quase invisível |📱 "Apenas 1 unidade restante!" (mesmo sendo mentira) |📱 Rolar a tela infinitamente ou clicar sequencialmente em "Avançar"|
@@ -77,7 +75,7 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 **Comportamentalismo (Behaviorismo) e Psicologia Cognitiva**: Os dois pilares da psicologia utilizados na criação de padrões obscuros.
 
-|Comportamen-<br />talismo| Psicologia Cognitiva|
+|Comporta-<br />mentalismo| Psicologia Cognitiva|
 |:---:|:---:|
 |condicionamento |exploração de vieses cognitivos|
 |**foco principal**|**foco principal**|
@@ -87,13 +85,14 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).  
 
-O design é projetado para explorar gatilhos biológicos (dopamina).  
+O design é projetado para explorar gatilhos biológicos (dopamina) e os mecanismos de evolução do cérebro humano.  
 
 
 Abaixo, os casos podem pender mais para um ou outro pilar.
 
 **Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.  
-**Recompensa Variável**: O design de "puxar para atualizar" (como uma alavanca de cassino) e o som de notificação de pedido criam um ciclo de ansiedade e prazer.  
+**Recompensa Variável**: imita o funcionamento de uma alavanca de caça-níqueis (cassino) _seja a ação física ou na resposta neurológica:  
+Ex. A ação (a alavanca) é o usuário deslizar o dedo de cima para baixo na tela do app e solta. A animação na tela equivalente a puxar a alavanca física e ver os rolos do caça-níqueis girarem. O gatilho psicológico (a incerteza)? O usuário não sabe o que vai aparecer. O resultado? A recompensa variável.  
 **Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.  
 
 
@@ -138,12 +137,12 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 
 ###### Arquitetura de Escolha (Nudging)
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fmulher-militar-armada-11353162.jpg&f=1&nofb=1&ipt=6202108ce70df585d24acfa1fb2934d2085bab3fa51b0c92addd61796ef0096f" width="120" />Aqui a arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-5Wi9Xv2FT_Q%2FVNvuEggSlPI%2FAAAAAAAABes%2FYIA3oTSVSi8%2Fs1600%2Fverdadeira-historia-do-pica-pau-4.jpg&f=1&nofb=1&ipt=765917e718fabdf5060240e4b2f32b4d4a04e777b1f0b9ee503c01c9db3d41c6" width="120" />Não há uma arma na sua cabeça. a abordagem é bem mais sofistucada: a arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer.  
 
 |Opção Padrão (Default Option)| Ancoragem de Preços|
 |:---:|:---:|
-|Sistema deixa pré-selecionado a opção mais lucrativa para a rede.| Mostrar um valor alto primeiro para que o valor seguinte pareça "barato"|
-|📱  O seguro mais caro. | 📱 Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
+|Sistema deixa pré-selecionado a opção mais interessante para o autor.| Mostrar um valor alto primeiro para que o valor seguinte pareça "barato"|
+|📱 O seguro mais caro (autor com foco no lucro). | 📱 Plano "Premium" R$ 150 ao lado do plano "Padrão" R$ 40. |
  
 
 
@@ -154,7 +153,7 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 
 📚️ Low Contrast, Visual Obscurity
 
-Reduz-se o contraste do botão de fechar, o que viola as regras básicas de acessibilidade.
+Reduz-se o contraste do botão de fechar, o que viola as regras básicas de acessibilidade.  
 📱 Janela pop-up preta com o botão "X" em cinza-escuro.  
 👉️ O "X" se torna quase invisível para quem olha rápido.
 
@@ -169,11 +168,13 @@ Reduz-se o contraste do botão de fechar, o que viola as regras básicas de aces
 
 Note que o texto abaixo funciona, exatamente, como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
 
-📱 Uber. Simbolo de exclamação no topo, fazendo papel de título e junto o texto (uma mensagem à pessoa da logística).
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" >📱 Uber: Simbolo de exclamação no topo + texto (uma mensagem à pessoa da logística, o entregador).  
 
-> "O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro". .
+> "O pedido numero xyz foi cancelado. vc n vai ganhar por esse pedido, mas vamos tentar achar outro".
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4979137947282115603_y.jpg" width="120" > O cancelamento foi gerado por terceiros ou pelo sistema, e não pelo entregador, mas a interface comunica um impacto emocional diretamente para este. A interface comunica que ele vai perder dinheiro: **"você não vai ganhar"**.
+**Exclamação**: faz o papel de título.  
+
+O cancelamento foi gerado por terceiros ou pelo sistema, e não pelo entregador, mas a interface comunica um impacto emocional diretamente para este. A interface comunica que ele vai perder dinheiro: **"você não vai ganhar"**.
 
 🤔️ Noutro lado, no banco de dados (onde a elite trabalha), certamente tem-se uma comunicação mais neutra. 📱 "*Status*: Cancelado".
 
@@ -181,11 +182,12 @@ Note que o texto abaixo funciona, exatamente, como a perda de moedas ou pontos e
 
 Neste caso há *sludge*.
 
-📱 Uber. Desenho de ampulheta em destaque, agindo como título, e o texto escrito...
 
-> "Falta pouco. Os usuários gostam de entregas dentro do prazo."
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962710_y.jpg" width="120" />📱 Uber: Desenho de ampulheta + texto escrito **"Falta pouco. Os usuários gostam de entregas dentro do prazo."** + botão "Ok".  
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_4988109017271962710_y.jpg" width="120" />Aqui há uma verdade óbvia, mas a interface dá uma advertência, um tom de bronca. A tela em si poderia ser do tipo que surge, fica por 1 s e some, ou, ter um o "x" de fechar. Mas não, há o botão grandão com "Ok" para a pessoa clicar; que é, lireralmente, a aceitação de um "puxão de orelha" digital. 
+**Ampulheta**: age como título em destaque.  
+**Texto escrito**: Há uma verdade óbvia, mas a interface dá uma advertência, um tom de bronca.  
+**Botão OK**: A tela em si poderia ser do tipo que surge, fica por 1 s e some, ou, ter um o "x" de fechar. Mas não, o botão grandão com "Ok" para a pessoa clicar é, lireralmente, a aceitação de um "puxão de orelha" digital. 
 
 🎭️ A plataforma se mascara, não assumino o papel de cobradora transferindo a cobrança para o cliente final. Mascara uma ordem direta ("ande mais rápido"). De forma digital a plataforma induz para que ele corra para "bater a meta".
 
@@ -477,58 +479,6 @@ Embora diferentes, ambos obrigam o usuário a realizar uma ação contra a sua v
 Exemplos:  
 👉️ Impedir o fechamento de um aviso ou janela pop-up antes que um contador de tempo (ex: 10 segundos de publicidade) termine.  
 👉️ Trocar os botões de cookies por um aviso único: "Ao continuar navegando, você concorda com todos os termos de rastreamento", sem fornecer um botão visível e equivalente para rejeitar.  
-
-
-
-
-
-## Nem tudo é hack psicológico
-
-Virus clássicos... mas no contexto de padrões obscuros. Aqui foca-se exclusivamente em código.
-
-Existe uma linha divisória clara entre a manipulação da mente e a violação técnica do sistema. O que diferencia os dois cenários é o vetor de ataque e a vulnerabilidade que está sendo explorada.
-
-
-###### Hack Psicológico vs. Hack Tradicional
-
-|Hack Psicológico |Hack Tradicional|
-|:---:|:---:|
-|**padrões obscuros e engenharia social** |**ataque técnico**|
-|**Alvo**: o fator humano |**Alvo**: a máquina, o código ou protocolo|
-|**código** é legítimo, não há código malicioso| **código** é ilegítimo, há código malicioso (malware / exploit)|
-|📱 Sistema apresenta um botão cinza quase invisível para cancelar a assinatura. Não há vírus, não há invasão técnica; o código é legítimo, mas o design manipula a sua decisão. |keylogger: código que grava o que o usuário digita|
-
-
-
-###### Exemplos
-
-
-**Ransomware / Extorsão via Bloqueio**:
-
-|vírus| padrão obscuro|
-|:---:|:---:|
-|Criptografa arquivos do sistema e exige pagamento para liberá-los.| Código que bloqueia dados ou funções essenciais do próprio usuário, exigindo assinatura para devolver o acesso.|
-
-**Adware / Injeção de Publicidade Forçada**:
-
-|vírus| padrão obscuro|
-|:---:|:---:|
-|Roda processos ocultos para exibir anúncios pop-up invasivos no sistema.| Scripts monitoram a rolagem (onScroll) para disparar janelas de anúncios que travam a tela e o conteúdo.|
-
-**Trojan Horse (Cavalo de Troia) / Ofuscação de Carga Útil**:
-
-|vírus| padrão obscuro|
-|:---:|:---:|
-|Disfarça um código prejudicial dentro de um programa legítimo.| O script executa rotinas paralelas ocultas (como ativar serviços terceiros) de carona em uma ação legítima do usuário.
-
-
-**Hijacking (Sequestro de Sessão / Navegador)**:
-
-|vírus| padrão obscuro|
-|:---:|:---:|
-|Altera à força as configurações e páginas do navegador do usuário.| Scripts bloqueiam ou alteram a função do botão "Voltar", forçando o usuário a permanecer na página.|
-
-
 
 
 ## Um pouco de história
