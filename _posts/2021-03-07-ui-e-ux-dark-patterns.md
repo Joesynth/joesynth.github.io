@@ -2,9 +2,9 @@
 
 📚️ Dark Patterns: Padrões Obscuros
 
-<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="310" />Uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas as quais não queriam.
+Uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas as quais não queriam.
 
-
+<img src="https://gironajs.com/_next/image?url=%2Fassets%2Fblog%2Fque-son-els-dark-patterns%2Fcover-image.jpg&w=1920&q=75" width="310" />
 
 
 
@@ -22,12 +22,16 @@
 
 ## Introdução
 
-Padrões Obscuros são técnicas desenhadas para enganar ou dificultar ações que não interessam ao autor do sistema _dono da rede, uma plataforma (como Uber etc). 
+👉️ **Autor** (do sistema):  dono da rede, *site*, *app* (aplicativo); uma plataforma (como Uber etc).
 
-Padrões Obscuros são truques usados em sites e aplicativos que fazem você fazer coisas que você não pretendia, como comprar ou se inscrever em algo.
+Padrões Obscuros são técnicas desenhadas para enganar ou dificultar ações que não interessam ao autor do sistema. 
+
+Padrões Obscuros são truques usados em sites, por ex., que fazem você fazer coisas que você não pretendia, como comprar ou se inscrever em algo.
 
 
-> Um padrão obscuro é uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas, como comprar um seguro junto com sua passagem aérea ou inscrever-se em cobranças recorrentes. [*A dark pattern is a user interface that has been carefully crafted to trick users into doing things, such as buying insurance with their flight or signing up for recurring bills.*]
+> Um padrão obscuro é uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas, como comprar um seguro junto com sua passagem aérea ou inscrever-se em cobranças recorrentes.
+
+*[A dark pattern is a user interface that has been carefully crafted to trick users into doing things, such as buying insurance with their flight or signing up for recurring bills.]*
 
 É a definição exata de Harry no lançamento do site darkpatterns.org em 2010.
 
@@ -36,9 +40,9 @@ No contexto dos padrões obscuros o design de UI/UX não é feito para ajudar o 
 
 ##### Hacker de interface
 
-📚️ Ou *black hat UX* ou ainda *black hat UI*. 
+📚️ Ou ***black hat UX*** ou ainda ***black hat UI***. 
 
-Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que *está de maldade* pensando em ataques financeiros ou em servidores. O "hacker de interface" é semelhante, mas ataca o indivíduo (usuário ou nó).
+Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que está de maldade pensando em ataques financeiros ou em servidores. O "hacker de interface" é semelhante, mas ataca o indivíduo (usuário ou nó).
 
  
 
@@ -59,6 +63,9 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 <img src="image/cerebro.png" width="120" />Os **padrões obscuros** não não quebram a segurança do seu computador; eles quebram é a sua autonomia de decisão.
 
+🤔️ Sem autonomia é possível termos segurança?  
+
+
 **Os 3 alvos da "invasão" psicológica** e **como o ataque ocorre**?
 
 
@@ -73,7 +80,7 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 
 ## Por que é um ataque psicológico?
 
-**Comportamentalismo (Behaviorismo) e Psicologia Cognitiva**: Os dois pilares da psicologia utilizados na criação de padrões obscuros.
+**Comportamentalismo e Psicologia Cognitiva**: Os dois pilares da psicologia utilizados na criação de padrões obscuros.
 
 |Comporta-<br />mentalismo| Psicologia Cognitiva|
 |:---:|:---:|
@@ -83,19 +90,19 @@ Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). O
 |**UX/UI (aplicação)**| **UX/UI (aplicação)**|
 |botões, notificações e recompensas|hierarquia visual, clareza e navegação intuitiva|
 
-Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).  
+  
 
-O design é projetado para explorar gatilhos biológicos (dopamina) e os mecanismos de evolução do cérebro humano.  
+O design é projetado para explorar gatilhos biológicos (dopamina etc) e os mecanismos de evolução do cérebro humano.  
 
 
-Abaixo, os casos podem pender mais para um ou outro pilar.
+Abaixo, se são ou não padrões obscuros vai depender.
 
 **Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.  
 **Recompensa Variável**: imita o funcionamento de uma alavanca de caça-níqueis (cassino) _seja a ação física ou na resposta neurológica:  
 Ex. A ação (a alavanca) é o usuário deslizar o dedo de cima para baixo na tela do app e solta. A animação na tela equivalente a puxar a alavanca física e ver os rolos do caça-níqueis girarem. O gatilho psicológico (a incerteza)? O usuário não sabe o que vai aparecer. O resultado? A recompensa variável.  
 **Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.  
 
-
+Veja [Behaviorismo e Psicologia Cognitiva](/behaviorismo-e-psicologia-cognitiva).
 
 
 
