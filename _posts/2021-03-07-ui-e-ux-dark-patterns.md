@@ -156,7 +156,7 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 
 ## Técnicas de Dark Patterns
 
-#### Baixo Contraste ou Obscuridade Visual
+#### 👁️ Baixo Contraste ou Obscuridade Visual
 
 📚️ Low Contrast, Visual Obscurity
 
@@ -171,7 +171,7 @@ Reduz-se o contraste do botão de fechar, o que viola as regras básicas de aces
 
 
 
-#### Humilhação / Punição Gamificada <sup>Gamified Shaming</sup>
+#### 💔 Humilhação / Punição Gamificada <sup>Gamified Shaming</sup>
 
 Note que o texto abaixo funciona, exatamente, como a perda de moedas ou pontos em um jogo, gerando o sentimento de "derrota".
 
@@ -209,10 +209,10 @@ Neste caso há *sludge*.
     Badge Induzido (Misleading Notification)  
 
 
-**Notificação Falsa / Badge Induzido (Misleading Notification)**: 
+**💔 Notificação Falsa / Badge Induzido (Misleading Notification)**: 
 O uso do contador numérico (badge) na cor vermelha explora um gatilho psicológico de urgência e pendência. Ao exibir um número sem correspondência real com novas interações diretas (mensagens ou curtidas não lidas), o sistema falsifica o estado de atividade da conta.
 
-**Isca e Troca** <sup>Bait and Switch</sup>:O autor cria um texto confiante (botão, palavra "grátis" etc) para ser mostrado na tela, e o usuário clica na fé que o resultado será o dito. 
+**💔 Isca e Troca** <sup>Bait and Switch</sup>:O autor cria um texto confiante (botão, palavra "grátis" etc) para ser mostrado na tela, e o usuário clica na fé que o resultado será o dito. 
 Ou seja, a interface atrai a atenção do usuário e, com um clique feito, o sistema entrega um conteúdo genérico (de interesse do autor).
 
 📱 O botão "X" de fechar inicia uma ação de "Saiba Mais" ou aceita um termo. 
@@ -223,7 +223,7 @@ No Windows tinha-se o botão "X", que em vez de fechar a tela (dispensando a atu
 Ou seja, o botão parece uma coisa (ex: fechar), mas executa outra (ex: aceitar termos).	Coerção via erro de clique.  
 
 
-**Isca e Troca vs. Clickbait**:
+**Isca e Troca vs. 👁️ Clickbait**:
 
 Clickbait é semelhante.
 📱 Título diz "Você não vai acreditar no que aconteceu". Usuário clica, cai em artigo genérico cheio de anúncios, que não resolve a promessa. Dano ao usuário? Perda de tempo.
@@ -248,9 +248,11 @@ Notificações Falsas ou Engajamento Artificial são táticas que pertencem ao g
 
 
 
-#### Misdirection
+#### 👁️ Misdirection
 
-📚️ Desvio de atenção; ou  direcionamento incorreto, indução ao rrro.
+📚️ Desvio de atenção; ou  direcionamento incorreto, indução ao erro.
+
+Design focado em induzir o clique no botão errado.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmatthewfurman.com%2Fwp-content%2Fuploads%2F2024%2F09%2Fmisdirection-in-magic.jpg&f=1&nofb=1&ipt=1bc57dadcb3bbd53bd844623440d670dc85423a3842a2f50c9c7cc16d7dceb5b" width="310" />É parecido com os truques de ilusionismo. A arte do mágico de fazer o público pestar atenção em uma mão enquanto esconde a carta na outra.
 
@@ -288,7 +290,7 @@ Destacar visualmente o redirecionamento público apenas para avaliações positi
 
 Táticas específicas dentro do campo **misdirection**.
 
-|Confirmshaming| Interferência Visual|
+|💔 Confirmshaming| 👁️ Interferência Visual|
 |:---:|:---:|
 |"Constangimento de Confirmação")|Visual Interference|
 |🎯️ Foco: desvio de atenção é emocional e textual.| 🎯️ Foco: desvio de atenção é óptico e mecânico.|
@@ -301,8 +303,11 @@ Táticas específicas dentro do campo **misdirection**.
 
 
 
-**Confirmshaming**: 
+**Confirmshaming**: Texto manipulativo para gerar culpa ao recusar.
+
+<small>
 Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.). Mas no *confirmshaming* isso é diferente.
+</small>
 
 No botão que o usuário clica, há algo depreciativo ou de constrangimento para punir a escolha dele de não seguir o que a empresa quer.
 
@@ -316,13 +321,13 @@ Resumo:
 
 
 
-**Ocultação Deliberada <sup>Deliberate Hiding</sup>**
+**👁️ Ocultação Deliberada <sup>Deliberate Hiding</sup>**
 
 Ofuscação e Ocultação Abaixo da Dobra são tipos de **Ocultação Deliberada**.
 
 📚️ Obfuscation | Below-the-fold Hiding
 
-|Ofuscação| Ocultação Abaixo da Dobra|
+|👁️ Ofuscação| 👁️ Ocultação Abaixo da Dobra|
 |:---:|:---:|
 |Informação ou opção está na tela e até acessível, mas distorcida, camuflada ou sobrecarregada. Foco? Usuário não consigui compreender ou identificá-la com clareza.| Uso do próprio tamanho físco da tela como uma barreira, seja monitor ou smartphone.|
 |📱 Visual (fonte pequena, cores sem contrastes com o fundo etc); linguística (abreviações incomuns ou redação confusa para o usuário desistir de ler e só aceitar a opção padrão.)| 📱 Cookies: botão "Aceitar Todos" grande, colorido e visível, mas opção "Rejeitar" ou "Configurar" surge de forma muito "tímida" (posicionada abaixo, oculta em um link ou é preciso rolar a tela).|
@@ -340,7 +345,7 @@ A interface utiliza elementos de design para guiar a atenção do usuário para 
 
 👔 Objetivo da plataforma? Garantir respaldo jurídico de que o usuário teve acesso direto aos Termos de Uso antes de iniciar o procedimento. Daí, a plataforma a própria estrutura física da tela para desviar a atenção do botão de execução.
 
-**Trick Questions**: focado na linguagem e lógica (confundir o usuário com frases de dupla negação para fazê-lo marcar a opção errada). 
+**🔄 Trick Questions**: focado na linguagem e lógica (confundir o usuário com frases de dupla negação para fazê-lo marcar a opção errada). 
 
 xxx
 manipulação da atenção, subverter a autonomia do usuário.
@@ -355,7 +360,7 @@ Misdirection (Direcionamento Incorreto)
 Trick Questions (Perguntas Pegadinha).
 Interface Interference (Interferência na Interface) / Forced Action (Ação Forçada).
 
-#### Configurações Pré-definidas ou Caixas de Seleção Pré-marcadas
+#### 🔄 Configurações Pré-definidas ou Caixas de Seleção Pré-marcadas
 
 📚️ Default Settings | Pre-selected Checkboxes.
 
@@ -377,11 +382,16 @@ Mais...
 
 
 
-**Roach Motel**: Fácil de entrar, difícil de sair.  
+**🔄 💔 Roach Motel**: Fácil de entrar, difícil de sair cancelar).  
 | `Entry: Low / Exit: High  
 📱 Cadastro simplificado; botão de "Excluir Conta" oculto em submenus.  
 📱 Cadastro simples. Excluir 'conta/logoff' quase impossível
 👔 Manter o usuário (nó) ativo na base de dados para inflar métricas.  
+
+A Entrada (🔄 Hábito): Baseia-se no seu hábito consolidado de consumo rápido e sem fricção (compras em "um clique"). A interface facilita ao máximo o cadastro ou a compra para que você aja sem pensar, no automatismo.
+A Saída (💔 Emoção / 👁️ Atenção): A barreira só aparece quando você tenta quebrar esse ciclo. Para te reter, o sistema esconde o botão de saída (👁️ Atenção sabotada) e usa textos de culpa ou perda de benefícios (💔 Emoção).
+
+
 
 **Nagging**: importunação, persistência incômoda.  
 🎯️ Repetição, cansaço.
@@ -402,6 +412,60 @@ Técnica	Aplicação Prática	Objetivo no Sistema
 
 
 **Disguised Ads**;Pedidos ou anúncios que se parecem com conteúdo orgânico ou notificações de sistema.	Aumentar a taxa de clique (CTR) enganando o olho.  
+
+
+#### Outros padrões obscuros
+
+🔄 👁️ **Sneak into Basket**: Itens adicionados ao carrinho sem autorização.
+A Base (🔄 Hábito): O sistema se apoia no seu automatismo. Você já passou por dezenas de telas de compra na vida e desenvolveu o hábito mecânico de clicar em [Avançar] / [Próximo] sem ler os detalhes, operando em modo "piloto automático".
+A Facada (👁️ Atenção): A plataforma usa a 👁️ Atenção Oculta (ou camuflada) contra você. Ela insere o item extra de forma sutil, contando que a sua atenção racional está desligada devido ao hábito do clique rápido.
+
+👁️  🔄 **Continuidade Forçada** <sup>Forced Continuity</sup>: Cobrança automática imediata após o fim de um teste gratuito, havendo aviso obscuro por intenção de design; ou seja, o aviso não claro, de propósito.
+👁️ Momento do cadastro: design manipula o foco visual para ocultar a obrigação futura. A **omissão visual**? A interface destaca o termo "Gratuito" ou "Teste por 7 dias" em letras grandes e botões coloridos.
+**Ocultação de Termos**: A informação de que haverá uma renovação automática obrigatória e a data exata da cobrança são inseridas em fontes reduzidas, fora do fluxo principal de leitura ou escondidas atrás de um link de Termos de Serviço. O sistema induz a cegueira de atenção.
+🔄 Durante o período de teste: O sistema utiliza o tempo para que o usuário baixe a guarda através do automatismo. **Inércia Comportamental**: O cérebro humano tende a manter o estado atual para poupar energia jurídica e cognitiva. Uma vez configurado o acesso, o uso do software entra na rotina diária (hábito).
+**Ausência de Gatilhos**: O software deliberadamente não envia e-mails de aviso (como "Sua assinatura vencerá em 2 dias"). O sistema conta com o esquecimento do usuário para que o fluxo financeiro ocorra de forma passiva, sem quebrar a inércia do hábito instalado.
+
+O que a literatura de UI/UX classifica como "sem aviso" no Forced Continuity refere-se estritamente à ausência de notificação prévia ao término do prazo (o sistema não avisa o usuário que os 7 dias grátis acabaram e que o débito ocorrerá amanhã). O aviso inicial sempre estará lá, mesmo que intencionalmente camuflado ou enviesado pelo design.
+
+<small>
+**1**: As bandeiras de cartão (Visa, Mastercard) e os intermediadores de pagamento (Stripe, Adyen, etc.) impõem regras rígidas de conformidade (compliance). Se um software transacionar cobranças recorrentes sem que o termo tenha sido formalmente exibido e aceito na interface, o volume de contestação de compras (chargebacks) estoura o limite permitido. Como punição, as bandeiras bloqueiam a conta da empresa e impedem o sistema de receber pagamentos.
+**2**: Dados do cartão de crédito no ato do cadastro: para um teste gratuito é o principal requisito técnico e estrutural para a execução desse padrão.
+**3**: Free Trial: é comum nessa tática de vendas e MKT.
+</small>
+
+💔 🔄 **Taxas Escondidas** <sup>Hidden Costs</sup>: Taxas extras reveladas apenas no último segundo do pagamento.
+💔 Lida com **aversão à perda**; usuário investiu tempo, preencheu cadastros, escolheu itens etc. Ao se deparar com um custo no final sentimos que estamos "jogando fora" todo tempo gasto, esforço. Cansaço mental, frustração, faz com que paguemos para encerrar o processo.
+🔄 O sistema põe o valor extra na tela final de confirmação, onde o usuário já está condicionado pelo hábito motor a clicar rapidamente no botão de conclusão (mecanismo de "avançar/confirmar"). O usuário opera no automatismo e muitas vezes aprova o valor inflacionado sem perceber.
+
+
+
+
+
+
+## Profissões e softwares usados
+
+#### Profissões
+
+
+**Growth Hacker** e **Engenheiro de Conversão (CRO)** (ou **Especialista em CRO**) lidam diretamente com padões obscuros. Devido suas especializações técnicas eles têm cargos no mercado, nas áreas de tecnologia, Design de Produto e MKT Digital.
+
+Para esses funções eles precisam dominar técnicas, tanto legítimas como ilegítimas. Ou seja, na prática, atuam como **hackers de interface**.
+
+É preciso se especializar em três pilares fundamentais:
+
+|Programação Front-End| Estatística e Análise de Dados| Psicologia Comportamental (UX)|
+|:---:|:---:|:---:|
+|HTML/CSS/JS| Ferramentas de telemetria e mapas de calor| Estudo de vieses cognitivos e leis de hierarquia visual|
+|Domínio avançado para manipular interfaces e injetar scripts em tempo real.| Hotjar, Google Tag Manager| Respectivamente escassez, aversão à perda, e, Gestalt.|
+|Arquitetura web| Execução de Testes A/B| Engenharia reversa e domínio de Padrões Obscuros|
+|Gerenciamento de cookies, sessões e APIs de navegadores| Com base em cálculo de relevância estatística e extração de dados via SQL.| -|
+
+
+#### Softwares usados
+
+
+
 
 
 
