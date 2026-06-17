@@ -420,7 +420,7 @@ Técnica	Aplicação Prática	Objetivo no Sistema
 A Base (🔄 Hábito): O sistema se apoia no seu automatismo. Você já passou por dezenas de telas de compra na vida e desenvolveu o hábito mecânico de clicar em [Avançar] / [Próximo] sem ler os detalhes, operando em modo "piloto automático".
 A Facada (👁️ Atenção): A plataforma usa a 👁️ Atenção Oculta (ou camuflada) contra você. Ela insere o item extra de forma sutil, contando que a sua atenção racional está desligada devido ao hábito do clique rápido.
 
-👁️  🔄 **Continuidade Forçada** <sup>Forced Continuity</sup>: Cobrança automática imediata após o fim de um teste gratuito, havendo aviso obscuro por intenção de design; ou seja, o aviso não claro, de propósito.
+<img src="https://carcasa.com.br/divi/wp-content/uploads/2025/02/pawel-kuczynky-17.jpg" width="120" />👁️  🔄 **Continuidade Forçada** <sup>Forced Continuity</sup>: Cobrança automática imediata após o fim de um teste gratuito, havendo aviso obscuro por intenção de design; ou seja, o aviso não é claro, de propósito.
 👁️ Momento do cadastro: design manipula o foco visual para ocultar a obrigação futura. A **omissão visual**? A interface destaca o termo "Gratuito" ou "Teste por 7 dias" em letras grandes e botões coloridos.
 **Ocultação de Termos**: A informação de que haverá uma renovação automática obrigatória e a data exata da cobrança são inseridas em fontes reduzidas, fora do fluxo principal de leitura ou escondidas atrás de um link de Termos de Serviço. O sistema induz a cegueira de atenção.
 🔄 Durante o período de teste: O sistema utiliza o tempo para que o usuário baixe a guarda através do automatismo. **Inércia Comportamental**: O cérebro humano tende a manter o estado atual para poupar energia jurídica e cognitiva. Uma vez configurado o acesso, o uso do software entra na rotina diária (hábito).
@@ -465,8 +465,15 @@ Para esses funções eles precisam dominar técnicas, tanto legítimas como ileg
 #### Softwares usados
 
 
+Esses profissionais o chamado software de Analytics
 
+👉️ Web Analytics Tradicional (Foco em Tráfego e Conversão)
+Google Analytics (GA4), Adobe Analytics.
 
+👉️  Product Analytics (Foco em Comportamento e Retenção)
+Amplitude, Mixpanel, Heap (Contentsquare)
+
+<img src="https://static.boredpanda.com/blog/wp-content/uploads/2023/05/This-artist-continues-to-make-thought-provoking-illustrations-to-expose-the-flaws-in-our-society-646cbb514adf4__700.jpg" width="120" />The Lawnmower ("O Cortador de Grama") [Pawel](/pawel).
 
 
 
