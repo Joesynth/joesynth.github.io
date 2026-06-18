@@ -19,6 +19,7 @@ Há tempos que a programação é um saber requisitado não só na área de info
 - Cibersegurança e segurança da informação
 - Trabalhos: mais exemplos do que é solicitado
 - Informática: áreas associadas
+- Padrões obscuros
 
 Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Para simplificar vamos usar uma legenda.
 🤖️ **Tecnologias/linguagens** que devem ser dominadas por este profissional.
@@ -581,6 +582,9 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 </tbody>
 </table>
 
+
+
+## Padrões obscuros
 
 
 
