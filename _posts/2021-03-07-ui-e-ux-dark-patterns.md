@@ -306,7 +306,7 @@ Táticas específicas dentro do campo **misdirection**.
 **Confirmshaming**: Texto manipulativo para gerar culpa ao recusar.
 
 <small>
-Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.). Mas no *confirmshaming* isso é diferente.
+👉️ Para melhor usabilidade, garantir a clareza na comunicação da interface é vital, então rótulos de botões normalmente são curtos, com uma ou duas palavras, verbos no infinitivo ("salvar", por ex.) ou imperativo ("clique aqui", por ex.). Mas no *confirmshaming* isso é diferente.
 </small>
 
 No botão que o usuário clica, há algo depreciativo ou de constrangimento para punir a escolha dele de não seguir o que a empresa quer.
@@ -441,39 +441,9 @@ O que a literatura de UI/UX classifica como "sem aviso" no Forced Continuity ref
 
 
 
-
-
 ## Profissões e softwares usados
 
-#### Profissões
-
-
-**Growth Hacker** e **Engenheiro de Conversão (CRO)** (ou **Especialista em CRO**) lidam diretamente com padões obscuros. Devido suas especializações técnicas eles têm cargos no mercado, nas áreas de tecnologia, Design de Produto e MKT Digital.
-
-Para esses funções eles precisam dominar técnicas, tanto legítimas como ilegítimas. Ou seja, na prática, atuam como **hackers de interface**.
-
-É preciso se especializar em três pilares fundamentais:
-
-|Programação Front-End| Estatística e Análise de Dados| Psicologia Comportamental (UX)|
-|:---:|:---:|:---:|
-|HTML/CSS/JS| Ferramentas de telemetria e mapas de calor| Estudo de vieses cognitivos e leis de hierarquia visual|
-|Domínio avançado para manipular interfaces e injetar scripts em tempo real.| Hotjar, Google Tag Manager| Respectivamente escassez, aversão à perda, e, Gestalt.|
-|Arquitetura web| Execução de Testes A/B| Engenharia reversa e domínio de Padrões Obscuros|
-|Gerenciamento de cookies, sessões e APIs de navegadores| Com base em cálculo de relevância estatística e extração de dados via SQL.| -|
-
-
-#### Softwares usados
-
-
-Esses profissionais o chamado software de Analytics
-
-👉️ Web Analytics Tradicional (Foco em Tráfego e Conversão)
-Google Analytics (GA4), Adobe Analytics.
-
-👉️  Product Analytics (Foco em Comportamento e Retenção)
-Amplitude, Mixpanel, Heap (Contentsquare)
-
-<img src="https://static.boredpanda.com/blog/wp-content/uploads/2023/05/This-artist-continues-to-make-thought-provoking-illustrations-to-expose-the-flaws-in-our-society-646cbb514adf4__700.jpg" width="120" />The Lawnmower ("O Cortador de Grama") [Pawel](/pawel).
+Vide padrões obscuros em [Profissionais de Informática](/profissionais-de-informatica).
 
 
 
