@@ -20,6 +20,8 @@ Uma interface de usuário que foi cuidadosamente projetada para induzir os usuá
 
 
 
+
+
 ## Introdução
 
 👉️ **Autor** (do sistema):  dono da rede, *site*, *app* (aplicativo); uma plataforma (como Uber etc).
@@ -40,9 +42,9 @@ No contexto dos padrões obscuros o design de UI/UX não é feito para ajudar o 
 
 ##### Hacker de interface
 
-📚️ Ou ***black hat UX*** ou ainda ***black hat UI***. 
+📚️ Ou ***black hat UX*** ou ainda ***black hat UI***.  
 
-Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que está de maldade pensando em ataques financeiros ou em servidores. O "hacker de interface" é semelhante, mas ataca o indivíduo (usuário ou nó).
+<img src="https://static.boredpanda.com/blog/wp-content/uploads/2024/09/425403091_1364325644216194_4759236311117740870_n-66eb69dfe6240__700.jpg" width="310" />Pense num hacker de computador, ao estilo [Black Hat](/white-hat-e-black-hat). Ou seja, o cara que está de maldade pensando em ataques financeiros ou em servidores. O "hacker de interface" é semelhante, mas ataca o indivíduo (usuário ou nó).
 
  
 
@@ -98,7 +100,8 @@ O design é projetado para explorar gatilhos biológicos (dopamina etc) e os mec
 Abaixo, se são ou não padrões obscuros vai depender.
 
 **Hook Model** (Modelo de Engajamento): Criação de hábitos através de Gatilho -> Ação -> Recompensa Variável -> Investimento.  
-**Recompensa Variável**: imita o funcionamento de uma alavanca de caça-níqueis (cassino) _seja a ação física ou na resposta neurológica:  
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuploads.metropoles.com%2Fwp-content%2Fuploads%2F2024%2F03%2F19161637%2Fcaca-niqueis-online-gratis-3-600x400.jpg&f=1&nofb=1&ipt=883da72cf482e8e0abb481bd9faf11fe58da589c05569ae03855c96934977770" width="120" />**Recompensa Variável**: imita o funcionamento de uma alavanca de caça-níqueis (cassino) _seja a ação física ou na resposta neurológica:  
 Ex. A ação (a alavanca) é o usuário deslizar o dedo de cima para baixo na tela do app e solta. A animação na tela equivalente a puxar a alavanca física e ver os rolos do caça-níqueis girarem. O gatilho psicológico (a incerteza)? O usuário não sabe o que vai aparecer. O resultado? A recompensa variável.  
 **Escassez e Urgência**: Timers regressivos ("Aceite em 15s") ou avisos de "alta demanda" que forçam o usuário a decidir sob estresse, anulando o pensamento crítico.  
 
@@ -416,8 +419,7 @@ Técnica	Aplicação Prática	Objetivo no Sistema
 
 #### Outros padrões obscuros
 
-🔄 👁️ **Sneak into Basket**: Itens adicionados ao carrinho sem autorização.
-A Base (🔄 Hábito): O sistema se apoia no seu automatismo. Você já passou por dezenas de telas de compra na vida e desenvolveu o hábito mecânico de clicar em [Avançar] / [Próximo] sem ler os detalhes, operando em modo "piloto automático".
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fvetores-premium%2Fcarrinho-de-compras-cheio-de-produtos_135595-62700.jpg&f=1&nofb=1&ipt=8bc74ac07319151379eeb4c3938bc3bcfbd1df65b984fa06697e016793a98e82" width="120" />🔄 👁️ **Inclusão forçada no carrinho** (Sneak into Basket): Item embutido, venda casada digital. Itens adicionados ao carrinho sem autorização. A Base (🔄 Hábito): O sistema se apoia no seu automatismo. Você já passou por dezenas de telas de compra na vida e desenvolveu o hábito mecânico de clicar em [Avançar] / [Próximo] sem ler os detalhes, operando em modo "piloto automático".
 A Facada (👁️ Atenção): A plataforma usa a 👁️ Atenção Oculta (ou camuflada) contra você. Ela insere o item extra de forma sutil, contando que a sua atenção racional está desligada devido ao hábito do clique rápido.
 
 <img src="https://carcasa.com.br/divi/wp-content/uploads/2025/02/pawel-kuczynky-17.jpg" width="120" />👁️  🔄 **Continuidade Forçada** <sup>Forced Continuity</sup>: Cobrança automática imediata após o fim de um teste gratuito, havendo aviso obscuro por intenção de design; ou seja, o aviso não é claro, de propósito.
