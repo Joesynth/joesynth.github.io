@@ -30,6 +30,7 @@ Fizemos um resumo mostrando a profissão e coisas que devemos estar espertos! Pa
 
 
 
+
 ## ✍️ Profissionais de programação
 
 Um site moderno é dividido em duas partes: Front-End e Back-End.
@@ -584,8 +585,80 @@ responsável que cria a arte visual do jogo em 2D ou 3D; seja para personagens, 
 
 
 
+
+
+
 ## Padrões obscuros
 
+
+**Growth Hacker**, **Engenheiro de Conversão (CRO)** e **Especialista em CRO** lidam diretamente com padões obscuros. Devido suas especializações técnicas eles têm cargos no mercado nas áreas de tecnologia, Design de Produto e MKT Digital.
+
+Para esses funções eles precisam dominar técnicas, tanto legítimas como ilegítimas. Portanto, também atuam como **hackers de interface**.
+
+Ou seja, Por estarem posicionados exatamente na intersecção entre Tecnologia, Design de Produto e Marketing Digital, esses profissionais possuem as ferramentas necessárias tanto para otimizar a experiência quanto para manipulá-la.
+
+É preciso se especializar em três pilares fundamentais:
+
+|Programação Front-End| Estatística e Análise de Dados| Psicologia Comportamental (UX)|
+|:---:|:---:|:---:|
+|HTML/CSS/JS| Ferramentas de telemetria e mapas de calor| Estudo de vieses cognitivos e leis de hierarquia visual|
+|Domínio avançado para manipular interfaces e injetar scripts em tempo real.| Hotjar, Google Tag Manager| Respectivamente escassez, aversão à perda, e, Gestalt.|
+|Arquitetura web| Execução de Testes A/B| Engenharia reversa e domínio de Padrões Obscuros|
+|Gerenciamento de cookies, sessões e APIs de navegadores| Com base em cálculo de relevância estatística e extração de dados via SQL.| -|
+
+
+#### Softwares usados
+
+
+Esses profissionais usamo chamado software de Analytics  
+
+👉️ Web Analytics Tradicional (Foco em Tráfego e Conversão)  
+Google Analytics (GA4), Adobe Analytics.  
+
+👉️ Product Analytics (Foco em Comportamento e Retenção)  
+Amplitude, Mixpanel, Heap (Contentsquare)  
+
+
+
+#### Profissões
+
+
+**Growth Hacker**: Força a tração e a retenção "em escala" (ou seja, a qualquer custo), focando em métricas específicas (como número de cadastros ou compartilhamentos). Atua como o arquiteto dos gatilhos de engajamento, manipula a interface para extrair dados do usuário ou forçar a viralização.
+
+|🤖️ |🔧️ |
+|:---:|:---:|
+|HTML/CSS (Básico)| **Gestão de Tags e Pixel** (Injeção de Código)Google Tag Manager (GTM)|
+|JS|**Testes A/B e Otimização de Conversão (CRO)**:
+VWO / Optimizely / Kamleoon, Hotjar / Microsoft Clarity.
+ |
+|SQL| **Automação de MKT e Ativação (Retenção e Nutrição)**:
+Customer.io / Braze / ActiveCampaign, Zapier / Make (antigo Integromat)
+RD Station (Automação de MKT)
+HubSpot (CRM e Automação de MKT)
+|
+|Python ou R (indicado)| **Data Warehousing e Visualização** (Inteligência Centralizada):
+Google BigQuery / Snowflake, Looker Studio / Tableau / Power BI
+|
+
+**Especialista em CRO**: Identifica os problemas de conversão e elabora as hipóteses de teste.
+
+|🤖️ |🔧️ |🧠 |
+|:---:|:---:|:---:|
+|Apenas lógica de dados (por ex. conhecer uma variável, condicional, evento)| Google Analytics 4 (GA4), Hotjar ou Microsoft Clarity, VWO ou Optimizely | Focado em MKT, psicologia de consumo, dados analíticos e design de interface.|
+
+
+**Engenheiro de Conversão**: Desenvolvedor de software, ele programa os testes A/B complexos em JavaScript/CSS e otimiza o código para manter a velocidade do site.
+
+
+|🤖️ |🔧️ |🧠 |
+|:---:|:---:|:---:|
+|HTML/ CSS/ JS| Google Tag Manager (GTM), Console do Navegador (DevTools), API das Ferramentas de Teste (VWO/Optimizely SDKs)| Front-end focado em produto.|
+
+<small>**CRO** <sup>Conversion Rate Optimization - Otimização da Taxa de Conversão): A área de atuação de ambos: **Engenheiro de Conversão e **Especialista em CRO**.
+No campo de CRO o objetivo é fazer com que uma porcentagem maior dos visitantes de um site realize uma ação desejada (como comprar ou se cadastrar).
+É uma subárea interdisciplinar dentro de MKT Digital e Produto (UX/UI).
+Os profissionais: O Especialista em CRO é o estrategista da área; o Engenheiro de Conversão (CRO) é o desenvolvedor técnico que programa as soluções da área.
+</small>
 
 
 É isso!  
