@@ -147,7 +147,9 @@ Em fóruns de técnicos ou comunidades pode haver um usuário que ganha um títu
 
 ###### Arquitetura de Escolha (Nudging)
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-5Wi9Xv2FT_Q%2FVNvuEggSlPI%2FAAAAAAAABes%2FYIA3oTSVSi8%2Fs1600%2Fverdadeira-historia-do-pica-pau-4.jpg&f=1&nofb=1&ipt=765917e718fabdf5060240e4b2f32b4d4a04e777b1f0b9ee503c01c9db3d41c6" width="120" />Não há uma arma na sua cabeça. a abordagem é bem mais sofistucada: a arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-5Wi9Xv2FT_Q%2FVNvuEggSlPI%2FAAAAAAAABes%2FYIA3oTSVSi8%2Fs1600%2Fverdadeira-historia-do-pica-pau-4.jpg&f=1&nofb=1&ipt=765917e718fabdf5060240e4b2f32b4d4a04e777b1f0b9ee503c01c9db3d41c6" width="120" />Não há uma arma apontada para a sua cabeça, sendo a abordagem é bem mais sofistucada.
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/03/pawel-cowboy.png" width="310" />A arma é outra! O design não te obriga, mas lhe "empurra" para a escolha que o dono do sistema quer. 
 
 |Opção Padrão (Default Option)| Ancoragem de Preços|
 |:---:|:---:|
