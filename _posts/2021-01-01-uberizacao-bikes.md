@@ -10,6 +10,8 @@ Tutorial.
 **20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria.  
 
 
+
+
 ## Peças: tão importante quanto marca
 
 **Motor - marca**:  
@@ -36,10 +38,26 @@ Cromoly (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em b
 
 Pós- venda: Garantia, peças reposição, seg incluso, assistência do vendedor.  
 
-Prioridade (UPDATE - segundo gpt).  
-iNow ≈ StreetGo > Bigfoot T1 > Thunder ≈ Bikelete V8 (vide foto)  
+
+#### Hierarquia de marcas (segundo GPT)
+
+iNow ≈ StreetGo > Two Dogs > Konnan ≈ Bikelete V8 (vide foto)  
 
 👉️ bikelete.com  
+
+#### Hierarquia de marcas (por Gemini)
+
+**1**: StreetGo (Oggi) > Two Dogs > GTSM1 e Bikelete.
+**2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).
+**3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.
+
+## Bikes elétricas típicas
+
+Woie.  
+<del>Dafra</del>.  
+
+
+
 
 ## Bikes elétricas - 20x4.0
 
@@ -62,10 +80,6 @@ Konnan Thunder E-Titan G60.
 🔋 1000w 48v 15Ah  
 Freio hidraulico  
 Projetada para trab  
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844687_x.jpg" width="120" />Inow v9 (2024).  
-🔋 750W lítio  
-🛞 CST  
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />Inow V20 Brake  
@@ -97,11 +111,11 @@ VelMax 32
 🔋 750W 48V Lítio, remo.  
 VelMax 32 km/h  
 Auto. 70 a 80 km ped. assis.
-Freio disco mas mec. ou hid?  
+Freio hid.  
 🔲 Aço carbono  
 ➰ Suspensão - frente.  
 🛞 Chao Yang  
-💰 5250 site Gtsm1 ❤️ 
+💰 5250 site Gtsm1 ❤️  
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
 
 
@@ -165,6 +179,14 @@ Freio mecánico
 
 **GTSM1**:   
 Foco em Custo-Benefício (tipo StreetGo S12).  
+
+**Amyet S8-S** (Bike Gaucho)  
+2x1000 48V 25Ah lítio remo.  
+80Nm, motor marca generica.  
+Vedada, certificação IP54 contra poeira e respingos.  
+Auto. Modo assiti. 65 a 85 km  
+Peso supor. 150 kg
+
 
 
 
