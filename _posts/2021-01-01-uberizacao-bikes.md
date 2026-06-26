@@ -4,9 +4,8 @@ Tutorial.
 
 ## Variedades
 
-**Bee**: Marca cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
 **Scooter**: Fuja! Roda é 10 ou 12 pol, o que é péssimo para buracos.  
-**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria.  
+**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.  
 
 
 
@@ -30,40 +29,42 @@ A importância deles reside no pós- venda, garantia, peças reposição, seg in
 ## Bikes elétricas - Marcas
 
 #### As "típicas"
-Woie.  
-<del>Dafra</del>. 
 
-Sousa Bike
-Caloi <del>🇧🇷 </del>🇳🇱(Bafang)
-Sense Bike
-Duos Bikes
-Atrio (Multilaser)
+**Woie**.  
+<del>**Dafra**</del>.  
+**Bee**: Marca cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
+**Sousa Bike**  
+**Caloi** <del>🇧🇷 </del>🇳🇱(Bafang)  
+**Sense Bike**  
+**Duos Bikes**  
+**Atrio** (Multilaser)  
 
-#### Pneu 20x4.0
 
-Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.
-
+#### 20x4.0
 
 **Hierarquia de marcas** (por Gemini):  
 
-**1**: StreetGo (Oggi) > Two Dogs > GTSM1 e Bikelete.
-**2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).
-**3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.
+**1**: StreetGo (Oggi) > Two Dogs > GTSM1 e Bikelete.  
+**2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).  
+**3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.  
 
 Outras marcas medianas incluem Giorrad, Colorway e Bikelete.  
 
 **Hierarquia de marcas** (segundo GPT):  
 iNow StreetGo Two Dogs Konnan Bikelete GTSM1 Giorrad Colorway Ouxi Move Ways Starmega Bike Fast
 
-**1**: Rava (TSW) > GTSM1 > Two Dogs > StreetGo.
-**2**: Ouxi / iNow > Konnan / Giorrad.
-**3**: Bikelete, Colorway, Move Ways: Mais loteria; reposição e garantia variam bastante
-**4**: Starmega / Bike Fast: Evitar para uso profissional; falta de suporte e disponibilidade de peças.
+**1**: Rava (TSW) > GTSM1 > Two Dogs > StreetGo.  
+**2**: Ouxi / iNow > Konnan / Giorrad.  
+**3**: Bikelete, Colorway, Move Ways: Mais loteria; reposição e garantia variam bastante.  
+**4**: Starmega / Bike Fast: Evitar para uso profissional; falta de suporte e disponibilidade de peças.  
+
 
 👉️ bikelete.com  
 
-⚠️ Ouxi e Inow são as mais difundidas no Brasil.
-👉️ O que domina não é marca e sim peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.
+
+⚠️ Ouxi e Inow são as mais difundidas no Brasil.  
+👉️ O que domina não é marca e sim peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
+
 
 #### OEM - Fabricante Original de Equipamentos
 
@@ -96,9 +97,10 @@ Demais são as genéricas ou sem identificação.
 
 #### Quadro
 Amortecimento: Se sim bike mais pesada, gasto bateria.  
-Aço carbono: barato, resistente a pancadas, fácil soldar. 👎 Pesado e enferruja se a pintura danificar.  
-Alumínio 2 ou 4 kg mais leve, não oxida. 👎 Caro, vibra mais, reparação difícil.  
-Cromoly (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
+**Aço carbono**: barato, resistente a pancadas, fácil soldar. 👎 Pesado e enferruja se a pintura danificar.  
+**Alumínio** 2 ou 4 kg mais leve, não oxida. 👎 Caro, vibra mais, reparação difícil.  
+**Alumínio 6061**: tratamento que oferece melhor qualidade.
+**Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
 
 #### Pneu 20x4.0
 
@@ -136,26 +138,32 @@ Pirelli (Angel DT Urban) > Kenda (Kraze, Flame, Gigas) e CST (Big Boat, BFT Urba
 Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, motor, display, acelerador, bateria etc).
 🛒 Loja que vende, Ouxi por exemplo.  
 
-**(Centro)**:
-Rezende Bike – muito forte em e-bike genérica e OUXI. 🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física, na Rua do Resende, número 103 (Loja A).
-Morais Bike – atende bastante bike elétrica de entrega. 🛒 97302-7143
+#### Venda
+
+**(Centro)**:  
+Rezende Bike – muito forte em e-bike genérica e OUXI. 🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+**Copacabana etc**:  
+Bee Elétricas – peças, bateria, manutenção de fat bikes. 🛒 4003-4131 / (21) 97626-8617 (Unidade Botafogo).  
+**Outras regiões**:  
+Din Bike Elétrica - Recreio – fat bike e manutenção OEM. 🛒 99974-5876  
+
+
+
+#### Manutenção - peças
+
+**(Centro)**:  
+Morais Bike – atende bastante bike elétrica de entrega. 🛒 97302-7143  
 Bike Lapa – peças e manutenção no Centro  
 
-**Copacabana etc**:
-Bee Elétricas – peças, bateria, manutenção de fat bikes. 🛒 4003-4131 / (21) 97626-8617 (Unidade Botafogo)
+**Copacabana etc**:  
 Rota E-Bike  
 ConsertaBike  
-Flex Mobi (Ipanema / Niterói)
+Flex Mobi (Ipanema / Niterói)  
 
-
-**Outras regiões**:
-Din Bike Elétrica - Recreio – fat bike e manutenção OEM. 🛒 99974-5876
-Biobike (Engenho de Dentro e Barra)
-Inovabike (Irajá)
-Bike Rio (Irajá, Penha e Olaria)
-  
-
-
+**Outras regiões**:  
+Biobike (Engenho de Dentro e Barra)  
+Inovabike (Irajá)  
+Bike Rio (Irajá, Penha e Olaria)  
 
 
 
@@ -165,10 +173,11 @@ Bike Rio (Irajá, Penha e Olaria)
 #### ➰ Suspensão dupla
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />Rava (TSW) E-Chopper.
-🔋 750W 48V 15Ah remo.
-🔲 Alumínio 6061
-Freio hid.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />Rava (TSW) E-Chopper.  
+🔋 750W 48V 15Ah remo.  
+🔲 Alumínio 6061  
+Freio hid.  
+
 
 
 
