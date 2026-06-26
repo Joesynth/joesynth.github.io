@@ -34,6 +34,9 @@ A importância deles reside no pós- venda, garantia, peças reposição, seg in
 **2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).  
 **3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.  
 
+🇧🇷 Move Ways (750W e 1000W). Escritório com CNPJ, que importa e não fabrica nada.
+🇧🇷 Starmega (750W). Idem.
+
 Outras marcas medianas: Giorrad, Colorway e Bikelete.  
 
 **Hierarquia de marcas** (segundo GPT):  
@@ -289,24 +292,32 @@ Bee Elétricas – peças, bateria, manutenção de fat bikes. 🛒 4003-4131 / 
 **Outras regiões**:  
 Din Bike Elétrica - Recreio – fat bike e manutenção OEM. 🛒 99974-5876  
 
-
+Nossa Bike: Rocha Miranda - 98015-4606  
+Bike Motor: Irajá. 97033-6644  
+RM Bike Motorizada: Colégio - 98531-5444  
+Superbike - Piedade - 2594-8255 / (21) 97204-6258  
 
 
 ## Manutenção - peças
 
 **(Centro)**:  
 Morais Bike – atende bastante bike elétrica de entrega. 🛒 97302-7143  
-Bike Lapa – peças e manutenção no Centro  
 
 **Copacabana etc**:  
 Rota E-Bike  
 ConsertaBike  
 Flex Mobi (Ipanema / Niterói)  
+Rota E-Bike (Copacabana) - 99776-1236  
+ConsertaBike (Copacabana) - 97158-5627 3439-5005  
+Flex Mobi (Ipanema / Niterói) - 97116-3388 99932-2598  
 
 **Outras regiões**:  
-Biobike (Engenho de Dentro e Barra)  
-Inovabike (Irajá)  
-Bike Rio (Irajá, Penha e Olaria)  
+Inovabike (Irajá) - 986650076  
+
+**Manuteção somente mecânica**: não parte elétrica.  
+Biobike (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
+Bike Lapa (Centro) - 2224-0428  
+
 
 
 
