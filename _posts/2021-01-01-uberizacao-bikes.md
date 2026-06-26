@@ -2,13 +2,6 @@
 
 Tutorial.
 
-## Variedades
-
-**Scooter**: Fuja! Roda é 10 ou 12 pol, o que é péssimo para buracos.  
-**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.  
-
-
-
 
 
 
@@ -17,22 +10,15 @@ Tutorial.
 
 A importância deles reside no pós- venda, garantia, peças reposição, seg incluso, assistência do vendedor.  
 
-**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT, é a estratégia que o preço é uma isca, e que uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLQvdkG1lTfQ%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=c762a401341a738dc7b7a6ccdd1933a7c95405ab85d25c0137c1db6bebc8b08c" width="" />**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT, é a estratégia que o preço é uma isca, e que uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
 
 
-
-
-
-
-
-
-## Bikes elétricas - Marcas
-
-#### As "típicas"
+#### Exemplo - bikes "típicas"
 
 **Woie**.  
 <del>**Dafra**</del>.  
-**Bee**: Marca cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
+**Bee**: Cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
 **Sousa Bike**  
 **Caloi** <del>🇧🇷 </del>🇳🇱(Bafang)  
 **Sense Bike**  
@@ -40,7 +26,7 @@ A importância deles reside no pós- venda, garantia, peças reposição, seg in
 **Atrio** (Multilaser)  
 
 
-#### 20x4.0
+#### Exemplo - 20x4.0
 
 **Hierarquia de marcas** (por Gemini):  
 
@@ -48,10 +34,9 @@ A importância deles reside no pós- venda, garantia, peças reposição, seg in
 **2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).  
 **3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.  
 
-Outras marcas medianas incluem Giorrad, Colorway e Bikelete.  
+Outras marcas medianas: Giorrad, Colorway e Bikelete.  
 
 **Hierarquia de marcas** (segundo GPT):  
-iNow StreetGo Two Dogs Konnan Bikelete GTSM1 Giorrad Colorway Ouxi Move Ways Starmega Bike Fast
 
 **1**: Rava (TSW) > GTSM1 > Two Dogs > StreetGo.  
 **2**: Ouxi / iNow > Konnan / Giorrad.  
@@ -68,8 +53,7 @@ iNow StreetGo Two Dogs Konnan Bikelete GTSM1 Giorrad Colorway Ouxi Move Ways Sta
 
 #### OEM - Fabricante Original de Equipamentos
 
-Uma empresa "x" fabrica mil produtos. Fulando compra 400 e bota a marca dele, Beltrano compra 600 e põe a marca dele.  
-Ou seja, a fabrica em si não se envolve com marca ou distribição.  
+Uma empresa "x" fabrica mil produtos. Fulando compra 400, Beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
 
 Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
@@ -84,31 +68,44 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 Bafang é o "queridinho" das bikes.  
 Woie 🇧🇷: Bafang (tanto cubo traseiro de 750W quanto motores centrais Mid-Drive sob encomenda).  
 Two Dogs 🇧🇷: chegou a usar.  
-Trek 🇺🇸: Modelos urbanos premium de carga ou utilitários com pneu balão utilizam motores centrais Bafang de fábrica.  
+Trek 🇺🇸: Modelos premium utilitam Bafang.  
 
 #### Bateria
 Capacidade, características técnicas, ex. 48V 20Ah.  
 
 **Relevância / qualidade**  
-Topo: Samsung SDI, LG Energy Solution, Panasonic.  
-Muito boas: Murata (ex-Sony), CATL.  
-Boa: EVE Energy, BYD, Lishen, BAK.  
-Demais são as genéricas ou sem identificação.
+**1**: Samsung SDI, LG Energy Solution, Panasonic.  
+**2**: Murata (ex-Sony), CATL.  
+**3**: EVE Energy, BYD, Lishen, BAK.  
+Demais são as genéricas ou sem identificação.  
+
 
 #### Quadro
-Amortecimento: Se sim bike mais pesada, gasto bateria.  
+**Amortecimento**: Se tem, bike mais pesada, então gasta-se bateria a mais.  
 **Aço carbono**: barato, resistente a pancadas, fácil soldar. 👎 Pesado e enferruja se a pintura danificar.  
 **Alumínio** 2 ou 4 kg mais leve, não oxida. 👎 Caro, vibra mais, reparação difícil.  
 **Alumínio 6061**: tratamento que oferece melhor qualidade.
 **Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
 
-#### Pneu 20x4.0
+#### Roda - Pneu 20x4.0
 
-**Hierarquia da qualidade**:  
-Pirelli (Angel DT Urban) > Kenda (Kraze, Flame, Gigas) e CST (Big Boat, BFT Urban) > Chao Yang (Sand Storm Urban, Big Daddy Street) e Innova (Caracal, Street)
+## Tamanho da roda
+
+**Roda 10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
+**26**: 26 é a típica do Itau. Motor tem potência 350W e de ótima qualidade, suporta o tranco do dia a dia. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.
+**29**: roda nesse tamanho força o motor.
+**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.  
+
+
+
+**20x4.0: Hierarquia da qualidade**:  
+**1**: Pirelli (Angel DT Urban) > Kenda (Kraze, Flame, Gigas) e CST (Big Boat, BFT Urban).  
+**2**: Chao Yang (Sand Storm Urban, Big Daddy Street) e Innova (Caracal, Street)
 *CST: Fabricado pela Cheng Shin Tire (Maxxis).
-👎️ Mais nylon do que borracha: DSI, Inow, Movi, e genéricos de plataformas de e-commerce.
-**Tipo de pneu** (Cravo, Slick, Street / Semi-Slick): No trabalho opte por Street / Semi-Slick.  
+**3**: DSI, Inow, Movi, genéricos de plataformas de e-commerce - Mais nylon do que borracha.
+
+
+**Street / Semi-Slick, Slick, Cravo**: No trabalho opte pelo tipo de pneu Street / Semi-Slick.  
 
 |Slick| Street / Semi-Slick|
 |:---:|:---:|
@@ -120,50 +117,19 @@ Pirelli (Angel DT Urban) > Kenda (Kraze, Flame, Gigas) e CST (Big Boat, BFT Urba
 
 #### Controladora
 
-**Marcas boas**: KT, Sabvoton, Votol e mesmo Bafang.s
+**Marcas boas**: KT, Sabvoton, Votol e mesmo Bafang.  
 
 ⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.
 
 #### Componentes / outros
 
-**Freio**: hidráulico melhor que mecânico (vital em bike de +40 kg).  
+**Freio hidráulico**: Melhor que mecânico. Vital em bike de +40 kg. Vital na velocidade de 32 km/h.  
 **acabamento**.  
-**Peso da bike**: material do quadro influenciará. Sem amortecimento (na frente e atrás) a bike pode ter 30 kg, e com chegar aos 38 kg em média. Motor 750 é cerca de 1 kg a menos que o 1000.  
-**Peso suportado**: No geral, 120kg é o peso que elas suportam, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar comida de animais ou bebida.  
+**Peso da bike - influenciará**: Material do quadro. Sem amortecimento (na frente e atrás) a bike pode ter 30 kg, e com chegar aos 38 kg em média. Peso do motor (750 é cerca de 1 kg a menos que o 1000).  
+**Peso suportado**: No geral, 120 kg é o que elas suportam, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar comida de animais ou bebida.  
 
 
 
-## 20x4.0: Lojas especializadas em e-bike (mais seguro)
-
-Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, motor, display, acelerador, bateria etc).
-🛒 Loja que vende, Ouxi por exemplo.  
-
-#### Venda
-
-**(Centro)**:  
-Rezende Bike – muito forte em e-bike genérica e OUXI. 🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
-**Copacabana etc**:  
-Bee Elétricas – peças, bateria, manutenção de fat bikes. 🛒 4003-4131 / (21) 97626-8617 (Unidade Botafogo).  
-**Outras regiões**:  
-Din Bike Elétrica - Recreio – fat bike e manutenção OEM. 🛒 99974-5876  
-
-
-
-#### Manutenção - peças
-
-**(Centro)**:  
-Morais Bike – atende bastante bike elétrica de entrega. 🛒 97302-7143  
-Bike Lapa – peças e manutenção no Centro  
-
-**Copacabana etc**:  
-Rota E-Bike  
-ConsertaBike  
-Flex Mobi (Ipanema / Niterói)  
-
-**Outras regiões**:  
-Biobike (Engenho de Dentro e Barra)  
-Inovabike (Irajá)  
-Bike Rio (Irajá, Penha e Olaria)  
 
 
 
@@ -306,6 +272,41 @@ Vedada, certificação IP54 contra poeira e respingos.
 Auto. Modo assiti. 65 a 85 km  
 Peso supor. 150 kg
 
+
+
+
+## Venda Lojas 20x4.0
+
+Lojas especializadas em e-bike 20x4.0 (mais seguro)
+
+Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, motor, display, acelerador, bateria etc).
+🛒 Loja que vende, Ouxi por exemplo.  
+
+**(Centro)**:  
+Rezende Bike – muito forte em e-bike genérica e OUXI. 🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+**Copacabana etc**:  
+Bee Elétricas – peças, bateria, manutenção de fat bikes. 🛒 4003-4131 / (21) 97626-8617 (Unidade Botafogo).  
+**Outras regiões**:  
+Din Bike Elétrica - Recreio – fat bike e manutenção OEM. 🛒 99974-5876  
+
+
+
+
+## Manutenção - peças
+
+**(Centro)**:  
+Morais Bike – atende bastante bike elétrica de entrega. 🛒 97302-7143  
+Bike Lapa – peças e manutenção no Centro  
+
+**Copacabana etc**:  
+Rota E-Bike  
+ConsertaBike  
+Flex Mobi (Ipanema / Niterói)  
+
+**Outras regiões**:  
+Biobike (Engenho de Dentro e Barra)  
+Inovabike (Irajá)  
+Bike Rio (Irajá, Penha e Olaria)  
 
 
 
