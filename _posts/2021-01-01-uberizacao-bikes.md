@@ -11,19 +11,31 @@ Tutorial.
 A importância deles reside no pós- venda, garantia, peças reposição, seg incluso, assistência do vendedor.  
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLQvdkG1lTfQ%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=c762a401341a738dc7b7a6ccdd1933a7c95405ab85d25c0137c1db6bebc8b08c" width="" />**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT, é a estratégia que o preço é uma isca, e que uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fomeudiadia.com.br%2Fwp-content%2Fuploads%2F2022%2F04%2FChico-Bento-1.png%3Fresize%3D760%252C995%26ssl%3D1&f=1&nofb=1&ipt=453184629033604bf771302b523be674b95f2eddbe27340d1aa202579e9d03d9" width="120" />**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT, é a estratégia que o preço é uma isca, e que uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
+
+De um lado peças e eletrônica são genéricas, baratas e universais e noutra ponta sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.
+
+|||
+|:---:|:---:|
+|**Sem lock-in**| **Baixo lock-in**|
+|Sousa Bike e Duos|Caloi (Bafang)|
+||GTSM1, Bikelete, Bike Fast|
+|**Médio lock-in**| **Alto lock-in**|
+|Atrio (Multilaser) | Sense Bee|
+|Ouxi, iNow, Konnan, Giorrad, Colorway, Move Ways, Starmega| Two Dogs, StreetGo, Rava (TSW)|
+
+Médio temos formato de bateria e plugs específicos; peças só via importação direta/Aliexpress
+Baixo temos eletrônica simples, aceita controladores e peças universais de internet.
+
+Assim, marcas com um bom pos venda, inclusive manutencao, pode ocorrer simplesmente porque *vendor lock-in* financia e centraliza a rede de atendimento.
 
 
-#### Exemplo - bikes "típicas"
+***Woie**.  
+*<del>**Dafra**</del>.  
+***Bee**: Cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
+***Caloi** <del>🇧🇷 </del>🇳🇱(Bafang)  
+ 
 
-**Woie**.  
-<del>**Dafra**</del>.  
-**Bee**: Cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
-**Sousa Bike**  
-**Caloi** <del>🇧🇷 </del>🇳🇱(Bafang)  
-**Sense Bike**  
-**Duos Bikes**  
-**Atrio** (Multilaser)  
 
 
 #### Exemplo - 20x4.0
