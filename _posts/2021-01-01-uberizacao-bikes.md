@@ -132,7 +132,11 @@ Demais são as genéricas ou sem identificação.
 
 #### Controladora
 
-**Marcas boas**: KT, Sabvoton, Votol e mesmo Bafang.  
+**Marcas boas**:  
+
+|||||
+|:---:|:---:|:---:|:---:|
+|KT|Sabvoton|Votol|Bafang|
 
 ⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.
 Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
@@ -142,9 +146,16 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
 
 
+**Protocolo de comunicação**: funciona entre o Display (painel) e a Controladora — não entre a controladora e o motor _este recebe apenas energia bruta, pulsos elétricos brutos (energia trifásica) e envia sinais analógicos de rotação (sensores Hall).
+
+
+|Protocolo Ouxi|Protocolo GTSM1|
+|:---:|:---:|
+|UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
+
 #### Componentes / outros
 
-**Freio hidráulico**: Melhor que mecânico. Vital em bike de +40 kg. Vital na velocidade de 32 km/h.  
+**Freio hidráulico**: Melhor que mecânico. Vital em bike de +40 kg. Recomendando na velocidade acima de 20 km/h.  
 **acabamento**.  
 **Peso da bike - influenciará**: Material do quadro. Sem amortecimento (na frente e atrás) a bike pode ter 30 kg, e com chegar aos 38 kg em média. Peso do motor (750 é cerca de 1 kg a menos que o 1000).  
 **Peso suportado**: No geral, 120 kg é o que elas suportam, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar comida de animais ou bebida.  
@@ -337,6 +348,22 @@ Biobike (Engenho de Dentro e Barra)  - 96421-6334 2289-0332
 Bike Lapa (Centro) - 2224-0428  
 
 
+
+## Boas praticas
+
+👉️ **Acelerador de mão** - Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
+👉️ **Motor sendo forçado - Como saber?** Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?
+- Pelas Marchas e Pedalada. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
+Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado.
+- Pelo Som do Motor
+Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).
+Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.
+- Pelo Painel (Display)
+Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.
+
+Evite Zerar: Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.
+
+Esfriamento: Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.
 
 
 É isso.
