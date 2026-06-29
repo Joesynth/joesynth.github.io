@@ -135,6 +135,12 @@ Demais são as genéricas ou sem identificação.
 **Marcas boas**: KT, Sabvoton, Votol e mesmo Bafang.  
 
 ⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.
+Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
+
+|Tensão (Voltagem)|Potência e Corrente| Tipo de Motor (Sensores Hall)|
+|:---:|:---:|:---:|
+|Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
+
 
 #### Componentes / outros
 
