@@ -10,10 +10,11 @@ Tutorial.
 
 A importância deles reside no pós- venda, garantia, peças reposição, seg incluso, assistência do vendedor.  
 
+**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT.  
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fomeudiadia.com.br%2Fwp-content%2Fuploads%2F2022%2F04%2FChico-Bento-1.png%3Fresize%3D760%252C995%26ssl%3D1&f=1&nofb=1&ipt=453184629033604bf771302b523be674b95f2eddbe27340d1aa202579e9d03d9" width="120" />**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT, é a estratégia que o preço é uma isca, e que uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fomeudiadia.com.br%2Fwp-content%2Fuploads%2F2022%2F04%2FChico-Bento-1.png%3Fresize%3D760%252C995%26ssl%3D1&f=1&nofb=1&ipt=453184629033604bf771302b523be674b95f2eddbe27340d1aa202579e9d03d9" width="120" />É a estratégia em que o preço é uma isca, e uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
 
-De um lado peças e eletrônica são genéricas, baratas e universais e noutra ponta sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.
+Sem aprisionamento temos peças e eletrônica genéricas, baratas e universais; e com aprisionamento sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.
 
 |||
 |:---:|:---:|
@@ -81,6 +82,12 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 Peças: tão importante quanto marca.
 
+- Motor
+- Controladora e *display*
+- Bateria
+- Quadro
+- Roda
+- Outros
 
 
 #### Motor
@@ -92,6 +99,7 @@ Bafang é o "queridinho" das bikes.
 **Trek** 🇺🇸: Modelos premium utilitam Bafang.  
 **Caloi** <del>🇧🇷</del>🇳🇱(Bafang)  
 
+MXUS é outra marca de credibilidade.
 
 #### Controladora e *display*
 
@@ -248,7 +256,7 @@ Freio hid.
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
 
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />StreetGo S12 🇧🇷 (Oggi) ❤️.  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />StreetGo S12 🇧🇷 (Oggi).  
 A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1).  
 🔋 750W 48V 15Ah remo.  
 🔋 Marca Samsung ou LG ❤️   
@@ -381,6 +389,11 @@ Pastilhas de Freio - manter uma velocidade moderada de 20 km/h economiza bastant
 **Evite Zerar**: Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.  
 **Esfriamento**: Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.  
 
+#### Subidas íngremes
+
+Pedalar rápido (Catraca grande): Pedalar rápido (alta cadência) usando a catraca maior mantém o motor em alta rotação, que é a faixa de maior eficiência e menor aquecimento.  
+Arrancada em ladeiras: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
+Excesso de peso total: Aumenta a resistência inercial e força o sistema continuamente.  
 
 
 É isso.
