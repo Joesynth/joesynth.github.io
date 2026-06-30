@@ -18,7 +18,7 @@ De um lado peças e eletrônica são genéricas, baratas e universais e noutra p
 |||
 |:---:|:---:|
 |**Sem lock-in**| **Baixo lock-in**|
-|Sousa Bike e Duos|Caloi (Bafang)|
+|Sousa Bike e Duos|Caloi|
 ||GTSM1, Bikelete, Bike Fast|
 |**Médio lock-in**| **Alto lock-in**|
 |Atrio (Multilaser) | Sense Bee|
@@ -33,7 +33,7 @@ Assim, marcas com um bom pos venda, inclusive manutencao, pode ocorrer simplesme
 ***Woie**.  
 *<del>**Dafra**</del>.  
 ***Bee**: Cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
-***Caloi** <del>🇧🇷 </del>🇳🇱(Bafang)  
+
  
 
 
@@ -77,13 +77,47 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 
 
-## Peças: tão importante quanto marca
+## Componentes
+
+Peças: tão importante quanto marca.
+
+
 
 #### Motor
+
 Bafang é o "queridinho" das bikes.  
-Woie 🇧🇷: Bafang (tanto cubo traseiro de 750W quanto motores centrais Mid-Drive sob encomenda).  
-Two Dogs 🇧🇷: chegou a usar.  
-Trek 🇺🇸: Modelos premium utilitam Bafang.  
+
+**Woie** 🇧🇷: Bafang (tanto cubo traseiro de 750W quanto motores centrais Mid-Drive sob encomenda).  
+**Two Dogs** 🇧🇷: chegou a usar.  
+**Trek** 🇺🇸: Modelos premium utilitam Bafang.  
+**Caloi** <del>🇧🇷</del>🇳🇱(Bafang)  
+
+
+#### Controladora e *display*
+
+**Marcas boas**:  
+
+|||||
+|:---:|:---:|:---:|:---:|
+|KT|Sabvoton|Votol|Bafang|
+
+⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.  
+
+Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
+
+|Tensão (Voltagem)|Potência e Corrente| Tipo de Motor (Sensores Hall)|
+|:---:|:---:|:---:|
+|Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
+
+
+**Protocolo de comunicação**: funciona entre o Display (painel) e a Controladora — não entre a controladora e o motor _este recebe apenas energia bruta, pulsos elétricos brutos (energia trifásica) e envia sinais analógicos de rotação (sensores Hall).
+
+
+|Protocolo Ouxi|Protocolo GTSM1|
+|:---:|:---:|
+|UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
+
+
 
 #### Bateria
 Capacidade, características técnicas, ex. 48V 20Ah.  
@@ -102,22 +136,22 @@ Demais são as genéricas ou sem identificação.
 **Alumínio 6061**: tratamento que oferece melhor qualidade.
 **Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
 
-#### Roda - Pneu 20x4.0
+#### Roda
 
-## Tamanho da roda
+**Tamanhos**...  
 
-**Roda 10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
-**26**: 26 é a típica do Itau. Motor tem potência 350W e de ótima qualidade, suporta o tranco do dia a dia. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.
-**29**: roda nesse tamanho força o motor.
+
+**10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
+**26**: 26 é a típica do Itau. Motor tem potência 350W e de ótima qualidade, suporta o tranco do dia a dia. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
+**29**: roda nesse tamanho força o motor.  
 **20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.  
-
-
+Bike assim compete diretamente com as motocicletas nas entregas.
 
 **20x4.0: Hierarquia da qualidade**:  
 **1**: Pirelli (Angel DT Urban) > Kenda (Kraze, Flame, Gigas) e CST (Big Boat, BFT Urban).  
-**2**: Chao Yang (Sand Storm Urban, Big Daddy Street) e Innova (Caracal, Street)
-*CST: Fabricado pela Cheng Shin Tire (Maxxis).
-**3**: DSI, Inow, Movi, genéricos de plataformas de e-commerce - Mais nylon do que borracha.
+**2**: Chao Yang (Sand Storm Urban, Big Daddy Street) e Innova (Caracal, Street)  
+*CST: Fabricado pela Cheng Shin Tire (Maxxis).  
+**3**: DSI, Inow, Movi, genéricos de plataformas de e-commerce - Mais nylon do que borracha.  
 
 
 **Street / Semi-Slick, Slick, Cravo**: No trabalho opte pelo tipo de pneu Street / Semi-Slick.  
@@ -130,28 +164,6 @@ Demais são as genéricas ou sem identificação.
 ⚠️ Pneu: no trabalho, asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
 
 
-#### Controladora
-
-**Marcas boas**:  
-
-|||||
-|:---:|:---:|:---:|:---:|
-|KT|Sabvoton|Votol|Bafang|
-
-⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.
-Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
-
-|Tensão (Voltagem)|Potência e Corrente| Tipo de Motor (Sensores Hall)|
-|:---:|:---:|:---:|
-|Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
-
-
-**Protocolo de comunicação**: funciona entre o Display (painel) e a Controladora — não entre a controladora e o motor _este recebe apenas energia bruta, pulsos elétricos brutos (energia trifásica) e envia sinais analógicos de rotação (sensores Hall).
-
-
-|Protocolo Ouxi|Protocolo GTSM1|
-|:---:|:---:|
-|UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
 
 #### Componentes / outros
 
@@ -209,7 +221,7 @@ Freio hid.
 VelMax 32  
 
 
-
+GTSM1 V8X 2.0
 
 
 #### ➰ Suspensão - frente ou nenhuma  
@@ -225,9 +237,9 @@ VelMax 32
 ➰ Suspensão - frente.  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />GTSM1 GTS V8D S7.  
-🔋 750W 48V Lítio, remo.  
+🔋 750W 48V Lítio 15Ah remo.❤️  
 VelMax 32 km/h  
-Auto. 70 a 80 km ped. assis.
+Auto. 70 a 80 km ped. assis.  
 Freio hid.  
 🔲 Aço carbono  
 ➰ Suspensão - frente.  
@@ -238,7 +250,7 @@ Freio hid.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />StreetGo S12 🇧🇷 (Oggi) ❤️.  
 A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1).  
-🔋 750W 48V 15Ah remo. ❤️  
+🔋 750W 48V 15Ah remo.  
 🔋 Marca Samsung ou LG ❤️   
 80Nm ❤️  
 VelMax 32  
@@ -361,9 +373,14 @@ Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.
 - Pelo Painel (Display)
 Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.
 
-Evite Zerar: Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.
+Pastilhas de Freio - manter uma velocidade moderada de 20 km/h economiza bastante.
 
-Esfriamento: Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.
+#### Bateria
+
+**Acelerador**: consome bem mais a bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.  
+**Evite Zerar**: Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.  
+**Esfriamento**: Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.  
+
 
 
 É isso.
