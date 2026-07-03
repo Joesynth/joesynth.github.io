@@ -139,8 +139,14 @@ Demais são as genéricas ou sem identificação.
 
 #### Quadro
 **Amortecimento**: Se tem, bike mais pesada, então gasta-se bateria a mais.  
-**Aço carbono**: barato, resistente a pancadas, fácil soldar. 👎 Pesado e enferruja se a pintura danificar.  
-**Alumínio** 2 ou 4 kg mais leve, não oxida. 👎 Caro, vibra mais, reparação difícil.  
+
+|Aço carbono| Alumínio|
+|:---:|:---:|
+|👍️|👍️|
+|barato, resistente a pancadas, fácil soldar.| 2 ou 4 kg mais leve, não oxida.|
+|👎| 👎|
+| Pesado e enferruja se a pintura danificar.| Caro, vibra mais, reparação difícil.|
+
 **Alumínio 6061**: tratamento que oferece melhor qualidade.
 **Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
 
