@@ -262,6 +262,36 @@ Freio hid.
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
 
 
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />GTSM1 🇧🇷 V8S.  
+🔋 750w 48v 15Ah  
+65Nm VelMax 32  
+🛞 CST  
+Freio mec.  
+🔲 Aço  
+➰ Suspensão frente (V8 e V8S 2.0 idem).   
+
+**V8**  
+Idem  
+🔲 AçoCroCar. 👍  
+
+**V8, V8S, V8F, V8max**:  
+Modelos diferentes.  
+Confira especificações.  
+Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.  
+
+GTS V8D S7 (750w)  
+Cuidado ⚠️ Banco baixo jovens  
+🔲 Aço carbono  
+Freio mecánico  
+➰ Suspensão - frente.   
+🔗 lojagtsm1.com.br  
+
+
+**GTSM1**:   
+Foco em Custo-Benefício (tipo StreetGo S12).  
+
+
+
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />StreetGo S12 🇧🇷 (Oggi).  
 A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1).  
 🔋 750W 48V 15Ah remo.  
@@ -295,36 +325,9 @@ Peso 160kg ❤️
 Manopla parece baixa 😡  
 ➰ Suspensão: não.   
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />GTSM1 🇧🇷 V8S.  
-🔋 750w 48v 15Ah  
-65Nm VelMax 32  
-🛞 CST  
-Freio mec.  
-🔲 Aço  
-➰ Suspensão frente (V8 e V8S 2.0 idem).   
-
-**V8**  
-Idem  
-🔲 AçoCroCar. 👍  
-
-**V8, V8S, V8F, V8max**:  
-Modelos diferentes.  
-Confira especificações.  
-Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.  
-
-GTS V8D S7 (750w)  
-Cuidado ⚠️ Banco baixo jovens  
-🔲 Aço carbono  
-Freio mecánico  
-➰ Suspensão - frente.   
-🔗 lojagtsm1.com.br  
-
-
-**GTSM1**:   
-Foco em Custo-Benefício (tipo StreetGo S12).  
 
 **Amyet S8-S** (Bike Gaucho)  
-2x1000 48V 25Ah lítio remo.  
+🔋 2x1000 48V 25Ah lítio remo.  
 80Nm, motor marca generica.  
 Vedada, certificação IP54 contra poeira e respingos.  
 Auto. Modo assiti. 65 a 85 km  
@@ -340,23 +343,25 @@ Lojas especializadas em e-bike 20x4.0 (mais seguro)
 Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, motor, display, acelerador, bateria etc).
 🛒 Loja que vende, Ouxi por exemplo.  
 
-**(Centro)**:  
-Rezende Bike – muito forte em e-bike genérica e OUXI. 🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
-**Copacabana etc**:  
-Bee Elétricas – peças, bateria, manutenção de fat bikes. 🛒 4003-4131 / (21) 97626-8617 (Unidade Botafogo).  
-**Outras regiões**:  
-Din Bike Elétrica - Recreio – fat bike e manutenção OEM. 🛒 99974-5876  
+**Rezende Bike** (Centro) – muito forte em e-bike genérica e OUXI.  
+🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
 
-Nossa Bike: Rocha Miranda - 98015-4606  
-Bike Motor: Irajá. 97033-6644  
-RM Bike Motorizada: Colégio - 98531-5444  
-Superbike - Piedade - 2594-8255 / (21) 97204-6258  
+**Bee Elétricas** (Botafogo) – peças, bateria, manutenção de fat bikes.  
+🛒 97626-8617 (Unidade Botafogo) 4003-4131.  
+
+**Din Bike Elétrica** (Recreio) – fat bike e manutenção OEM.  
+🛒 99974-5876  
+
+**Nossa Bike**: Rocha Miranda - 98015-4606  
+**Bike Motor**: Irajá. 97033-6644  
+**RM Bike Motorizada**: Colégio - 98531-5444  
+**Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
 
 
 ## Manutenção - peças
 
-**(Centro)**:  
-Morais Bike – atende bastante bike elétrica de entrega. 🛒 97302-7143  
+Morais Bike (Centro) – atende bastante bike elétrica de entrega.  
+🛒 97302-7143  
 
 **Copacabana etc**:  
 Rota E-Bike  
@@ -377,17 +382,32 @@ Bike Lapa (Centro) - 2224-0428
 
 ## Boas praticas
 
-👉️ **Acelerador de mão** - Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
-👉️ **Motor sendo forçado - Como saber?** Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?
-- Pelas Marchas e Pedalada. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
-Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado.
-- Pelo Som do Motor
+#### Acelerador de mão
+
+Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
+
+#### Motor sendo forçado - Como saber?
+
+Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?
+**Pelas Marchas e Pedalada**. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
+Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado
+**Pelo Som do Motor**
 Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).
 Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.
-- Pelo Painel (Display)
+**Pelo Painel (Display)**
 Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.
 
-Pastilhas de Freio - manter uma velocidade moderada de 20 km/h economiza bastante.
+
+#### Subidas íngremes
+
+**Pedalar rápido com catraca grande**: Pedalar rápido (alta cadência) usando a catraca maior mantém o motor em alta rotação, que é a faixa de maior eficiência e menor aquecimento.  
+**Arrancada em ladeiras**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
+**Excesso de peso total**: Aumenta a resistência inercial e força o sistema continuamente.  
+
+
+#### Pastilhas de Freio - Economizar
+
+Velocidade até 20 km/h economiza bastante.
 
 #### Bateria
 
@@ -395,11 +415,6 @@ Pastilhas de Freio - manter uma velocidade moderada de 20 km/h economiza bastant
 **Evite Zerar**: Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.  
 **Esfriamento**: Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.  
 
-#### Subidas íngremes
-
-Pedalar rápido (Catraca grande): Pedalar rápido (alta cadência) usando a catraca maior mantém o motor em alta rotação, que é a faixa de maior eficiência e menor aquecimento.  
-Arrancada em ladeiras: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
-Excesso de peso total: Aumenta a resistência inercial e força o sistema continuamente.  
 
 
 É isso.
