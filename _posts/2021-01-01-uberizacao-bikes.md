@@ -388,6 +388,7 @@ Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de 
 
 #### Motor sendo forçado - Como saber?
 
+
 Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?
 **Pelas Marchas e Pedalada**. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
 Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado
