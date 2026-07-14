@@ -4,8 +4,6 @@ Tutorial.
 
 
 
-
-
 ## As marcas
 
 A importância deles reside no pós- venda, garantia, peças reposição, seg incluso, assistência do vendedor.  
@@ -335,10 +333,10 @@ Peso supor. 150 kg
 
 
 
+## Venda e manutenção
 
-## Venda Lojas 20x4.0
+###### Lojas com 20x4.0
 
-Lojas especializadas em e-bike 20x4.0 (mais seguro)
 
 Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, motor, display, acelerador, bateria etc).
 🛒 Loja que vende, Ouxi por exemplo.  
@@ -346,37 +344,50 @@ Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, m
 **Rezende Bike** (Centro) – muito forte em e-bike genérica e OUXI.  
 🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
 
-**Bee Elétricas** (Botafogo) – peças, bateria, manutenção de fat bikes.  
-🛒 97626-8617 (Unidade Botafogo) 4003-4131.  
-
-**Din Bike Elétrica** (Recreio) – fat bike e manutenção OEM.  
+**Din Bike Elétrica** (Recreio).  
 🛒 99974-5876  
 
+
+**Bee Elétricas** (Botafogo).  
+🛒 97626-8617 (Unidade Botafogo) 4003-4131.  
+
 **Nossa Bike**: Rocha Miranda - 98015-4606  
+**Nossa Bike**: Rocha Miranda - 98399-4723  
 **Bike Motor**: Irajá. 97033-6644  
-**RM Bike Motorizada**: Colégio - 98531-5444  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele)  
 **Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
 
 
-## Manutenção - peças
+###### Manutenção - peças -
 
-Morais Bike (Centro) – atende bastante bike elétrica de entrega.  
+**Inovabike** (Irajá) - 986650076  
+
+**Morais Bike** (Centro) – atende bastante bike elétrica de entrega.  
 🛒 97302-7143  
 
-**Copacabana etc**:  
-Rota E-Bike  
-ConsertaBike  
-Flex Mobi (Ipanema / Niterói)  
-Rota E-Bike (Copacabana) - 99776-1236  
-ConsertaBike (Copacabana) - 97158-5627 3439-5005  
-Flex Mobi (Ipanema / Niterói) - 97116-3388 99932-2598  
+**Bee Elétricas** (Botafogo) – bateria, manutenção de fat bikes.  
+🛒 97626-8617 (Unidade Botafogo) 4003-4131.  
 
-**Outras regiões**:  
-Inovabike (Irajá) - 986650076  
+**Rota E-Bike** (Copacabana) - 99776-1236  
 
-**Manuteção somente mecânica**: não parte elétrica.  
-Biobike (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
-Bike Lapa (Centro) - 2224-0428  
+**ConsertaBike** (Copacabana) - 97158-5627 3439-5005  
+
+**Din Bike Elétrica** (Recreio) – manutenção OEM.  
+🛒 99974-5876  
+
+**Flex Mobi** (Ipanema / Niterói) - 97116-3388 99932-2598  
+
+**Rota E-Bike** (Copacabana etc).  
+**ConsertaBike**  (Copacabana etc).  
+
+
+###### Manuteção somente mecânica - não parte elétrica
+
+**Biobike** (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
+**Bike Lapa** (Centro) - 2224-0428  
+
+
 
 
 
@@ -387,7 +398,6 @@ Bike Lapa (Centro) - 2224-0428
 Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
 
 #### Motor sendo forçado - Como saber?
-
 
 Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?
 **Pelas Marchas e Pedalada**. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
