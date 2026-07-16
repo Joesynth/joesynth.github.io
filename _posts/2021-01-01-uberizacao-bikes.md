@@ -148,10 +148,7 @@ Demais são as genéricas ou sem identificação.
 **Alumínio 6061**: tratamento que oferece melhor qualidade.
 **Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
 
-#### Roda
-
-**Tamanhos**...  
-
+#### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
 **26**: 26 é a típica do Itau. Motor tem potência 350W e de ótima qualidade, suporta o tranco do dia a dia. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
@@ -159,12 +156,29 @@ Demais são as genéricas ou sem identificação.
 **20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.  
 Bike assim compete diretamente com as motocicletas nas entregas.
 
-**20x4.0: Hierarquia da qualidade**:  
-**1**: Pirelli (Angel DT Urban) > Kenda (Kraze, Flame, Gigas) e CST (Big Boat, BFT Urban).  
-**2**: Chao Yang (Sand Storm Urban, Big Daddy Street) e Innova (Caracal, Street)  
-*CST: Fabricado pela Cheng Shin Tire (Maxxis).  
-**3**: DSI, Inow, Movi, genéricos de plataformas de e-commerce - Mais nylon do que borracha.  
 
+
+###### Vantagens do Pneu Street para o iFood no Rio de Janeiro:
+
+**Aumento da Autonomia da Bateria**: cravos geram alta resistência ao rolamento (atrito desnecessário com o asfalto). O pneu Street desliza com muito mais facilidade, reduzindo o esforço do motor de 750W e economizando bateria, o que permite fazer mais entregas por carga.
+**Maior Aderência no Asfalto (Seco e Molhado)**: Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
+**Menos Vibração e Ruído**: cravos causam vibração contínua no asfalto, o que gera desconforto ao piloto após horas de jornada e acelera o desgaste ou afrouxamento de componentes da bicicleta. Street? Proporciona uma rodagem suave.
+**Desgaste Uniforme**: cravos sofrem desgaste acelerado e irregular quando utilizados exclusivamente no asfalto quente, reduzindo sua vida útil rapidamente.
+
+###### Pneu - Marcas - Aro 20x4.0 - Marcas - Hierarquia da qualidade
+
+**1**: Pirelli (Angel DT Urban [não é 20×4.0]) > Maxxis > Kenda (Krusade [não é street]) e CST (BFT Urban, Big Boat []).  
+*CST: Fabricado pela Cheng Shin Tire (Maxxis).  
+*Maxxis - só há cravo ou misto, mas não Street.  
+**2**: DSI > Chao Yang (Big Daddy Street, Sand Storm Urban) e Innova (Caracal, Street), Arisun > Hycline.  
+**4**: Inowa, Movi, Gigas, genéricos de plataformas de e-commerce - Mais nylon do que borracha, ou, pneu fabricado por terceiro e a empresa põe a marca  
+
+
+###### ❌ Marcas que não fazem pneu 20x4.0
+Continental, Levorin, Dunlop, Michelin (faz só câmera)
+
+
+#### Pneu - tipo
 
 **Street / Semi-Slick, Slick, Cravo**: No trabalho opte pelo tipo de pneu Street / Semi-Slick.  
 
@@ -174,6 +188,13 @@ Bike assim compete diretamente com as motocicletas nas entregas.
 |água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.|
 
 ⚠️ Pneu: no trabalho, asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
+
+###### Personaliização pneu moto em aro 20x4.0 (fat bike)
+
+**Michelin City Grip 2** (pneu de moto): medida 110/70-16. Indicado na roda de trás da bike. Pode durar 3x mais!  
+**Equivalentes nacionais**: Vipal ST500 ou Maggion Sportissimo II na mesma medida.
+
+⚠️ Nem todo pneu 16" de moto serve para adaptacão. Há detalhes!
 
 
 
