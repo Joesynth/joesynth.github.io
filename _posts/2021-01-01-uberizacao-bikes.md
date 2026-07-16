@@ -356,51 +356,36 @@ Peso supor. 150 kg
 
 ## Venda e manutenção
 
-###### Lojas com 20x4.0
+Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham com OEMs (controladora, motor, display, acelerador, b
 
 
-Não são “rede oficial Ouxi, Inow”, mas trabalham com OEMs (controladora, motor, display, acelerador, bateria etc).
-🛒 Loja que vende, Ouxi por exemplo.  
+###### eBike 20x4.0 - venda, manutenção e peças
 
-**Rezende Bike** (Centro) – muito forte em e-bike genérica e OUXI.  
-🛒 Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+    🛒 Venda 🔧 Manutenção ⚙️ Peças
 
-**Din Bike Elétrica** (Recreio).  
-🛒 99974-5876  
-
-
-**Bee Elétricas** (Botafogo).  
-🛒 97626-8617 (Unidade Botafogo) 4003-4131.  
-
-**Nossa Bike**: Rocha Miranda - 98015-4606  
-**Nossa Bike**: Rocha Miranda - 98399-4723  
-**Bike Motor**: Irajá. 97033-6644  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele)  
 **Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
+**🔧 Inovabike** (Irajá) - 986650076  também vende peças.  
 
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele) [PROVAVEl SÓ BIKE COMUM]  
+**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]
+**🛒 🔧 Morais Bike** (Centro).  
+ 97302-7143
+**🛒 🔧 Rezende Bike** (Centro) – muito forte em e-bike genérica e OUXI.  
+ Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+**Nossa Bike**: Rocha Miranda - 98015-4606 [PROVAVEl SÓ BIKE COMUM]  
+**Nossa Bike**: Rocha Miranda - 98399-4723 [PROVAVEl SÓ BIKE COMUM]  
 
-###### Manutenção - peças -
-
-**Inovabike** (Irajá) - 986650076  
-
-**Morais Bike** (Centro) – atende bastante bike elétrica de entrega.  
-🛒 97302-7143  
-
-**Bee Elétricas** (Botafogo) – bateria, manutenção de fat bikes.  
-🛒 97626-8617 (Unidade Botafogo) 4003-4131.  
-
-**Rota E-Bike** (Copacabana) - 99776-1236  
-
-**ConsertaBike** (Copacabana) - 97158-5627 3439-5005  
-
-**Din Bike Elétrica** (Recreio) – manutenção OEM.  
-🛒 99974-5876  
-
-**Flex Mobi** (Ipanema / Niterói) - 97116-3388 99932-2598  
-
-**Rota E-Bike** (Copacabana etc).  
-**ConsertaBike**  (Copacabana etc).  
+**🛒 🔧 Bee Elétricas** (Botafogo) – bateria etc.  
+97626-8617 (Unidade Botafogo) 4003-4131.  
+**🔧 Rota E-Bike** (Copacabana) - 99776-1236  
+**🔧 ConsertaBike** (Copacabana etc) - 97158-5627 3439-5005    
+**Flex Mobi** (Ipanema / Niterói) - 97116-3388 99932-2598   
+967820209
+**🔧 Silas Ramalho (Tecle Motos)** (Recreio).  
+**🛒 🔧Din Bike Elétrica** (Recreio) – manutenção OEM.  
+ 99974-5876  
+  
 
 
 ###### Manuteção somente mecânica - não parte elétrica
