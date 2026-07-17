@@ -158,16 +158,11 @@ Bike assim compete diretamente com as motocicletas nas entregas.
 
 
 
-###### Vantagens do Pneu Street para o iFood no Rio de Janeiro:
 
-**Aumento da Autonomia da Bateria**: cravos geram alta resistência ao rolamento (atrito desnecessário com o asfalto). O pneu Street desliza com muito mais facilidade, reduzindo o esforço do motor de 750W e economizando bateria, o que permite fazer mais entregas por carga.
-**Maior Aderência no Asfalto (Seco e Molhado)**: Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
-**Menos Vibração e Ruído**: cravos causam vibração contínua no asfalto, o que gera desconforto ao piloto após horas de jornada e acelera o desgaste ou afrouxamento de componentes da bicicleta. Street? Proporciona uma rodagem suave.
-**Desgaste Uniforme**: cravos sofrem desgaste acelerado e irregular quando utilizados exclusivamente no asfalto quente, reduzindo sua vida útil rapidamente.
 
 ###### Pneu - Marcas - Aro 20x4.0 - Marcas - Hierarquia da qualidade
 
-**1**: Pirelli (Angel DT Urban [não é 20×4.0]) > Maxxis > Kenda (Krusade [não é street]) e CST (BFT Urban, Big Boat []).  
+**1**: Schwalbe, Pirelli (Angel DT Urban [não é 20×4.0]), Maxxis > Kenda (Krusade [não é street]) e CST (BFT Urban, Big Boat []).  
 *CST: Fabricado pela Cheng Shin Tire (Maxxis).  
 *Maxxis - só há cravo ou misto, mas não Street.  
 **2**: DSI > Chao Yang (Big Daddy Street, Sand Storm Urban) e Innova (Caracal, Street), Arisun > Hycline.  
@@ -189,9 +184,29 @@ Continental, Levorin, Dunlop, Michelin (faz só câmera)
 
 ⚠️ Pneu: no trabalho, asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
 
+###### Vantagens do Pneu Street para o iFood no Rio de Janeiro:
+
+
+**Maior Aderência no Asfalto (Seco e Molhado)**: Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
+**Desgaste Uniforme**: cravos sofrem desgaste acelerado e irregular quando utilizados exclusivamente no asfalto quente, reduzindo sua vida útil rapidamente.
+
+|Street| Cravo|
+|:---:|:---:|
+|Menos vibração e ruído. Proporciona uma rodagem suave.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada,acelera o desgaste ou afrouxamento de componentes da bicicleta. |
+|Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).|Alta resistência ao rolamento (atrito desnecessário com o asfalto).|
+
+
+
+###### Pneu Street ou Semi-Slick - exemplos 20x4.0
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** - Street / Semi-Slick  
+**Maxxis MaxxVenture E50** Street / Semi-Slick  
+**Innova IA-3025** Semi-Slick
+
+
 ###### Personaliização pneu moto em aro 20x4.0 (fat bike)
 
-**Michelin City Grip 2** (pneu de moto): medida 110/70-16. Indicado na roda de trás da bike. Pode durar 3x mais!  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdor03phawg286.cloudfront.net%2FCustom%2FContent%2FProducts%2F10%2F31%2F1031187_pneu-moto-michelin-city-grip-2-110-70-r16-52s-tl-aro-16-dianteiro_l1_637934721136512816.jpg&f=1&nofb=1&ipt=9ea5655a8f9b77f701d64c66054cdd3d70519a699c45a80c2636d78d365a38af" width="120" />**Michelin City Grip 2** (pneu de moto): medida 110/70-16. Indicado na roda de trás da bike. Pode durar 3x mais!  
 **Equivalentes nacionais**: Vipal ST500 ou Maggion Sportissimo II na mesma medida.
 
 ⚠️ Nem todo pneu 16" de moto serve para adaptacão. Há detalhes!
@@ -363,18 +378,19 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
     🛒 Venda 🔧 Manutenção ⚙️ Peças
 
-**Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
+
 **🔧 Inovabike** (Irajá) - 986650076  também vende peças.  
 
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele) [PROVAVEl SÓ BIKE COMUM]  
-**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]
+**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
 **🛒 🔧 Morais Bike** (Centro).  
- 97302-7143
+ 97302-7143  
 **🛒 🔧 Rezende Bike** (Centro) – muito forte em e-bike genérica e OUXI.  
  Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+**🛒 🔧 Nossa Bike**: Rocha Miranda - 98399-4723  
 **Nossa Bike**: Rocha Miranda - 98015-4606 [PROVAVEl SÓ BIKE COMUM]  
-**Nossa Bike**: Rocha Miranda - 98399-4723 [PROVAVEl SÓ BIKE COMUM]  
+
 
 **🛒 🔧 Bee Elétricas** (Botafogo) – bateria etc.  
 97626-8617 (Unidade Botafogo) 4003-4131.  
@@ -390,6 +406,7 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
 ###### Manuteção somente mecânica - não parte elétrica
 
+**Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
 **Biobike** (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
 **Bike Lapa** (Centro) - 2224-0428  
 
@@ -405,12 +422,12 @@ Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de 
 
 #### Motor sendo forçado - Como saber?
 
-Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?
+Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?  
 **Pelas Marchas e Pedalada**. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
-Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado
+Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado  
 **Pelo Som do Motor**
 Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).
-Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.
+Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.  
 **Pelo Painel (Display)**
 Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.
 
