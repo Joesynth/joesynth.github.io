@@ -81,14 +81,15 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 Peças: tão importante quanto marca.
 
 - Motor
-- Controladora e *display*
 - Bateria
+- Controladora e *display*
 - Quadro
 - Roda
 - Outros
 
 
-#### Motor
+#### Motor BLDC <supCorrente Contínua Sem Escovas</sup>
+
 
 Bafang é o "queridinho" das bikes.  
 
@@ -99,9 +100,48 @@ Bafang é o "queridinho" das bikes.
 
 MXUS é outra marca de credibilidade.
 
+
+
+
+#### Bateria
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />**bateria**: Fornece 48 V DC (corrente contínua).
+
+###### Capacidade, características técnicas
+
+Ex. 48V 20Ah.  
+
+###### Relevância / qualidade
+
+**1**: Samsung SDI, LG Energy Solution, Panasonic.  
+**2**: Murata (ex-Sony), CATL.  
+**3**: EVE Energy, BYD, Lishen, BAK.  
+Demais são as genéricas ou sem identificação.  
+
+
+
 #### Controladora e *display*
 
-**Marcas boas**:  
+###### Controladora
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_969465-MPE73808373770_012024-O.webp&f=1&nofb=1&ipt=76e1b17adbc62e8c4631d5c874ba93b29c9b02cbc5841f42ae58bb128f610bd0" width="120" />A **controladora** recebe essa energia da bateria. A função principal da controladora é converter a corrente contínua (CC ou DC) de 48 V da bateria em corrente alternada trifásica (CA ou AC) para alimentar o motor (quando se trata de um motor brushless, que é o mais comum em e-bikes).
+
+É composta por:
+
+|Microcontrolador| Dissipador de calor| Conectores|
+|:---:|:---:|:---:|
+|Um processador MCU, *chip* dedicado para esse tipo de aplicação. calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.|||
+
+Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, o item principal, mas também farol, buzina etc.
+
+Os **MOSFETs** ligam e desligam a corrente milhares de vezes por segundo, produzindo uma corrente alternada trifásica com freq. e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
+
+
+Para a controladora converter a tensão de DC para AC, a técnica mais usada é a PWM (Pulse Width Modulation, Modulação por Largura de Pulso), também usada na síntese sonora. Na criação de sons, a PWM altera a largura dos pulsos de uma onda quadrada para mudar o timbre do som, daí criando diferentes características sonoras. Já na e-bike, a Modulação por Largura de Pulso também altera a largura dos pulsos, mas com o objetivo de controlar a quantidade de energia entregue ao motor.
+
+
+###### Marcas boas
 
 |||||
 |:---:|:---:|:---:|:---:|
@@ -123,16 +163,10 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |:---:|:---:|
 |UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
 
+**Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).
+Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talvez use uma controladora própria.
 
 
-#### Bateria
-Capacidade, características técnicas, ex. 48V 20Ah.  
-
-**Relevância / qualidade**  
-**1**: Samsung SDI, LG Energy Solution, Panasonic.  
-**2**: Murata (ex-Sony), CATL.  
-**3**: EVE Energy, BYD, Lishen, BAK.  
-Demais são as genéricas ou sem identificação.  
 
 
 #### Quadro
@@ -380,6 +414,15 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
     🛒 Venda 🔧 Manutenção ⚙️ Peças
 
+**🔧 Mattos** Mobilidade Elétrica - Piedade
+Cardoso Quintão, 636.
+Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.
+96414-8812
+
+**🔧 Fag Moto Peças** - São João de Meriti
+@fagmotopecassj (Insta)
+988776811
+R. Gessy Gonçalves Fontes, 192
 
 **🔧 Inovabike** (Irajá) - 986650076  também vende peças.  
 
@@ -400,10 +443,18 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 **🔧 ConsertaBike** (Copacabana etc) - 97158-5627 3439-5005    
 **Flex Mobi** (Ipanema / Niterói) - 97116-3388 99932-2598   
 967820209
-**🔧 Silas Ramalho (Tecle Motos)** (Recreio).  
 **🛒 🔧Din Bike Elétrica** (Recreio) – manutenção OEM.  
- 99974-5876  
-  
+99974-5876  
+**Salmo** (Indicação prof. Silas)  
+Técnico ebike.  
+**🔧 Silas Ramalho (Tecle Motos)** (Recreio).  
+Curso.  
+ **Motorei**  
+Curso  
+**Tafarel Louzada**  
+@tafarellouzada  
+Curso de Scooter/Moto Elétrica  
+
 
 
 ###### Manuteção somente mecânica - não parte elétrica
@@ -411,8 +462,8 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 **Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
 **Biobike** (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
 **Bike Lapa** (Centro) - 2224-0428  
-
-
+**Parah Bike** - Cascadura
+99022-7469 - Av. Dom Helder Câmara, 9648.
 
 
 
