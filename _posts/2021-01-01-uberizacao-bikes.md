@@ -148,7 +148,14 @@ Demais são as genéricas ou sem identificação.
 **Alumínio 6061**: tratamento que oferece melhor qualidade.
 **Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
 
-#### Roda - Tamanho
+
+
+
+
+#### Roda e pneu 
+
+
+###### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
 **26**: 26 é a típica do Itau. Motor tem potência 350W e de ótima qualidade, suporta o tranco do dia a dia. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
@@ -159,49 +166,44 @@ Bike assim compete diretamente com as motocicletas nas entregas.
 
 
 
-
-###### Pneu - Marcas - Aro 20x4.0 - Marcas - Hierarquia da qualidade
-
-**1**: Schwalbe, Pirelli (Angel DT Urban [não é 20×4.0]), Maxxis > Kenda (Krusade [não é street]) e CST (BFT Urban, Big Boat []).  
-*CST: Fabricado pela Cheng Shin Tire (Maxxis).  
-*Maxxis - só há cravo ou misto, mas não Street.  
-**2**: DSI > Chao Yang (Big Daddy Street, Sand Storm Urban) e Innova (Caracal, Street), Arisun > Hycline.  
-**4**: Inowa, Movi, Gigas, genéricos de plataformas de e-commerce - Mais nylon do que borracha, ou, pneu fabricado por terceiro e a empresa põe a marca  
-
-
-###### ❌ Marcas que não fazem pneu 20x4.0
-Continental, Levorin, Dunlop, Michelin (faz só câmera)
-
-
 #### Pneu - tipo
 
 **Street / Semi-Slick, Slick, Cravo**: No trabalho opte pelo tipo de pneu Street / Semi-Slick.  
 
-|Slick| Street / Semi-Slick|
-|:---:|:---:|
-|projetado para pistas perfeitas| economiza a bateria da sua e-bike|
-|água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.|
+|Slick| Street / Semi-Slick| Cravo|
+|:---:|:---:|:---:|
+|projetado para pistas perfeitas| economiza a bateria; Menos vibração e ruído. Proporciona uma rodagem suave. Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada,a celera o desgaste ou afrouxamento de componentes da bicicleta.|
+|água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
+
 
 ⚠️ Pneu: no trabalho, asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
 
-###### Vantagens do Pneu Street para o iFood no Rio de Janeiro:
-
-
-**Maior Aderência no Asfalto (Seco e Molhado)**: Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
-**Desgaste Uniforme**: cravos sofrem desgaste acelerado e irregular quando utilizados exclusivamente no asfalto quente, reduzindo sua vida útil rapidamente.
-
-|Street| Cravo|
-|:---:|:---:|
-|Menos vibração e ruído. Proporciona uma rodagem suave.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada,acelera o desgaste ou afrouxamento de componentes da bicicleta. |
-|Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).|Alta resistência ao rolamento (atrito desnecessário com o asfalto).|
+**Maior Aderência no Asfalto (Seco e Molhado)**: É outra vantagem do Street para trabalho no iFood. Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
 
 
 
-###### Pneu Street ou Semi-Slick - exemplos 20x4.0
+###### Street e Semi-Slick - exemplos 20x4.0
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** - Street / Semi-Slick  
-**Maxxis MaxxVenture E50** Street / Semi-Slick  
+Abaixo está, mais ou menos, numa lista de qualidade.  
+
+**Schwalbe Super Moto-X** (semi-slick).  
+**Maxxis MaxxVenture E50** Street / Semi-Slick.  
+**CST Big Boat** (semi-slick).  
+**CST BFT** (Big Fat Tire): misto (all-terrain) - o "Urban" é menos indicado para trabalho no iFood.  
+*CST e Maxxis são marcas da Cheng Shin Rubber.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** - Street / Semi-Slick.  
+**Chaoyang Sand Storm** - Street / semi-slick.
+**Chaoyang Big Smoothyroad** - Street.
+**Chaoyang Big Daddy** - Semi-slick / urbano-misto
+**Arisun Big Smoothy** (Street / semi-slick).  
+**Arisun Street-Go** (Street / urbano)
 **Innova IA-3025** Semi-Slick
+**Innova Caracal** (Semi-slick / urbano-misto)
+
+❌ Outras marcas, estas secundárias e não necessariamente pneu tipo street ou semi: DSI, Hycline, Inowa, Movi, Gigas.
+Destas, algumas caem no genérico de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fabricado por terceiro e a empresa põe a marca).  
+❌ Marcas que não fazem pneu 20x4.0:  
+Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera)
 
 
 ###### Personaliização pneu moto em aro 20x4.0 (fat bike)
