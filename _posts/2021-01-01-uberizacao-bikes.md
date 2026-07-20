@@ -264,64 +264,24 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera)
 ## Bikes elétricas - 20x4.0
 
 
-#### ➰ Suspensão dupla
-
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />Rava (TSW) E-Chopper.  
-🔋 750W 48V 15Ah remo.  
-🔲 Alumínio 6061  
-Freio hid.  
-
-
-
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844689_x.jpg" width="120" />Konnan 🇧🇷 Winner.  
-Típica importadora e distribuidora.  
-🔋 750w 48V 18,2Ah remo.  
-VelMax 32 peso 120  
-Auto. 50 km com assis. pedal.  
-Garantia fab. 12 meses.  
-
-💰6500 ML  
-
-Konnan Thunder E-Titan G60.  
-🔋 1000w 48v 15Ah  
-Freio hidraulico  
-Projetada para trab  
-
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />Inow V20 Brake  
-🔋 1000w 48v 15 mAh, removível.  
-VelMax 45km/h 60km  
-Alarme e chave  
-Peso 200 kg  
-Freio hid.  
-💰 8900 ML  
-👉️ Outro anuncio no ML tinha espececificações diferente, por ex, 750w e peso 150 kg.  
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />Inow 🇧🇷 V20 Pro/Brake Pro.  
-🔋 750w 48v 15Ah  
-🔋 1000w modelo recente  
-VelMax 32  
-
-
-GTSM1 V8X 2.0
-
-
 #### ➰ Suspensão - frente ou nenhuma  
 
+Bikes com suspensão somente na frente tem menos custos de manutenção
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />Rava E-Spirit
-🔋 750W 48V 15Ah remo? 80Nm
+    ⚡ motor 🔋 bateria
+    🔲 quadro ➰ suspensão
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
+⚡ 750W 🔋 48V 15Ah remo? 80Nm
 🔲 Aço carbono
 ➰ Suspensão: Dianteira
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />GTSM1 V8 max.  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />**GTSM1 V8 max**.  
 🔋 750w  
 ➰ Suspensão - frente.  
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />GTSM1 GTS V8D S7.  
-🔋 750W 48V Lítio 15Ah remo.❤️  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />**GTSM1 GTS V8D S7**.  
+⚡ 750W 🔋 48V Lítio 15Ah remo.❤️  
 VelMax 32 km/h  
 Auto. 70 a 80 km ped. assis.  
 Freio hid.  
@@ -330,10 +290,17 @@ Freio hid.
 🛞 Chao Yang  
 💰 5250 site Gtsm1 ❤️  
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
+Foco em Custo-Benefício.  
 
+**GTS V8D S7** (750w)  
+Cuidado ⚠️ Banco baixo jovens  
+🔲 Aço carbono  
+Freio mecánico  
+➰ Suspensão - frente.   
+🔗 lojagtsm1.com.br 
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />GTSM1 🇧🇷 V8S.  
-🔋 750w 48v 15Ah  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />**GTSM1 🇧🇷 V8S**.  
+⚡ 750w 🔋 48v 15Ah  
 65Nm VelMax 32  
 🛞 CST  
 Freio mec.  
@@ -344,27 +311,16 @@ Freio mec.
 Idem  
 🔲 AçoCroCar. 👍  
 
-**V8, V8S, V8F, V8max**:  
+**V8F, V8max**:  
 Modelos diferentes.  
 Confira especificações.  
 Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.  
 
-GTS V8D S7 (750w)  
-Cuidado ⚠️ Banco baixo jovens  
-🔲 Aço carbono  
-Freio mecánico  
-➰ Suspensão - frente.   
-🔗 lojagtsm1.com.br  
 
 
-**GTSM1**:   
-Foco em Custo-Benefício (tipo StreetGo S12).  
-
-
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />StreetGo S12 🇧🇷 (Oggi).  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />**StreetGo S12** 🇧🇷 (Oggi).  
 A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1).  
-🔋 750W 48V 15Ah remo.  
+⚡ 750W 🔋 48V 15Ah remo.  
 🔋 Marca Samsung ou LG ❤️   
 80Nm ❤️  
 VelMax 32  
@@ -382,12 +338,12 @@ StreetGo S17 / S27 / S40
 🔗 Gtsm1.com.br  
 
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595912266_x.jpg" width="120" />Ouxi 🇨🇳 V8S.  
-🔋 1000w 48v  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595912266_x.jpg" width="120" />**Ouxi 🇨🇳 V8S**.  
+⚡ 1000w 🔋 48v  
 ➰ Suspensão - frente (V8 Pro ou H9 dupla).   
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911691_x.jpg" width="120" />Two Dogs 🇧🇷 Bigfoot T1.  
-🔋 750w 48V  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911691_x.jpg" width="120" />**Two Dogs 🇧🇷 Bigfoot T1**.  
+⚡ 750w 🔋 48V  
 🔋 removível, proteção água.  
 Alarme e dois lugares  
 Freio mec.  
@@ -396,12 +352,64 @@ Manopla parece baixa 😡
 ➰ Suspensão: não.   
 
 
+
+
+
+#### ➰ Suspensão dupla
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />**Rava (TSW) E-Chopper**.  
+⚡ 750W 🔋 48V 15Ah remo.  
+🔲 Alumínio 6061  
+Freio hid.  
+
+
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844689_x.jpg" width="120" />**Konnan 🇧🇷 Winner**.  
+Típica importadora e distribuidora.  
+⚡ 750w 🔋 48V 18,2Ah remo.  
+VelMax 32 peso 120  
+Auto. 50 km com assis. pedal.  
+Garantia fab. 12 meses.  
+
+💰6500 ML  
+
+**Konnan Thunder E-Titan G60**.  
+⚡ 1000w 🔋 48v 15Ah  
+Freio hidraulico  
+Projetada para trab  
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
+⚡ 1000w 🔋 48v 15 mAh, removível.  
+VelMax 45km/h 60km  
+Alarme e chave  
+Peso 200 kg  
+Freio hid.  
+💰 8900 ML  
+👉️ Outro anuncio no ML tinha espececificações diferente, por ex, 750w e peso 150 kg.  
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow 🇧🇷 V20 Pro/Brake Pro**.  
+⚡ 750w 🔋 48v 15Ah  
+🔋 1000w modelo recente  
+VelMax 32  
+
+
+**GTSM1 V8X 2.0**  
+
+
+**Duos E-vok**  1000W  
+
+
+
 **Amyet S8-S** (Bike Gaucho)  
-🔋 2x1000 48V 25Ah lítio remo.  
+⚡ 2x1000 🔋 48V 25Ah lítio remo.  
 80Nm, motor marca generica.  
 Vedada, certificação IP54 contra poeira e respingos.  
 Auto. Modo assiti. 65 a 85 km  
 Peso supor. 150 kg
+
 
 
 
@@ -426,6 +434,11 @@ R. Gessy Gonçalves Fontes, 192
 
 **🔧 Inovabike** (Irajá) - 986650076  também vende peças.  
 
+**🛒 🔧 ⚙️ Eplay** Jacaré.  
+966451084
+Venda (Duos E-vok
+
+
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele) [PROVAVEl SÓ BIKE COMUM]  
 **Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
@@ -435,6 +448,8 @@ R. Gessy Gonçalves Fontes, 192
  Vende Ouxi. Atendimento diretamente no balcão da loja física.  
 **🛒 🔧 Nossa Bike**: Rocha Miranda - 98399-4723  
 **Nossa Bike**: Rocha Miranda - 98015-4606 [PROVAVEl SÓ BIKE COMUM]  
+**🔧 Nossa Bike** Richa Miranda
+98268-8386
 
 
 **🛒 🔧 Bee Elétricas** (Botafogo) – bateria etc.  
@@ -447,6 +462,8 @@ R. Gessy Gonçalves Fontes, 192
 99974-5876  
 **Salmo** (Indicação prof. Silas)  
 Técnico ebike.  
+**Wallace** Ind. Prof. Silas
+982571610 - Técnico ebike.  
 **🔧 Silas Ramalho (Tecle Motos)** (Recreio).  
 Curso.  
  **Motorei**  
