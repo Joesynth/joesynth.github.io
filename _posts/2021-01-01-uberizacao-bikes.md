@@ -4,15 +4,17 @@ Tutorial.
 
 
 
+
 ## As marcas
 
 A importância deles reside no pós- venda, garantia, peças reposição, seg incluso, assistência do vendedor.  
 
+
 **Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT.  
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fomeudiadia.com.br%2Fwp-content%2Fuploads%2F2022%2F04%2FChico-Bento-1.png%3Fresize%3D760%252C995%26ssl%3D1&f=1&nofb=1&ipt=453184629033604bf771302b523be674b95f2eddbe27340d1aa202579e9d03d9" width="120" />É a estratégia em que o preço é uma isca, e uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
-
-Sem aprisionamento temos peças e eletrônica genéricas, baratas e universais; e com aprisionamento sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.
+|Sem aprisionamento|Com aprisionamento|
+|:---:|:---:|
+|Temos peças e eletrônica genéricas, baratas e universais| Sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
 
 |||
 |:---:|:---:|
@@ -363,9 +365,6 @@ Manopla parece baixa 😡
 🔲 Alumínio 6061  
 Freio hid.  
 
-
-
-
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844689_x.jpg" width="120" />**Konnan 🇧🇷 Winner**.  
 Típica importadora e distribuidora.  
 ⚡ 750w 🔋 48V 18,2Ah remo.  
@@ -389,8 +388,9 @@ Peso 200 kg
 Freio hid.  
 💰 8900 ML  
 👉️ Outro anuncio no ML tinha espececificações diferente, por ex, 750w e peso 150 kg.  
+🔗️ 🇧🇷 inowbrasil.com.br
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow 🇧🇷 V20 Pro/Brake Pro**.  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow V20 Pro/Brake Pro**.  
 ⚡ 750w 🔋 48v 15Ah  
 🔋 1000w modelo recente  
 VelMax 32  
@@ -398,8 +398,7 @@ VelMax 32
 
 **GTSM1 V8X 2.0**  
 
-
-**Duos E-vok**  1000W  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  1000W  
 
 
 
@@ -436,7 +435,18 @@ R. Gessy Gonçalves Fontes, 192
 
 **🛒 🔧 ⚙️ Eplay** Jacaré.  
 966451084
-Venda (Duos E-vok
+Venda Duos E-vok.
+
+**Mobe** - Anil  
+96914-2237  
+Vende Mobe B01  
+@mobemobilidadeeletrica (Insta)  
+
+**AlugMotos Locadora** - Nova Iguaçu  
+97358-7703  
+Cel. Francisco Soares, 667.  
+alugmotos.com  
+
 
 
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
@@ -448,7 +458,7 @@ Venda (Duos E-vok
  Vende Ouxi. Atendimento diretamente no balcão da loja física.  
 **🛒 🔧 Nossa Bike**: Rocha Miranda - 98399-4723  
 **Nossa Bike**: Rocha Miranda - 98015-4606 [PROVAVEl SÓ BIKE COMUM]  
-**🔧 Nossa Bike** Richa Miranda
+**🔧 Nossa Bike** Roicha Miranda
 98268-8386
 
 
@@ -458,7 +468,9 @@ Venda (Duos E-vok
 **🔧 ConsertaBike** (Copacabana etc) - 97158-5627 3439-5005    
 **Flex Mobi** (Ipanema / Niterói) - 97116-3388 99932-2598   
 967820209
-**🛒 🔧Din Bike Elétrica** (Recreio) – manutenção OEM.  
+**Domus Viridi** Niterói
+Vende Inow.
+**🛒 🔧 Din Bike Elétrica** (Recreio) – manutenção OEM.  
 99974-5876  
 **Salmo** (Indicação prof. Silas)  
 Técnico ebike.  
