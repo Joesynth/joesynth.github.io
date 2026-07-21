@@ -24,10 +24,12 @@ A importância delas reside no pós- venda, garantia, peças reposição, seguro
 |Atrio (Multilaser) | Sense Bee|
 |Ouxi, iNow, Konnan, Giorrad, Colorway, Move Ways, Starmega| Two Dogs, StreetGo, Rava (TSW)|
 
-Médio temos formato de bateria e plugs específicos; peças só via importação direta/Aliexpress
-Baixo temos eletrônica simples, aceita controladores e peças universais de internet.
 
-Assim, marcas com um bom pos venda, inclusive manutencao, pode ocorrer simplesmente porque *vendor lock-in* financia e centraliza a rede de atendimento.
+|Baixo temos...| Médio temos...|
+|:---:|:---:|
+|eletrônica simples, aceita controladores e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
+
+**O bom pós venda**: pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
 
 
 ***Woie**.  
@@ -46,8 +48,7 @@ Assim, marcas com um bom pos venda, inclusive manutencao, pode ocorrer simplesme
 **2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).  
 **3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.  
 
-🇧🇷 Move Ways (750W e 1000W). Escritório com CNPJ, que importa e não fabrica nada.
-🇧🇷 Starmega (750W). Idem.
+🇧🇷 Move Ways e 🇧🇷 Starmega: marcas que são escritórios com CNPJ, que importa e não fabrica nada.
 
 Outras marcas medianas: Giorrad, Colorway e Bikelete.  
 
@@ -350,8 +351,8 @@ Peso 160kg ❤️
 Manopla parece baixa 😡  
 ➰ Suspensão: não.   
 
-
-
+**Starmega V8 / V8 Pro** 750W
+🇧🇷
 
 
 #### ➰ Suspensão dupla
@@ -514,7 +515,7 @@ Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo 
 
 #### Subidas íngremes
 
-**Pedalar rápido com catraca grande**: Pedalar rápido (alta cadência) usando a catraca maior mantém o motor em alta rotação, que é a faixa de maior eficiência e menor aquecimento.  
+**Pedalar rápido com catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
 **Arrancada em ladeiras**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
 **Excesso de peso total**: Aumenta a resistência inercial e força o sistema continuamente.  
 
