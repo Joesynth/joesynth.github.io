@@ -419,59 +419,51 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
     🛒 Venda 🔧 Manutenção ⚙️ Peças
 
-**Mattos** Mobilidade Elétrica 🔧 Piedade  
-96414-8812  
-Cardoso Quintão, 636.  
-Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
-**Fag Moto Peças** 🔧 São João de Meriti  
-988776811  
-@fagmotopecassj (Insta)  
-R. Gessy Gonçalves Fontes, 192  
 **Inovabike** 🔧 ⚙️ Irajá.  
 986650076  
 **Eplay** 🛒 🔧 ⚙️ Jacaré.  
 966451084  
 Venda Duos E-vok.  
+**Mattos** Mobilidade Elétrica 🔧 Piedade  
+96414-8812  
+Cardoso Quintão, 636.  
+Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele) [PROVAVEl SÓ BIKE COMUM]  
+**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
+**Nossa Bike** 🛒 🔧  Rocha Miranda.  
+98399-4723  
+**Nossa Bike** 🔧 Rocha Miranda  
+98268-8386  
+**Nossa Bike** Rocha Miranda.  
+98015-4606  
 **Mobe** 🛒 Anil  
 96914-2237  
 Vende Mobe B01  
 @mobemobilidadeeletrica (Insta)  
 
-**AlugMotos Locadora** - Nova Iguaçu  
-97358-7703  
-Cel. Francisco Soares, 667.  
-🔗️ alugmotos.com  
-
-
-
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele) [PROVAVEl SÓ BIKE COMUM]  
-**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
-**🛒 🔧 Morais Bike** (Centro).  
+**Morais Bike** 🛒 🔧 Centro.  
  97302-7143  
-**🛒 🔧 Rezende Bike** (Centro) – muito forte em e-bike genérica e OUXI.  
+**Rezende Bike** 🛒 🔧 Centro.  
  Vende Ouxi. Atendimento diretamente no balcão da loja física.  
-**🛒 🔧 Nossa Bike**: Rocha Miranda - 98399-4723  
-**Nossa Bike**: Rocha Miranda - 98015-4606 [PROVAVEl SÓ BIKE COMUM]  
-**🔧 Nossa Bike** Roicha Miranda
-98268-8386
 
 
-**🛒 🔧 Bee Elétricas** (Botafogo) – bateria etc.  
+
+**Bee Elétricas** 🛒 🔧  Botafogo.  
 97626-8617 (Unidade Botafogo) 4003-4131.  
-**🔧 Rota E-Bike** (Copacabana) - 99776-1236  
-**🔧 ConsertaBike** (Copacabana etc) - 97158-5627 3439-5005    
-**Flex Mobi** (Ipanema / Niterói) - 97116-3388 99932-2598   
-967820209
-**Domus Viridi** Niterói
-Vende Inow.
-**🛒 🔧 Din Bike Elétrica** (Recreio) – manutenção OEM.  
+**Rota E-Bike** 🔧  Copacabana.  
+99776-1236  
+**ConsertaBike** 🔧  Copacabana etc.  
+97158-5627 3439-5005  
+**Flex Mobi** (Ipanema / Niterói).  
+97116-3388 99932-2598   
+967820209  
+**Din Bike Elétrica** 🛒 🔧  Recreio.  
 99974-5876  
-**Salmo** (Indicação prof. Silas)  
-Técnico ebike.  
-**Wallace** Ind. Prof. Silas
-982571610 - Técnico ebike.  
-**🔧 Silas Ramalho (Tecle Motos)** (Recreio).  
+**Salmo** 🔧 (Técnico ebike - indicação prof. Silas).  
+**Wallace** 🔧 (Técnico ebike - indicação prof. Silas).  
+982571610  
+**Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
 Curso.  
  **Motorei**  
 Curso  
@@ -479,6 +471,17 @@ Curso
 @tafarellouzada  
 Curso de Scooter/Moto Elétrica  
 
+
+**Domus Viridi** 🛒 Niterói.  
+Vende Inow.  
+**Fag Moto Peças** 🔧 São João de Meriti  
+988776811  
+@fagmotopecassj (Insta)  
+R. Gessy Gonçalves Fontes, 192  
+**AlugMotos Locadora** - Nova Iguaçu  
+97358-7703  
+Cel. Francisco Soares, 667.  
+🔗️ alugmotos.com 
 
 
 ###### Manuteção somente mecânica - não parte elétrica
