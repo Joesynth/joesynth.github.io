@@ -7,10 +7,9 @@ Tutorial.
 
 ## As marcas
 
-A importância deles reside no pós- venda, garantia, peças reposição, seg incluso, assistência do vendedor.  
+A importância delas reside no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
 
-
-**Aprisionamento tecnológico** <sup>vendor lock-in</sup>: termo da economia ou MKT.  
+É bom estar atento a modelos como **isca e anzol** e **aprisionamento tecnológico** : .  
 
 |Sem aprisionamento|Com aprisionamento|
 |:---:|:---:|
@@ -59,11 +58,9 @@ Outras marcas medianas: Giorrad, Colorway e Bikelete.
 **3**: Bikelete, Colorway, Move Ways: Mais loteria; reposição e garantia variam bastante.  
 **4**: Starmega / Bike Fast: Evitar para uso profissional; falta de suporte e disponibilidade de peças.  
 
+🔗️ bikelete.com  
 
-👉️ bikelete.com  
 
-
-⚠️ Ouxi e Inow são as mais difundidas no Brasil.  
 👉️ O que domina não é marca e sim peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
 
 
@@ -360,6 +357,9 @@ Manopla parece baixa 😡
 #### ➰ Suspensão dupla
 
 
+**GTSM1 V8X 2.0**  
+
+
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />**Rava (TSW) E-Chopper**.  
 ⚡ 750W 🔋 48V 15Ah remo.  
 🔲 Alumínio 6061  
@@ -396,8 +396,6 @@ Freio hid.
 VelMax 32  
 
 
-**GTSM1 V8X 2.0**  
-
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  1000W  
 
 
@@ -421,23 +419,20 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
     🛒 Venda 🔧 Manutenção ⚙️ Peças
 
-**🔧 Mattos** Mobilidade Elétrica - Piedade
-Cardoso Quintão, 636.
-Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.
-96414-8812
-
-**🔧 Fag Moto Peças** - São João de Meriti
-@fagmotopecassj (Insta)
-988776811
-R. Gessy Gonçalves Fontes, 192
-
-**🔧 Inovabike** (Irajá) - 986650076  também vende peças.  
-
-**🛒 🔧 ⚙️ Eplay** Jacaré.  
-966451084
-Venda Duos E-vok.
-
-**Mobe** - Anil  
+**Mattos** Mobilidade Elétrica 🔧 Piedade  
+96414-8812  
+Cardoso Quintão, 636.  
+Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
+**Fag Moto Peças** 🔧 São João de Meriti  
+988776811  
+@fagmotopecassj (Insta)  
+R. Gessy Gonçalves Fontes, 192  
+**Inovabike** 🔧 ⚙️ Irajá.  
+986650076  
+**Eplay** 🛒 🔧 ⚙️ Jacaré.  
+966451084  
+Venda Duos E-vok.  
+**Mobe** 🛒 Anil  
 96914-2237  
 Vende Mobe B01  
 @mobemobilidadeeletrica (Insta)  
@@ -445,7 +440,7 @@ Vende Mobe B01
 **AlugMotos Locadora** - Nova Iguaçu  
 97358-7703  
 Cel. Francisco Soares, 667.  
-alugmotos.com  
+🔗️ alugmotos.com  
 
 
 
