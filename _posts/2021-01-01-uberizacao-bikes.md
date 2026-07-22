@@ -9,7 +9,7 @@ Tutorial.
 
 A importância delas reside no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
 
-É bom estar atento aos [modelos de negócios](/modelos-de-negocios), como **isca e anzol** e **aprisionamento tecnológico**:
+É bom estar atento ao [modelo de negócio](/modelo-de-negocio) que elas usam, como **isca e anzol** e **aprisionamento tecnológico**:
 
 |Sem aprisionamento|Com aprisionamento|
 |:---:|:---:|
