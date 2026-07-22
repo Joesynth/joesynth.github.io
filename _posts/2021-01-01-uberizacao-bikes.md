@@ -9,11 +9,13 @@ Tutorial.
 
 A importância delas reside no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
 
-É bom estar atento a modelos como **isca e anzol** e **aprisionamento tecnológico** : .  
+É bom estar atento aos [modelos de negócios](/modelos-de-negocios), como **isca e anzol** e **aprisionamento tecnológico**:
 
 |Sem aprisionamento|Com aprisionamento|
 |:---:|:---:|
 |Temos peças e eletrônica genéricas, baratas e universais| Sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
+
+Exemplos de marcas relacionadas a modelos de neócios.  
 
 |||
 |:---:|:---:|
@@ -27,15 +29,25 @@ A importância delas reside no pós- venda, garantia, peças reposição, seguro
 
 |Baixo temos...| Médio temos...|
 |:---:|:---:|
-|eletrônica simples, aceita controladores e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
+|eletrônica simples, aceita controladoras e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
 
 **O bom pós venda**: pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
 
+###### Marcas - fábricas, distribuidores e afins
 
-***Woie**.  
-*<del>**Dafra**</del>.  
-***Bee**: Cara, custa acima de 10 mil, mas usa Bafang em alguns modelos.  
+A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras lidam diretamente com o cliente, etc. Estrutura (ebike tipo "V8"), ex.:
 
+|boa | média| baixa|
+|:---:|:---:|:---:|
+|🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|
+
+
+
+Mais marcas, independente de ser ou não V8, incluem...  
+StreetGo (Oggi), Two Dogs, Konnan.
+Woie.  
+*<del>Dafra</del>.  
+Bee.  
  
 
 
@@ -44,11 +56,7 @@ A importância delas reside no pós- venda, garantia, peças reposição, seguro
 
 **Hierarquia de marcas** (por Gemini):  
 
-**1**: StreetGo (Oggi) > Two Dogs > GTSM1 e Bikelete.  
-**2**: Konnan / Inow / Move Ways / Starmega / Bike Fast (Empate Técnico).  
-**3**: Ouxi: Ponto fraco? Falta uma marca nacional que responda legalmente pela garantia e estoque de componentes no Brasil.  
-
-🇧🇷 Move Ways e 🇧🇷 Starmega: marcas que são escritórios com CNPJ, que importa e não fabrica nada.
+**1**: 
 
 Outras marcas medianas: Giorrad, Colorway e Bikelete.  
 
@@ -102,10 +110,10 @@ A tensão recebida não é fixa. Para um sistema 48 V pode ir de 0 V até ~48 V 
 Potência 350W aliado a uma marca de qualidade suporta o tranco do dia a dia para trabalho no iFood, por exemplo. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
 Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho no iFood, 750 W ou 1000 W competem diretamente com as motocicletas nas entregas.
 
-###### Marcas
+###### domus
 
 **Bafang** é o "queridinho" das bikes. Bikes que usam ou já usaram:  
-🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi.  
+🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
 
 
@@ -113,17 +121,16 @@ Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho 
 #### Bateria
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />**bateria**: Fornece 48 V DC (corrente contínua).
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />Ela fornece 48 V CC (corrente contínua), em inglês DC.
 
-###### Capacidade, características técnicas
+**Capacidade, características técnicas**: Ex. 48V 20Ah.  
 
-Ex. 48V 20Ah.  
+**Relevância / qualidade**:  
 
-###### Relevância / qualidade
 
-**1**: Samsung SDI, LG Energy Solution, Panasonic.  
-**2**: Murata (ex-Sony), CATL.  
-**3**: EVE Energy, BYD, Lishen, BAK.  
+**1**: 🇰🇷Samsung SDI, 🇰🇷 LG Energy Solution, 🇯🇵Panasonic.  
+**2**: 🇯🇵 Murata (ex-Sony), 🇨🇳 CATL.  
+**3**: 🇨🇳 EVE Energy, 🇨🇳 BYD, 🇨🇳 Lishen, 🇨🇳 BAK.  
 Demais são as genéricas ou sem identificação.  
 
 
@@ -159,7 +166,7 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 |||||
 |:---:|:---:|:---:|:---:|
-|KT|Sabvoton|Votol|Bafang|
+|🇨🇳 KT|🇨🇳 Sabvoton|🇨🇳 Votol|🇨🇳 Bafang|
 
 ⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.  
 
@@ -216,17 +223,15 @@ Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talve
 
 #### Pneu - tipo
 
-**Street / Semi-Slick, Slick, Cravo**: No trabalho opte pelo tipo de pneu Street / Semi-Slick.  
-
 |Slick| Street / Semi-Slick| Cravo|
 |:---:|:---:|:---:|
 |projetado para pistas perfeitas| economiza a bateria; Menos vibração e ruído. Proporciona uma rodagem suave. Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada,a celera o desgaste ou afrouxamento de componentes da bicicleta.|
 |água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
 
+⚠️ Como veículo do dia a dia (ir e voltar do trabalho, por ex.) opte pelo tipo de pneu Street / Semi-Slick.  
+Assim, no asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
 
-⚠️ Pneu: no trabalho, asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
-
-**Maior Aderência no Asfalto (Seco e Molhado)**: É outra vantagem do Street para trabalho no iFood. Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
+**Maior Aderência no Asfalto (Seco e Molhado)**: É outra vantagem do Street para trabalho (como "motoboy", por ex."). Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
 
 
 
@@ -488,6 +493,7 @@ Curso de Scooter/Moto Elétrica
 
 
 **Domus Viridi** 🛒 Niterói.  
+99191-0774  
 Vende Inow.  
 **Fag Moto Peças** 🔧 São João de Meriti  
 988776811  
