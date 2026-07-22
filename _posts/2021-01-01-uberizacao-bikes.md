@@ -90,16 +90,23 @@ Peças: tão importante quanto marca.
 
 #### Motor BLDC <supCorrente Contínua Sem Escovas</sup>
 
+O motor brushless (Sem Escovas) é o mais comum em e-bikes.  
 
-Bafang é o "queridinho" das bikes.  
+**Recebendo!**: O motor recebe energia bruta, pulsos elétricos brutos (energia trifásica), que vem da controladora.
+A tensão recebida não é fixa. Para um sistema 48 V pode ir de 0 V até ~48 V entre fases.
 
-**Woie** 🇧🇷: Bafang (tanto cubo traseiro de 750W quanto motores centrais Mid-Drive sob encomenda).  
-**Two Dogs** 🇧🇷: chegou a usar.  
-**Trek** 🇺🇸: Modelos premium utilitam Bafang.  
-**Caloi** <del>🇧🇷</del>🇳🇱(Bafang)  
+**Sensor Hall**: Componente eletrônico pequeno dentro do motor. Ou seja, faz parte do conjunto do motor e é um sensor. Ficam próximos aos ímãs do rotor. Em um motor BLDC normalmente existem 3. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
 
-MXUS é outra marca de credibilidade.
+###### Potência 350 W
 
+Potência 350W aliado a uma marca de qualidade suporta o tranco do dia a dia para trabalho no iFood, por exemplo. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
+Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho no iFood, 750 W ou 1000 W competem diretamente com as motocicletas nas entregas.
+
+###### Marcas
+
+**Bafang** é o "queridinho" das bikes. Bikes que usam ou já usaram:  
+🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi.  
+**MXUS** é outra marca de credibilidade.
 
 
 
@@ -125,7 +132,7 @@ Demais são as genéricas ou sem identificação.
 
 ###### Controladora
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_969465-MPE73808373770_012024-O.webp&f=1&nofb=1&ipt=76e1b17adbc62e8c4631d5c874ba93b29c9b02cbc5841f42ae58bb128f610bd0" width="120" />A **controladora** recebe essa energia da bateria. A função principal da controladora é converter a corrente contínua (CC ou DC) de 48 V da bateria em corrente alternada trifásica (CA ou AC) para alimentar o motor (quando se trata de um motor brushless, que é o mais comum em e-bikes).
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_969465-MPE73808373770_012024-O.webp&f=1&nofb=1&ipt=76e1b17adbc62e8c4631d5c874ba93b29c9b02cbc5841f42ae58bb128f610bd0" width="120" />Tem como função principal receber a energia da bateria. A controladora converte essa energia, que é corrente contínua (CC <sup>DC</sup>) de 48 V, em corrente alternada (CA <sup>AC</sup>) trifásica para alimentar o motor (quando se trata de um motor brushless).
 
 É composta por:
 
@@ -135,10 +142,17 @@ Demais são as genéricas ou sem identificação.
 
 Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, o item principal, mas também farol, buzina etc.
 
-Os **MOSFETs** ligam e desligam a corrente milhares de vezes por segundo, produzindo uma corrente alternada trifásica com freq. e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
+**MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com freq. e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
 
+**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: Para a controladora converter a tensão de CC para CA, a técnica mais usada é a PWM, também usada na síntese sonora.
 
-Para a controladora converter a tensão de DC para AC, a técnica mais usada é a PWM (Pulse Width Modulation, Modulação por Largura de Pulso), também usada na síntese sonora. Na criação de sons, a PWM altera a largura dos pulsos de uma onda quadrada para mudar o timbre do som, daí criando diferentes características sonoras. Já na e-bike, a Modulação por Largura de Pulso também altera a largura dos pulsos, mas com o objetivo de controlar a quantidade de energia entregue ao motor.
+|criação de sons| e-bike|
+|:---:|:---:|
+|PWM| PWM|
+|A técnica altera a largura dos pulsos de uma onda quadrada para mudar o timbre do som| Também altera a largura dos pulsos|
+|Resultado| Objetivo|
+|Cria-se diferentes características sonoras.| É controlar a quantidade de energia entregue ao motor.|
+
 
 
 ###### Marcas boas
@@ -156,7 +170,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
 
 
-**Protocolo de comunicação**: funciona entre o Display (painel) e a Controladora — não entre a controladora e o motor _este recebe apenas energia bruta, pulsos elétricos brutos (energia trifásica) e envia sinais analógicos de rotação (sensores Hall).
+**Protocolo de comunicação**: funciona entre o Display (painel) e a Controladora — não entre a controladora e o motor.
 
 
 |Protocolo Ouxi|Protocolo GTSM1|
@@ -192,10 +206,10 @@ Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talve
 ###### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
-**26**: 26 é a típica do Itau. Motor tem potência 350W e de ótima qualidade, suporta o tranco do dia a dia. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
+**26**: 26 é a típica do Itau. 
 **29**: roda nesse tamanho força o motor.  
-**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Se tornando comuns no sul do Brasil, destacam-se por ter motor mais potente permitindo subir ruas bem inclinadas.  
-Bike assim compete diretamente com as motocicletas nas entregas.
+**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Vem se tornando comuns no sul do Brasil.  
+
 
 
 
@@ -452,11 +466,11 @@ Vende Mobe B01
 
 **Bee Elétricas** 🛒 🔧  Botafogo.  
 97626-8617 (Unidade Botafogo) 4003-4131.  
-**Rota E-Bike** 🔧  Copacabana.  
+**Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
-**Flex Mobi** (Ipanema / Niterói).  
+**Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598   
 967820209  
 **Din Bike Elétrica** 🛒 🔧  Recreio.  
