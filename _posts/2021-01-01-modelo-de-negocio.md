@@ -1,8 +1,29 @@
 # Modelo de negócio
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fomeudiadia.com.br%2Fwp-content%2Fuploads%2F2022%2F04%2FChico-Bento-1.png%3Fresize%3D760%252C995%26ssl%3D1&f=1&nofb=1&ipt=453184629033604bf771302b523be674b95f2eddbe27340d1aa202579e9d03d9" width="120" />
-**: termo da economia ou MKT.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fomeudiadia.com.br%2Fwp-content%2Fuploads%2F2022%2F04%2FChico-Bento-1.png%3Fresize%3D760%252C995%26ssl%3D1&f=1&nofb=1&ipt=453184629033604bf771302b523be674b95f2eddbe27340d1aa202579e9d03d9" width="120" />Isca e anzol (modelo de navalhas e lâminas)
+
 É a estratégia em que o preço é uma isca, e uma vez "pescado", o cliente dá lucro pela dependência de ter o produto funcionando perfeitamente.  
+
+## Modelo de isca e anzol <sup>bait-and-hook model</sup>**
+
+A expressão é, na prática, uma categoria mais ampla, onde há o mesmo conceito do modelo "razor-and-blades".  
+O termo "razor-and-blades" é só o exemplo clássico que popularizou a ideia.
+
+A lógica é:  
+
+|Isca (bait)|Anzol (hook)|
+|:---:|:---:|
+|Produto inicial vendido barato (até com pouca margem ou prejuízo) para atrair o cliente.| Produtos complementares, consumíveis ou serviços recorrentes que geram a receita ao longo do tempo.|
+
+Exemplo:  
+
+|Isca |Anzol|
+|:---:|:---:|
+|Aparelho de barbear| Lâminas de reposição|
+|Impressora| Cartuchos de tinta|
+|Console de videogame| Jogos e assinaturas|
+|Máquina de café| Cápsulas| 
+
 
 ## Aprisionamento tecnológico <sup>vendor lock-in</sup>
 
