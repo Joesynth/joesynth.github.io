@@ -3,88 +3,9 @@
 Tutorial.
 
 
-
-
-## As marcas
-
-A importância delas reside no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
-
-É bom estar atento ao [modelo de negócio](/modelo-de-negocio) que elas usam, como **isca e anzol** e **aprisionamento tecnológico**:
-
-|Sem aprisionamento|Com aprisionamento|
-|:---:|:---:|
-|Temos peças e eletrônica genéricas, baratas e universais| Sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
-
-Exemplos de marcas relacionadas a modelos de neócios.  
-
-|||
-|:---:|:---:|
-|**Sem lock-in**| **Baixo lock-in**|
-|Sousa Bike e Duos|Caloi|
-||GTSM1, Bikelete, Bike Fast|
-|**Médio lock-in**| **Alto lock-in**|
-|Atrio (Multilaser) | Sense Bee|
-|Ouxi, iNow, Konnan, Giorrad, Colorway, Move Ways, Starmega| Two Dogs, StreetGo, Rava (TSW)|
-
-
-|Baixo temos...| Médio temos...|
-|:---:|:---:|
-|eletrônica simples, aceita controladoras e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
-
-**O bom pós venda**: pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
-
-###### Marcas - fábricas, distribuidores e afins
-
-A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras lidam diretamente com o cliente, etc. Estrutura (ebike tipo "V8"), ex.:
-
-|boa | média| baixa|
-|:---:|:---:|:---:|
-|🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|
-
-
-
-Mais marcas, independente de ser ou não V8, incluem...  
-StreetGo (Oggi), Two Dogs, Konnan.
-Woie.  
-*<del>Dafra</del>.  
-Bee.  
- 
-
-
-
-#### Exemplo - 20x4.0
-
-**Hierarquia de marcas** (por Gemini):  
-
-**1**: 
-
-Outras marcas medianas: Giorrad, Colorway e Bikelete.  
-
-**Hierarquia de marcas** (segundo GPT):  
-
-**1**: Rava (TSW) > GTSM1 > Two Dogs > StreetGo.  
-**2**: Ouxi / iNow > Konnan / Giorrad.  
-**3**: Bikelete, Colorway, Move Ways: Mais loteria; reposição e garantia variam bastante.  
-**4**: Starmega / Bike Fast: Evitar para uso profissional; falta de suporte e disponibilidade de peças.  
-
-🔗️ bikelete.com  
-
-
-👉️ O que domina não é marca e sim peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
-
-
-#### OEM - Fabricante Original de Equipamentos
-
-Uma empresa "x" fabrica mil produtos. Fulando compra 400, Beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
-
-Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
-Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
-
-
-
-
-
 ## Componentes
+
+⚠️ Texto voltado a quem tem, ao menos, uma mínima noção de eletrônica.
 
 Peças: tão importante quanto marca.
 
@@ -96,21 +17,23 @@ Peças: tão importante quanto marca.
 - Outros
 
 
-#### Motor BLDC <supCorrente Contínua Sem Escovas</sup>
+#### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
 
 O motor brushless (Sem Escovas) é o mais comum em e-bikes.  
 
-**Recebendo!**: O motor recebe energia bruta, pulsos elétricos brutos (energia trifásica), que vem da controladora.
+**Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora.
 A tensão recebida não é fixa. Para um sistema 48 V pode ir de 0 V até ~48 V entre fases.
 
 **Sensor Hall**: Componente eletrônico pequeno dentro do motor. Ou seja, faz parte do conjunto do motor e é um sensor. Ficam próximos aos ímãs do rotor. Em um motor BLDC normalmente existem 3. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
 
-###### Potência 350 W
+###### Potência
 
-Potência 350W aliado a uma marca de qualidade suporta o tranco do dia a dia para trabalho no iFood, por exemplo. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
+**Potência 350W** aliado a uma marca de qualidade suporta o tranco do dia a dia para trabalho no iFood, por exemplo. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
 Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho no iFood, 750 W ou 1000 W competem diretamente com as motocicletas nas entregas.
 
-###### domus
+**750 W vs. 1000 W**: use o pedal assistido. Acelerador puxa mais energia, se for de 1000 W, tende a gastar mais bateria.
+
+###### Motor
 
 **Bafang** é o "queridinho" das bikes. Bikes que usam ou já usaram:  
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
@@ -139,7 +62,8 @@ Demais são as genéricas ou sem identificação.
 
 ###### Controladora
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_969465-MPE73808373770_012024-O.webp&f=1&nofb=1&ipt=76e1b17adbc62e8c4631d5c874ba93b29c9b02cbc5841f42ae58bb128f610bd0" width="120" />Tem como função principal receber a energia da bateria. A controladora converte essa energia, que é corrente contínua (CC <sup>DC</sup>) de 48 V, em corrente alternada (CA <sup>AC</sup>) trifásica para alimentar o motor (quando se trata de um motor brushless).
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />Recebendo a energia da bateria, a **controladora** converte essa energia, que é do tipo corrente contínua (CC <sup>DC</sup>) de 48 V, em corrente alternada (CA <sup>AC</sup>) trifásica, isso para alimentar o motor (quando se trata de um motor brushless).
+
 
 É composta por:
 
@@ -177,7 +101,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
 
 
-**Protocolo de comunicação**: funciona entre o Display (painel) e a Controladora — não entre a controladora e o motor.
+**Protocolo de comunicação entre o Display (painel) e a Controladora**.
 
 
 |Protocolo Ouxi|Protocolo GTSM1|
@@ -245,18 +169,20 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 **CST BFT** (Big Fat Tire): misto (all-terrain) - o "Urban" é menos indicado para trabalho no iFood.  
 *CST e Maxxis são marcas da Cheng Shin Rubber.  
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** - Street / Semi-Slick.  
-**Chaoyang Sand Storm** - Street / semi-slick.
-**Chaoyang Big Smoothyroad** - Street.
-**Chaoyang Big Daddy** - Semi-slick / urbano-misto
+**Chaoyang Sand Storm** - Street / semi-slick.  
+**Chaoyang Big Smoothyroad** - Street.  
+**Chaoyang Big Daddy** - Semi-slick / urbano-misto.  
 **Arisun Big Smoothy** (Street / semi-slick).  
-**Arisun Street-Go** (Street / urbano)
-**Innova IA-3025** Semi-Slick
-**Innova Caracal** (Semi-slick / urbano-misto)
+**Arisun Street-Go** (Street / urbano).  
+**Innova IA-3025** Semi-Slick.  
+**Innova Caracal** (Semi-slick / urbano-misto).  
 
-❌ Outras marcas, estas secundárias e não necessariamente pneu tipo street ou semi: DSI, Hycline, Inowa, Movi, Gigas.
+
+❌ Outras marcas, estas secundárias e não necessariamente pneu tipo street ou semi: DSI, Hycline, Inowa, Movi, Gigas.  
 Destas, algumas caem no genérico de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fabricado por terceiro e a empresa põe a marca).  
 ❌ Marcas que não fazem pneu 20x4.0:  
-Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera)
+Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
+
 
 
 ###### Personaliização pneu moto em aro 20x4.0 (fat bike)
@@ -274,6 +200,79 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera)
 **acabamento**.  
 **Peso da bike - influenciará**: Material do quadro. Sem amortecimento (na frente e atrás) a bike pode ter 30 kg, e com chegar aos 38 kg em média. Peso do motor (750 é cerca de 1 kg a menos que o 1000).  
 **Peso suportado**: No geral, 120 kg é o que elas suportam, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar comida de animais ou bebida.  
+
+
+
+
+
+
+## As marcas
+
+A importância delas reside no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
+
+É bom estar atento ao [modelo de negócio](/modelo-de-negocio) que elas usam, como **isca e anzol** e **aprisionamento tecnológico**:
+
+|Sem aprisionamento|Com aprisionamento|
+|:---:|:---:|
+|Temos peças e eletrônica genéricas, baratas e universais| Sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
+
+Exemplos de marcas relacionadas a modelos de neócios.  
+
+|||
+|:---:|:---:|
+|**Sem lock-in**| **Baixo lock-in**|
+|Sousa Bike e Duos|Caloi|
+||GTSM1, Bikelete, Bike Fast|
+|**Médio lock-in**| **Alto lock-in**|
+|Atrio (Multilaser) | Sense Bee|
+|Ouxi, iNow, Konnan, Giorrad, Colorway, Move Ways, Starmega| Two Dogs, StreetGo, Rava (TSW)|
+
+
+|Baixo temos...| Médio temos...|
+|:---:|:---:|
+|eletrônica simples, aceita controladoras e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
+
+**O bom pós venda**: pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
+
+**Lock-in técnico**: Exemplo:
+    display: só conversa com controladora específica.
+    controladora: usa protocolo/conectores próprios.
+    bateria: BMS ou comunicação proprietária.
+
+
+
+###### Marcas - fábricas, distribuidores e afins
+
+A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras lidam diretamente com o cliente, etc. Estrutura (ebike tipo "V8"), ex.:
+
+|boa | média| baixa|
+|:---:|:---:|:---:|
+|🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|
+
+
+
+Mais marcas, independente de ser ou não V8, incluem...  
+Rava (TSW), StreetGo (Oggi), Two Dogs, Konnan.
+Woie.  
+*<del>Dafra</del>.  
+Bee.  
+
+Starmega: Verificar se há falta de suporte e disponibilidade de peças.  
+E ainda, verifique se tal marca não é uma loteria; visto que reposição de peças e garantia variam bastante. 
+🔗️ bikelete.com  
+
+👉️ Mais importante que marca é peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
+
+
+#### OEM - Fabricante Original de Equipamentos
+
+Uma empresa "x" fabrica mil produtos. Fulando compra 400, Beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
+
+Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
+Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
+
+
+
 
 
 
@@ -495,6 +494,7 @@ Curso de Scooter/Moto Elétrica
 **Domus Viridi** 🛒 Niterói.  
 99191-0774  
 Vende Inow.  
+🔗️ domusviridi.com.br  
 **Fag Moto Peças** 🔧 São João de Meriti  
 988776811  
 @fagmotopecassj (Insta)  
