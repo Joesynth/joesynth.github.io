@@ -33,13 +33,26 @@ O lucro vem depois.
 |Aparelho de barbear| Lâminas de reposição|
 |vendido barato| vendidas repetidamente com margem alta|
 
-O truque? Luvra-se mais com o consumível do que com o equipamento.
+O truque? Lucra-se mais com o consumível do que com o equipamento em si. Mais exemplos:
 
 |Isca |Anzol|
 |:---:|:---:|
 |Impressora| Cartuchos de tinta|
 |Console de videogame| Jogos e assinaturas|
-|Cafeteira| Cápsulas| 
+|Cafeteira| Cápsulas|
+
+
+###### Um pouco de história
+
+**1895**: O inventor e empresário 🇺🇸 King Camp Gillette patenteou o 1º aparelho de barbear com lâminas descartáveis. Ele notou que poderia ganhar mais dinheiro vendendo aparelhos de barbear baratos e lâminas caras, do que vender aparelhos de barbear que durasse anos.
+**Anos 30**: A ideia foi aplicada a outros produtos: canetas-tinteiro e cartuchos de tinta (empresas como Parker e Waterman). Vendia-se canetas de alta qualidade mas a um baixo preço. O lucro estava na venda de recargas de tinta compatíveis apenas com essas canetas.
+**1952**: Milton Friedman (o economista) cunhou o termo "navalha e lâminas" em seu livro "Teoria dos Preços".
+**Anos 70**: a Bic por ex., desafoi o modelo com aparelhos de barbear descartáveis.
+**Déc. de 80**: o modelo foi adotado pela indústria de informática, em especial por fabricantes de impressoras, como Hewlett-Packard e Canon. 
+**Déc. de 80**: Games Nintendo, Sega e Sony. Consoles de jogos com preços baixos ou até prejuízo, e lucro na venda de jogos _e mesmo cobrando taxas de desenvolvedores de jogos que desejassem publicar jogos para esses consoles.
+**Anos 2000**: O modelo de lâminas de barbear foi adotado pela indústria de telefonia móvel, por operadoras como AT&T e Verizon. Ofereceram telefones subsidiados ou gratuitos a clientes que assinassem contratos de longo prazo e obtiveram lucros com a venda de planos de voz, texto e dados que eram caros e bloqueados. Eles também controlavam o software e os aplicativos que podiam ser executados em seus telefones.
+
+
 
 
 ## Aprisionamento tecnológico <sup>vendor lock-in</sup>
@@ -48,8 +61,28 @@ O truque? Luvra-se mais com o consumível do que com o equipamento.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Preso, mas feliz. A ideia aqui é lhe prender para você não mudar para a marca concorrente. Ou seja, não é uma questão se você vai ou não comprar!
 
+###### Um pouco de história
 
-## Modelo
+**Anos 60 e 70**: Fornecedores de *hardware* e *software* notam que, uma vez que um cliente investia em treinamento, equipamentos compatíveis etc, trocar de fornecedor se tornava caro.  
+Com a popularização do *software* e da internet o lock-in passou a incluir APIs, ecossistemas, assinaturas SaaS etc.
+
+|Isca e anzol | Aprisionamento|
+|:---:|:---:|
+|Nasceu...| Nasceu...|
+|como uma estratégia comercial| como uma consequência da complexidade tecnológica|
+
+
+
+###### Apresionamento vs. iscal/anzol
+
+|Isca e anzol| Aprisionamento|
+|:---:|:---:|
+|Vende-se a máquina barata e lucra-se com as cápsulas| Dificultar que o cliente compre cápsulas de outra marca.|
+
+
+
+
+## Modelos
 
 | Modelo | Ideia central | Exemplos |
 |:---:|:---:|:---:|
@@ -57,17 +90,8 @@ O truque? Luvra-se mais com o consumível do que com o equipamento.
 
 **Modelos - outros casos**  
 
-| Modelo | Ideia central | Exemplos |
-|:---:|:---:|:---:|
-| **Licenciamento perpétuo** | Cliente compra uma licença e usa aquela versão do software, geralmente com pagamento único | Softwares tradicionais de desktop |
-| **Assinatura (*subscription*)** | Cliente paga uma mensalidade ou anuidade para continuar usando o software | SaaS, ferramentas corporativas |
-| **Freemium** | Oferece uma versão gratuita para atrair usuários e cobra por recursos avançados | Aplicativos, ferramentas online |
-| **Open core** | Núcleo do software é aberto/gratuito, mas funcionalidades corporativas são pagas | Plataformas de infraestrutura e desenvolvimento |
-| **SaaS (Software como Serviço)** | Fornecedor hospeda o software e o cliente acessa pela internet, normalmente pagando recorrência | CRMs, ERPs, ferramentas colaborativas |
-| **Marketplace/ecossistema** | Plataforma conecta usuários e desenvolvedores/fornecedores terceiros, podendo cobrar taxas ou comissões | Lojas de aplicativos, plataformas de serviços |
-| **Pay-per-use / Consumo** | Cliente paga conforme o volume de utilização do serviço | APIs, computação em nuvem, processamento |
-| **Land and expand** | Empresa conquista um pequeno uso inicial e depois amplia dentro da organização | Softwares corporativos |
-| **Efeitos de rede (Network effects)** | Valor do produto aumenta conforme cresce o número de usuários ou participantes | Plataformas sociais, colaboração, marketplaces |
+xxx
+**Modelos - outros casos**  
 
 
 
