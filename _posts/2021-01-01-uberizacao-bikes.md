@@ -5,7 +5,12 @@ Tutorial.
 
 ## Componentes
 
-⚠️ Texto voltado a quem tem, ao menos, uma mínima noção de eletrônica.
+⚠️ Para leitura é recomendado mínima noção de eletricidade:  
+
+   Tensão (Voltagem), V.
+   Corrente Contínua, CC (DC).
+   Corrente Alternada, CA (AC).
+
 
 Peças: tão importante quanto marca.
 
@@ -22,20 +27,23 @@ Peças: tão importante quanto marca.
 O motor brushless (Sem Escovas) é o mais comum em e-bikes.  
 
 **Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora.
-A tensão recebida não é fixa. Para um sistema 48 V pode ir de 0 V até ~48 V entre fases.
+A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre fases.
 
-**Sensor Hall**: Componente eletrônico pequeno dentro do motor. Ou seja, faz parte do conjunto do motor e é um sensor. Ficam próximos aos ímãs do rotor. Em um motor BLDC normalmente existem 3. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fph-test-11.slatic.net%2Fp%2F877e417a68f47e840144648fa5ba4058.jpg&f=1&nofb=1&ipt=bbdb54195a18ed2ad681988b4131dd951a8bcf9a4dcd3cb13378d105b870b274" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam próximos aos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
 
 ###### Potência
 
-**Potência 350W** aliado a uma marca de qualidade suporta o tranco do dia a dia para trabalho no iFood, por exemplo. Porém, para as bikes comuns vendidas em loja são motores de marcas secundárias, ou ate sem marca em boa medida.  
-Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho no iFood, 750 W ou 1000 W competem diretamente com as motocicletas nas entregas.
+**350W** aliado a uma marca de qualidade suporta o tranco do dia a dia _ir e voltar do trabalho, profissionais de entregaa etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou ate sem marca (OEM).
 
-**750 W vs. 1000 W**: use o pedal assistido. Acelerador puxa mais energia, se for de 1000 W, tende a gastar mais bateria.
+Motor mais potente que 350 W  e, para trabalho no iFood, 750 W ou 1000 W competem diretamente com as motocicletas nas entregas.
+
+**750 W** é um motor mais potente. Mesmo de marca desconhecida, permite subir ruas bem inclinadas, e portanto, pode-se dizer que desempenha o mesmo de uma motocicleta simples. 
+
+**1000 W**: Acelerador puxa mais energia, tende a gastar mais bateria. Em muitas situações, use o pedal assistido.
 
 ###### Motor
 
-**Bafang** é o "queridinho" das bikes. Bikes que usam ou já usaram:  
+**Bafang** é o "queridinho" das bikes. Algumas eikes que usam ou já usaram:  
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
 
@@ -44,7 +52,7 @@ Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho 
 #### Bateria
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />Ela fornece 48 V CC (corrente contínua), em inglês DC.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />Ela fornece 48 V CC.
 
 **Capacidade, características técnicas**: Ex. 48V 20Ah.  
 
@@ -54,28 +62,32 @@ Motor mais potente que 350 W permite subir ruas bem inclinadas e, para trabalho 
 **1**: 🇰🇷Samsung SDI, 🇰🇷 LG Energy Solution, 🇯🇵Panasonic.  
 **2**: 🇯🇵 Murata (ex-Sony), 🇨🇳 CATL.  
 **3**: 🇨🇳 EVE Energy, 🇨🇳 BYD, 🇨🇳 Lishen, 🇨🇳 BAK.  
-Demais são as genéricas ou sem identificação.  
+👉️ Demais são as genéricas ou sem identificação.  
 
 
 
-#### Controladora e *display*
+#### Controladora, *display* etc
 
 ###### Controladora
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />Recebendo a energia da bateria, a **controladora** converte essa energia, que é do tipo corrente contínua (CC <sup>DC</sup>) de 48 V, em corrente alternada (CA <sup>AC</sup>) trifásica, isso para alimentar o motor (quando se trata de um motor brushless).
-
-
-É composta por:
-
-|Microcontrolador| Dissipador de calor| Conectores|
-|:---:|:---:|:---:|
-|Um processador MCU, *chip* dedicado para esse tipo de aplicação. calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.|||
+<img serc="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />Recebendo a energia da bateria, a **controladora** converte essa energia (que é do tipo de 48 V) em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
 
 Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, o item principal, mas também farol, buzina etc.
 
-**MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com freq. e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />
 
-**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: Para a controladora converter a tensão de CC para CA, a técnica mais usada é a PWM, também usada na síntese sonora.
+É composta por:  
+
+**Conectores e fios**: note que há 5 fios mais grossos (3 referentes ao motor e 2 da bateria).  
+**Dissipador de calor**  
+**Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. Pelas informações que recebe dos sensores, a função principal desse *chip* é decidir quanto de potência enviar ao motor em cada instante. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbatteryswapcabinet.com%2Fwp-content%2Fuploads%2F2023%2F12%2FCommon-faults-of-ebike-controller.webp&f=1&nofb=1&ipt=5092da6ee582abc9117f72500e02153beece6f39a0ce30fc07d3ad867e33da5f" width="320" />
+
+**MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
+
+**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão de CC para CA usando a técnica de PWM, que é a mais usada, também usada na síntese sonora.
 
 |criação de sons| e-bike|
 |:---:|:---:|
@@ -90,15 +102,16 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 |||||
 |:---:|:---:|:---:|:---:|
-|🇨🇳 KT|🇨🇳 Sabvoton|🇨🇳 Votol|🇨🇳 Bafang|
+|KT|Sabvoton|Votol|Bafang|
+|🇨🇳|🇨🇳|🇨🇳|🇨🇳|
 
-⚠️ Se vendedor não especifica, assume o risco de acharmos que é padrão genérico.  
+⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico.  
 
 Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
-|Tensão (Voltagem)|Potência e Corrente| Tipo de Motor (Sensores Hall)|
+|Tensão|Potência e Corrente| Tipo de Motor (Sensores Hall)|
 |:---:|:---:|:---:|
-|Se bateria e motor são 48V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
+|Se bateria e motor são 48 V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
 
 
 **Protocolo de comunicação entre o Display (painel) e a Controladora**.
@@ -109,13 +122,18 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
 
 **Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).
-Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talvez use uma controladora própria.
+👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.
 
 
 
 
 #### Quadro
-**Amortecimento**: Se tem, bike mais pesada, então gasta-se bateria a mais.  
+
+**Amortecimento**:  
+
+|com | sem|
+|:---:|:---:|
+|bike mais pesada, então gasta-se bateria a mais| bicicleta mais leve|
 
 |Aço carbono| Alumínio|
 |:---:|:---:|
@@ -125,16 +143,13 @@ Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talve
 | Pesado e enferruja se a pintura danificar.| Caro, vibra mais, reparação difícil.|
 
 **Alumínio 6061**: tratamento que oferece melhor qualidade.
-**Cromoly** (tipo de aço): leve, durável, absorve vibrações.👎 Caro, raro em bikes 20x4.0.  
+**Cromoly** (tipo de aço): leve, durável, absorve vibrações.  
+👎 Caro, raro em bikes 20x4.0.  
 
 
 
 
-
-#### Roda e pneu 
-
-
-###### Roda - Tamanho
+#### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
 **26**: 26 é a típica do Itau. 
@@ -145,7 +160,9 @@ Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talve
 
 
 
-#### Pneu - tipo
+#### Pneu
+
+######  Pneu - tipo
 
 |Slick| Street / Semi-Slick| Cravo|
 |:---:|:---:|:---:|
@@ -155,8 +172,12 @@ Provavelmente, é adotada por marcas como Ouxi, Inow, GTSM1; enquanto Oggi talve
 ⚠️ Como veículo do dia a dia (ir e voltar do trabalho, por ex.) opte pelo tipo de pneu Street / Semi-Slick.  
 Assim, no asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
 
-**Maior Aderência no Asfalto (Seco e Molhado)**: É outra vantagem do Street para trabalho (como "motoboy", por ex."). Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora a estabilidade em curvas e reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro.
+**Street: Maior Aderência no Asfalto (Seco e Molhado)**: É outra vantagem no dia a dia de quem fica muito tempo na rua. Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora...  
 
+||
+|:---:|
+|a estabilidade em curvas|
+|reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro|
 
 
 ###### Street e Semi-Slick - exemplos 20x4.0
@@ -178,9 +199,9 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 **Innova Caracal** (Semi-slick / urbano-misto).  
 
 
-❌ Outras marcas, estas secundárias e não necessariamente pneu tipo street ou semi: DSI, Hycline, Inowa, Movi, Gigas.  
+👎️ **Marcas secundárias** (street, cravo etc): DSI, Hycline, Inowa, Movi, Gigas.  
 Destas, algumas caem no genérico de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fabricado por terceiro e a empresa põe a marca).  
-❌ Marcas que não fazem pneu 20x4.0:  
+❌ **Marcas que não fazem pneu 20x4.0**:  
 Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
 
