@@ -114,18 +114,22 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |Se bateria e motor são 48 V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
 
 
-**Protocolo de comunicação entre o Display (painel) e a Controladora**.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fv8fatbike.com%2Fwp-content%2Fuploads%2F2024%2F03%2Ftamobyke-electric-bike-display.jpg&f=1&nofb=1&ipt=1512c9636bd94603fb18952c923aa8afca527c1db6c05c476a84eec2a46e04c2" width="120" />**Protocolo de comunicação entre o Display (painel) e a Controladora**.
 
 
 |Protocolo Ouxi|Protocolo GTSM1|
 |:---:|:---:|
 |UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
 
-**Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).
+**Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
 👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.
+⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.
 
-
-
+    Bateria
+       |
+    Controladora  <----->  Display
+       |
+    Motor
 
 #### Quadro
 
@@ -152,10 +156,14 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 #### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
-**26**: 26 é a típica do Itau. 
+**26**: 26 é a típica ebike do Itau. Em ebike tende a mais furos, devido maior carga sobre o pneu.   
 **29**: roda nesse tamanho força o motor.  
-**20x4.0**: Pneu mais largo semelhante a moto, favorece estabilidade e absorção de buracos. Há um consumo um pouco mais elevado da bateria. Vem se tornando comuns no sul do Brasil.  
+**20x4.0**: usa pneu mais largo. Vem se tornando comum no sul do Brasil. Características? 
 
+|👍️|👎️|
+|:---:|
+|Favorece estabilidade e absorção de buracos| Há um consumo um pouco mais elevado da bateria.|
+|Mais imune a furo do tipo modida de cobra| Mais caro (que o 26)|
 
 
 
@@ -237,16 +245,11 @@ A importância delas reside no pós- venda, garantia, peças reposição, seguro
 |:---:|:---:|
 |Temos peças e eletrônica genéricas, baratas e universais| Sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
 
-Exemplos de marcas relacionadas a modelos de neócios.  
+Exemplos de marcas relacionadas a modelos de negócios.  
 
-|||
-|:---:|:---:|
-|**Sem lock-in**| **Baixo lock-in**|
-|Sousa Bike e Duos|Caloi|
-||GTSM1, Bikelete, Bike Fast|
-|**Médio lock-in**| **Alto lock-in**|
-|Atrio (Multilaser) | Sense Bee|
-|Ouxi, iNow, Konnan, Giorrad, Colorway, Move Ways, Starmega| Two Dogs, StreetGo, Rava (TSW)|
+|sem (ou baixo)| médio | alto|
+|:---:|:---:|:---:|
+|Ouxi Colorway Starmega | GTSM1 Sousa Bike Bikelete Bike Fast Bee iNow (ou alto) Konnan Giorrad Move Ways Two Dogs | StretGo Rava (TSW) Sense Duos Caloi Atrio (Multilaser)|
 
 
 |Baixo temos...| Médio temos...|
