@@ -5,11 +5,11 @@ Tutorial.
 
 ## Componentes
 
-⚠️ Para leitura é recomendado mínima noção de eletricidade:  
+⚠️ Para leitura é recomendado mínima noção de eletricidade:   
 
-   Tensão (Voltagem), V.
-   Corrente Contínua, CC (DC).
-   Corrente Alternada, CA (AC).
+    Tensão (Voltagem), V.
+    Corrente Contínua, CC (DC).
+    Corrente Alternada, CA (AC).
 
 
 Peças: tão importante quanto marca.
@@ -162,7 +162,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 |👍️|👎️|
 |:---:|
-|Favorece estabilidade e absorção de buracos| Há um consumo um pouco mais elevado da bateria.|
+|Favorece estabilidade e absorção de buracos, controle durante o freiar.| Há um consumo um pouco mais elevado da bateria.|
 |Mais imune a furo do tipo modida de cobra| Mais caro (que o 26)|
 
 
@@ -177,15 +177,13 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |projetado para pistas perfeitas| economiza a bateria; Menos vibração e ruído. Proporciona uma rodagem suave. Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada,a celera o desgaste ou afrouxamento de componentes da bicicleta.|
 |água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
 
-⚠️ Como veículo do dia a dia (ir e voltar do trabalho, por ex.) opte pelo tipo de pneu Street / Semi-Slick.  
-Assim, no asfalto, evite cravos. Velocidade < 20 km/h: caso a considerar possível uso. 
+👍️ **Street / Semi-Slick**: Ideal no dia a dia, ir e voltar do trabalho ou quem fica muito tempo na rua.    
+◾ contato mais contínuo com o asfalto, o que favore a aderência.
+◾ O pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).  
+◾ Estabilidade em curvas, sendo mais previsível.  
+◾ Reduz a distância de frenagem, algo vital no Rio de Janeiro.  
 
-**Street: Maior Aderência no Asfalto (Seco e Molhado)**: É outra vantagem no dia a dia de quem fica muito tempo na rua. Em vias urbanas, o pneu liso possui maior área de contato real com o asfalto do que o pneu de cravos. Isso melhora...  
-
-||
-|:---:|
-|a estabilidade em curvas|
-|reduz a distância de frenagem, fator crítico no trânsito do Rio de Janeiro|
+👎️ **Cravos**: No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso. 
 
 
 ###### Street e Semi-Slick - exemplos 20x4.0
