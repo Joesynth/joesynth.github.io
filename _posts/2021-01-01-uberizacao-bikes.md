@@ -3,6 +3,7 @@
 Tutorial.
 
 
+
 ## Componentes
 
 ⚠️ Para leitura é recomendado mínima noção de eletricidade:   
@@ -198,19 +199,42 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 Abaixo está, mais ou menos, numa lista de qualidade.  
 
-**Schwalbe Super Moto-X** (semi-slick).  
-**Maxxis MaxxVenture E50** Street / Semi-Slick.  
-**CST Big Boat** (semi-slick).  
+ 
 **CST BFT** (Big Fat Tire): misto (all-terrain) - o "Urban" é menos indicado para trabalho no iFood.  
 *CST e Maxxis são marcas da Cheng Shin Rubber.  
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** - Street / Semi-Slick.  
-**Chaoyang Sand Storm** - Street / semi-slick.  
-**Chaoyang Big Smoothyroad** - Street.  
-**Chaoyang Big Daddy** - Semi-slick / urbano-misto.  
-**Arisun Big Smoothy** (Street / semi-slick).  
-**Arisun Street-Go** (Street / urbano).  
-**Innova IA-3025** Semi-Slick.  
-**Innova Caracal** (Semi-slick / urbano-misto).  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze**.  
+
+
+|Street / Semi-Slick|Street|
+|:---:|:---:|
+|Maxxis MaxxVenture E50|Chaoyang Big Smoothyroad|
+|Kenda Kraze (Foto)|Arisun Street-Go|
+|Chaoyang Sand Storm||
+|Arisun Big Smoothy||  
+
+
+|Semi-slick / urbano-misto|
+|:---:|
+|Chaoyang Big Daddy|
+|Innova Caracal|  
+
+
+|Semi-Slick|
+|:---:|
+|Schwalbe Super Moto-X|
+|CST Big Boat|
+|Innova IA-3025|  
+
+
+Ou seja...  
+👉️ Street - pneu para uso urbano (asfalto, concreto, ciclovias e pavimento).  
+👉️ Cravo é o pneu mais voltado para terra.  
+👉️ Semi-slick define o desenho do pneu.  
+👉️ Slick e semi-slick têm relação principalmente com o desenho da banda de rodagem, não com o tipo de solo.  
+
+
+
+
 
 
 👎️ **Marcas secundárias** (street, cravo etc): DSI, Hycline, Inowa, Movi, Gigas.  
