@@ -47,7 +47,7 @@ Motor mais potente que 350 W  e, para trabalho no iFood, 750 W ou 1000 W compete
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
 
-
+**Peso do motor**:  750 W é cerca de 1 kg a menos que o de 1000. 
 
 #### Bateria
 
@@ -125,11 +125,11 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.
 ⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.
 
-    Bateria
-       |
-    Controladora  <----->  Display
-       |
-    Motor
+      Bateria
+         |
+    Controladora  <--->  Display
+         |
+       Motor
 
 #### Quadro
 
@@ -137,7 +137,10 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 |com | sem|
 |:---:|:---:|
-|bike mais pesada, então gasta-se bateria a mais| bicicleta mais leve|
+|Bike mais pesada, então gasta-se bateria a mais| Bicicleta mais leve|
+|Com amortecimento o peso da bicicleta pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
+
+
 
 |Aço carbono| Alumínio|
 |:---:|:---:|
@@ -225,7 +228,7 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
 **Freio hidráulico**: Melhor que mecânico. Vital em bike de +40 kg. Recomendando na velocidade acima de 20 km/h.  
 **acabamento**.  
-**Peso da bike - influenciará**: Material do quadro. Sem amortecimento (na frente e atrás) a bike pode ter 30 kg, e com chegar aos 38 kg em média. Peso do motor (750 é cerca de 1 kg a menos que o 1000).  
+**Peso da bike - influenciará**: Material do quadro, se tem ou não amortecimento, motor, são alguns itens.  
 **Peso suportado**: No geral, 120 kg é o que elas suportam, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar comida de animais ou bebida.  
 
 
@@ -469,8 +472,11 @@ Venda Duos E-vok.
 96414-8812  
 Cardoso Quintão, 636.  
 Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 98531-5444 [PROVAVEl SÓ BIKE COMUM]  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá) - 99809-0332 (Michele) [PROVAVEl SÓ BIKE COMUM]  
+**RM Bike Motorizada**: 🔧 ⚙️ Colégio (Estação Metro após Irajá).  
+99809-0332 (Michele).  
+Est. fo Colégio, 115.  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá).  
+98531-5444  
 **Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
@@ -499,9 +505,11 @@ Vende Mobe B01
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598   
 967820209  
-**Din Bike Elétrica** 🛒 🔧  Recreio.  
+**Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
-**Salmo** 🔧 (Técnico ebike - indicação prof. Silas).  
+
+
+
 **Wallace** 🔧 (Técnico ebike - indicação prof. Silas).  
 982571610  
 **Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
@@ -517,10 +525,21 @@ Curso de Scooter/Moto Elétrica
 99191-0774  
 Vende Inow.  
 🔗️ domusviridi.com.br  
-**Fag Moto Peças** 🔧 São João de Meriti  
+**Fag Moto Peças** 🔧 S.J. de Meriti.  
 988776811  
 @fagmotopecassj (Insta)  
 R. Gessy Gonçalves Fontes, 192  
+**Salmo** (Doctor Bike) 🔧 S.J. de Meriti.  
+Técnico ebike (indicação prof. Silas).  
+99476 5084
+Av. Getulio de Moura, 386
+"A bateria não avisa. Ela simplesmente para."  
+**Nitros Bike** 🛒 🔧 ⚙️ S.J. de Meriti.  
+96550 3759
+Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
+
+
+
 **AlugMotos Locadora** - Nova Iguaçu  
 97358-7703  
 Cel. Francisco Soares, 667.  
