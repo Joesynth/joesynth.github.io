@@ -179,20 +179,31 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 #### Pneu
 
-######  Pneu - tipo
+###### Street vs. Cravo - pneu quanto ao tipo de solo
 
-|Slick| Street / Semi-Slick| Cravo|
-|:---:|:---:|:---:|
-|projetado para pistas perfeitas| economiza a bateria; Menos vibração e ruído. Proporciona uma rodagem suave. Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada,a celera o desgaste ou afrouxamento de componentes da bicicleta.|
-|água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
+|Street| Cravo|
+|:---:|:---:|
+| Uso urbano (asfalto, concreto, ciclovias e pavimento). | Pneu mais voltado para terra.  |
+| Menos vibração e ruído. Proporciona uma rodagem suave.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
+|| No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.|
+|| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
+|Ideal no dia a dia, ir e voltar do trabalho ou quem fica horas na rua||
 
-👍️ **Street / Semi-Slick**: Ideal no dia a dia, ir e voltar do trabalho ou quem fica muito tempo na rua.    
-◾ contato mais contínuo com o asfalto, o que favore a aderência.  
-◾ O pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).  
-◾ Estabilidade em curvas, sendo mais previsível.  
-◾ Reduz a distância de frenagem, algo vital no Rio de Janeiro.  
 
-👎️ **Cravos**: No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso. 
+
+###### Pneu: o tipo de desenho
+
+Aqui temos a relação com o desenho da banda de rodagem.
+
+|Slick| Semi-slick|
+|:---:|:---:|
+| Banda de rodagem lisa, sem sulcos.| Há poucos sulcos, preservando grande área de contato com o solo.|
+| Agua no canto da via: ele não "empurra" para fora. | Sulcos (frisos) no pneu agem como canais de escoamento.|
+| Projetado para pistas perfeitas| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).|
+|| Contato mais contínuo com o asfalto, o que favore a aderência.|
+|| Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).|
+|| Estabilidade em curvas, sendo mais previsível.|
+|| Reduz a distância de frenagem, algo vital no Rio de Janeiro.|
 
 
 ###### Street e Semi-Slick - exemplos 20x4.0
@@ -200,8 +211,6 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 Abaixo está, mais ou menos, numa lista de qualidade.  
 
  
-**CST BFT** (Big Fat Tire): misto (all-terrain) - o "Urban" é menos indicado para trabalho no iFood.  
-*CST e Maxxis são marcas da Cheng Shin Rubber.  
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze**.  
 
 
@@ -211,6 +220,8 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 |Kenda Kraze (Foto)|Arisun Street-Go|
 |Chaoyang Sand Storm||
 |Arisun Big Smoothy||  
+
+*CST e Maxxis são marcas da Cheng Shin Rubber.  
 
 
 |Semi-slick / urbano-misto|
@@ -225,17 +236,8 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 |CST Big Boat|
 |Innova IA-3025|  
 
-
-Ou seja, quanto ao tipo de solo temos...  
-
-|Street| Cravo|
-|:---:|:---:|
-| Pneu de uso urbano (asfalto, concreto, ciclovias e pavimento). | Pneu mais voltado para terra.  |
-
-E no que define o desenho do pneu...  
-Slick e semi-slick têm relação principalmente com o desenho da banda de rodagem.
-
-
+**"Cravo moderado"**:  
+**CST BFT** (Big Fat Tire): misto (all-terrain) - Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).
 
 
 
@@ -369,12 +371,7 @@ Freio hid.
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
 Foco em Custo-Benefício.  
 
-**GTS V8D S7** (750w)  
-Cuidado ⚠️ Banco baixo jovens  
-🔲 Aço carbono  
-Freio mecánico  
-➰ Suspensão - frente.   
-🔗 lojagtsm1.com.br 
+
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />**GTSM1 🇧🇷 V8S**.  
 ⚡ 750w 🔋 48v 15Ah  
@@ -441,6 +438,7 @@ Bagageiro/suporte traseiro remo.
 Pode ou não ter suspensão traseira, varia.
 
 
+
 #### ➰ Suspensão dupla
 
 
@@ -481,6 +479,10 @@ Freio hid.
 ⚡ 750w 🔋 48v 15Ah  
 🔋 1000w modelo recente  
 VelMax 32  
+
+**Inow C20**:
+⚡ 750w
+Susp. frente e atrás
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  1000W  
