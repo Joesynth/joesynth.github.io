@@ -226,11 +226,14 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 |Innova IA-3025|  
 
 
-Ou seja...  
-👉️ Street - pneu para uso urbano (asfalto, concreto, ciclovias e pavimento).  
-👉️ Cravo é o pneu mais voltado para terra.  
-👉️ Semi-slick define o desenho do pneu.  
-👉️ Slick e semi-slick têm relação principalmente com o desenho da banda de rodagem, não com o tipo de solo.  
+Ou seja, quanto ao tipo de solo temos...  
+
+|Street| Cravo|
+|:---:|:---:|
+| Pneu de uso urbano (asfalto, concreto, ciclovias e pavimento). | Pneu mais voltado para terra.  |
+
+E no que define o desenho do pneu...  
+Slick e semi-slick têm relação principalmente com o desenho da banda de rodagem.
 
 
 
@@ -267,9 +270,9 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
 ## As marcas
 
-A importância delas reside no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
+A importância delas está no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
 
-É bom estar atento ao [modelo de negócio](/modelo-de-negocio) que elas usam, como **isca e anzol** e **aprisionamento tecnológico**:
+Fique atento ao [modelo de negócio](/modelo-de-negocio) que elas usam _**isca e anzol**, **aprisionamento tecnológico** etc.  
 
 |Sem aprisionamento|Com aprisionamento|
 |:---:|:---:|
@@ -286,9 +289,10 @@ Exemplos de marcas relacionadas a modelos de negócios.
 |:---:|:---:|
 |eletrônica simples, aceita controladoras e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
 
-**O bom pós venda**: pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
+**Bom pós venda?** Pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
 
-**Lock-in técnico**: Exemplo:
+**Lock-in técnico**: Exemplo:  
+
     display: só conversa com controladora específica.
     controladora: usa protocolo/conectores próprios.
     bateria: BMS ou comunicação proprietária.
@@ -297,28 +301,29 @@ Exemplos de marcas relacionadas a modelos de negócios.
 
 ###### Marcas - fábricas, distribuidores e afins
 
-A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras lidam diretamente com o cliente, etc. Estrutura (ebike tipo "V8"), ex.:
+A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras diretamente com o cliente, etc. Estrutura (ebike tipo "V8"). Ex.:  
+
 
 |boa | média| baixa|
 |:---:|:---:|:---:|
-|🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|
+|🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|  
 
 
+🔗️ bikelete.com  
 
 Mais marcas, independente de ser ou não V8, incluem...  
-Rava (TSW), StreetGo (Oggi), Two Dogs, Konnan.
 Woie.  
 *<del>Dafra</del>.  
 Bee.  
 
 Starmega: Verificar se há falta de suporte e disponibilidade de peças.  
 E ainda, verifique se tal marca não é uma loteria; visto que reposição de peças e garantia variam bastante. 
-🔗️ bikelete.com  
+
 
 👉️ Mais importante que marca é peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
 
 
-#### OEM - Fabricante Original de Equipamentos
+#### OEM <sup>Fabricante Original de Equipamentos</sup>
 
 Uma empresa "x" fabrica mil produtos. Fulando compra 400, Beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
 
@@ -423,8 +428,17 @@ Peso 160kg ❤️
 Manopla parece baixa 😡  
 ➰ Suspensão: não.   
 
-**Starmega V8 / V8 Pro** 750W
-🇧🇷
+
+<img src="https://http2.mlstatic.com/D_Q_NP_2X_945467-MLA100055727613_122025-F.webp" width="120" />
+**Starmega V8** 
+⚡ 750w 🔋 48V  
+➰ Suspensão: dianteira.   
+Freio hidráulico.  
+Bagageiro/suporte traseiro remo.
+
+
+**Starmega V8 Pro** 750W
+Pode ou não ter suspensão traseira, varia.
 
 
 #### ➰ Suspensão dupla
