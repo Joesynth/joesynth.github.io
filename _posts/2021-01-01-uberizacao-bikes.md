@@ -24,30 +24,31 @@ Peças: tão importante quanto marca.
 
 #### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
 
-O motor brushless (Sem Escovas) é o mais comum em e-bikes.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />O motor brushless (Sem Escovas) é o mais comum em e-bikes.  
 
 **Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora.
 A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre fases.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fph-test-11.slatic.net%2Fp%2F877e417a68f47e840144648fa5ba4058.jpg&f=1&nofb=1&ipt=bbdb54195a18ed2ad681988b4131dd951a8bcf9a4dcd3cb13378d105b870b274" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam próximos aos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FEbike-hall-Electric-Scooter-Hall-Sensor-120-413F-PCB-Cable-for-3wheel-motor_3489a99a-cc8e-4e1c-8dd2-469e08dabecb.76859c9401138485f53992cf197c2d75.jpeg&f=1&nofb=1&ipt=2329fc0fc2a19dfb9fd7b3f397222078170408f3cb2cdc18db1f3cbc6f4d1693" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam próximos aos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
 
 ###### Potência
 
-**350W** aliado a uma marca de qualidade suporta o tranco do dia a dia _ir e voltar do trabalho, profissionais de entregaa etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou ate sem marca (OEM).
+**350 W** aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, fazer entregas etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou ate sem marca (OEM).
 
-Motor mais potente que 350 W  e, para trabalho no iFood, 750 W ou 1000 W competem diretamente com as motocicletas nas entregas.
+**750 W** é um motor mais potente. Mesmo de marca desconhecida ou OEM, permite subir ruas bem inclinadas, e portanto, pode-se dizer que desempenha o mesmo papel de uma motocicleta simples, nesse sentido. 
 
-**750 W** é um motor mais potente. Mesmo de marca desconhecida, permite subir ruas bem inclinadas, e portanto, pode-se dizer que desempenha o mesmo de uma motocicleta simples. 
+**1000 W**: mais potente, porém acelerador puxa mais energia; tende a gastar mais bateria. Em muitas situações, use o pedal assistido.
 
-**1000 W**: Acelerador puxa mais energia, tende a gastar mais bateria. Em muitas situações, use o pedal assistido.
-
-###### Motor
+###### Motor: marcas e peso
 
 **Bafang** é o "queridinho" das bikes. Algumas eikes que usam ou já usaram:  
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
 
 **Peso do motor**:  750 W é cerca de 1 kg a menos que o de 1000. 
+
+
+
 
 #### Bateria
 
@@ -62,6 +63,7 @@ Motor mais potente que 350 W  e, para trabalho no iFood, 750 W ou 1000 W compete
 **1**: 🇰🇷Samsung SDI, 🇰🇷 LG Energy Solution, 🇯🇵Panasonic.  
 **2**: 🇯🇵 Murata (ex-Sony), 🇨🇳 CATL.  
 **3**: 🇨🇳 EVE Energy, 🇨🇳 BYD, 🇨🇳 Lishen, 🇨🇳 BAK.  
+
 👉️ Demais são as genéricas ou sem identificação.  
 
 
@@ -72,13 +74,20 @@ Motor mais potente que 350 W  e, para trabalho no iFood, 750 W ou 1000 W compete
 
 <img serc="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />Recebendo a energia da bateria, a **controladora** converte essa energia (que é do tipo de 48 V) em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
 
-Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, o item principal, mas também farol, buzina etc.
+Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, o item principal, mas também farol, buzina etc.  
+
+
+**Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
+👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.  
+⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.  
+
+
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />
 
 É composta por:  
 
-**Conectores e fios**: note que há 5 fios mais grossos (3 referentes ao motor e 2 da bateria).  
+**Conectores e fios**: note que há 5 fios mais grossos (2 da bateria, 3 do motor).  
 **Dissipador de calor**  
 **Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. Pelas informações que recebe dos sensores, a função principal desse *chip* é decidir quanto de potência enviar ao motor em cada instante. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
 
@@ -87,9 +96,9 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 **MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
 
-**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão de CC para CA usando a técnica de PWM, que é a mais usada, também usada na síntese sonora.
+**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/09/16/tipos-de-sintese-sonora/), a técnica mais usada _também utilizada na música para criação de sons.
 
-|criação de sons| e-bike|
+|síntese sonora| e-bike|
 |:---:|:---:|
 |PWM| PWM|
 |A técnica altera a largura dos pulsos de uma onda quadrada para mudar o timbre do som| Também altera a largura dos pulsos|
@@ -100,12 +109,11 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 ###### Marcas boas
 
-|||||
-|:---:|:---:|:---:|:---:|
 |KT|Sabvoton|Votol|Bafang|
+|:---:|:---:|:---:|:---:|
 |🇨🇳|🇨🇳|🇨🇳|🇨🇳|
 
-⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico.  
+⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico, OEM.  
 
 Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
@@ -121,9 +129,6 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |:---:|:---:|
 |UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
 
-**Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
-👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.
-⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.
 
       Bateria
          |
@@ -159,7 +164,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 #### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
-**26**: 26 é a típica ebike do Itau. Em ebike tende a mais furos, devido maior carga sobre o pneu.   
+**26**: É  a típica ebike do Itau. Em ebike tende a mais furos, devido maior carga sobre o pneu.   
 **29**: roda nesse tamanho força o motor.  
 **20x4.0**: usa pneu mais largo. Vem se tornando comum no sul do Brasil. Características? 
 
@@ -181,7 +186,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |água no canto da via: ele não "empurra" para fora| sulcos (frisos) no pneu agem como canais de escoamento.| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
 
 👍️ **Street / Semi-Slick**: Ideal no dia a dia, ir e voltar do trabalho ou quem fica muito tempo na rua.    
-◾ contato mais contínuo com o asfalto, o que favore a aderência.
+◾ contato mais contínuo com o asfalto, o que favore a aderência.  
 ◾ O pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).  
 ◾ Estabilidade em curvas, sendo mais previsível.  
 ◾ Reduz a distância de frenagem, algo vital no Rio de Janeiro.  
