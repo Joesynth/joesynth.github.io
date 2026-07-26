@@ -25,29 +25,40 @@ Peças: tão importante quanto marca.
 
 #### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />O motor brushless (Sem Escovas) é o mais comum em e-bikes.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />O motor *brushless* (sem escovas) é o mais comum em e-bikes.  
+
+É o item principal.  
+
+          <---
+    motor      controladora
+          --->
 
 **Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora.
 A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre fases.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FEbike-hall-Electric-Scooter-Hall-Sensor-120-413F-PCB-Cable-for-3wheel-motor_3489a99a-cc8e-4e1c-8dd2-469e08dabecb.76859c9401138485f53992cf197c2d75.jpeg&f=1&nofb=1&ipt=2329fc0fc2a19dfb9fd7b3f397222078170408f3cb2cdc18db1f3cbc6f4d1693" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam próximos aos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FEbike-hall-Electric-Scooter-Hall-Sensor-120-413F-PCB-Cable-for-3wheel-motor_3489a99a-cc8e-4e1c-8dd2-469e08dabecb.76859c9401138485f53992cf197c2d75.jpeg&f=1&nofb=1&ipt=2329fc0fc2a19dfb9fd7b3f397222078170408f3cb2cdc18db1f3cbc6f4d1693" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam perto dos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.  
+
+Os sinais digitais enviados são em CC com tensão dé 5 V (ou mesmo 3,3 V).  
+
 
 ###### Potência
 
-**350 W** aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, fazer entregas etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou ate sem marca (OEM).
+**350 W**: Aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, horas na rua etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou ate sem marca (OEM).
 
-**750 W** é um motor mais potente. Mesmo de marca desconhecida ou OEM, permite subir ruas bem inclinadas, e portanto, pode-se dizer que desempenha o mesmo papel de uma motocicleta simples, nesse sentido. 
+**750 W**: Mais potente, mesmo de marca desconhecida ou OEM, permite subir ruas bem inclinadas. Pode-se dizer que cumpre o mesmo papel de uma motocicleta simples, nesse sentido.
 
-**1000 W**: mais potente, porém acelerador puxa mais energia; tende a gastar mais bateria. Em muitas situações, use o pedal assistido.
+**1000 W**: Com esta potência o acelerador puxará mais energia, gastando mais bateria. É recomendável equilibrar com o pedal assistido.
+
+###### Peso do motor
+
+750 W é cerca de 1 kg a menos que o de 1000. 
+
 
 ###### Motor: marcas e peso
 
 **Bafang** é o "queridinho" das bikes. Algumas eikes que usam ou já usaram:  
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
-
-**Peso do motor**:  750 W é cerca de 1 kg a menos que o de 1000. 
-
 
 
 
@@ -58,7 +69,7 @@ A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre f
 
 **Capacidade, características técnicas**: Ex. 48V 20Ah.  
 
-**Relevância / qualidade**:  
+**Marcas: Relevância / qualidade**:  
 
 
 **1**: 🇰🇷Samsung SDI, 🇰🇷 LG Energy Solution, 🇯🇵Panasonic.  
@@ -67,6 +78,7 @@ A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre f
 
 👉️ Demais são as genéricas ou sem identificação.  
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nexusapp.co%2Fassets%2Fd5%2Ffb%2Fe8%2F126382257.jpg&f=1&nofb=1&ipt=3120333622d7f459045016cf4f08e7774596c8c490b53b5cfb6d32d9cad1cb73" width="120" />**BMS** (Battery Management System - Sistema de Gerenciamento da Bateria): É um *ckt* eletrônico de controle e proteção, fica ligado às células da bateria.  
 
 
 #### Controladora, *display* etc
@@ -75,7 +87,7 @@ A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre f
 
 <img serc="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />Recebendo a energia da bateria, a **controladora** converte essa energia (que é do tipo de 48 V) em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
 
-Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, o item principal, mas também farol, buzina etc.  
+Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
 
 
 **Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
@@ -310,13 +322,12 @@ A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional.
 |:---:|:---:|:---:|
 |🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|  
 
+Konnan é um caso, típica importadora e distribuidora.  
 
 🔗️ bikelete.com  
 
 Mais marcas, independente de ser ou não V8, incluem...  
-Woie.  
-*<del>Dafra</del>.  
-Bee.  
+Woie, *<del>Dafra</del>, Bee.  
 
 Starmega: Verificar se há falta de suporte e disponibilidade de peças.  
 E ainda, verifique se tal marca não é uma loteria; visto que reposição de peças e garantia variam bastante. 
@@ -327,7 +338,7 @@ E ainda, verifique se tal marca não é uma loteria; visto que reposição de pe
 
 #### OEM <sup>Fabricante Original de Equipamentos</sup>
 
-Uma empresa "x" fabrica mil produtos. Fulando compra 400, Beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
+A ideia? Uma empresa faz mil produtos, fulando compra 400, beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
 
 Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
@@ -451,7 +462,6 @@ Pode ou não ter suspensão traseira, varia.
 Freio hid.  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844689_x.jpg" width="120" />**Konnan 🇧🇷 Winner**.  
-Típica importadora e distribuidora.  
 ⚡ 750w 🔋 48V 18,2Ah remo.  
 VelMax 32 peso 120  
 Auto. 50 km com assis. pedal.  
@@ -508,6 +518,7 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
     🛒 Venda 🔧 Manutenção ⚙️ Peças
 
+<small>
 **Inovabike** 🔧 ⚙️ Irajá.  
 986650076  
 **Eplay** 🛒 🔧 ⚙️ Jacaré.  
@@ -529,6 +540,12 @@ Est. fo Colégio, 115.
 98268-8386  
 **Nossa Bike** Rocha Miranda.  
 98015-4606  
+**DK Bicicleta Elétrica** 🛒 🔧 Bangu.
+96472-4634
+🔗️dkbicicletaeletrica.com.br
+Rua Figueiredo Camargo, 1133
+Vende Duos E-vok
+
 **Mobe** 🛒 Anil  
 96914-2237  
 Vende Mobe B01  
@@ -547,6 +564,14 @@ Vende Mobe B01
 99776-1236  
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
+**Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.
+96576-8965
+Rua Santa Clara, 99 A.
+**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
+96736-9737  
+Marca própria  
+🔗️ bossaeletricas.com.br  
+
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598   
 967820209  
@@ -559,6 +584,12 @@ Vende Mobe B01
 982571610  
 **Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
 Curso.  
+**Elétric Barra** 🛒 🔧 Barra da Tijuca.  
+98481-0789  
+2484-8489  
+Av. Ayrton 5500 Bloco 03 Loja 128 - Shopping Uptown Barra.  
+
+
  **Motorei**  
 Curso  
 **Tafarel Louzada**  
@@ -589,7 +620,7 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 97358-7703  
 Cel. Francisco Soares, 667.  
 🔗️ alugmotos.com 
-
+</small>
 
 ###### Manuteção somente mecânica - não parte elétrica
 
@@ -632,9 +663,11 @@ Velocidade até 20 km/h economiza bastante.
 
 #### Bateria
 
-**Acelerador**: consome bem mais a bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.  
-**Evite Zerar**: Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.  
-**Esfriamento**: Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.  
+|Carregue quando chegar a 20%| Esfriamento| Acelerador|
+|:---:|:---:|:---:|
+|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.| Consome bem mais a bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
+
+
 
 
 
