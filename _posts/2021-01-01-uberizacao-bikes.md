@@ -25,20 +25,17 @@ Peças: tão importante quanto marca.
 
 #### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />O motor *brushless* (sem escovas) é o mais comum em e-bikes.  
-
-É o item principal.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />O motor *brushless* (sem escovas) é o mais comum em e-bikes. É o item principal numa bicicleta elétrica e trabalha diretamente com a controladora, outro componente central.  
 
           <---
     motor      controladora
           --->
 
-**Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora.
-A tensão recebida não é fixa. Umm sistema 48 V pode ir de 0 até 48 V entre fases.
+**Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora. A tensão recebida não é fixa. Um sistema 48 V pode ir de 0 até 48 V entre fases.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FEbike-hall-Electric-Scooter-Hall-Sensor-120-413F-PCB-Cable-for-3wheel-motor_3489a99a-cc8e-4e1c-8dd2-469e08dabecb.76859c9401138485f53992cf197c2d75.jpeg&f=1&nofb=1&ipt=2329fc0fc2a19dfb9fd7b3f397222078170408f3cb2cdc18db1f3cbc6f4d1693" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam perto dos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.  
 
-Os sinais digitais enviados são em CC com tensão dé 5 V (ou mesmo 3,3 V).  
+Os sinais digitais enviados são em CC com tensão de 5 V (ou mesmo 3,3 V).  
 
 
 ###### Potência
@@ -56,7 +53,7 @@ Os sinais digitais enviados são em CC com tensão dé 5 V (ou mesmo 3,3 V).
 
 ###### Motor: marcas e peso
 
-**Bafang** é o "queridinho" das bikes. Algumas eikes que usam ou já usaram:  
+**Bafang** é o "queridinho" das bikes. Algumas bikes que usam ou já usaram:  
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
 
@@ -81,11 +78,12 @@ Os sinais digitais enviados são em CC com tensão dé 5 V (ou mesmo 3,3 V).
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nexusapp.co%2Fassets%2Fd5%2Ffb%2Fe8%2F126382257.jpg&f=1&nofb=1&ipt=3120333622d7f459045016cf4f08e7774596c8c490b53b5cfb6d32d9cad1cb73" width="120" />**BMS** (Battery Management System - Sistema de Gerenciamento da Bateria): É um *ckt* eletrônico de controle e proteção, fica ligado às células da bateria.  
 
 
+
 #### Controladora, *display* etc
 
 ###### Controladora
 
-<img serc="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />Recebendo a energia da bateria, a **controladora** converte essa energia (que é do tipo de 48 V) em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />Recebendo a energia da bateria, a **controladora** converte essa energia (que é do tipo de 48 V) em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
 
 Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
 
@@ -109,7 +107,7 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 **MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
 
-**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/09/16/tipos-de-sintese-sonora/), a técnica mais usada _também utilizada na música para criação de sons.
+**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada _também utilizada na música para criação de sons.
 
 |síntese sonora| e-bike|
 |:---:|:---:|
@@ -182,7 +180,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 **20x4.0**: usa pneu mais largo. Vem se tornando comum no sul do Brasil. Características? 
 
 |👍️|👎️|
-|:---:|
+|:---:|:---:|
 |Favorece estabilidade e absorção de buracos, controle durante o freiar.| Há um consumo um pouco mais elevado da bateria.|
 |Mais imune a furo do tipo modida de cobra| Mais caro (que o 26)|
 
@@ -195,11 +193,10 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 |Street| Cravo|
 |:---:|:---:|
-| Uso urbano (asfalto, concreto, ciclovias e pavimento). | Pneu mais voltado para terra.  |
+| Uso urbano (asfalto, concreto, ciclovias e pavimento). Ideal no dia a dia, ir e voltar do trabalho, ficar horas na rua. | Pneu mais voltado para terra.  |
 | Menos vibração e ruído. Proporciona uma rodagem suave.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
 || No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.|
 || Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
-|Ideal no dia a dia, ir e voltar do trabalho ou quem fica horas na rua||
 
 
 
@@ -211,7 +208,7 @@ Aqui temos a relação com o desenho da banda de rodagem.
 |:---:|:---:|
 | Banda de rodagem lisa, sem sulcos.| Há poucos sulcos, preservando grande área de contato com o solo.|
 | Agua no canto da via: ele não "empurra" para fora. | Sulcos (frisos) no pneu agem como canais de escoamento.|
-| Projetado para pistas perfeitas| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo fazer mais entregas).|
+| Projetado para pistas perfeitas| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).|
 || Contato mais contínuo com o asfalto, o que favore a aderência.|
 || Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).|
 || Estabilidade em curvas, sendo mais previsível.|
@@ -305,13 +302,9 @@ Exemplos de marcas relacionadas a modelos de negócios.
 
 **Bom pós venda?** Pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
 
-**Lock-in técnico**: Exemplo:  
+**StreetGO (Oggi)**: A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1). 
 
-    display: só conversa com controladora específica.
-    controladora: usa protocolo/conectores próprios.
-    bateria: BMS ou comunicação proprietária.
-
-
+**Lock-in técnico**? É possível. Vide modelo de negócios.
 
 ###### Marcas - fábricas, distribuidores e afins
 
@@ -362,7 +355,8 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
     🔲 quadro ➰ suspensão
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
-⚡ 750W 🔋 48V 15Ah remo? 80Nm
+⚡ 750W 80Nm  
+🔋 48V 15Ah remo?  
 🔲 Aço carbono
 ➰ Suspensão: Dianteira
 
@@ -385,8 +379,9 @@ Foco em Custo-Benefício.
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />**GTSM1 🇧🇷 V8S**.  
-⚡ 750w 🔋 48v 15Ah  
-65Nm VelMax 32  
+⚡ 750w 65Nm  
+🔋 48v 15Ah  
+VelMax 32  
 🛞 CST  
 Freio mec.  
 🔲 Aço  
@@ -404,10 +399,9 @@ Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />**StreetGo S12** 🇧🇷 (Oggi).  
-A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1).  
-⚡ 750W 🔋 48V 15Ah remo.  
+⚡ 750W 80Nm ❤️  
+🔋 48V 15Ah remo.  
 🔋 Marca Samsung ou LG ❤️   
-80Nm ❤️  
 VelMax 32  
 Freio hid. ❤️  
 🔲 Aluminio (mais leve)  
@@ -500,8 +494,8 @@ Susp. frente e atrás
 
 
 **Amyet S8-S** (Bike Gaucho)  
-⚡ 2x1000 🔋 48V 25Ah lítio remo.  
-80Nm, motor marca generica.  
+⚡ 2x1000 80Nm, motor marca generica.  
+🔋 48V 25Ah lítio remo.  
 Vedada, certificação IP54 contra poeira e respingos.  
 Auto. Modo assiti. 65 a 85 km  
 Peso supor. 150 kg
@@ -542,22 +536,19 @@ Est. fo Colégio, 115.
 98015-4606  
 **DK Bicicleta Elétrica** 🛒 🔧 Bangu.
 96472-4634
-🔗️dkbicicletaeletrica.com.br
-Rua Figueiredo Camargo, 1133
+🔗️dkbicicletaeletrica.com.br  
+Rua Figueiredo Camargo, 1133  
 Vende Duos E-vok
-
 **Mobe** 🛒 Anil  
 96914-2237  
 Vende Mobe B01  
 @mobemobilidadeeletrica (Insta)  
-
 **Morais Bike** 🛒 🔧 Centro.  
  97302-7143  
 **Rezende Bike** 🛒 🔧 Centro.  
  Vende Ouxi. Atendimento diretamente no balcão da loja física.  
-
-
-
+---  
+---  
 **Bee Elétricas** 🛒 🔧  Botafogo.  
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **Rota E-Bike** 🛒 🔧  Copacabana.  
@@ -571,15 +562,15 @@ Rua Santa Clara, 99 A.
 96736-9737  
 Marca própria  
 🔗️ bossaeletricas.com.br  
-
+---  
+---  
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598   
 967820209  
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
-
-
-
+---  
+---  
 **Wallace** 🔧 (Técnico ebike - indicação prof. Silas).  
 982571610  
 **Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
@@ -588,15 +579,15 @@ Curso.
 98481-0789  
 2484-8489  
 Av. Ayrton 5500 Bloco 03 Loja 128 - Shopping Uptown Barra.  
-
-
+---  
+---  
  **Motorei**  
 Curso  
 **Tafarel Louzada**  
 @tafarellouzada  
 Curso de Scooter/Moto Elétrica  
-
-
+---  
+---  
 **Domus Viridi** 🛒 Niterói.  
 99191-0774  
 Vende Inow.  
@@ -607,19 +598,18 @@ Vende Inow.
 R. Gessy Gonçalves Fontes, 192  
 **Salmo** (Doctor Bike) 🔧 S.J. de Meriti.  
 Técnico ebike (indicação prof. Silas).  
-99476 5084
-Av. Getulio de Moura, 386
+99476 5084  
+Av. Getulio de Moura, 386  
 "A bateria não avisa. Ela simplesmente para."  
 **Nitros Bike** 🛒 🔧 ⚙️ S.J. de Meriti.  
-96550 3759
-Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
-
-
-
-**AlugMotos Locadora** - Nova Iguaçu  
+96550 3759  
+Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
+---  
+---  
+**AlugMotos Locadora** - Nova Iguaçu.  
 97358-7703  
 Cel. Francisco Soares, 667.  
-🔗️ alugmotos.com 
+🔗️ alugmotos.com  
 </small>
 
 ###### Manuteção somente mecânica - não parte elétrica
