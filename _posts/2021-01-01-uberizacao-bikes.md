@@ -1,4 +1,4 @@
-# Uberização - bikes
+# Ebikes
 
 Tutorial.
 
@@ -29,9 +29,9 @@ O motor *brushless* (sem escovas) é o mais comum em e-bikes.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />É o item principal numa bicicleta elétrica e trabalha diretamente com a controladora, outro componente central.  
 
-          <---
+          ◀───
     motor      controladora
-          --->
+          ───▶
 
 **Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora. A tensão recebida não é fixa. Um sistema 48 V pode ir de 0 até 48 V entre fases.
 
@@ -120,6 +120,7 @@ As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor 
 |Resultado| Objetivo|
 |Cria-se diferentes características sonoras.| É controlar a quantidade de energia entregue ao motor.|
 
+Ou seja, a controladora envia energia em pulsos (PWM) para as bobinas do motor.
 
 
 ###### Marcas boas
@@ -147,10 +148,14 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 
       Bateria
-         |
-    Controladora  <--->  Display
-         |
-       Motor
+         ▲
+         │
+         ▼
+    Controladora  ◀───▶  Display
+         ▲
+         │
+         ▼
+       motor
 
 #### Quadro
 
@@ -362,7 +367,7 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 
 
-<img arc="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 ## Bikes elétricas - 20x4.0
@@ -571,16 +576,15 @@ Est. do Colégio, 115.
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
-**Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.
-96576-8965
+**Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.  
+96576-8965  
 Rua Santa Clara, 99 A.  
 **Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
 96736-9737  
 Marca própria  
 🔗️ bossaeletricas.com.br  
 **Flex Mobi** 🛒  Ipanema / Niterói.  
-97116-3388 99932-2598   
-967820209  
+97116-3388 99932-2598 967820209  
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
 ---  
@@ -588,8 +592,7 @@ Marca própria
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
 **Elétric Barra** 🛒 🔧 Barra da Tijuca.  
-98481-0789  
-2484-8489  
+98481-0789 2484-8489  
 Av. Ayrton 5500 Bloco 03 Loja 128 - Shopping Uptown Barra.  
 **Wallace** 🔧 (Técnico ebike - indicação prof. Silas).  
 982571610  
