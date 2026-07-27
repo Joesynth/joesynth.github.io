@@ -68,7 +68,7 @@ O motor *brushless* (sem escovas) é o mais comum em e-bikes.
 
 **Capacidade, características técnicas**: Ex. 48V 20Ah.  
 
-**Marcas: Relevância / qualidade**:  
+**Marcas: Relevância e qualidade**:  
 
 
 **1**: 🇰🇷Samsung SDI, 🇰🇷 LG Energy Solution, 🇯🇵Panasonic.  
@@ -96,7 +96,7 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fábd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />
 
 É composta por:  
 
@@ -186,7 +186,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 |👍️|👎️|
 |:---:|:---:|
-|Favorece estabilidade e absorção de buracos, controle durante o freiar.| Há um consumo um pouco mais elevado da bateria.|
+|Favorece estabilidade e absorção de buracos, controle durante o frear.| Há um consumo um pouco mais elevado da bateria.|
 |Mais imune a furo do tipo modida de cobra| Mais caro (que o 26)|
 
 
@@ -212,7 +212,7 @@ Aqui temos a relação com o desenho da banda de rodagem.
 |Slick| Semi-slick|
 |:---:|:---:|
 | Banda de rodagem lisa, sem sulcos.| Há poucos sulcos, preservando grande área de contato com o solo.|
-| Agua no canto da via: ele não "empurra" para fora. | Sulcos (frisos) no pneu agem como canais de escoamento.|
+| água no canto da via: ele não "empurra" para fora. | Sulcos (frisos) no pneu agem como canais de escoamento.|
 | Projetado para pistas perfeitas| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).|
 || Contato mais contínuo com o asfalto, o que favore a aderência.|
 || Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).|
@@ -273,7 +273,7 @@ Em suma...
 
 
 👎️ **Marcas secundárias** (street, cravo etc): DSI, Hycline, Inowa, Movi, Gigas.  
-Destas, algumas caem no genérico de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fabricado por terceiro e a empresa põe a marca).  
+Destas, algumas caem no genérico de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fábricado por terceiro e a empresa põe a marca).  
 ❌ **Marcas que não fazem pneu 20x4.0**:  
 Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
@@ -329,7 +329,7 @@ Exemplos de marcas relacionadas a modelos de negócios.
 
 ###### Marcas - fábricas, distribuidores e afins
 
-A maioria não fabrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras diretamente com o cliente, etc. Estrutura (ebike tipo "V8"). Ex.:  
+A maioria não fábrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras diretamente com o cliente, etc. Estrutura (ebike tipo "V8"). Ex.:  
 
 
 |boa | média| baixa|
@@ -350,9 +350,9 @@ E ainda, verifique se tal marca não é uma loteria; visto que reposição de pe
 👉️ Mais importante que marca é peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
 
 
-#### OEM <sup>Fabricante Original de Equipamentos</sup>
+#### OEM <sup>fábricante Original de Equipamentos</sup>
 
-A ideia? Uma empresa faz mil produtos, fulando compra 400, beltrano 600; cada um põe sua marca. Ou seja, a fabrica em si não se envolve com marca ou distribição.  
+A ideia? Uma empresa faz mil produtos, fulando compra 400, beltrano 600; cada um põe sua marca. Ou seja, a fábrica em si não se envolve com marca ou distribuição.  
 
 Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
@@ -362,7 +362,7 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 
 
-
+<img arc="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 ## Bikes elétricas - 20x4.0
@@ -387,7 +387,7 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />**GTSM1 GTS V8D S7**.  
 ⚡ 750W 🔋 48V Lítio 15Ah remo.❤️  
 VelMax 32 km/h  
-Auto. 70 a 80 km ped. assis.  
+Auto. 70 a 80 km Ped. assist.  
 Freio hid.  
 🔲 Aço carbono  ➰ Sus. frente  
 🛞 Chao Yang  
@@ -478,7 +478,7 @@ Freio hid.
 ⚡ 750w 🔋 48V 18,2Ah remo.  
 VelMax 32 peso 120  
 Auto. 50 km com assis. pedal.  
-Garantia fab. 12 meses.  
+Garantia fáb. 12 meses.  
 
 💰6500 ML  
 
@@ -495,7 +495,7 @@ Alarme e chave
 Peso 200 kg  
 Freio hid.  
 💰 8900 ML  
-👉️ Outro anuncio no ML tinha espececificações diferente, por ex, 750w e peso 150 kg.  
+👉️ Outro anuncio no ML tinha especificações diferente, por ex, 750w e peso 150 kg.  
 🔗️ 🇧🇷 inowbrasil.com.br
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow V20 Pro/Brake Pro**.  
@@ -508,6 +508,7 @@ VelMax 32
 
 
 
+
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  1000W  
 
 **Amyet S8-S** (Bike Gaucho)  
@@ -515,7 +516,7 @@ VelMax 32
 🔋 48V 25Ah lítio remo.  
 Vedada, certificação IP54 contra poeira e respingos.  
 Auto. Modo assiti. 65 a 85 km  
-Peso supor. 150 kg
+Peso suport. 150 kg
 
 
 
@@ -558,7 +559,7 @@ Cardoso Quintão, 636.
 Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
 **RM Bike Motorizada** 🔧 ⚙️ Colégio (Estação Metro após Irajá).  
 99809-0332 (Michele).  
-Est. fo Colégio, 115.  
+Est. do Colégio, 115.  
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá).  
 98531-5444  
 **Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
@@ -570,11 +571,9 @@ Est. fo Colégio, 115.
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
-**ConsertaBike** 🔧  Copacabana etc.  
-97158-5627 3439-5005  
 **Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.
 96576-8965
-Rua Santa Clara, 99 A.
+Rua Santa Clara, 99 A.  
 **Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
 96736-9737  
 Marca própria  
@@ -582,6 +581,8 @@ Marca própria
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598   
 967820209  
+**ConsertaBike** 🔧  Copacabana etc.  
+97158-5627 3439-5005  
 ---  
 ---  
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
@@ -627,7 +628,7 @@ Cel. Francisco Soares, 667.
 🔗️ alugmotos.com  
 </small>
 
-###### Manuteção somente mecânica - não parte elétrica
+###### manutenção somente mecânica - não parte elétrica
 
 **Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
 **Biobike** (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
@@ -641,18 +642,20 @@ Cel. Francisco Soares, 667.
 
 #### Acelerador de mão
 
-Não use em em subidas. Ele injeta corrente máxima de forma instantânea; gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
+Não use em subidas. Ele injeta corrente máxima de forma instantânea; gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
 
-#### Motor sendo forçado - Como saber?
+#### Motor sendo forçado
+
+###### Como saber?
 
 Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...
-**Som do motor**: Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).
+**Som do motor**: Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).  
 Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.  
 **Painel (*display*)**: Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.  
 **Pela marchas e pedalada**: Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
 Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado  
 
-#### Subidas íngremes
+#### Subida íngreme
 
 **Pedale rápido com catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
 **Arrancada em ladeira**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
@@ -667,7 +670,7 @@ Velocidade até 20 km/h economiza bastante.
 
 |Carregue quando chegar a 20%| Deixe esfriar| Acelerar gasta mais|
 |:---:|:---:|:---:|
-|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
+|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
 
 
 
