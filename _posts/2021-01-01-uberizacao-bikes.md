@@ -6,7 +6,7 @@ Tutorial.
 
 ## Componentes
 
-⚠️ Para leitura é recomendado mínima noção de eletricidade:   
+⚠️ Para esta leitura é recomendado mínima noção de eletricidade. Os termos incluem:   
 
     Tensão (Voltagem), V.
     Corrente Contínua, CC (DC).
@@ -25,7 +25,9 @@ Peças: tão importante quanto marca.
 
 #### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />O motor *brushless* (sem escovas) é o mais comum em e-bikes. É o item principal numa bicicleta elétrica e trabalha diretamente com a controladora, outro componente central.  
+O motor *brushless* (sem escovas) é o mais comum em e-bikes.  
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />É o item principal numa bicicleta elétrica e trabalha diretamente com a controladora, outro componente central.  
 
           <---
     motor      controladora
@@ -35,12 +37,12 @@ Peças: tão importante quanto marca.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FEbike-hall-Electric-Scooter-Hall-Sensor-120-413F-PCB-Cable-for-3wheel-motor_3489a99a-cc8e-4e1c-8dd2-469e08dabecb.76859c9401138485f53992cf197c2d75.jpeg&f=1&nofb=1&ipt=2329fc0fc2a19dfb9fd7b3f397222078170408f3cb2cdc18db1f3cbc6f4d1693" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam perto dos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.  
 
-Os sinais digitais enviados são em CC com tensão de 5 V (ou mesmo 3,3 V).  
+👉️ Sinais digitais: são enviados em CC _tensão de 5 V (ou mesmo 3,3 V).  
 
 
 ###### Potência
 
-**350 W**: Aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, horas na rua etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou ate sem marca (OEM).
+**350 W**: Aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, horas na rua etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou até sem marca (OEM).
 
 **750 W**: Mais potente, mesmo de marca desconhecida ou OEM, permite subir ruas bem inclinadas. Pode-se dizer que cumpre o mesmo papel de uma motocicleta simples, nesse sentido.
 
@@ -75,7 +77,7 @@ Os sinais digitais enviados são em CC com tensão de 5 V (ou mesmo 3,3 V).
 
 👉️ Demais são as genéricas ou sem identificação.  
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nexusapp.co%2Fassets%2Fd5%2Ffb%2Fe8%2F126382257.jpg&f=1&nofb=1&ipt=3120333622d7f459045016cf4f08e7774596c8c490b53b5cfb6d32d9cad1cb73" width="120" />**BMS** (Battery Management System - Sistema de Gerenciamento da Bateria): É um *ckt* eletrônico de controle e proteção, fica ligado às células da bateria.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nexusapp.co%2Fassets%2Fd5%2Ffb%2Fe8%2F126382257.jpg&f=1&nofb=1&ipt=3120333622d7f459045016cf4f08e7774596c8c490b53b5cfb6d32d9cad1cb73" width="120" />**BMS** <sup>Battery Management System - Sistema de Gerenciamento da Bateria</sup>: É um *ckt* eletrônico de controle e proteção, fica ligado às células da bateria.  
 
 
 
@@ -88,7 +90,7 @@ Os sinais digitais enviados são em CC com tensão de 5 V (ou mesmo 3,3 V).
 Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
 
 
-**Controladora universal**: projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
+**Controladora universal**: É projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
 👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.  
 ⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.  
 
@@ -100,14 +102,16 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 **Conectores e fios**: note que há 5 fios mais grossos (2 da bateria, 3 do motor).  
 **Dissipador de calor**  
-**Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. Pelas informações que recebe dos sensores, a função principal desse *chip* é decidir quanto de potência enviar ao motor em cada instante. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
+**Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. A função principal desse *chip* é decidir quanto de potência enviar ao motor em cada instante _o MCU usa informações que recebe dos sensores. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
+
+As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor freio (manetes) etc.
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbatteryswapcabinet.com%2Fwp-content%2Fuploads%2F2023%2F12%2FCommon-faults-of-ebike-controller.webp&f=1&nofb=1&ipt=5092da6ee582abc9117f72500e02153beece6f39a0ce30fc07d3ad867e33da5f" width="320" />
 
 **MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
 
-**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada _também utilizada na música para criação de sons.
+**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada. A PWM é um método há décadas conhecido na eletrônica _utilizada, por ex., na música para criação de sons.
 
 |síntese sonora| e-bike|
 |:---:|:---:|
@@ -128,8 +132,9 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
-|Tensão|Potência e Corrente| Tipo de Motor (Sensores Hall)|
+|bateria e motor|motor e controladora|motor e controladora|
 |:---:|:---:|:---:|
+|Tensão|Potência e Corrente| Tipo de Motor (Sensores Hall)|
 |Se bateria e motor são 48 V, controladora precisa ser de 48V.|Se motor 750W, controladora deve suportar essa potência e fornecer a corrente correta (geralmente entre 20A e 25A).| Controladora precisa corresponder ao tipo de motor. Motores de 750W comuns usam 3 cabos de fase grossos e 5 fios finos dos sensores Hall. A controladora deve ter essas mesmas conexões.|
 
 
@@ -154,14 +159,14 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |com | sem|
 |:---:|:---:|
 |Bike mais pesada, então gasta-se bateria a mais| Bicicleta mais leve|
-|Com amortecimento o peso da bicicleta pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
+|O peso da bicicleta pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
 
 
 
 |Aço carbono| Alumínio|
 |:---:|:---:|
 |👍️|👍️|
-|barato, resistente a pancadas, fácil soldar.| 2 ou 4 kg mais leve, não oxida.|
+|barato, resistente a pancadas, fácil soldar.| Mais leve (2 ou 4 kg), não oxida.|
 |👎| 👎|
 | Pesado e enferruja se a pintura danificar.| Caro, vibra mais, reparação difícil.|
 
@@ -245,10 +250,26 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 |CST Big Boat|
 |Innova IA-3025|  
 
-**"Cravo moderado"**:  
-**CST BFT** (Big Fat Tire): misto (all-terrain) - Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).
+|misto (all-terrain)<br />cravo moderado|
+|:---:|
+|Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).|
+|CST BFT** (Big Fat Tire)|  
 
 
+Em suma...  
+
+
+    Street / Slick
+    ████████████
+
+    All-terrain (misto)
+    ▇▇▆▇▇▆▇▇▆▇
+    (cravos baixos e próximos)
+
+    Off-road / Cravo
+    ▲   ▲   ▲
+      ▲   ▲
+    (cravos altos e espaçados)
 
 
 👎️ **Marcas secundárias** (street, cravo etc): DSI, Hycline, Inowa, Movi, Gigas.  
@@ -357,8 +378,7 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
 ⚡ 750W 80Nm  
 🔋 48V 15Ah remo?  
-🔲 Aço carbono
-➰ Suspensão: Dianteira
+🔲 Aço carbono ➰ Sus. frente  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />**GTSM1 V8 max**.  
 🔋 750w  
@@ -369,8 +389,7 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 VelMax 32 km/h  
 Auto. 70 a 80 km ped. assis.  
 Freio hid.  
-🔲 Aço carbono  
-➰ Suspensão - frente.  
+🔲 Aço carbono  ➰ Sus. frente  
 🛞 Chao Yang  
 💰 5250 site Gtsm1 ❤️  
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
@@ -384,8 +403,7 @@ Foco em Custo-Benefício.
 VelMax 32  
 🛞 CST  
 Freio mec.  
-🔲 Aço  
-➰ Suspensão frente (V8 e V8S 2.0 idem).   
+🔲 Aço ➰ Sus. frente
 
 **V8**  
 Idem  
@@ -404,22 +422,17 @@ Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.
 🔋 Marca Samsung ou LG ❤️   
 VelMax 32  
 Freio hid. ❤️  
-🔲 Aluminio (mais leve)  
-➰ Suspensão - frente.   
+🔲 Aluminio ➰ Sus. frente. 
 Seguro grátis 12 meses. ❤️❤️  
 💰7400 ML  
 **Foco**: Custo-Benefício.  
 Componentes mecânicos de marcas conhecidas (como Shimano), o que facilita manutenção no dia a dia.  
-**Outros Modelos**:  
-S14, S17: mais caro.  
-🏆 Modelos Premium - Bafang  
-StreetGo S17 / S27 / S40  
 🔗 Gtsm1.com.br  
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595912266_x.jpg" width="120" />**Ouxi 🇨🇳 V8S**.  
 ⚡ 1000w 🔋 48v  
-➰ Suspensão - frente (V8 Pro ou H9 dupla).   
+➰ Sus. frente.   
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911691_x.jpg" width="120" />**Two Dogs 🇧🇷 Bigfoot T1**.  
 ⚡ 750w 🔋 48V  
@@ -434,7 +447,7 @@ Manopla parece baixa 😡
 <img src="https://http2.mlstatic.com/D_Q_NP_2X_945467-MLA100055727613_122025-F.webp" width="120" />
 **Starmega V8** 
 ⚡ 750w 🔋 48V  
-➰ Suspensão: dianteira.   
+➰ Sus. frente.   
 Freio hidráulico.  
 Bagageiro/suporte traseiro remo.
 
@@ -446,8 +459,14 @@ Pode ou não ter suspensão traseira, varia.
 
 #### ➰ Suspensão dupla
 
+Ou seja, na frente e atrás.
 
 **GTSM1 V8X 2.0**  
+
+**StreetGo S27 e S40**  
+
+**Ouxi V8 Pro e Ouxi H9**  
+
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />**Rava (TSW) E-Chopper**.  
@@ -466,7 +485,7 @@ Garantia fab. 12 meses.
 **Konnan Thunder E-Titan G60**.  
 ⚡ 1000w 🔋 48v 15Ah  
 Freio hidraulico  
-Projetada para trab  
+Projetada para trabalho.  
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
@@ -485,13 +504,11 @@ Freio hid.
 VelMax 32  
 
 **Inow C20**:
-⚡ 750w
-Susp. frente e atrás
+⚡ 750w  
+
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  1000W  
-
-
 
 **Amyet S8-S** (Bike Gaucho)  
 ⚡ 2x1000 80Nm, motor marca generica.  
@@ -513,32 +530,14 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
     🛒 Venda 🔧 Manutenção ⚙️ Peças
 
 <small>
-**Inovabike** 🔧 ⚙️ Irajá.  
-986650076  
 **Eplay** 🛒 🔧 ⚙️ Jacaré.  
 966451084  
 Venda Duos E-vok.  
-**Mattos** Mobilidade Elétrica 🔧 Piedade  
-96414-8812  
-Cardoso Quintão, 636.  
-Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
-**RM Bike Motorizada**: 🔧 ⚙️ Colégio (Estação Metro após Irajá).  
-99809-0332 (Michele).  
-Est. fo Colégio, 115.  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá).  
-98531-5444  
-**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
-**Nossa Bike** 🛒 🔧  Rocha Miranda.  
-98399-4723  
-**Nossa Bike** 🔧 Rocha Miranda  
-98268-8386  
-**Nossa Bike** Rocha Miranda.  
-98015-4606  
 **DK Bicicleta Elétrica** 🛒 🔧 Bangu.
 96472-4634
-🔗️dkbicicletaeletrica.com.br  
 Rua Figueiredo Camargo, 1133  
 Vende Duos E-vok
+🔗️dkbicicletaeletrica.com.br  
 **Mobe** 🛒 Anil  
 96914-2237  
 Vende Mobe B01  
@@ -547,6 +546,24 @@ Vende Mobe B01
  97302-7143  
 **Rezende Bike** 🛒 🔧 Centro.  
  Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+**Nossa Bike** 🛒 🔧  Rocha Miranda.  
+98399-4723  
+**Nossa Bike**🔧 Rocha Miranda  
+98268-8386  
+**Nossa Bike** Rocha Miranda.  
+98015-4606  
+**Mattos** Mobilidade Elétrica 🔧 Piedade  
+96414-8812  
+Cardoso Quintão, 636.  
+Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
+**RM Bike Motorizada** 🔧 ⚙️ Colégio (Estação Metro após Irajá).  
+99809-0332 (Michele).  
+Est. fo Colégio, 115.  
+**RM Bike Motorizada**: Colégio (Estação Metro após Irajá).  
+98531-5444  
+**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
+**Inovabike** 🔧 ⚙️ Irajá.  
+986650076  
 ---  
 ---  
 **Bee Elétricas** 🛒 🔧  Botafogo.  
@@ -562,23 +579,21 @@ Rua Santa Clara, 99 A.
 96736-9737  
 Marca própria  
 🔗️ bossaeletricas.com.br  
----  
----  
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598   
 967820209  
+---  
+---  
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
----  
----  
-**Wallace** 🔧 (Técnico ebike - indicação prof. Silas).  
-982571610  
-**Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
-Curso.  
 **Elétric Barra** 🛒 🔧 Barra da Tijuca.  
 98481-0789  
 2484-8489  
 Av. Ayrton 5500 Bloco 03 Loja 128 - Shopping Uptown Barra.  
+**Wallace** 🔧 (Técnico ebike - indicação prof. Silas).  
+982571610  
+**Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
+Curso.  
 ---  
 ---  
  **Motorei**  
@@ -592,6 +607,9 @@ Curso de Scooter/Moto Elétrica
 99191-0774  
 Vende Inow.  
 🔗️ domusviridi.com.br  
+**Nitros Bike** 🛒 🔧 ⚙️ S.J. de Meriti.  
+96550 3759  
+Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
 **Fag Moto Peças** 🔧 S.J. de Meriti.  
 988776811  
 @fagmotopecassj (Insta)  
@@ -601,9 +619,6 @@ Técnico ebike (indicação prof. Silas).
 99476 5084  
 Av. Getulio de Moura, 386  
 "A bateria não avisa. Ela simplesmente para."  
-**Nitros Bike** 🛒 🔧 ⚙️ S.J. de Meriti.  
-96550 3759  
-Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
 ---  
 ---  
 **AlugMotos Locadora** - Nova Iguaçu.  
@@ -626,25 +641,22 @@ Cel. Francisco Soares, 667.
 
 #### Acelerador de mão
 
-Nunca use em em subidas: Ele injeta corrente máxima instantânea, gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
+Não use em em subidas. Ele injeta corrente máxima de forma instantânea; gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
 
 #### Motor sendo forçado - Como saber?
 
-Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço?  
-**Pelas Marchas e Pedalada**. Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
-Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado  
-**Pelo Som do Motor**
-Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).
+Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...
+**Som do motor**: Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).
 Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.  
-**Pelo Painel (Display)**
-Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.
-
+**Painel (*display*)**: Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.  
+**Pela marchas e pedalada**: Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
+Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado  
 
 #### Subidas íngremes
 
-**Pedalar rápido com catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
-**Arrancada em ladeiras**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
-**Excesso de peso total**: Aumenta a resistência inercial e força o sistema continuamente.  
+**Pedale rápido com catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
+**Arrancada em ladeira**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
+**Peso em excesso**: Aumenta a resistência inercial e força o sistema continuamente.  
 
 
 #### Pastilhas de Freio - Economizar
@@ -653,9 +665,9 @@ Velocidade até 20 km/h economiza bastante.
 
 #### Bateria
 
-|Carregue quando chegar a 20%| Esfriamento| Acelerador|
+|Carregue quando chegar a 20%| Deixe esfriar| Acelerar gasta mais|
 |:---:|:---:|:---:|
-|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.| Consome bem mais a bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
+|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. Aguarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
 
 
 
