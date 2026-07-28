@@ -199,22 +199,17 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 
 
-
 #### Pneu Street <sup>Rua</sup>
 
-Uso urbano (asfalto, concreto, ciclovias e pavimento). Ideal no dia a dia, ir e voltar do trabalho, ficar horas na rua.  
+Uso urbano _asfalto, concreto, ciclovias, pavimento. Ideal no dia a dia, ir e voltar do trabalho, ficar horas na rua.  
 Menos vibração e ruído. Proporciona uma rodagem suave.  
 
 **Desenho da banda de rodagem** (contato com o solo): Pode ser slick, semi-slick etc.
 
-###### Tipo de solo
-
-| Cravo|
+|Street|
 |:---:|
-| Pneu mais voltado para terra.  |
-| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
-| No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.|
-| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
+|Chaoyang Big Smoothyroad|
+|Arisun Street-Go|
 
 
 
@@ -222,40 +217,31 @@ Menos vibração e ruído. Proporciona uma rodagem suave.
 
 Aqui temos a relação com o desenho da banda de rodagem.
 
-|Slick| Semi-slick|
-|:---:|:---:|
-| Banda de rodagem lisa, sem sulcos.| Há poucos sulcos, preservando grande área de contato com o solo.|
-| água no canto da via: ele não "empurra" para fora. | Sulcos (frisos) no pneu agem como canais de escoamento.|
-| Projetado para pistas perfeitas| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).|
-|| Contato mais contínuo com o asfalto, o que favore a aderência.|
-|| Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).|
-|| Estabilidade em curvas, sendo mais previsível.|
-|| Reduz a distância de frenagem, algo vital no Rio de Janeiro.|
 
 
-###### Street e Semi-Slick - exemplos 20x4.0
+de frenagem, algo vital no Rio de Janeiro.|
 
-Abaixo está, mais ou menos, numa lista de qualidade.  
 
+###### Semi-Slick
  
+|Semi-slick|
+|:---:|
+| Há poucos sulcos, preserva grande área de contato com o solo.|
+| Sulcos (frisos) no pneu agem como canais de escoamento.|
+| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).|
+| Contato mais contínuo com o asfalto, o que favore a aderência.|
+| Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).|
+| Estabilidade em curvas, sendo mais previsível.|
+| Reduz a distância 
+
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze**.  
 
-
-|Street / Semi-Slick|Street|
-|:---:|:---:|
-|Maxxis MaxxVenture E50|Chaoyang Big Smoothyroad|
-|Kenda Kraze (Foto)|Arisun Street-Go|
-|Chaoyang Sand Storm||
-|Arisun Big Smoothy||  
-
-*CST e Maxxis são marcas da Cheng Shin Rubber.  
-
-
-|Semi-slick / urbano-misto|
+|Semi-Slick / Street|
 |:---:|
-|Chaoyang Big Daddy|
-|Innova Caracal|  
-
+|Maxxis MaxxVenture E50|
+|Kenda Kraze (Foto)|
+|Chaoyang Sand Storm|
+|Arisun Big Smoothy|
 
 |Semi-Slick|
 |:---:|
@@ -263,10 +249,28 @@ Abaixo está, mais ou menos, numa lista de qualidade.
 |CST Big Boat|
 |Innova IA-3025|  
 
+*CST e Maxxis são marcas da Cheng Shin Rubber.  
+
+|Semi-slick / urbano-misto|
+|:---:|
+|Chaoyang Big Daddy|
+|Innova Caracal|  
+
 |misto (all-terrain)<br />cravo moderado|
 |:---:|
 |Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).|
 |CST BFT** (Big Fat Tire)|  
+
+
+###### Slick e Cravo
+
+|Slick|Cravo|
+|:---:|:---:|
+|Projetado para pistas perfeitas| Mais voltado para terra.|
+|Banda de rodagem lisa, sem sulcos.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
+|Agua no canto da via: ele não "empurra" para fora.| No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.
+
+**Cravo - ainda considere**: Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.
 
 
 Em suma...  
