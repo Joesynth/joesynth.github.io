@@ -4,6 +4,7 @@ Tutorial.
 
 
 
+
 ## Componentes
 
 ⚠️ Para esta leitura é recomendado mínima noção de eletricidade. Os termos incluem:   
@@ -96,7 +97,7 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fábd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=495a97211fca03d009fb914fe403643364070bb8801a2b47bb48976657f0b384" width="320" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=fd78fbae5af3565ae521f8099807087942bea953aef962ee8a9744bc8f53e4aa" width="320" />
 
 É composta por:  
 
@@ -163,8 +164,10 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 |com | sem|
 |:---:|:---:|
-|Bike mais pesada, então gasta-se bateria a mais| Bicicleta mais leve|
-|O peso da bicicleta pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
+|Bike mais pesada| Bicicleta mais leve|
+|Gasta-se bateria a mais| |
+|kg| kg|
+|O peso pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
 
 
 
@@ -185,7 +188,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 #### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
-**26**: É  a típica ebike do Itau. Em ebike tende a mais furos, devido maior carga sobre o pneu.   
+**26**: É  a típica ebike do Itau. Aro 26 em elétricas tende a mais furos, devido maior carga sobre o pneu.   
 **29**: roda nesse tamanho força o motor.  
 **20x4.0**: usa pneu mais largo. Vem se tornando comum no sul do Brasil. Características? 
 
@@ -197,16 +200,21 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 
 
-#### Pneu
+#### Pneu Street <sup>Rua</sup>
 
-###### Street vs. Cravo - pneu quanto ao tipo de solo
+Uso urbano (asfalto, concreto, ciclovias e pavimento). Ideal no dia a dia, ir e voltar do trabalho, ficar horas na rua.  
+Menos vibração e ruído. Proporciona uma rodagem suave.  
 
-|Street| Cravo|
-|:---:|:---:|
-| Uso urbano (asfalto, concreto, ciclovias e pavimento). Ideal no dia a dia, ir e voltar do trabalho, ficar horas na rua. | Pneu mais voltado para terra.  |
-| Menos vibração e ruído. Proporciona uma rodagem suave.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
-|| No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.|
-|| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
+**Desenho da banda de rodagem** (contato com o solo): Pode ser slick, semi-slick etc.
+
+###### Tipo de solo
+
+| Cravo|
+|:---:|
+| Pneu mais voltado para terra.  |
+| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
+| No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.|
+| Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.|
 
 
 
@@ -390,7 +398,8 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 ➰ Suspensão - frente.  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />**GTSM1 GTS V8D S7**.  
-⚡ 750W 🔋 48V Lítio 15Ah remo.❤️  
+⚡ 750W  
+🔋 48V Lítio 15Ah remo.❤️  
 VelMax 32 km/h  
 Auto. 70 a 80 km Ped. assist.  
 Freio hid.  
@@ -550,8 +559,10 @@ Vende Mobe B01
 @mobemobilidadeeletrica (Insta)  
 **Morais Bike** 🛒 🔧 Centro.  
  97302-7143  
+Venda StreetGo.  
 **Rezende Bike** 🛒 🔧 Centro.  
- Vende Ouxi. Atendimento diretamente no balcão da loja física.  
+Venda StreetGo, Ouxi.  
+4101-9307  
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
 **Nossa Bike**🔧 Rocha Miranda  
@@ -567,24 +578,28 @@ Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de 
 Est. do Colégio, 115.  
 **RM Bike Motorizada**: Colégio (Estação Metro após Irajá).  
 98531-5444  
-**Bike Motor**: Irajá. 97033-6644  [PARECE Q N LIDA COM EBIKE, MUITO MENOS MANU]  
+**Bike Motor**: 🔧 Irajá.  
+4109-0758  
+97033-6644  
 **Inovabike** 🔧 ⚙️ Irajá.  
 986650076  
 ---  
 ---  
-**Bee Elétricas** 🛒 🔧  Botafogo.  
-97626-8617 (Unidade Botafogo) 4003-4131.  
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
+Venda Inow.  
 **Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.  
-96576-8965  
+96576-8965 [👎️ tel não atende]  
 Rua Santa Clara, 99 A.  
-**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
-96736-9737  
-Marca própria  
 🔗️ bossaeletricas.com.br  
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598 967820209  
+[👎️ sem contato]  
+**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
+96736-9737  
+Marca própria  
+**Bee Elétricas** 🛒 🔧  Botafogo.  
+97626-8617 (Unidade Botafogo) 4003-4131.  
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
 ---  
