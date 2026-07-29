@@ -397,8 +397,8 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
     
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
-⚡ 750W 80Nm  
-🔋 48V 15Ah remo?  
+⚡ 750W 80 Nm  
+🔋 48V 15 Ah remo?  
 🔲 Aço carbono ➰ Sus. frente  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />**GTSM1 V8 max**.  
@@ -419,11 +419,12 @@ Foco em Custo-Benefício.
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />**GTSM1 🇧🇷 V8S**.  
-⚡ 750w 65Nm  
-🔋 48v 15Ah  
+⚡ 750w 65 Nm  
+🔋 48v 15 Ah  
 ⏱️ 32 km/h  
-🔲 Aço ➰ Sus. frente
+🔲 Aço ➰ Sus. frente  
 🤚️ Freio mec. 🛞 CST  
+
 **V8**  
 Idem  
 🔲 AçoCroCar. 👍  
@@ -436,13 +437,13 @@ Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844685_x.jpg" width="120" />**StreetGo S12** 🇧🇷 (Oggi).  
-⚡ 750W 80Nm ❤️  
+⚡ 750W 80 Nm ❤️  
 🔋 48V 15Ah remo.  
 🔋 Marca Samsung ou LG ❤️   
 ⏱️ 32 km/h  
 🔲 Aluminio ➰ Sus. frente.  
-🤚️ Freio hid. 🛞 CST ❤️
-Seguro grátis 12 meses. ❤️❤️  
+🤚️ Freio hid. 🛞 CST ❤️  
+Seguro grátis 12 meses. ❤️  
 💰7400 ML  
 **Foco**: Custo-Benefício.  
 Componentes mecânicos de marcas conhecidas (como Shimano), o que facilita manutenção no dia a dia.  
@@ -457,8 +458,8 @@ Componentes mecânicos de marcas conhecidas (como Shimano), o que facilita manut
 ⚡ 750w 🔋 48V  
 🔋 removível, proteção água.  
 🤚️ Freio mec.  
-Alarme e dois lugares  
 🏋️ 160 kg ❤️  
+Alarme e dois lugares  
 Manopla parece baixa 😡  
 ➰ Suspensão: não.   
 
@@ -498,28 +499,27 @@ Ou seja, na frente e atrás.
 🏃 50 km (pedal assist.)  
 ⏱️ 32 km/h; 🏋️ 120 kg  
 Garantia fáb. 12 meses.  
-
 💰6500 ML  
 
 **Konnan Thunder E-Titan G60**.  
-⚡ 1000w 🔋 48v 15Ah  
+⚡ 1000 w 🔋 48v 15Ah  
 🤚️ Freio hid.  
 Projetada para trabalho.  
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
-⚡ 1000w 🔋 48v 15 mAh, removível.  
+⚡ 1000 w 🔋 48v 15 mAh, remo.❤️  
 ⏱️ 45 km/h 60km  
 🤚️ Freio hid.  
 Alarme e chave  
-🏋️ 200 kg  
+🏋️ 200 kg ❤️  
 💰 8900 ML  
-👉️ Outro anuncio no ML tinha especificações diferente, por ex, 750 w e 🏋️ 150 kg.  
+👉️ Outro anuncio no ML tinha especificações diferente, por ex, 750 w e 🏋️ 150 kg. ❤️  
 🔗️ 🇧🇷 inowbrasil.com.br
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow V20 Pro/Brake Pro**.  
 ⚡ 750w 🔋 48v 15Ah  
-🔋 1000w modelo recente  
+🔋 1000 w modelo recente  
 ⏱️ 32 km/h  
 
 **Inow C20**:
@@ -528,14 +528,15 @@ Alarme e chave
 
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  1000W  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  
+⚡ 1000 W  
 
 **Amyet S8-S** (Bike Gaucho)  
-⚡ 2x1000 80Nm, motor marca generica.  
-🔋 48V 25Ah lítio remo.  
+⚡ 2x1000 80 Nm, motor marca generica.  
+🔋 48V 25 Ah lítio remo.  
 🏃 até 85 km (pedal assist.) ❤️  
 Vedada, certificação IP54 contra poeira e respingos. 
-🏋️ 150 kg
+🏋️ 150 kg ❤️
 
 
 
@@ -579,10 +580,11 @@ Vende V8 Max e V8 Pro.
 96414-8812  
 Cardoso Quintão, 636.  
 Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
-**RM Bike Motorizada** 🔧 ⚙️ Colégio (Estação Metro após Irajá).  
+**RM Bike Motorizada** 🔧 ⚙️ Colégio (Estação metrô após Irajá).  
 99809-0332 (Michele).  
 Est. do Colégio, 115.  
-**RM Bike Motorizada**: Colégio (Estação Metro após Irajá).  
+**RM Bike Motorizada**: Colégio  
+(Estação metrô após Irajá).  
 98531-5444  
 **Bike Motor**: 🔧 Irajá.  
 4109-0758  
@@ -651,6 +653,8 @@ Cel. Francisco Soares, 667.
 
 ###### manutenção somente mecânica - não parte elétrica
 
+
+<small>
 **Nitros Bike** S.J. de Meriti.  
 96550 3759  
 Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
@@ -659,7 +663,7 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 **Bike Lapa** (Centro) - 2224-0428  
 **Parah Bike** - Cascadura
 99022-7469 - Av. Dom Helder Câmara, 9648.
-
+</small>small>
 
 
 ## Boas praticas
@@ -672,7 +676,7 @@ Não use em subidas. Ele injeta corrente máxima de forma instantânea; gera pic
 
 ###### Como saber?
 
-Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...
+Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...  
 **Som do motor**: Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).  
 Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.  
 **Painel (*display*)**: Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.  
@@ -681,7 +685,7 @@ Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem gir
 
 #### Subida íngreme
 
-**Pedale rápido com catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
+**Pedale rápido na catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
 **Arrancada em ladeira**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
 **Peso em excesso**: Aumenta a resistência inercial e força o sistema continuamente.  
 
@@ -692,7 +696,7 @@ Velocidade até 20 km/h economiza bastante.
 
 #### Bateria
 
-|Carregue quando chegar a 20%| Deixe esfriar| Acelerar gasta mais|
+|Carregue quando chegar a 20%| Deixe esfriar| Acelere menos|
 |:---:|:---:|:---:|
 |Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
 
