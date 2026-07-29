@@ -160,18 +160,12 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
          ▼
        motor
 
-#### Quadro
 
-**Amortecimento**:  
 
-|com | sem|
-|:---:|:---:|
-|Bike mais pesada| Bicicleta mais leve|
-|Gasta-se bateria a mais| |
-|kg| kg|
-|O peso pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
 
-Bikes com suspensão somente na frente tem menos custos de manutenção
+#### Quadro e suspensão
+
+###### Quadro - material
 
 |Aço carbono| Alumínio|
 |:---:|:---:|
@@ -180,9 +174,23 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 |👎| 👎|
 | Pesado e enferruja se a pintura danificar.| Caro, vibra mais, reparação difícil.|
 
-**Alumínio 6061**: tratamento que oferece melhor qualidade.
+**Alumínio 6061**: tratamento que oferece melhor qualidade.  
 **Cromoly** (tipo de aço): leve, durável, absorve vibrações.  
-👎 Caro, raro em bikes 20x4.0.  
+👎 Caro e raro em bikes 20x4.0.  
+
+###### Suspensão
+
+Há bicicletas com e sem amortecimento:  
+
+|com | sem|
+|:---:|:---:|
+|Bike mais pesada| Bicicleta mais leve|
+|Gasta-se bateria a mais| Mais fácil pedalar, caso dẽ pane.|
+|kg| kg|
+|±35 kg (pode ultrapassar 40). | Pode ter 30 kg; ±10 kg a menos que uma com amortecimento|
+
+⚠️ A suspensão acarreta também mais custo de manutenção.  
+
 
 
 
@@ -605,6 +613,9 @@ Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
 🚴 Inow.  
+**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
+96736-9737  
+🚴 Moped marca própria  
 **Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.  
 96576-8965 [👎️ tel não atende]  
 Rua Santa Clara, 99 A.  
@@ -612,9 +623,6 @@ Rua Santa Clara, 99 A.
 **Flex Mobi** 🛒  Ipanema / Niterói.  
 97116-3388 99932-2598 967820209  
 [👎️ sem contato]  
-**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
-96736-9737  
-🚴 Moped marca própria  
 **Bee Elétricas** 🛒 🔧  Botafogo.  
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **ConsertaBike** 🔧  Copacabana etc.  
