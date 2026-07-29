@@ -171,7 +171,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 |kg| kg|
 |O peso pode chegar aos 38 kg em média.| Sem amortecimento (na frente e atrás) a bike pode ter 30 kg,|
 
-
+Bikes com suspensão somente na frente tem menos custos de manutenção
 
 |Aço carbono| Alumínio|
 |:---:|:---:|
@@ -387,7 +387,7 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 #### ➰ Suspensão - frente ou nenhuma  
 
-Bikes com suspensão somente na frente tem menos custos de manutenção
+
 
     ⚡ motor 🔋 bateria
     🏃 autonomia ⏱️ Velocidade máx.
@@ -398,7 +398,7 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
 ⚡ 750W 80 Nm  
-🔋 48V 15 Ah remo?  
+🔋 48V 15 Ah remo.  
 🔲 Aço carbono ➰ Sus. frente  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />**GTSM1 V8 max**.  
@@ -508,7 +508,8 @@ Projetada para trabalho.
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
-⚡ 1000 w 🔋 48v 15 mAh, remo.❤️  
+⚡ 1000 w  
+🔋 48v 15 mAh, remo.❤️  
 ⏱️ 45 km/h 60km  
 🤚️ Freio hid.  
 Alarme e chave  
@@ -553,25 +554,25 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 <small>
 **Eplay** 🛒 🔧 ⚙️ Jacaré.  
 966451084  
-Venda Duos E-vok.  
+🚴 Duos E-vok.  
 **DK Bicicleta Elétrica** 🛒 🔧 Bangu.
 96472-4634
 Rua Figueiredo Camargo, 1133  
-Vende Duos E-vok
-🔗️dkbicicletaeletrica.com.br  
+🚴 Duos E-vok
+🔗️ dkbicicletaeletrica.com.br  
 **Mobe** 🛒 Anil  
 96914-2237  
-Vende Mobe B01  
+🚴 Mobe B01  
 @mobemobilidadeeletrica (Insta)  
 **Morais Bike** 🛒 🔧 Centro.  
  97302-7143  
-Venda StreetGo.  
+🚴 StreetGo.  
 **Rezende Bike** 🛒 🔧 Centro.  
-Venda StreetGo, Ouxi.  
+🚴 StreetGo, Ouxi.  
 4101-9307  
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
-Vende V8 Max e V8 Pro.  
+🚴 V8 Max e V8 Pro.  
 **Nossa Bike**🔧 Rocha Miranda  
 98268-8386  
 **Nossa Bike** Rocha Miranda.  
@@ -580,22 +581,30 @@ Vende V8 Max e V8 Pro.
 96414-8812  
 Cardoso Quintão, 636.  
 Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de peças.  
+**Bike Motor**: 🔧 Irajá.  
+4109-0758  
+97033-6644  
+**Inovabike** 🔧 ⚙️ Irajá.  
+986650076  
 **RM Bike Motorizada** 🔧 ⚙️ Colégio (Estação metrô após Irajá).  
 99809-0332 (Michele).  
 Est. do Colégio, 115.  
 **RM Bike Motorizada**: Colégio  
 (Estação metrô após Irajá).  
 98531-5444  
-**Bike Motor**: 🔧 Irajá.  
-4109-0758  
-97033-6644  
-**Inovabike** 🔧 ⚙️ Irajá.  
-986650076  
+**Biobike** 🔧 ⚙️ Engenho de Dentro  
+2289-0332 (Eng. de Dentro)  
+Rua Barbacena, 55.
+96421-6334 
+**Biobike** 🛒 🔧 ⚙️ Barra  
+Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.  
+🔗️ biobike.com.br  
+🚴 Não moped!
 ---  
 ---  
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
-Venda Inow.  
+🚴 Inow.  
 **Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.  
 96576-8965 [👎️ tel não atende]  
 Rua Santa Clara, 99 A.  
@@ -605,7 +614,7 @@ Rua Santa Clara, 99 A.
 [👎️ sem contato]  
 **Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
 96736-9737  
-Marca própria  
+🚴 Moped marca própria  
 **Bee Elétricas** 🛒 🔧  Botafogo.  
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **ConsertaBike** 🔧  Copacabana etc.  
@@ -632,7 +641,7 @@ Curso de Scooter/Moto Elétrica
 ---  
 **Domus Viridi** 🛒 Niterói.  
 99191-0774  
-Vende Inow.  
+🚴 Inow.  
 🔗️ domusviridi.com.br  
 **Fag Moto Peças** 🔧 S.J. de Meriti.  
 988776811  
@@ -659,7 +668,6 @@ Cel. Francisco Soares, 667.
 96550 3759  
 Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
 **Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
-**Biobike** (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
 **Bike Lapa** (Centro) - 2224-0428  
 **Parah Bike** - Cascadura
 99022-7469 - Av. Dom Helder Câmara, 9648.
