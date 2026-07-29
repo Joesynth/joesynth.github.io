@@ -5,6 +5,10 @@ Tutorial.
 
 
 
+
+
+
+
 ## Componentes
 
 ⚠️ Para esta leitura é recomendado mínima noção de eletricidade. Os termos incluem:   
@@ -375,11 +379,9 @@ Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por se
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 
-
-
-
-
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
+
+
 
 
 ## Bikes elétricas - 20x4.0
@@ -391,6 +393,8 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 
     ⚡ motor 🔋 bateria
     🔲 quadro ➰ suspensão
+    🏃 autonomia ⏱️ Velocidade máx.
+    🤚️freio (parar) 🛞 marca pneu
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
 ⚡ 750W 80Nm  
@@ -404,11 +408,10 @@ Bikes com suspensão somente na frente tem menos custos de manutenção
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />**GTSM1 GTS V8D S7**.  
 ⚡ 750W  
 🔋 48V Lítio 15Ah remo.❤️  
-VelMax 32 km/h  
-Auto. 70 a 80 km Ped. assist.  
-Freio hid.  
+⏱️ 32 km/h  
+🏃 até 80 km (pedal assist.) ❤️  
 🔲 Aço carbono  ➰ Sus. frente  
-🛞 Chao Yang  
+🤚️ Freio hid. 🛞 Chao Yang  
 💰 5250 site Gtsm1 ❤️  
 🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
 Foco em Custo-Benefício.  
@@ -418,11 +421,9 @@ Foco em Custo-Benefício.
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />**GTSM1 🇧🇷 V8S**.  
 ⚡ 750w 65Nm  
 🔋 48v 15Ah  
-VelMax 32  
-🛞 CST  
-Freio mec.  
+⏱️ 32 km/h  
 🔲 Aço ➰ Sus. frente
-
+🤚️ Freio mec. 🛞 CST  
 **V8**  
 Idem  
 🔲 AçoCroCar. 👍  
@@ -438,9 +439,9 @@ Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.
 ⚡ 750W 80Nm ❤️  
 🔋 48V 15Ah remo.  
 🔋 Marca Samsung ou LG ❤️   
-VelMax 32  
-Freio hid. ❤️  
-🔲 Aluminio ➰ Sus. frente. 
+⏱️ 32 km/h  
+🔲 Aluminio ➰ Sus. frente.  
+🤚️ Freio hid. 🛞 CST ❤️
 Seguro grátis 12 meses. ❤️❤️  
 💰7400 ML  
 **Foco**: Custo-Benefício.  
@@ -455,8 +456,8 @@ Componentes mecânicos de marcas conhecidas (como Shimano), o que facilita manut
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911691_x.jpg" width="120" />**Two Dogs 🇧🇷 Bigfoot T1**.  
 ⚡ 750w 🔋 48V  
 🔋 removível, proteção água.  
+🤚️ Freio mec.  
 Alarme e dois lugares  
-Freio mec.  
 Peso 160kg ❤️  
 Manopla parece baixa 😡  
 ➰ Suspensão: não.   
@@ -466,7 +467,7 @@ Manopla parece baixa 😡
 **Starmega V8** 
 ⚡ 750w 🔋 48V  
 ➰ Sus. frente.   
-Freio hidráulico.  
+🤚️ Freio hid.    
 Bagageiro/suporte traseiro remo.
 
 
@@ -494,8 +495,8 @@ Freio hid.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844689_x.jpg" width="120" />**Konnan 🇧🇷 Winner**.  
 ⚡ 750w 🔋 48V 18,2Ah remo.  
-VelMax 32 peso 120  
-Auto. 50 km com assis. pedal.  
+⏱️ 32 peso 120  
+🏃 50 km (pedal assist.)  
 Garantia fáb. 12 meses.  
 
 💰6500 ML  
@@ -508,7 +509,7 @@ Projetada para trabalho.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
 ⚡ 1000w 🔋 48v 15 mAh, removível.  
-VelMax 45km/h 60km  
+⏱️ 45 km/h 60km  
 Alarme e chave  
 Peso 200 kg  
 Freio hid.  
@@ -519,7 +520,7 @@ Freio hid.
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow V20 Pro/Brake Pro**.  
 ⚡ 750w 🔋 48v 15Ah  
 🔋 1000w modelo recente  
-VelMax 32  
+⏱️ 32 km/h  
 
 **Inow C20**:
 ⚡ 750w  
@@ -533,7 +534,7 @@ VelMax 32
 ⚡ 2x1000 80Nm, motor marca generica.  
 🔋 48V 25Ah lítio remo.  
 Vedada, certificação IP54 contra poeira e respingos.  
-Auto. Modo assiti. 65 a 85 km  
+🏃 até 85 km (pedal assist.)  
 Peso suport. 150 kg
 
 
@@ -569,6 +570,7 @@ Venda StreetGo, Ouxi.
 4101-9307  
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
+Vende V8 Max e V8 Pro.  
 **Nossa Bike**🔧 Rocha Miranda  
 98268-8386  
 **Nossa Bike** Rocha Miranda.  
@@ -630,9 +632,6 @@ Curso de Scooter/Moto Elétrica
 99191-0774  
 Vende Inow.  
 🔗️ domusviridi.com.br  
-**Nitros Bike** 🛒 🔧 ⚙️ S.J. de Meriti.  
-96550 3759  
-Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
 **Fag Moto Peças** 🔧 S.J. de Meriti.  
 988776811  
 @fagmotopecassj (Insta)  
@@ -652,6 +651,9 @@ Cel. Francisco Soares, 667.
 
 ###### manutenção somente mecânica - não parte elétrica
 
+**Nitros Bike** S.J. de Meriti.  
+96550 3759  
+Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.  
 **Superbike** - Piedade - 2594-8255 / (21) 97204-6258  
 **Biobike** (Engenho de Dentro e Barra)  - 96421-6334 2289-0332  
 **Bike Lapa** (Centro) - 2224-0428  
