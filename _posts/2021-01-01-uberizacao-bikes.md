@@ -1,15 +1,22 @@
-# Ebikes
+# Ebikes - Tutorial
 
-Tutorial.
+- Componentes - Parte elétrica
+- Componentes - Parte mecânica
+- Comprando uma ebike
+- Bikes elétricas - exemplos 20x4.0
+- Venda e manutenção
+- Boas praticas
 
 
+## Componentes - Parte elétrica
+
+- Motor BLDC
+- Bateria
+- Controladora, *display* etc
+- Compatibilidade: bateria, controladora e motor
 
 
-
-
-## Componentes
-
-⚠️ Para esta leitura é recomendado mínima noção de eletricidade. Os termos incluem:   
+⚠️ Para esta leitura é recomendado mínima noção de eletricidade _termos incluem:   
 
     Tensão (Voltagem), V.
     Corrente Contínua, CC (DC).
@@ -43,7 +50,7 @@ O motor *brushless* (sem escovas) é o mais comum em e-bikes.
 👉️ Sinais digitais: são enviados em CC _tensão de 5 V (ou mesmo 3,3 V).  
 
 
-###### Potência
+###### Motor: potência
 
 **350 W**: Aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, horas na rua etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou até sem marca (OEM).
 
@@ -104,15 +111,24 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 É composta por:  
 
 **Conectores e fios**: note que há 5 fios mais grossos (2 da bateria, 3 do motor).  
-**Dissipador de calor**  
+**Dissipador de calor**: é uma peça interna ou até mesmo a própria carcaça da controladora.  
 **Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. A função principal desse *chip* é decidir quanto de potência enviar ao motor em cada instante _o MCU usa informações que recebe dos sensores. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
 
 As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor freio (manetes) etc.
 
+###### Marcas boas
+
+|KT|Sabvoton|Votol|Bafang|
+|:---:|:---:|:---:|:---:|
+|🇨🇳|🇨🇳|🇨🇳|🇨🇳|
+
+⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico, OEM.  
+
+###### MOSFETs e PWM
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbatteryswapcabinet.com%2Fwp-content%2Fuploads%2F2023%2F12%2FCommon-faults-of-ebike-controller.webp&f=1&nofb=1&ipt=5092da6ee582abc9117f72500e02153beece6f39a0ce30fc07d3ad867e33da5f" width="320" />
 
-**MOSFETs**: ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, fazendo o rotor girar.
+**MOSFETs**: Parente dos FETs, o MOSFET é um tipo de transistor. Ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, ou precisamente, ao estator que faze o rotor girar.
 
 **PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada. A PWM é um método há décadas conhecido na eletrônica _utilizada, por ex., na música para criação de sons.
 
@@ -126,13 +142,8 @@ As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor 
 Ou seja, a controladora envia energia em pulsos (PWM) para as bobinas do motor.
 
 
-###### Marcas boas
 
-|KT|Sabvoton|Votol|Bafang|
-|:---:|:---:|:---:|:---:|
-|🇨🇳|🇨🇳|🇨🇳|🇨🇳|
-
-⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico, OEM.  
+#### Compatibilidade: bateria, controladora e motor
 
 Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
@@ -144,10 +155,7 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fv8fatbike.com%2Fwp-content%2Fuploads%2F2024%2F03%2Ftamobyke-electric-bike-display.jpg&f=1&nofb=1&ipt=1512c9636bd94603fb18952c923aa8afca527c1db6c05c476a84eec2a46e04c2" width="120" />**Protocolo de comunicação entre o Display (painel) e a Controladora**.
 
-
-|Protocolo Ouxi|Protocolo GTSM1|
-|:---:|:---:|
-|UART digital codificado (exige display e controladora idênticos para evitar erro de sistema).| UART genérico ou fiação analógica simples.
+###### Protocolos
 
 
       Bateria
@@ -160,8 +168,30 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
          ▼
        motor
 
+Dizem como controladora e *display* conversam entre si.
+
+|UART| CAN Bus|
+|:---:|:---:|
+|Comum nas e-bikes de entrada.| E-bikes modernas (Bafang, Shimano, Bosh...).|
+|Comunicação serial simples.| Mesmo padrão usado na indústria automotiva.|
+|Barato, simples e fácil de encontrar peças de reposição.| Componentes travados por software (um display Bosch não vai funcionar noutra marca.)|
+|É digital, embora fios possam parecer analógicos.| Digital, porém mais avançado, robusto. |
 
 
+Há também RS-485 e proprietários.  
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
+
+
+
+
+
+
+## Componentes - Parte mecânica
+
+- Quadro e suspensão
+- Roda e pneu
+- Componentes / outros
 
 #### Quadro e suspensão
 
@@ -193,9 +223,9 @@ Há bicicletas com e sem amortecimento:
 
 
 
+#### Roda e pneu
 
-
-#### Roda - Tamanho
+###### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
 **26**: É  a típica ebike do Itau. Aro 26 em elétricas tende a mais furos, devido maior carga sobre o pneu.   
@@ -209,7 +239,7 @@ Há bicicletas com e sem amortecimento:
 
 
 
-#### Pneu Street <sup>Rua</sup>
+###### Pneu Street <sup>Rua</sup>
 
 Uso urbano _asfalto, concreto, ciclovias, pavimento. Ideal no dia a dia, ir e voltar do trabalho, ficar horas na rua.  
 Menos vibração e ruído. Proporciona uma rodagem suave.  
@@ -227,9 +257,6 @@ Menos vibração e ruído. Proporciona uma rodagem suave.
 
 Aqui temos a relação com o desenho da banda de rodagem.
 
-
-
-de frenagem, algo vital no Rio de Janeiro.|
 
 
 ###### Semi-Slick
@@ -283,24 +310,10 @@ de frenagem, algo vital no Rio de Janeiro.|
 **Cravo - ainda considere**: Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.
 
 
-Em suma...  
-
-
-    Street / Slick
-    ████████████
-
-    All-terrain (misto)
-    ▇▇▆▇▇▆▇▇▆▇
-    (cravos baixos e próximos)
-
-    Off-road / Cravo
-    ▲   ▲   ▲
-      ▲   ▲
-    (cravos altos e espaçados)
 
 
 👎️ **Marcas secundárias** (street, cravo etc): DSI, Hycline, Inowa, Movi, Gigas.  
-Destas, algumas caem no genérico de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fábricado por terceiro e a empresa põe a marca).  
+Algumas são "genéricas" de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fábricado por terceiro e a empresa põe a marca).  
 ❌ **Marcas que não fazem pneu 20x4.0**:  
 Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
@@ -314,20 +327,27 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 ⚠️ Nem todo pneu 16" de moto serve para adaptacão. Há detalhes!
 
 
-
 #### Componentes / outros
 
 **Freio hidráulico**: Melhor que mecânico. Vital em bike de +40 kg. Recomendando na velocidade acima de 20 km/h.  
-**acabamento**.  
-**Peso da bike - influenciará**: Material do quadro, se tem ou não amortecimento, motor, são alguns itens.  
-**Peso suportado**: No geral, 120 kg é o que elas suportam, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar comida de animais ou bebida.  
+**Peso da bike - influenciará**: Material do quadro, motor (se 350 ou 1000 W) se tem ou não suspensão etc.  
+**Peso suportado**: No geral, 120 kg é suportado, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar objetos pesados.  
+
+⚠️ Peso em excesso: Aumenta a resistência e força o sistema continuamente.
 
 
 
 
 
 
-## As marcas
+
+## Comprando uma ebike
+
+###### Finalidade
+
+Andar pelo condomínio, rua? Ir ao trabalho? Trabalho autônomo?  
+
+###### As marcas
 
 A importância delas está no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
 
@@ -385,12 +405,15 @@ Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por se
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 
+⚠️ Fique esperto! Ebikes em breve carregão pessoas, tal como ocorre no Uber moto. É a lei do mercado.
+
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 
 
-## Bikes elétricas - 20x4.0
+
+## Bikes elétricas - exemplos 20x4.0
 
 
 #### ➰ Suspensão - frente ou nenhuma  
@@ -564,9 +587,9 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 966451084  
 🚴 Duos E-vok.  
 **DK Bicicleta Elétrica** 🛒 🔧 Bangu.
-96472-4634
+96472-4634  
 Rua Figueiredo Camargo, 1133  
-🚴 Duos E-vok
+🚴 Duos E-vok  
 🔗️ dkbicicletaeletrica.com.br  
 **Mobe** 🛒 Anil  
 96914-2237  
@@ -594,11 +617,10 @@ Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de 
 97033-6644  
 **Inovabike** 🔧 ⚙️ Irajá.  
 986650076  
-**RM Bike Motorizada** 🔧 ⚙️ Colégio (Estação metrô após Irajá).  
+**RM Bike Motorizada** 🔧 ⚙️ Colégio  
 99809-0332 (Michele).  
 Est. do Colégio, 115.  
 **RM Bike Motorizada**: Colégio  
-(Estação metrô após Irajá).  
 98531-5444  
 **Biobike** 🔧 ⚙️ Engenho de Dentro  
 2289-0332 (Eng. de Dentro)  
@@ -680,6 +702,10 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 **Parah Bike** - Cascadura
 99022-7469 - Av. Dom Helder Câmara, 9648.
 </small>small>
+
+
+
+
 
 
 ## Boas praticas
