@@ -23,14 +23,7 @@
     Corrente Alternada, CA (AC).
 
 
-Peças: tão importante quanto marca.
 
-- Motor
-- Bateria
-- Controladora e *display*
-- Quadro
-- Roda
-- Outros
 
 
 #### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
@@ -50,20 +43,17 @@ O motor *brushless* (sem escovas) é o mais comum em e-bikes.
 👉️ Sinais digitais: são enviados em CC _tensão de 5 V (ou mesmo 3,3 V).  
 
 
-###### Motor: potência
+###### Motor: potência e peso
 
-**350 W**: Aliado a uma marca de qualidade suporta o tranco do dia a dia, como ir e voltar do trabalho, horas na rua etc. Porém, muitas ebikes vendidas são motores de marcas secundárias ou até sem marca (OEM).
+|350 W| 750 W| 1000 W|
+|:---:|:---:|:---:|
+|Suporta o tranco do dia a dia (ir e voltar do trabalho, horas na rua etc); isso, se for de marca de qualidade, porém muitas ebikes têm motores de marcas secundárias ou OEM.| Mais potente, mesmo de marca desconhecida ou OEM, permite subir ruas bem inclinadas. Pode-se dizer que cumpre o mesmo papel de uma motocicleta simples, nesse sentido.| Com esta potência o acelerador puxará mais energia, gastando mais bateria. É recomendável equilibrar com o pedal assistido.|
 
-**750 W**: Mais potente, mesmo de marca desconhecida ou OEM, permite subir ruas bem inclinadas. Pode-se dizer que cumpre o mesmo papel de uma motocicleta simples, nesse sentido.
-
-**1000 W**: Com esta potência o acelerador puxará mais energia, gastando mais bateria. É recomendável equilibrar com o pedal assistido.
-
-###### Peso do motor
-
-750 W é cerca de 1 kg a menos que o de 1000. 
+Quanto mais potente, mais pesado é o motor. 750 W é ±1 kg a menos que o de 1000. 
 
 
-###### Motor: marcas e peso
+
+###### Motor: marcas
 
 **Bafang** é o "queridinho" das bikes. Algumas bikes que usam ou já usaram:  
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
@@ -95,7 +85,11 @@ O motor *brushless* (sem escovas) é o mais comum em e-bikes.
 
 ###### Controladora
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />Recebendo a energia da bateria, a **controladora** converte essa energia (que é do tipo de 48 V) em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />A **controladora** recebe energia da bateria,  
+
+    bateria ───▶ controladora
+
+Essa energia, que é de 48 V, é convertida em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
 
 Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
 
@@ -108,11 +102,12 @@ Os componentes eletrônicos dela são responsáveis pelo controle e pela distrib
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=fd78fbae5af3565ae521f8099807087942bea953aef962ee8a9744bc8f53e4aa" width="320" />
 
+
 É composta por:  
 
 **Conectores e fios**: note que há 5 fios mais grossos (2 da bateria, 3 do motor).  
 **Dissipador de calor**: é uma peça interna ou até mesmo a própria carcaça da controladora.  
-**Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. A função principal desse *chip* é decidir quanto de potência enviar ao motor em cada instante _o MCU usa informações que recebe dos sensores. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
+**Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. A função principal desse [chip](/nocoes-de-informatica) é decidir quanto de potência enviar ao motor em cada instante _o MCU usa informações que recebe dos sensores. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
 
 As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor freio (manetes) etc.
 
@@ -128,7 +123,7 @@ As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbatteryswapcabinet.com%2Fwp-content%2Fuploads%2F2023%2F12%2FCommon-faults-of-ebike-controller.webp&f=1&nofb=1&ipt=5092da6ee582abc9117f72500e02153beece6f39a0ce30fc07d3ad867e33da5f" width="320" />
 
-**MOSFETs**: Parente dos FETs, o MOSFET é um tipo de transistor. Ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, ou precisamente, ao estator que faze o rotor girar.
+**MOSFETs**: Parente dos FETs, o MOSFET é um tipo de transistor. Ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, ou precisamente, ao estator que faz o rotor girar.
 
 **PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada. A PWM é um método há décadas conhecido na eletrônica _utilizada, por ex., na música para criação de sons.
 
@@ -137,7 +132,7 @@ As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor 
 |PWM| PWM|
 |A técnica altera a largura dos pulsos de uma onda quadrada para mudar o timbre do som| Também altera a largura dos pulsos|
 |Resultado| Objetivo|
-|Cria-se diferentes características sonoras.| É controlar a quantidade de energia entregue ao motor.|
+|Cria-se diferentes características sonoras, sons.| É controlar a quantidade de energia entregue ao motor.|
 
 Ou seja, a controladora envia energia em pulsos (PWM) para as bobinas do motor.
 
@@ -170,15 +165,16 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 Dizem como controladora e *display* conversam entre si.
 
-|UART| CAN Bus|
+|UART 🇺🇸 | CAN Bus 🇩🇪|
 |:---:|:---:|
 |Comum nas e-bikes de entrada.| E-bikes modernas (Bafang, Shimano, Bosh...).|
 |Comunicação serial simples.| Mesmo padrão usado na indústria automotiva.|
 |Barato, simples e fácil de encontrar peças de reposição.| Componentes travados por software (um display Bosch não vai funcionar noutra marca.)|
 |É digital, embora fios possam parecer analógicos.| Digital, porém mais avançado, robusto. |
+|Típico de produtos chineses, como modelos da Ouxi. | Surge mais em projetos premium ou plataformas específicas. |
 
-
-Há também RS-485 e proprietários.  
+Há também RS-485 🇺🇸 e proprietários.  
+Não há um conector UART universal para mopeds.  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -214,10 +210,10 @@ Há bicicletas com e sem amortecimento:
 
 |com | sem|
 |:---:|:---:|
-|Bike mais pesada| Bicicleta mais leve|
-|Gasta-se bateria a mais| Mais fácil pedalar, caso dẽ pane.|
+|Bike mais pesada.| Bicicleta mais leve.|
+|Gasta-se bateria a mais.| Mais fácil pedalar, caso dẽ pane.|
 |kg| kg|
-|±35 kg (pode ultrapassar 40). | Pode ter 30 kg; ±10 kg a menos que uma com amortecimento|
+|±35 kg (pode ultrapassar 40). | Pode ter 30 kg; ±10 kg a menos que uma com amortecimento.|
 
 ⚠️ A suspensão acarreta também mais custo de manutenção.  
 
@@ -329,9 +325,14 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
 #### Componentes / outros
 
-**Freio hidráulico**: Melhor que mecânico. Vital em bike de +40 kg. Recomendando na velocidade acima de 20 km/h.  
-**Peso da bike - influenciará**: Material do quadro, motor (se 350 ou 1000 W) se tem ou não suspensão etc.  
+**Freio hidráulico**: Vital em bike de +40 kg. Recomendando na velocidade acima de 20 km/h.  
 **Peso suportado**: No geral, 120 kg é suportado, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar objetos pesados.  
+
+**Peso da bike - influenciará**: Alguns pontos a observar:
+
+|Material do quadro| Potência do motor | Suspensão|
+|:---:|:---:|:---:|
+|Se aço, alumínio...|Se 350 W, 1000...| Se tem ou não. |
 
 ⚠️ Peso em excesso: Aumenta a resistência e força o sistema continuamente.
 
@@ -405,7 +406,7 @@ Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por se
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
 
-⚠️ Fique esperto! Ebikes em breve carregão pessoas, tal como ocorre no Uber moto. É a lei do mercado.
+⚠️ Fique esperto! Ebikes em breve carregarão pessoas, tal como ocorre no Uber moto. É a lei do mercado.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -444,7 +445,7 @@ Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 🔲 Aço carbono  ➰ Sus. frente  
 🤚️ Freio hid. 🛞 Chao Yang  
 💰 5250 site Gtsm1 ❤️  
-🔗 lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7  
+🔗 [lojagtsm1.com.br](lojagtsm1.com.br/bicicletas/eletrica/bicicleta-eletrica-gts-v8d-750w-aro-20-bateria-de-litio-48v-s7)  
 Foco em Custo-Benefício.  
 
 
@@ -477,7 +478,6 @@ Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.
 Seguro grátis 12 meses. ❤️  
 💰7400 ML  
 **Foco**: Custo-Benefício.  
-Componentes mecânicos de marcas conhecidas (como Shimano), o que facilita manutenção no dia a dia.  
 🔗 Gtsm1.com.br  
 
 
@@ -701,7 +701,7 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 **Bike Lapa** (Centro) - 2224-0428  
 **Parah Bike** - Cascadura
 99022-7469 - Av. Dom Helder Câmara, 9648.
-</small>small>
+</small>
 
 
 
@@ -719,11 +719,20 @@ Não use em subidas. Ele injeta corrente máxima de forma instantânea; gera pic
 ###### Como saber?
 
 Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...  
-**Som do motor**: Som grave/ronco: Um ruído mais alto, grave ou um "zumbido sofrido" indica que o motor está trabalhando saturado (corrente alta, rotação baixa).  
-Som agudo/livre: O som ideal deve ser um silvo contínuo e suave.  
-**Painel (*display*)**: Indicador de Corrente (Power/Current): Se o seu painel tiver a barra de consumo de energia (geralmente em Watts ou Amperes), ela nunca deve ficar travada no limite máximo durante toda a subida. Se estiver no topo da barra, o motor opera no limite térmico.  
-**Pela marchas e pedalada**: Sinal de fadiga: Se você está em uma marcha pesada (catraca pequena), pedalando devagar e travado, o motor também está travado e superaquecendo.
-Prática correta: Use a marcha mais leve (catraca grande). Suas pernas devem girar rápido e sem peso. Se a sua rotação de pedalada estiver alta e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado  
+
+
+|Som do motor| Painel (display) <br />Indicador de Corrente (Power/Current)|
+|:---:|:---:|
+|Deve ser um silvo contínuo e suave; um agudo livre| Barra de consumo de energia (em Watts ou Amperes). Não deve ficar travada no limite máximo durante toda a subida.|
+|Um ruído mais alto, grave, ronco ou um “zumbido sofrido” indica que o motor está trabalhando mal (corrente alta, rotação baixa).| No topo da barra, o motor opera no limite térmico.|  
+
+|Marcha e pedalada|Marcha e pedalada|
+|:---:|:---:|
+|Prática correta| Sinal de fadiga|
+|Use a marcha mais leve| Marcha pesada|
+|(catraca grande)| (catraca pequena)|
+|As pernas devem girar rápido e sem peso. Se a sua pedalada estiver rápida e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado | Se você está em uma marcha pesada, pedalando devagar e travado, o motor também está travado e superaquecendo.|
+
 
 #### Subida íngreme
 
