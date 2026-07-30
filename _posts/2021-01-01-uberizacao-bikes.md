@@ -340,83 +340,10 @@ Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
 
 
 
-
-
-
 ## Comprando uma ebike
 
-###### Finalidade
 
-Andar pelo condomínio, rua? Ir ao trabalho? Trabalho autônomo?  
-
-###### As marcas
-
-A importância delas está no pós- venda, garantia, peças reposição, seguro incluso, assistência do vendedor.  
-
-Fique atento ao [modelo de negócio](/modelo-de-negocio) que elas usam _**isca e anzol**, **aprisionamento tecnológico** etc.  
-
-|Sem aprisionamento|Com aprisionamento|
-|:---:|:---:|
-|Temos peças e eletrônica genéricas, baratas e universais| Sistema que exige peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
-
-Ou...  
-
-|Baixo temos...| Médio temos...|
-|:---:|:---:|
-|Eletrônica simples, aceita controladoras e peças universais de internet.| Formato de bateria e plugs específicos; peças só via importação direta, por ex., Aliexpress|
-
-
-Exemplos de marcas relacionadas a modelos de negócios.  
-
-|sem (ou baixo)| médio | alto|
-|:---:|:---:|:---:|
-|Ouxi Colorway Starmega | GTSM1 Sousa Bike Bikelete Bike Fast Bee iNow (ou alto) Konnan Giorrad Move Ways Two Dogs | StretGo Rava (TSW) Sense Duos Caloi Atrio (Multilaser)|
-
-
-**Bom pós venda?** Pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
-
-
-
-**Lock-in técnico**? É possível. Vide modelo de negócios.
-
-###### Marcas - fábricas, distribuidores e afins
-
-A maioria não fábrica todos componentes, nem monta uma bicicleta 100% nacional. Do CNPJ há atividades diferentes, onde umas lidam  com importação/distribuição, outras diretamente com o cliente, etc. Estrutura (ebike tipo "V8"). Ex.:  
-
-
-|boa | média| baixa|
-|:---:|:---:|:---:|
-|🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|  
-
-🔗️ bikelete.com  
-
-**Marcas: Exemplos de atuação?**  
-
-|Konnan| StreetGO (Oggi)|
-|:---:|:---:|
-|Típica importadora e distribuidora.| Opera no modelo de distribuição. |
-|**Venda**: Internet, tipicamente| **Venda**: Feita de lojas de bicicletas e revendas autorizadas no Brasil (seja loja parceira física ou virtual (GTSM1).|
-
-**Marcas - outras**: independente de ser ou não V8, incluem...  
-Woie, *<del>Dafra</del>, Bee.  
-
-**Marcas - pouca estrutura de pós-venda**: Uma "loteria"?  
-Starmega, por ex., deve-se verificar se há falta de suporte e disponibilidade de peças. No geral, e para produtos de Web, veja se há reposição de peças e garantia, pois variam bastante. 
-
-
- 
-
-
-#### OEM <sup>fábricante Original de Equipamentos</sup>
-
-A ideia? Uma empresa faz mil produtos, fulando compra 400, beltrano 600; cada um põe sua marca. Ou seja, a fábrica em si não se envolve com marca ou distribuição.  
-
-Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
-Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
-
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
-
+sssxxxx
 
 
 
