@@ -71,9 +71,10 @@ Quanto mais potente, mais pesado é o motor. 750 W é ±1 kg a menos que o de 10
 **Marcas: Relevância e qualidade**:  
 
 
-**1**: 🇰🇷Samsung SDI, 🇰🇷 LG Energy Solution, 🇯🇵Panasonic.  
-**2**: 🇯🇵 Murata (ex-Sony), 🇨🇳 CATL.  
-**3**: 🇨🇳 EVE Energy, 🇨🇳 BYD, 🇨🇳 Lishen, 🇨🇳 BAK.  
+|1|2|3|
+|:---:|:---:|:---:|
+|🇰🇷Samsung SDI 🇰🇷 LG Energy Solution 🇯🇵Panasonic| 🇯🇵 Murata (ex-Sony) 🇨🇳 CATL| 🇨🇳 EVE Energy 🇨🇳 BYD 🇨🇳 Lishen 🇨🇳 BAK|
+
 
 👉️ Demais são as genéricas ou sem identificação.  
 
@@ -85,13 +86,13 @@ Quanto mais potente, mais pesado é o motor. 750 W é ±1 kg a menos que o de 10
 
 ###### Controladora
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />A **controladora** recebe energia da bateria,  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_650479-MLV77679714896_072024-O.webp&f=1&nofb=1&ipt=25cd58a59cbad652bde5be7b5c2fdd5e90430ab1bedfd98d529aced49871ae43" width="120" />A **controladora** recebe energia da bateria.  
 
     bateria ───▶ controladora
 
-Essa energia, que é de 48 V, é convertida em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
+Essa energia, 48 V por ex., é convertida em CA trifásica, isso para alimentar o motor (quando se trata de um motor brushless).  
 
-Os componentes eletrônicos dela são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
+Os componentes eletrônicos da controladora são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
 
 
 **Controladora universal**: É projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
@@ -356,7 +357,14 @@ Fique atento ao [modelo de negócio](/modelo-de-negocio) que elas usam _**isca e
 
 |Sem aprisionamento|Com aprisionamento|
 |:---:|:---:|
-|Temos peças e eletrônica genéricas, baratas e universais| Sistemas que exigem peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
+|Temos peças e eletrônica genéricas, baratas e universais| Sistema que exige peças originais e autorizadas, ou seja, exclusivas ou com dependência de autorizada.|
+
+Ou...  
+
+|Baixo temos...| Médio temos...|
+|:---:|:---:|
+|Eletrônica simples, aceita controladoras e peças universais de internet.| Formato de bateria e plugs específicos; peças só via importação direta, por ex., Aliexpress|
+
 
 Exemplos de marcas relacionadas a modelos de negócios.  
 
@@ -365,13 +373,9 @@ Exemplos de marcas relacionadas a modelos de negócios.
 |Ouxi Colorway Starmega | GTSM1 Sousa Bike Bikelete Bike Fast Bee iNow (ou alto) Konnan Giorrad Move Ways Two Dogs | StretGo Rava (TSW) Sense Duos Caloi Atrio (Multilaser)|
 
 
-|Baixo temos...| Médio temos...|
-|:---:|:---:|
-|eletrônica simples, aceita controladoras e peças universais de internet.| formato de bateria e plugs específicos; peças só via importação direta/Aliexpress|
-
 **Bom pós venda?** Pode ocorrer, inclusive manutenção, simplesmente porque a marca usa a ideia de *vendor lock-in*, que financia e centraliza a rede de atendimento.
 
-**StreetGO (Oggi)**: A marca opera no modelo de distribuição, ou seja, vende seus produtos através de lojas de bicicletas e revendas autorizadas no Brasil (incluindo lojas parceiras físicas e virtuais como a Dataro Sports e a GTSM1). 
+
 
 **Lock-in técnico**? É possível. Vide modelo de negócios.
 
@@ -384,18 +388,23 @@ A maioria não fábrica todos componentes, nem monta uma bicicleta 100% nacional
 |:---:|:---:|:---:|
 |🇧🇷 Bikelete 🇧🇷 GTSM1 🇧🇷 Starmega| 🇧🇷 Inow 🇨🇳 🇧🇷 Ouxi 🇧🇷 Move Ways| Bike Fast Colorway Giorrad|  
 
-Konnan é um caso, típica importadora e distribuidora.  
-
 🔗️ bikelete.com  
 
-Mais marcas, independente de ser ou não V8, incluem...  
+**Marcas: Exemplos de atuação?**  
+
+|Konnan| StreetGO (Oggi)|
+|:---:|:---:|
+|Típica importadora e distribuidora.| Opera no modelo de distribuição. |
+|**Venda**: Internet, tipicamente| **Venda**: Feita de lojas de bicicletas e revendas autorizadas no Brasil (seja loja parceira física ou virtual (GTSM1).|
+
+**Marcas - outras**: independente de ser ou não V8, incluem...  
 Woie, *<del>Dafra</del>, Bee.  
 
-Starmega: Verificar se há falta de suporte e disponibilidade de peças.  
-E ainda, verifique se tal marca não é uma loteria; visto que reposição de peças e garantia variam bastante. 
+**Marcas - pouca estrutura de pós-venda**: Uma "loteria"?  
+Starmega, por ex., deve-se verificar se há falta de suporte e disponibilidade de peças. No geral, e para produtos de Web, veja se há reposição de peças e garantia, pois variam bastante. 
 
 
-👉️ Mais importante que marca é peça fácil (controladora, bateria, motor), loja que resolve rápido, bike que aguenta tranco diário.  
+ 
 
 
 #### OEM <sup>fábricante Original de Equipamentos</sup>
@@ -405,8 +414,6 @@ A ideia? Uma empresa faz mil produtos, fulando compra 400, beltrano 600; cada um
 Ouxi, iNow, Colorway, Move Ways dependem muito do vendedor para garantia, por serem marcas ligadas a produtos OEM, 
 Ouxi, porém, é bem mais difundida, daí com facilidade de encontrar peças.
 
-
-⚠️ Fique esperto! Ebikes em breve carregarão pessoas, tal como ocorre no Uber moto. É a lei do mercado.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
