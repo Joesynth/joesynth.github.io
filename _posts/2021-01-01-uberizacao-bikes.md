@@ -10,13 +10,15 @@
 
 ## Componentes - Parte elétrica
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solomotorcontrollers.com%2Fwp-content%2Fuploads%2F2024%2F08%2FE-Bike-with-schematics.png&f=1&nofb=1&ipt=2ad44f8b9646121f0d851019394471d6acfce3e68d09c4adaa2439bc9c92d47d" width="320" />
+
 - Motor BLDC
 - Bateria
 - Controladora, *display* etc
 - Compatibilidade: bateria, controladora e motor
 
 
-⚠️ Para esta leitura é recomendado mínima noção de eletricidade _termos incluem:   
+⚠️ Para esta leitura é recomendado noções de eletrônica _como:   
 
     Tensão (Voltagem), V.
     Corrente Contínua, CC (DC).
@@ -122,9 +124,7 @@ As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor 
 
 ###### MOSFETs e PWM
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbatteryswapcabinet.com%2Fwp-content%2Fuploads%2F2023%2F12%2FCommon-faults-of-ebike-controller.webp&f=1&nofb=1&ipt=5092da6ee582abc9117f72500e02153beece6f39a0ce30fc07d3ad867e33da5f" width="320" />
-
-**MOSFETs**: Parente dos FETs, o MOSFET é um tipo de transistor. Ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, ou precisamente, ao estator que faz o rotor girar.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmacfoxbike.com%2Fcdn%2Fshop%2Farticles%2F6_d6943be9-da9a-4a85-8a3b-c5d7c0bf6fb4.png%3Fv%3D1759040258&f=1&nofb=1&ipt=21d38b930cd2d9870819e385cdacd3bd9db1d1e88c1d1da2fbb591c980ebdc44" width="120" />O **MOSFET** é "parente" do FET, um tipo de transistor. MOSFETs ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, ou precisamente, ao estator que faz o rotor girar.
 
 **PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada. A PWM é um método há décadas conhecido na eletrônica _utilizada, por ex., na música para criação de sons.
 
@@ -538,6 +538,14 @@ Rua Figueiredo Camargo, 1133
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
 🚴 V8 Max e V8 Pro.  
+**Biobike** 🛒 🔧 ⚙️ Barra  
+Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.  
+🔗️ biobike.com.br  
+🚴 Two Dogs Bigfoot T1.  
+**Biobike** 🔧 ⚙️ Engenho de Dentro  
+2289-0332 (Eng. de Dentro)  
+Rua Barbacena, 55.  
+96421-6334  
 **Nossa Bike**🔧 Rocha Miranda  
 98268-8386  
 **Nossa Bike** Rocha Miranda.  
@@ -556,14 +564,7 @@ Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de 
 Est. do Colégio, 115.  
 **RM Bike Motorizada**: Colégio  
 98531-5444  
-**Biobike** 🔧 ⚙️ Engenho de Dentro  
-2289-0332 (Eng. de Dentro)  
-Rua Barbacena, 55.
-96421-6334 
-**Biobike** 🛒 🔧 ⚙️ Barra  
-Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.  
-🔗️ biobike.com.br  
-🚴 Não moped!
+
 ---  
 ---  
 **Rota E-Bike** 🛒 🔧  Copacabana.  
