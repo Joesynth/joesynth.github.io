@@ -8,14 +8,28 @@
 - Boas praticas
 
 
+
 ## Componentes - Parte elétrica
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solomotorcontrollers.com%2Fwp-content%2Fuploads%2F2024%2F08%2FE-Bike-with-schematics.png&f=1&nofb=1&ipt=2ad44f8b9646121f0d851019394471d6acfce3e68d09c4adaa2439bc9c92d47d" width="320" />
 
+- Compontentes principais
 - Motor BLDC
 - Bateria
 - Controladora, *display* etc
 - Compatibilidade: bateria, controladora e motor
+
+
+⚠️ Para esta leitura é recomendado noções de eletrônica _como:   
+
+    Tensão (Voltagem), V.
+    Corrente Contínua, CC (DC).
+    Corrente Alternada, CA (AC).
+
+
+#### Compontentes principais
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solomotorcontrollers.com%2Fwp-content%2Fuploads%2F2024%2F08%2FE-Bike-with-schematics.png&f=1&nofb=1&ipt=2ad44f8b9646121f0d851019394471d6acfce3e68d09c4adaa2439bc9c92d47d" width="320" />Bateria, controlador(a) e motor são os 3 compontentes principais.  
+
 
 
          BATERIA
@@ -38,15 +52,6 @@
       │ estator  ──►  campo  ──► rotor │
       │(bobinas)    magnético   (imãs) │
       └────────────────────────────────┘
-
-
-
-⚠️ Para esta leitura é recomendado noções de eletrônica _como:   
-
-    Tensão (Voltagem), V.
-    Corrente Contínua, CC (DC).
-    Corrente Alternada, CA (AC).
-
 
 
 
@@ -93,7 +98,7 @@ Quanto mais potente, mais pesado é o motor. 750 W é ±1 kg a menos que o de 10
 
 **Capacidade, características técnicas**: Ex. 48V 20Ah.  
 
-**Marcas: Relevância e qualidade**:  
+**Marcas: Relevância de qualidade**:  
 
 
 |1|2|3|
@@ -126,12 +131,10 @@ Os componentes eletrônicos da controladora são responsáveis pelo controle e p
 
 
 
+**Conectores e fios da controladora**: note abaixo que há 5 fios mais grossos _2 da bateria, 3 do motor.  
+
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=fd78fbae5af3565ae521f8099807087942bea953aef962ee8a9744bc8f53e4aa" width="320" />
 
-
-É composta por:  
-
-**Conectores e fios**: note que há 5 fios mais grossos (2 da bateria, 3 do motor).  
 **Dissipador de calor**: é uma peça interna ou até mesmo a própria carcaça da controladora.  
 **Microcontrolador**: um processador [MCU](nocoes-de-informatica), dedicado para esse tipo de aplicação. A função principal desse [chip](/nocoes-de-informatica) é decidir quanto de potência enviar ao motor em cada instante _o MCU usa informações que recebe dos sensores. Calcula a potência necessária com base no acelerador, sensor de pedal, velocidade etc.
 
@@ -179,20 +182,14 @@ Para garantir a compatibilidade em e-bikes 20x4.0 de 750W, note:
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fv8fatbike.com%2Fwp-content%2Fuploads%2F2024%2F03%2Ftamobyke-electric-bike-display.jpg&f=1&nofb=1&ipt=1512c9636bd94603fb18952c923aa8afca527c1db6c05c476a84eec2a46e04c2" width="120" />**Protocolo de comunicação entre o Display (painel) e a Controladora**.
 
-###### Protocolos
+
+###### Controladora e display: protocolos
 
 
-      Bateria
-         ▲
-         │
-         ▼
     Controladora  ◀───▶  Display
-         ▲
-         │
-         ▼
-       motor
 
-Dizem como controladora e *display* conversam entre si.
+Como vemos no diagrama, controladora e o *display* "conversam" entre si, de forma bidirecional. Os protocolos dizem como é essa comunicação.  
+
 
 |UART 🇺🇸 | CAN Bus 🇩🇪|
 |:---:|:---:|
@@ -295,7 +292,7 @@ Aqui temos a relação com o desenho da banda de rodagem.
 ● Contato mais contínuo com o asfalto, o que favore a aderência.  
 ● Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).  
 ● Estabilidade em curvas, sendo mais previsível.  
-● Reduz a distância.    
+● Reduz a distância (isso no asfalto, e comparado com cravo).    
 
 |Semi-Slick|
 |:---:|
@@ -551,7 +548,7 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 **Eplay** 🛒 🔧 ⚙️ Jacaré.  
 966451084  
 🚴 Duos E-vok.  
-**DK Bicicleta Elétrica** 🛒 🔧 Bangu.
+**DK Bicicleta Elétrica** 🛒 🔧 Bangu.  
 96472-4634  
 Rua Figueiredo Camargo, 1133  
 🚴 Duos E-vok  
