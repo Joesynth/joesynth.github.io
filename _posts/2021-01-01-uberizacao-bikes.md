@@ -18,6 +18,29 @@
 - Compatibilidade: bateria, controladora e motor
 
 
+         BATERIA
+            │
+            CC
+            │
+            ▼      
+       CONTROLADOR 
+            │     ┌───────────────────────┐
+            ├ ──► │    display (UART)     │
+            ├ ◄── │ acelerador (5V, anal.)│
+            │     │ sensor (torque, anal.)│
+            │     └───────────────────────┘ 
+            CA
+            │
+            ▼
+      ┌────────────────────────────────┐
+      │      MOTOR                     │
+      │                                │
+      │ estator  ──►  campo  ──► rotor │
+      │(bobinas)    magnético   (imãs) │
+      └────────────────────────────────┘
+
+
+
 ⚠️ Para esta leitura é recomendado noções de eletrônica _como:   
 
     Tensão (Voltagem), V.
@@ -124,9 +147,14 @@ As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor 
 
 ###### MOSFETs e PWM
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmacfoxbike.com%2Fcdn%2Fshop%2Farticles%2F6_d6943be9-da9a-4a85-8a3b-c5d7c0bf6fb4.png%3Fv%3D1759040258&f=1&nofb=1&ipt=21d38b930cd2d9870819e385cdacd3bd9db1d1e88c1d1da2fbb591c980ebdc44" width="120" />O **MOSFET** é "parente" do FET, um tipo de transistor. MOSFETs ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa corrente é enviada ao motor, ou precisamente, ao estator que faz o rotor girar.
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmacfoxbike.com%2Fcdn%2Fshop%2Farticles%2F6_d6943be9-da9a-4a85-8a3b-c5d7c0bf6fb4.png%3Fv%3D1759040258&f=1&nofb=1&ipt=21d38b930cd2d9870819e385cdacd3bd9db1d1e88c1d1da2fbb591c980ebdc44" width="120" />O **MOSFET** é "parente" do FET, um tipo de transistor. MOSFETs ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa CA é enviada ao motor, ou precisamente, ao estator que faz o rotor girar.  
 
-**PWM** <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>: A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada. A PWM é um método há décadas conhecido na eletrônica _utilizada, por ex., na música para criação de sons.
+|Inversor <br />*hardware*| PWM <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>|
+|:---:||:---:|
+|*ckt* eletrônico| técnica usada dentro do inversor|
+|Converte uma forma de energia elétrica em outra. O inversor transforma CC (vinda da bateria) em CA trifásica.| A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada.|  
+
+👉️ A PWM é um método há décadas conhecido na eletrônica _utilizada, por ex., na música para criação de sons.
 
 |síntese sonora| e-bike|
 |:---:|:---:|
@@ -257,18 +285,23 @@ Aqui temos a relação com o desenho da banda de rodagem.
 
 
 ###### Semi-Slick
- 
-|Semi-slick|
-|:---:|
-| Há poucos sulcos, preserva grande área de contato com o solo.|
-| Sulcos (frisos) no pneu agem como canais de escoamento.|
-| Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).|
-| Contato mais contínuo com o asfalto, o que favore a aderência.|
-| Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).|
-| Estabilidade em curvas, sendo mais previsível.|
-| Reduz a distância 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze**.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** é um exemplo. Esse tipo de pneu tem como características:  
+
+
+● Há poucos sulcos, preserva grande área de contato com o solo.  
+● Sulcos (frisos) no pneu agem como canais de escoamento.  
+● Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).  
+● Contato mais contínuo com o asfalto, o que favore a aderência.  
+● Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).  
+● Estabilidade em curvas, sendo mais previsível.  
+● Reduz a distância.    
+
+|Semi-Slick|
+|:---:|
+|Schwalbe Super Moto-X|
+|CST Big Boat|
+|Innova IA-3025|
 
 |Semi-Slick / Street|
 |:---:|
@@ -277,33 +310,29 @@ Aqui temos a relação com o desenho da banda de rodagem.
 |Chaoyang Sand Storm|
 |Arisun Big Smoothy|
 
-|Semi-Slick|
-|:---:|
-|Schwalbe Super Moto-X|
-|CST Big Boat|
-|Innova IA-3025|  
-
-*CST e Maxxis são marcas da Cheng Shin Rubber.  
-
 |Semi-slick / urbano-misto|
 |:---:|
 |Chaoyang Big Daddy|
 |Innova Caracal|  
 
-|misto (all-terrain)<br />cravo moderado|
-|:---:|
-|Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).|
-|CST BFT** (Big Fat Tire)|  
+*CST e Maxxis são marcas da Cheng Shin Rubber.  
 
 
-###### Slick e Cravo
 
-Podem não ser indicados para você; devido, por ex.:
+
+###### Slick, misto e cravo
+
+**Slick** e **cravo** podem não ser indicados para você; devido, por ex.:
 
 |Slick|Cravo|
 |:---:|:---:|
 |Ideal para pistas perfeitas; banda de rodagem lisa, sem sulcos.| Mais voltado para terra (no asfalto gera vibração, resistência ao rolamento, desgaste mais rápido com chão quente).|
 
+**Misto (all-terrain)**: Cravo moderado. Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).  
+
+|Misto|
+|:---:|
+|CST BFT** (Big Fat Tire)|  
 
 ###### Marcas secundárias (street, cravo... )
 
