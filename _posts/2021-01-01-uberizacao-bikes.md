@@ -298,21 +298,23 @@ Aqui temos a relação com o desenho da banda de rodagem.
 
 ###### Slick e Cravo
 
+Podem não ser indicados para você; devido, por ex.:
+
 |Slick|Cravo|
 |:---:|:---:|
-|Projetado para pistas perfeitas| Mais voltado para terra.|
-|Banda de rodagem lisa, sem sulcos.| Vibração contínua no asfalto: gera desconforto ao piloto após horas de jornada, acelera o desgaste ou afrouxa componentes da bicicleta.|
-|Agua no canto da via: ele não "empurra" para fora.| No asfalto evite. Velocidade < 20 km/h: caso a considerar possível uso.
-
-**Cravo - ainda considere**: Alta resistência ao rolamento (atrito desnecessário com o asfalto). Desgaste Uniforme: cravo sofre desgaste acelerado e irregular quando utilizado só no asfalto quente, reduzindo rápido sua vida útil.
+|Ideal para pistas perfeitas; banda de rodagem lisa, sem sulcos.| Mais voltado para terra (no asfalto gera vibração, resistência ao rolamento, desgaste mais rápido com chão quente).|
 
 
+###### Marcas secundárias (street, cravo... )
 
+DSI, Hycline, Inowa, Movi, Gigas.  
+Algumas são "genéricas" de plataformas de e-commerce (mais nylon do que borracha).
+Se tornou comum o pneu fábricado por terceiro e a que uma outra empresa põe a marca.  
 
-👎️ **Marcas secundárias** (street, cravo etc): DSI, Hycline, Inowa, Movi, Gigas.  
-Algumas são "genéricas" de plataformas de e-commerce (mais nylon do que borracha, ou, pneu fábricado por terceiro e a empresa põe a marca).  
 ❌ **Marcas que não fazem pneu 20x4.0**:  
-Levorin, Pirelli, Continental, Dunlop, Michelin (faz só câmera).
+<del>🇧🇷</del>🇫🇷 Levorin 🇮🇹 Pirelli 🇩🇪 Continental 🇬🇧 Dunlop, 🇫🇷 Michelin (faz só câmera).
+
+
 
 
 
