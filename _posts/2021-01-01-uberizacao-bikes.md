@@ -30,43 +30,74 @@
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.solomotorcontrollers.com%2Fwp-content%2Fuploads%2F2024%2F08%2FE-Bike-with-schematics.png&f=1&nofb=1&ipt=2ad44f8b9646121f0d851019394471d6acfce3e68d09c4adaa2439bc9c92d47d" width="320" />Bateria, controlador(a) e motor são os 3 compontentes principais.  
 
+Basicamente, a energia elétrica flui da bateria para a controladora e dela para o motor.
+
 
 
      BATERIA
         │
-        CC
-        │
         ▼      
-    CONTROLADOR 
-        │     ┌───────────────────────┐
-        ├ ──► │    display (UART)     │
-        ├ ◄── │ acelerador (5V, anal.)│
-        │     │ sensor (torque, anal.)│
-        │     └───────────────────────┘ 
-        CA
+    ┌────────────────────┐
+    │   CONTROLADORA     │
+    │                    │
+    └────────────────────┘
         │
         ▼
-    ┌────────────────────────────────┐
-    │   MOTOR                     │
-    │                                │
-    │ estator  ──►  campo  ──► rotor │
-    │(bobinas)    magnético   (imãs) │
-    └────────────────────────────────┘
+    ┌────────────────────┐
+    │   MOTOR            │
+    │                    │
+    └────────────────────┘
 
+O motor é o componente principal numa bicicleta elétrica e, como vemos, trabalha diretamente com a controladora, outro item vital.
+
+
+
+#### Bateria
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />Ela fornece 48 V CC.
+
+**Capacidade, características técnicas**: Ex. 48V 20Ah.  
+
+**Marcas: Relevância de qualidade**:  
+
+
+|1|2|3|
+|:---:|:---:|:---:|
+|🇰🇷Samsung SDI 🇰🇷 LG Energy Solution 🇯🇵Panasonic| 🇯🇵 Murata (ex-Sony) 🇨🇳 CATL| 🇨🇳 EVE Energy 🇨🇳 BYD 🇨🇳 Lishen 🇨🇳 BAK|
+
+
+👉️ Demais são as genéricas ou sem identificação.  
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nexusapp.co%2Fassets%2Fd5%2Ffb%2Fe8%2F126382257.jpg&f=1&nofb=1&ipt=3120333622d7f459045016cf4f08e7774596c8c490b53b5cfb6d32d9cad1cb73" width="120" />**BMS** <sup>Battery Management System - Sistema de Gerenciamento da Bateria</sup>: É um *ckt* eletrônico de controle e proteção, fica ligado às células da bateria.  
 
 
 
 #### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
 
-O motor *brushless* (sem escovas) é o mais comum em e-bikes.  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />  O motor *brushless* (sem escovas) é o mais comum em e-bikes.  Na parte elétrica, na verdade, a energia corre em "mão dupla". A controladora envia CA e recebe sinais de CC.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />É o item principal numa bicicleta elétrica e trabalha diretamente com a controladora, outro componente central.  
+      
+    CONTROLADORA 
+        │    ▲ 
+        ▼    │
+    ┌───────────────┐
+    │   MOTOR       │
+    │               │
+    └───────────────┘
 
-          ◀───
-    motor      controladora
-          ───▶
 
-**Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora. A tensão recebida não é fixa. Um sistema 48 V pode ir de 0 até 48 V entre fases.
+**Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora. A tensão recebida não é fixa. Um sistema 48 V pode ir de 0 até 48 V entre fases. 
+
+Internamente, nele temos:  
+
+|Estator| Rotor|
+|:---:|:---:|
+|bobinas|imãs|
+
+
+
+
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fseo%2FEbike-hall-Electric-Scooter-Hall-Sensor-120-413F-PCB-Cable-for-3wheel-motor_3489a99a-cc8e-4e1c-8dd2-469e08dabecb.76859c9401138485f53992cf197c2d75.jpeg&f=1&nofb=1&ipt=2329fc0fc2a19dfb9fd7b3f397222078170408f3cb2cdc18db1f3cbc6f4d1693" width="120" />  **Sensor Hall**: Pequeno componente eletrônico dentro do motor, ou seja, faz parte do conjunto do motor. Em um motor BLDC normalmente existem 3, e ficam perto dos ímãs do rotor. Detectam a posição do campo magnético (posição do rotor) e geram pulsos elétricos digitais para a controladora.  
 
@@ -89,26 +120,6 @@ Quanto mais potente, mais pesado é o motor. 750 W é ±1 kg a menos que o de 10
 🇺🇸 Trek, 🇧🇷 Woie, 🇧🇷 Two Dogs, <del>🇧🇷</del>🇳🇱 Caloi, Bee.  
 **MXUS** é outra marca de credibilidade.
 
-
-
-#### Bateria
-
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcitylion.pl%2Fwp-content%2Fuploads%2F2023%2F03%2Fcity-lion-e-bike-down-tube-5-1024x1024.jpg.webp&f=1&nofb=1&ipt=ff3172571a303e16583efa22c94610efb8bfd640a9777fc9a957f7e3774bb105" width="120" />Ela fornece 48 V CC.
-
-**Capacidade, características técnicas**: Ex. 48V 20Ah.  
-
-**Marcas: Relevância de qualidade**:  
-
-
-|1|2|3|
-|:---:|:---:|:---:|
-|🇰🇷Samsung SDI 🇰🇷 LG Energy Solution 🇯🇵Panasonic| 🇯🇵 Murata (ex-Sony) 🇨🇳 CATL| 🇨🇳 EVE Energy 🇨🇳 BYD 🇨🇳 Lishen 🇨🇳 BAK|
-
-
-👉️ Demais são as genéricas ou sem identificação.  
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nexusapp.co%2Fassets%2Fd5%2Ffb%2Fe8%2F126382257.jpg&f=1&nofb=1&ipt=3120333622d7f459045016cf4f08e7774596c8c490b53b5cfb6d32d9cad1cb73" width="120" />**BMS** <sup>Battery Management System - Sistema de Gerenciamento da Bateria</sup>: É um *ckt* eletrônico de controle e proteção, fica ligado às células da bateria.  
 
 
 
@@ -507,33 +518,7 @@ Pode ou não ter suspensão traseira, varia.
 
 #### ➰ Suspensão dupla
 
-Ou seja, na frente e atrás.
-
-**GTSM1 V8X 2.0**  
-
-**StreetGo S27 e S40**  
-
-**Ouxi V8 Pro e Ouxi H9**  
-
-
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tcdn.com.br%2Fimg%2Fimg_prod%2F476585%2Fbicicleta_eltrica_rava_chopper_aro_20_freio_hidr_2_20260122180950_1cae0590cbbd.jpeg&f=1&nofb=1&ipt=0e4936299580dd11fd655c31e8c364dc8c4a16cf78dd3013fd0f4849d9d7ecd8" width="120" />**Rava (TSW) E-Chopper**.  
-⚡ 750W 🔋 48V 15Ah remo.  
-🔲 Alumínio 6061  
-🤚️ Freio hid.  
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035317820320844689_x.jpg" width="120" />**Konnan 🇧🇷 Winner**.  
-⚡ 750w 🔋 48V 18,2Ah remo.  
-🏃 50 km (pedal assist.)  
-⏱️ 32 km/h; 🏋️ 120 kg  
-Garantia fáb. 12 meses.  
-💰6500 ML  
-
-**Konnan Thunder E-Titan G60**.  
-⚡ 1000 w 🔋 48v 15Ah  
-🤚️ Freio hid.  
-Projetada para trabalho.  
-
+Ou seja, na frente e atrás.  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
 ⚡ 1000 w  
@@ -554,18 +539,38 @@ Alarme e chave
 **Inow C20**:
 ⚡ 750w  
 
-
-
-
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  
 ⚡ 1000 W  
+
+**Konnan 🇧🇷 Winner**.  
+⚡ 750w 🔋 48V 18,2Ah remo.  
+🏃 50 km (pedal assist.)  
+⏱️ 32 km/h; 🏋️ 120 kg  
+Garantia fáb. 12 meses.  
+💰6500 ML  
+
+**Konnan Thunder E-Titan G60**.  
+⚡ 1000 w 🔋 48v 15Ah  
+🤚️ Freio hid.  
+Projetada para trabalho.  
+
+**Rava (TSW) E-Chopper**.  
+⚡ 750W 🔋 48V 15Ah remo.  
+🔲 Alumínio 6061  
+🤚️ Freio hid.  
 
 **Amyet S8-S** (Bike Gaucho)  
 ⚡ 2x1000 80 Nm, motor marca generica.  
 🔋 48V 25 Ah lítio remo.  
 🏃 até 85 km (pedal assist.) ❤️  
 Vedada, certificação IP54 contra poeira e respingos. 
-🏋️ 150 kg ❤️
+🏋️ 150 kg ❤️  
+
+**GTSM1 V8X 2.0**  
+**StreetGo S27 e S40**  
+**Ouxi V8 Pro e H9**  
+
+
 
 
 
@@ -628,8 +633,8 @@ Est. do Colégio, 115.
 **RM Bike Motorizada**: Colégio  
 98531-5444  
 
----  
----  
+--  --  
+
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
 🚴 Inow.  
@@ -647,8 +652,8 @@ Rua Santa Clara, 99 A.
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
----  
----  
+-- --  
+
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
 **Elétric Barra** 🛒 🔧 Barra da Tijuca.  
