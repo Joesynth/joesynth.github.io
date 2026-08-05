@@ -32,26 +32,26 @@
 
 
 
-         BATERIA
-            │
-            CC
-            │
-            ▼      
-       CONTROLADOR 
-            │     ┌───────────────────────┐
-            ├ ──► │    display (UART)     │
-            ├ ◄── │ acelerador (5V, anal.)│
-            │     │ sensor (torque, anal.)│
-            │     └───────────────────────┘ 
-            CA
-            │
-            ▼
-      ┌────────────────────────────────┐
-      │      MOTOR                     │
-      │                                │
-      │ estator  ──►  campo  ──► rotor │
-      │(bobinas)    magnético   (imãs) │
-      └────────────────────────────────┘
+     BATERIA
+        │
+        CC
+        │
+        ▼      
+    CONTROLADOR 
+        │     ┌───────────────────────┐
+        ├ ──► │    display (UART)     │
+        ├ ◄── │ acelerador (5V, anal.)│
+        │     │ sensor (torque, anal.)│
+        │     └───────────────────────┘ 
+        CA
+        │
+        ▼
+    ┌────────────────────────────────┐
+    │   MOTOR                     │
+    │                                │
+    │ estator  ──►  campo  ──► rotor │
+    │(bobinas)    magnético   (imãs) │
+    └────────────────────────────────┘
 
 
 
@@ -370,8 +370,43 @@ Se tornou comum o pneu fábricado por terceiro e a que uma outra empresa põe a 
 
 ## Comprando uma ebike
 
+- Uso pessoal ou trabalho?
+- Manutenção
 
-sssxxxx
+A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebike *moped* mudam bastante conforme o contexto de cada pessoa.
+
+| Pessoal | Profissional |
+|---|---|
+|**Foco**|**Foco**|
+| Mobilidade; lazer. | Ferramenta de trabalho, ambiente crítico. |
+|**Ex. de uso**|**Ex. de uso**|
+|Ir/vir do trabalho, escola; passeio no condomínio, subir uma ladeira para casa. | Entregas de 99 Food, farmácias...).|
+|**Experiência**|**Experiência**|
+|Conforto ao pilotar (suspensão, material banco...); praticidade, sensação de liberdade... | Necessidade. Eficiência (mais entregas, menos esforço), confiabilidade (poder contar com a bike), segurança (do trabalho ser viável), harmonia financeira. |
+|**Valores**| **Valores**|
+| Liberdade, estética, prazer de uso, garantia confiável.  | Robustez, durabilidade, resistênca, estrutura resistente, baixo custo (operacional, manutenção). |
+|**Liberdade para manutenção**| **Liberdade para manutenção**|
+| 👍️ Sim. Veículo pode ficar parado dias ou semanas.| 🤔️ Fator crítico. Conserto deve ser rápido _vital para reduzir o tempo parado, a receita.|
+|**Seguro da bike**|**Seguro da bike**|
+| Relevante.| Muito relevante ou até vital.|
+|**Componentes: importância**| **Componentes: importância**|
+| Pode pesar mais a estética (*design*, conforto, acessórios), autonomia da bateria, potência. | Manutenção barata ou até o próprio dono fazer; bateria removível, peças padronizadas e de troca fácil (assistência local). |
+
+
+
+
+#### Manutenção
+
+|Rede autorizada| Profissional liberal|
+|---|---|
+|**Custo**|**Custo**|
+|Tende a ser mais alto.| Tende a ter custo menor.|
+|**Motivo**|**Motivo**|
+|Devido a mão de obra, estrutura, peças originais e garantia do serviço.| Mais flexibilidade de preço, mas a qualidade pode variar.|
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/modelo-de-negocio)).
+
 
 
 
