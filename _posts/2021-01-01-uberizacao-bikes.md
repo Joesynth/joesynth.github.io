@@ -2,10 +2,10 @@
 
 - Componentes - Parte elétrica
 - Componentes - Parte mecânica
-- Comprando uma ebike
+- Comprando e usando - manutenção, boas prática
 - Bikes elétricas - exemplos 20x4.0
 - Venda e manutenção
-- Boas praticas
+
 
 
 
@@ -380,10 +380,12 @@ Se tornou comum o pneu fábricado por terceiro e a que uma outra empresa põe a 
 
 
 
-## Comprando uma ebike
+## Comprando e usando - manutenção, boas prática
 
 - Uso pessoal ou trabalho?
 - Manutenção
+- Boas práticas
+  
 
 A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebike *moped* mudam bastante conforme o contexto de cada pessoa.
 
@@ -417,7 +419,54 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 |Devido a mão de obra, estrutura, peças originais e garantia do serviço.| Mais flexibilidade de preço, mas a qualidade pode variar.|
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/modelo-de-negocio)).
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/modelo-de-negocio)).  
+
+
+
+
+#### Boas praticas
+
+###### Acelerador de mão
+
+Não use em subidas. Ele injeta corrente máxima de forma instantânea; gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
+
+###### Motor sendo forçado
+
+######## Como saber?
+
+Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...  
+
+
+|Som do motor| Painel (display) <br />Indicador de Corrente (Power/Current)|
+|:---:|:---:|
+|Deve ser um silvo contínuo e suave; um agudo livre| Barra de consumo de energia (em Watts ou Amperes). Não deve ficar travada no limite máximo durante toda a subida.|
+|Um ruído mais alto, grave, ronco ou um “zumbido sofrido” indica que o motor está trabalhando mal (corrente alta, rotação baixa).| No topo da barra, o motor opera no limite térmico.|  
+
+|Marcha e pedalada|Marcha e pedalada|
+|:---:|:---:|
+|Prática correta| Sinal de fadiga|
+|Use a marcha mais leve| Marcha pesada|
+|(catraca grande)| (catraca pequena)|
+|As pernas devem girar rápido e sem peso. Se a sua pedalada estiver rápida e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado | Se você está em uma marcha pesada, pedalando devagar e travado, o motor também está travado e superaquecendo.|
+
+
+###### Subida íngreme
+
+**Pedale rápido na catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
+**Arrancada em ladeira**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
+**Peso em excesso**: Aumenta a resistência inercial e força o sistema continuamente.  
+
+
+###### Pastilhas de Freio - Economizar
+
+Velocidade até 20 km/h economiza bastante.
+
+###### Bateria
+
+|Carregue quando chegar a 20%| Deixe esfriar| Acelere menos|
+|:---:|:---:|:---:|
+|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
+
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -642,7 +691,7 @@ Est. do Colégio, 115.
 **RM Bike Motorizada**: Colégio  
 98531-5444  
 
---  --  
+-.-.-
 
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
@@ -658,7 +707,7 @@ Rua Santa Clara, 99 A.
 97626-8617 (Unidade Botafogo) 4003-4131.  
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
--- --  
+-.-.-  
 
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
@@ -669,15 +718,13 @@ Av. Ayrton 5500 Bloco 03 Loja 128 - Shopping Uptown Barra.
 982571610  
 **Silas Ramalho (Tecle Motos)** 🔧 Recreio.  
 Curso.  
----  
----  
+-.-.-  
  **Motorei**  
 Curso  
 **Tafarel Louzada**  
 @tafarellouzada  
 Curso de Scooter/Moto Elétrica  
----  
----  
+-.-.-  
 **Domus Viridi** 🛒 Niterói.  
 99191-0774  
 💰 6900 UfoFast 750 W
@@ -691,8 +738,7 @@ Técnico ebike (indicação prof. Silas).
 99476 5084  
 Av. Getulio de Moura, 386  
 "A bateria não avisa. Ela simplesmente para."  
----  
----  
+-.-.-  
 **AlugMotos Locadora** - Nova Iguaçu.  
 97358-7703  
 Cel. Francisco Soares, 667.  
@@ -711,55 +757,6 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 **Parah Bike** - Cascadura
 99022-7469 - Av. Dom Helder Câmara, 9648.
 </small>
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
-
-
-
-
-## Boas praticas
-
-#### Acelerador de mão
-
-Não use em subidas. Ele injeta corrente máxima de forma instantânea; gera pico de calor. Use-o, por ex., em retas ou para arrancar do zero (até 5 km/h).
-
-#### Motor sendo forçado
-
-###### Como saber?
-
-Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...  
-
-
-|Som do motor| Painel (display) <br />Indicador de Corrente (Power/Current)|
-|:---:|:---:|
-|Deve ser um silvo contínuo e suave; um agudo livre| Barra de consumo de energia (em Watts ou Amperes). Não deve ficar travada no limite máximo durante toda a subida.|
-|Um ruído mais alto, grave, ronco ou um “zumbido sofrido” indica que o motor está trabalhando mal (corrente alta, rotação baixa).| No topo da barra, o motor opera no limite térmico.|  
-
-|Marcha e pedalada|Marcha e pedalada|
-|:---:|:---:|
-|Prática correta| Sinal de fadiga|
-|Use a marcha mais leve| Marcha pesada|
-|(catraca grande)| (catraca pequena)|
-|As pernas devem girar rápido e sem peso. Se a sua pedalada estiver rápida e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado | Se você está em uma marcha pesada, pedalando devagar e travado, o motor também está travado e superaquecendo.|
-
-
-#### Subida íngreme
-
-**Pedale rápido na catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
-**Arrancada em ladeira**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
-**Peso em excesso**: Aumenta a resistência inercial e força o sistema continuamente.  
-
-
-#### Pastilhas de Freio - Economizar
-
-Velocidade até 20 km/h economiza bastante.
-
-#### Bateria
-
-|Carregue quando chegar a 20%| Deixe esfriar| Acelere menos|
-|:---:|:---:|:---:|
-|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
-
 
 
 
