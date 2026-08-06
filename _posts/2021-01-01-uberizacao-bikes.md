@@ -9,6 +9,7 @@
 
 
 
+
 ## Componentes - Parte elétrica
 
 
@@ -272,7 +273,7 @@ Há bicicletas com e sem amortecimento:
 
 ###### Roda - Tamanho
 
-**10 ou 12 pol** (Scooter): Fuja! É péssimo para buracos.  
+**10 ou 12 pol** (Scooter): É péssimo para buracos.  
 **26**: É  a típica ebike do Itau. Aro 26 em elétricas tende a mais furos, devido maior carga sobre o pneu.   
 **29**: roda nesse tamanho força o motor.  
 **20x4.0**: usa pneu mais largo. Vem se tornando comum no sul do Brasil. Características? 
@@ -423,7 +424,7 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 #### Manutenção
 
 |Rede autorizada| Profissional liberal|
-|---|---|
+|:---:|:---:|
 |**Custo**|**Custo**|
 |Tende a ser mais alto.| Tende a ter custo menor.|
 |**Motivo**|**Motivo**|
