@@ -376,6 +376,7 @@ Se tornou comum o pneu fábricado por terceiro e a que uma outra empresa põe a 
 
 ⚠️ Peso em excesso: Aumenta a resistência e força o sistema continuamente.
 
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 
@@ -417,6 +418,8 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/modelo-de-negocio)).
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 
@@ -570,6 +573,7 @@ Vedada, certificação IP54 contra poeira e respingos.
 **StreetGo S27 e S40**  
 **Ouxi V8 Pro e H9**  
 
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 
@@ -586,13 +590,20 @@ Abaixo há lojas que não são rede oficial Ouxi, Inow, por ex., mas trabalham c
 
 <small>
 **Eplay** 🛒 🔧 ⚙️ Jacaré.  
-966451084  
-🚴 Duos E-vok.  
+96645-1084  
+💰 7800 Duos Evok 1000 W  
 **DK Bicicleta Elétrica** 🛒 🔧 Bangu.  
 96472-4634  
 Rua Figueiredo Camargo, 1133  
-🚴 Duos E-vok  
+💰 7200 Duos E-vok 1000 W  
+💰 6300 Duos E-koa 1000 W  
+Ouxi V8 (catalogo)  
 🔗️ dkbicicletaeletrica.com.br  
+**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
+96736-9737  
+💰 9100 Bossa Vip 1000 W  
+**Moto Chefe** Ilha  
+💰 10000 Marca Grid  
 **Mobe** 🛒 Anil  
 96914-2237  
 🚴 Mobe B01  
@@ -606,14 +617,16 @@ Rua Figueiredo Camargo, 1133
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
 🚴 V8 Max e V8 Pro.  
-**Biobike** 🛒 🔧 ⚙️ Barra  
-Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.  
-🔗️ biobike.com.br  
-🚴 Two Dogs Bigfoot T1.  
 **Biobike** 🔧 ⚙️ Engenho de Dentro  
 2289-0332 (Eng. de Dentro)  
 Rua Barbacena, 55.  
 96421-6334  
+🚴 Não vende Two Dogs  
+🚴 Não vende moped  
+**Biobike** 🛒 🔧 ⚙️ Barra  
+Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.  
+🔗️ biobike.com.br  
+🚴 Idem  
 **Nossa Bike**🔧 Rocha Miranda  
 98268-8386  
 **Nossa Bike** Rocha Miranda.  
@@ -638,9 +651,6 @@ Est. do Colégio, 115.
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
 🚴 Inow.  
-**Bossa Liberdade Elétrica** 🛒 🔧 Copacabana.  
-96736-9737  
-🚴 Moped marca própria  
 **Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.  
 96576-8965 [👎️ tel não atende]  
 Rua Santa Clara, 99 A.  
@@ -674,7 +684,7 @@ Curso de Scooter/Moto Elétrica
 ---  
 **Domus Viridi** 🛒 Niterói.  
 99191-0774  
-🚴 Inow.  
+💰 6900 UfoFast 750 W
 🔗️ domusviridi.com.br  
 **Fag Moto Peças** 🔧 S.J. de Meriti.  
 988776811  
@@ -706,7 +716,7 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 99022-7469 - Av. Dom Helder Câmara, 9648.
 </small>
 
-
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 
