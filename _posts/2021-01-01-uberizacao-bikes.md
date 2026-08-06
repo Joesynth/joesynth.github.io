@@ -247,10 +247,16 @@ Há bicicletas com e sem amortecimento:
 
 |com | sem|
 |:---:|:---:|
-|Bike mais pesada.| Bicicleta mais leve.|
-|Gasta-se bateria a mais.| Mais fácil pedalar, caso dẽ pane.|
-|kg| kg|
-|±35 kg (pode ultrapassar 40). | Pode ter 30 kg; ±10 kg a menos que uma com amortecimento.|
+|**Conforto**|**Conforto**|
+|Bem mais confortável. | Menos confortável. |
+|**Manutenção**|**Manutenção**|
+|Maior custo com peças etc.| Menos custos de manutenção.|
+|**Peso**| **Peso**|
+|±40 kg (ou mais). Bike mais pesada. | ±32 kg. Bicicleta mais leve.|
+|**Bateria**|**Bateria**|
+|Gasta-se mais para se mover.| Gasta-se menos.|
+|**Pane**|**Pane**|
+|Mais difícil pedalar para chegar ao local.| Mais fácil pedalar para chegar ao destino.|
 
 ⚠️ A suspensão acarreta também mais custo de manutenção.  
 
@@ -394,9 +400,10 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 |**Foco**|**Foco**|
 | Mobilidade; lazer. | Ferramenta de trabalho, ambiente crítico. |
 |**Ex. de uso**|**Ex. de uso**|
-|Ir/vir do trabalho, escola; passeio no condomínio, subir uma ladeira para casa. | Entregas de 99 Food, farmácias...).|
+|Ir/vir do trabalho, escola; passeio no condomínio, subir uma ladeira para casa. | Entregas de 99 Food, farmácias...|
 |**Experiência**|**Experiência**|
-|Conforto ao pilotar (suspensão, material banco...); praticidade, sensação de liberdade... | Necessidade. Eficiência (mais entregas, menos esforço), confiabilidade (poder contar com a bike), segurança (do trabalho ser viável), harmonia financeira. |
+|Conforto ao pilotar (suspensão, material banco...); praticidade, sensação de liberdade... | Necessidade. Eficiência (mais entregas, menos esforço), confiabilidade (bike funciona sempre). Custos: tranquilidade (menos gastos inesperados, por ex., manutenção de suspensão desnecessária), segurança (do trabalho ser viável; ), harmonia ou controle financeiro (dos custos e da renda, prever gastos do trabalho).
+  |
 |**Valores**| **Valores**|
 | Liberdade, estética, prazer de uso, garantia confiável.  | Robustez, durabilidade, resistênca, estrutura resistente, baixo custo (operacional, manutenção). |
 |**Liberdade para manutenção**| **Liberdade para manutenção**|
