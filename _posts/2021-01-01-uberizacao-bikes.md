@@ -439,15 +439,6 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
     🏋️ peso suportado
     
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
-⚡ 750W 80 Nm  
-🔋 48V 15 Ah remo.  
-🔲 Aço carbono ➰ Sus. frente  
-
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />**GTSM1 V8 max**.  
-🔋 750w  
-➰ Suspensão - frente.  
-
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134529998_x.jpg" width="120" />**GTSM1 GTS V8D S7**.  
 ⚡ 750W  
 🔋 48V Lítio 15Ah remo.❤️  
@@ -460,7 +451,6 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 Foco em Custo-Benefício.  
 
 
-
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911675_x.jpg" width="120" />**GTSM1 🇧🇷 V8S**.  
 ⚡ 750w 65 Nm  
 🔋 48v 15 Ah  
@@ -468,14 +458,13 @@ Foco em Custo-Benefício.
 🔲 Aço ➰ Sus. frente  
 🤚️ Freio mec. 🛞 CST  
 
-**V8**  
-Idem  
-🔲 AçoCroCar. 👍  
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5037569620134530000_x.jpg" width="120" />**GTSM1 V8 max**.  
+🔋 750w  
+➰ Suspensão - frente.  
 
-**V8F, V8max**:  
-Modelos diferentes.  
-Confira especificações.  
-Material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão.  
+**V8 e V8F**  
+Outros Modelos.  
+Confira especificações (material quadro, altura banco, 1 ou 2 bat., cap. bat., suspensão...).  
 
 
 
@@ -515,7 +504,14 @@ Bagageiro/suporte traseiro remo.
 
 
 **Starmega V8 Pro** 750W
-Pode ou não ter suspensão traseira, varia.
+Pode ou não ter suspensão traseira, varia.  
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_738321-MLB93728633818_102025-O.webp&f=1&nofb=1&ipt=d9f6f9dabae8ced570ecb9d97552b7637ef19dd02ddfac0fef9f186cc79352cf" width="120" />**Rava E-Spirit**  
+⚡ 750W 80 Nm  
+🔋 48V 15 Ah remo.  
+🔲 Aço carbono ➰ Sus. frente  
+
+**Bossa Vip** 1000 W  
 
 
 
