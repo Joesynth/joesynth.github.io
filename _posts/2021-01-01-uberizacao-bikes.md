@@ -89,7 +89,7 @@ O motor é o componente principal numa bicicleta elétrica e, como vemos, trabal
 
 **Energia bruta!**: O motor recebe pulsos elétricos brutos (energia trifásica), que vem da controladora. A tensão recebida não é fixa. Um sistema 48 V pode ir de 0 até 48 V entre fases. 
 
-Internamente, nele temos:  
+Internamente, no motor temos:  
 
 |Estator| Rotor|
 |:---:|:---:|
@@ -135,14 +135,24 @@ Essa energia, 48 V por ex., é convertida em CA trifásica, isso para alimentar
 
 Os componentes eletrônicos da controladora são responsáveis pelo controle e pela distribuição da energia para o motor, mas também farol, buzina etc.  
 
+**Controladora: Marcas boas**  
+
+|KT|Sabvoton|Votol|Bafang|
+|:---:|:---:|:---:|:---:|
+|🇨🇳|🇨🇳|🇨🇳|🇨🇳|
+
+⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico, OEM.  
+
+
 
 **Controladora universal**: É projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
 👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.  
 ⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.  
 
 
+###### Conectores e fios da controladora
 
-**Conectores e fios da controladora**: note abaixo que há 5 fios mais grossos _2 da bateria, 3 do motor.  
+Note abaixo que há 5 fios mais grossos _2 da bateria, 3 do motor.  
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Ffa%2Fbd%2F51fabd848ea86dafda19e60d53aeab47.png&f=1&nofb=1&ipt=fd78fbae5af3565ae521f8099807087942bea953aef962ee8a9744bc8f53e4aa" width="320" />
 
@@ -151,19 +161,15 @@ Os componentes eletrônicos da controladora são responsáveis pelo controle e p
 
 As informações vêm dos *Sensores Hall* (motor), sensor PAS (pedivela) sensor freio (manetes) etc.
 
-###### Marcas boas
 
-|KT|Sabvoton|Votol|Bafang|
-|:---:|:---:|:---:|:---:|
-|🇨🇳|🇨🇳|🇨🇳|🇨🇳|
+###### Inversor, MOSFETs e PWM
 
-⚠️ Se o vendedor não especifica a marca, assume o risco de acharmos que é padrão genérico, OEM.  
+📚️ PWM = *Pulse Width Modulation* - Modulação por Largura de Pulso.  
 
-###### MOSFETs e PWM
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmacfoxbike.com%2Fcdn%2Fshop%2Farticles%2F6_d6943be9-da9a-4a85-8a3b-c5d7c0bf6fb4.png%3Fv%3D1759040258&f=1&nofb=1&ipt=21d38b930cd2d9870819e385cdacd3bd9db1d1e88c1d1da2fbb591c980ebdc44" width="120" />O **MOSFET** é "parente" do FET, um tipo de transistor. MOSFETs ligam e desligam a corrente milhares de vezes por segundo, produzindo uma CA trifásica com 𝑓 e V controladas. Essa CA é enviada ao motor, ou precisamente, ao estator que faz o rotor girar.  
 
-|Inversor <br />*hardware*| PWM <sup>*Pulse Width Modulation* - Modulação por Largura de Pulso</sup>|
+|Inversor <br />*hardware*| PWM|
 |:---:||:---:|
 |*ckt* eletrônico| técnica usada dentro do inversor|
 |Converte uma forma de energia elétrica em outra. O inversor transforma CC (vinda da bateria) em CA trifásica.| A controladora converte a tensão recebida de CC para CA pela [PWM](https://joesynth.wordpress.com/2020/04/07/pwm/), a técnica mais usada.|  
@@ -302,11 +308,8 @@ Aqui temos a relação com o desenho da banda de rodagem.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.9T0a1F6sK8_1__EJcE_ubAHaKN%3Fpid%3DApi&f=1&ipt=2e8ad8daf905ff3a926dbba67bcd4df19623593d6e38da7c5810aa116dc75ddd" width="120" />**Kenda Kraze** é um exemplo. Esse tipo de pneu tem como características:  
 
-
-● Há poucos sulcos, preserva grande área de contato com o solo.  
+● **Poucos sulcos**: preserva grande área de contato com o solo. Contato mais contínuo com o asfalto favore a aderência. Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).  
 ● Sulcos (frisos) no pneu agem como canais de escoamento.  
-● Desliza bem mais fácil, reduzindo o esforço do motor e economizando bateria (permitindo "andar" horas e horas durante o dia).  
-● Contato mais contínuo com o asfalto, o que favore a aderência.  
 ● Pneu liso tem uma área de contato mais contínua (sem os blocos dos cravos interrompendo o contato).  
 ● Estabilidade em curvas, sendo mais previsível.  
 ● Reduz a distância (isso no asfalto, e comparado com cravo).    
@@ -408,11 +411,12 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 | Liberdade, estética, prazer de uso, garantia confiável.  | Robustez, durabilidade, resistênca, estrutura resistente, baixo custo (operacional, manutenção). |
 |**Liberdade para manutenção**| **Liberdade para manutenção**|
 | 👍️ Sim. Veículo pode ficar parado dias ou semanas.| 🤔️ Fator crítico. Conserto deve ser rápido _vital para reduzir o tempo parado, a receita.|
-|**Seguro da bike**|**Seguro da bike**|
-| Relevante.| Muito relevante ou até vital.|
+|**Manutenção** (tipo)|**Manutenção** (tipo)|
+| Rede autorizada é relevante; peças originais. | Com técnico liberal. Conserto barato ou até o próprio dono fazer. |
 |**Componentes: importância**| **Componentes: importância**|
-| Pode pesar mais a estética (*design*, conforto, acessórios), autonomia da bateria, potência. | Manutenção barata ou até o próprio dono fazer; bateria removível, peças padronizadas e de troca fácil (assistência local). |
-
+| Estética (*design*, conforto, acessórios), autonomia da bateria, potência. | Estrutura rígida. Bateria removível, peças padronizadas e de troca fácil (assistência local). |
+|**Seguro da bike**|**Seguro da bike**|
+| Relevante.| Vital. Roubo = perda de bem + perda de renda.|
 
 
 
@@ -426,7 +430,7 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 |Devido a mão de obra, estrutura, peças originais e garantia do serviço.| Mais flexibilidade de preço, mas a qualidade pode variar.|
 
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/modelo-de-negocio)).  
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/private)).  
 
 
 
@@ -575,6 +579,14 @@ Pode ou não ter suspensão traseira, varia.
 
 Ou seja, na frente e atrás.  
 
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow V20 Pro/Brake Pro**.  
+⚡ 750w 🔋 48v 15Ah  
+🔋 1000 w modelo recente  
+⏱️ 32 km/h  
+
+**Inow C20**:
+⚡ 750w  
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5035330460409596920_x.jpg" width="120" />**Inow V20 Brake**  
 ⚡ 1000 w  
 🔋 48v 15 mAh, remo.❤️  
@@ -584,15 +596,8 @@ Alarme e chave
 🏋️ 200 kg ❤️  
 💰 8900 ML  
 👉️ Outro anuncio no ML tinha especificações diferente, por ex, 750 w e 🏋️ 150 kg. ❤️  
-🔗️ 🇧🇷 inowbrasil.com.br
+🔗️ 🇧🇷 inowbrasil.com.br  
 
-<img src="https://joesynth.wordpress.com/wp-content/uploads/2026/06/photo_5033078660595911672_x.jpg" width="120" />**Inow V20 Pro/Brake Pro**.  
-⚡ 750w 🔋 48v 15Ah  
-🔋 1000 w modelo recente  
-⏱️ 32 km/h  
-
-**Inow C20**:
-⚡ 750w  
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhttp2.mlstatic.com%2FD_NQ_NP_827015-MLA97835223325_112025-O.webp&f=1&nofb=1&ipt=1fbc2783b3bc391d2ea2ab65955b4eb5e156ee29dc7097369c4aeba479756723" width="120" />**Duos E-vok**  
 ⚡ 1000 W  
@@ -766,6 +771,7 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 </small>
 
 
+👉️ Veja também [modelo de negócio](/private) e [uberização](/private).  
 
 
 É isso.
