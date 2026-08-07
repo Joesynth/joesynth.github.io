@@ -74,9 +74,11 @@ O motor é o componente principal numa bicicleta elétrica e, como vemos, trabal
 
 
 
-#### Motor BLDC <sup>Corrente Contínua Sem Escovas</sup>
+#### Motor BLDC
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />  O motor *brushless* (sem escovas) é o mais comum em e-bikes.  Na parte elétrica, na verdade, a energia corre em "mão dupla". A controladora envia CA e recebe sinais de CC.
+📚️ BLDC: Corrente Contínua Sem Escovas.  
+
+O motor *brushless* (sem escovas) é o mais comum em e-bikes.  Na parte elétrica, na verdade, a energia corre em "mão dupla". A controladora envia CA e recebe sinais de CC.
 
       
     CONTROLADORA 
@@ -95,8 +97,9 @@ Internamente, no motor temos:
 |Estator| Rotor|
 |:---:|:---:|
 |bobinas|imãs|
+|É fixada ao eixo.| É preso à carcaça do motor.|
 
-
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkehu02.grofrom.com%2Fwww.newayselectricss.com%2F119c645cc8b9c934b39ad4155688c94b.jpg&f=1&nofb=1&ipt=02c1d60dd4b8d0f852ea6556f3405e5ee7f330ad39b18e9e2ffcda45f2966d39" width="120" />Imóvel, o fio sai pelo interior do eixo, este preso ao quadro da bicicleta. Portanto, o eixo não gira, e sim a carcaça do motor (o cubo da roda).
 
 
 
@@ -147,7 +150,8 @@ Os componentes eletrônicos da controladora são responsáveis pelo controle e p
 
 
 **Controladora universal**: É projetada para atuar com vários motores, configurações (tensão da bateria 36 a 60 V, potência/corrente 15 a 30 A, etc).  
-👉️ Marca Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.  
+
+👉️ Marcas Ouxi, Inow, GTSM1, provavelmente, adotada essa; enquanto Oggi, talvez, use uma controladora própria.  
 ⚠️ Embora haja controladora universal pode haver questões de compatibilidade entre ela e o *display*, por exemplo.  
 
 
@@ -217,8 +221,8 @@ Como vemos no diagrama, controladora e o *display* "conversam" entre si, de form
 |É digital, embora fios possam parecer analógicos.| Digital, porém mais avançado, robusto. |
 |Típico de produtos chineses, como modelos da Ouxi. | Surge mais em projetos premium ou plataformas específicas. |
 
-Há também RS-485 🇺🇸 e proprietários.  
-Não há um conector UART universal para mopeds.  
+👉️ Há também RS-485 🇺🇸 e proprietários.  
+👉️ Não há um conector UART universal para mopeds.  
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -259,13 +263,12 @@ Há bicicletas com e sem amortecimento:
 |**Manutenção**|**Manutenção**|
 |Maior custo com peças etc.| Menos custos de manutenção.|
 |**Peso**| **Peso**|
-|±40 kg (ou mais). Bike mais pesada. | ±32 kg. Bicicleta mais leve.|
+| Bike mais pesada (±40 kg ou mais). | Bicicleta mais leve (±32 kg).|
 |**Bateria**|**Bateria**|
 |Gasta-se mais para se mover.| Gasta-se menos.|
 |**Pane**|**Pane**|
 |Mais difícil pedalar para chegar ao local.| Mais fácil pedalar para chegar ao destino.|
 
-⚠️ A suspensão acarreta também mais custo de manutenção.  
 
 
 
@@ -274,13 +277,13 @@ Há bicicletas com e sem amortecimento:
 ###### Roda - Tamanho
 
 **10 ou 12 pol** (Scooter): É péssimo para buracos.  
-**26**: É  a típica ebike do Itau. Aro 26 em elétricas tende a mais furos, devido maior carga sobre o pneu.   
-**29**: roda nesse tamanho força o motor.  
-**20x4.0**: usa pneu mais largo. Vem se tornando comum no sul do Brasil. Características? 
+**26**: É  a típica ebike do Itau. Tende a mais furos devido maior carga sobre o pneu.   
+**29**: Força mais o motor.  
+**20x4.0**: Pneu mais largo, vem se tornando comum no sul do Brasil. Características? 
 
 |👍️|👎️|
 |:---:|:---:|
-|Favorece estabilidade e absorção de buracos, controle durante o frear.| Há um consumo um pouco mais elevado da bateria.|
+|Favorece estabilidade e absorção de buracos, controle durante o frear.| Consome-se um pouco mais da bateria.|
 |Mais imune a furo do tipo modida de cobra| Mais caro (que o 26)|
 
 
@@ -333,7 +336,7 @@ Aqui temos a relação com o desenho da banda de rodagem.
 |Chaoyang Big Daddy|
 |Innova Caracal|  
 
-*CST e Maxxis são marcas da Cheng Shin Rubber.  
+👉️ CST e Maxxis são marcas da Cheng Shin Rubber.  
 
 
 
@@ -344,9 +347,12 @@ Aqui temos a relação com o desenho da banda de rodagem.
 
 |Slick|Cravo|
 |:---:|:---:|
-|Ideal para pistas perfeitas; banda de rodagem lisa, sem sulcos.| Mais voltado para terra (no asfalto gera vibração, resistência ao rolamento, desgaste mais rápido com chão quente).|
+|**Foco**|**Foco**|
+|Pistas perfeitas.| Mais voltado para terra. |
+|**Banda de rodagem**|**Banda de rodagem**|
+| Lisa, sem sulcos.| Com os blocos, no asfalto gera vibração, resistência ao rolamento, desgaste mais rápido com chão quente. |
 
-**Misto (all-terrain)**: Cravo moderado. Pode ser indicado para quem fica horas na rua, quando o trabalho envolve pisos variados (paralelepípedos, buracos).  
+**Misto (all-terrain)**: Cravo moderado. Indicado para quem fica horas na rua trafegando em pisos variados (paralelepípedos, buracos).  
 
 |Misto|
 |:---:|
@@ -355,6 +361,7 @@ Aqui temos a relação com o desenho da banda de rodagem.
 ###### Marcas secundárias (street, cravo... )
 
 DSI, Hycline, Inowa, Movi, Gigas.  
+
 Algumas são "genéricas" de plataformas de e-commerce (mais nylon do que borracha).
 Se tornou comum o pneu fábricado por terceiro e a que uma outra empresa põe a marca.  
 
@@ -378,11 +385,15 @@ Se tornou comum o pneu fábricado por terceiro e a que uma outra empresa põe a 
 **Freio hidráulico**: Vital em bike de +40 kg. Recomendando na velocidade acima de 20 km/h.  
 **Peso suportado**: No geral, 120 kg é suportado, bikes comuns aro 29 também. Algumas vão além disso, o que é bom para levar objetos pesados.  
 
-**Peso da bike - influenciará**: Alguns pontos a observar:
+**Peso da bike - influenciará**: 
 
-|Material do quadro| Potência do motor | Suspensão|
-|:---:|:---:|:---:|
-|Se aço, alumínio...|Se 350 W, 1000...| Se tem ou não. |
+|Bateria | Suspensão|
+|:---:|:---:|
+|Capacidade (Ah)|Se tem ou não|
+
+| Motor| Quadro|
+|:---:|:---:|
+| Se 350 W, 500, 1000...| Se aço, alumínio...|
 
 ⚠️ Peso em excesso: Aumenta a resistência e força o sistema continuamente.
 
@@ -405,11 +416,11 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 | Mobilidade; lazer. | Ferramenta de trabalho, ambiente crítico. |
 |**Ex. de uso**|**Ex. de uso**|
 |Ir/vir do trabalho, escola; passeio no condomínio, subir uma ladeira para casa. | Entregas de 99 Food, farmácias...|
+|**Valores**| **Valores**|
+| Liberdade, estética, prazer de uso, pouca "dor de cabeça".  | Robustez, durabilidade, resistênca, estrutura resistente, baixo custo (operacional, manutenção). |
 |**Experiência**|**Experiência**|
 |Conforto ao pilotar (suspensão, material banco...); praticidade, sensação de liberdade... | Necessidade. Eficiência (mais entregas, menos esforço), confiabilidade (bike funciona sempre). Custos: tranquilidade (menos gastos inesperados, por ex., manutenção de suspensão desnecessária), segurança (do trabalho ser viável; ), harmonia ou controle financeiro (dos custos e da renda, prever gastos do trabalho).
   |
-|**Valores**| **Valores**|
-| Liberdade, estética, prazer de uso, garantia confiável.  | Robustez, durabilidade, resistênca, estrutura resistente, baixo custo (operacional, manutenção). |
 |**Liberdade para manutenção**| **Liberdade para manutenção**|
 | 👍️ Sim. Veículo pode ficar parado dias ou semanas.| 🤔️ Fator crítico. Conserto deve ser rápido _vital para reduzir o tempo parado, a receita.|
 |**Manutenção** (tipo)|**Manutenção** (tipo)|
@@ -442,14 +453,14 @@ Não use em subidas. Ele injeta corrente máxima de forma instantânea; gera pic
 
 ###### Motor sendo forçado
 
-######## Como saber?
+**Como saber**?
 
 Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo com que a energia elétrica vire calor em vez de movimento. Verificar se há esforço pelo...  
 
 
-|Som do motor| Painel (display) <br />Indicador de Corrente (Power/Current)|
+|Som do motor| Painel (display)|
 |:---:|:---:|
-|Deve ser um silvo contínuo e suave; um agudo livre| Barra de consumo de energia (em Watts ou Amperes). Não deve ficar travada no limite máximo durante toda a subida.|
+|Deve ser um silvo contínuo e suave; um agudo livre| Indicador de Corrente (Power/Current). Barra de consumo de energia (em Watts ou Amperes). Não deve ficar travada no limite máximo durante toda a subida.|
 |Um ruído mais alto, grave, ronco ou um “zumbido sofrido” indica que o motor está trabalhando mal (corrente alta, rotação baixa).| No topo da barra, o motor opera no limite térmico.|  
 
 |Marcha e pedalada|Marcha e pedalada|
@@ -460,7 +471,7 @@ Ocorre quando a rotação (velocidade de giro) dele cai muito sob carga, fazendo
 |As pernas devem girar rápido e sem peso. Se a sua pedalada estiver rápida e o motor acompanhar esse giro sem reduzir a velocidade abruptamente, ele não está sendo forçado | Se você está em uma marcha pesada, pedalando devagar e travado, o motor também está travado e superaquecendo.|
 
 
-###### Subida íngreme
+###### Sobe morro?
 
 **Pedale rápido na catraca grande**: a alta cadência com a catraca maior mantém o motor com boa rotação, portanto, maior eficiência e menor aquecimento.  
 **Arrancada em ladeira**: Sair do zero na subida exige pico máximo de torque e corrente elétrica.  
@@ -473,9 +484,9 @@ Velocidade até 20 km/h economiza bastante.
 
 ###### Bateria
 
-|Carregue quando chegar a 20%| Deixe esfriar| Acelere menos|
+| "Lei" dos 20%| Deixe esfriar| Acelere menos|
 |:---:|:---:|:---:|
-|Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
+|Carregue quando chegar nesse patamar. Não deixe chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
 
 
 
@@ -623,8 +634,8 @@ Projetada para trabalho.
 **Amyet S8-S** (Bike Gaucho)  
 ⚡ 2x1000 80 Nm, motor marca generica.  
 🔋 48V 25 Ah lítio remo.  
-🏃 até 85 km (pedal assist.) ❤️  
-Vedada, certificação IP54 contra poeira e respingos. 
+🏃 Até 85 km (pedal assist.) ❤️  
+Vedada, certificação IP54 contra poeira e respingos.  
 🏋️ 150 kg ❤️  
 
 **GTSM1 V8X 2.0**  
@@ -675,7 +686,7 @@ Ouxi V8 (catalogo)
 **Nossa Bike** 🛒 🔧  Rocha Miranda.  
 98399-4723  
 🚴 V8 Max e V8 Pro.  
-**Biobike** 🔧 ⚙️ Engenho de Dentro  
+**Biobike** 🛒 🔧 ⚙️ Engenho de Dentro  
 2289-0332 (Eng. de Dentro)  
 Rua Barbacena, 55.  
 96421-6334  
@@ -685,6 +696,10 @@ Rua Barbacena, 55.
 Shopping Città América - Av. das Américas, 700 – Bloco 8 – Loja 103 S/T.  
 🔗️ biobike.com.br  
 🚴 Idem  
+**Inovabike** 🛒 🔧 ⚙️ Irajá.  
+986650076  
+🚴 Vende, mas não moped.  
+Capacete 118,00.  
 **Nossa Bike**🔧 Rocha Miranda  
 98268-8386  
 **Nossa Bike** Rocha Miranda.  
@@ -696,19 +711,15 @@ Troca de baterias, diagnóstico eletrônico, revisão completa, instalação de 
 **Bike Motor**: 🔧 Irajá.  
 4109-0758  
 97033-6644  
-**Inovabike** 🔧 ⚙️ Irajá.  
-986650076  
 **RM Bike Motorizada** 🔧 ⚙️ Colégio  
 99809-0332 (Michele).  
 Est. do Colégio, 115.  
 **RM Bike Motorizada**: Colégio  
 98531-5444  
-
 -.-.-
-
 **Rota E-Bike** 🛒 🔧  Copacabana.  
 99776-1236  
-🚴 Inow.  
+💰 8890 Inow V40.  
 **Carioca Bikes Elétricas** 🛒 🔧 ⚙️ Copacabana.  
 96576-8965 [👎️ tel não atende]  
 Rua Santa Clara, 99 A.  
@@ -721,7 +732,6 @@ Rua Santa Clara, 99 A.
 **ConsertaBike** 🔧  Copacabana etc.  
 97158-5627 3439-5005  
 -.-.-  
-
 **Din Bike Elétrica** 🛒 🔧 Recreio.  
 99974-5876  
 **Elétric Barra** 🛒 🔧 Barra da Tijuca.  
@@ -772,7 +782,11 @@ Av. Comendador Teles, 2 – Lote 02/Quadra 48, Vilar dos Teles.
 </small>
 
 
-👉️ Veja também [modelo de negócio](/private) e [uberização](/private).  
+👉️ Veja também...  
+
+- [Modelo de negócio](/private).
+- [Uberização](/private).
+- [Padrões Obscuros] (ui-e-ux-dark-patterns). 
 
 
 É isso.
