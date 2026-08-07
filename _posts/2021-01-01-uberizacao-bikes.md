@@ -434,8 +434,6 @@ A finalidade importa muito. Muito! Note que os critérios de escolha da uma ebik
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2F2024%2F12%2F19%2Fda671357-9cff-4bd7-a82e-d1d93bc1c802.jpg&f=1&nofb=1&ipt=64b8b8559c7a7b70110b6b5a16230ee8b59596a68fd97e5480b4f20fc11436ff" width="120" />Com peças proprietárias o conserto fica mais restrito, limitado a rede autorizada da marca ou poucas oficinas _um dos efeitos práticos do **aprisionamento** (um tipo de [modelo de negócio](/private)).  
 
 
-
-
 #### Boas praticas
 
 ###### Acelerador de mão
@@ -478,6 +476,8 @@ Velocidade até 20 km/h economiza bastante.
 |Carregue quando chegar a 20%| Deixe esfriar| Acelere menos|
 |:---:|:---:|:---:|
 |Não deixe a bateria chegar a 0%. Coloque para carregar quando atingir cerca de 20%.| Não ligue a bateria no carregador logo após terminar as entregas. águarde 20 a 30 min para esfriar antes de colocar na tomada.| Acelerador consome bem mais bateria. Mesmo uma saída suave pelo acelerador consome mais energia do que iniciar o movimento pelo pedal.|
+
+
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
