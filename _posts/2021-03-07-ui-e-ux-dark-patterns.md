@@ -26,9 +26,9 @@ Uma interface de usuário que foi cuidadosamente projetada para induzir os usuá
 
 👉️ **Autor** (do sistema):  dono da rede, *site*, *app* (aplicativo); uma plataforma (como Uber etc).
 
-Padrões Obscuros são técnicas desenhadas para enganar ou dificultar ações que não interessam ao autor do sistema. 
+Padrões Obscuros são técnicas desenhadas para enganar ou dificultar ações que não interessam ao **autor do sistema**. São truques usados em sites e apps que fazem você fazer coisas que você não pretendia, como comprar ou se inscrever em algo.
 
-Padrões Obscuros são truques usados em sites, por ex., que fazem você fazer coisas que você não pretendia, como comprar ou se inscrever em algo.
+
 
 
 > Um padrão obscuro é uma interface de usuário que foi cuidadosamente projetada para induzir os usuários a fazerem coisas, como comprar um seguro junto com sua passagem aérea ou inscrever-se em cobranças recorrentes.
@@ -37,8 +37,8 @@ Padrões Obscuros são truques usados em sites, por ex., que fazem você fazer c
 
 É a definição exata de Harry no lançamento do site darkpatterns.org em 2010.
 
+No sentido tradicional o *design* de UI/UX é feito para ajudar o usuário, mas no contexto dos padrões obscuros serve para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
-No contexto dos padrões obscuros o design de UI/UX não é feito para ajudar o usuário no sentido tradicional, mas sim para maximizar a extração de valor e garantir a retenção. O design é uma ferramenta de engenharia comportamental.
 
 ##### Hacker de interface
 
