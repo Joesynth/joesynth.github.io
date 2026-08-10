@@ -2,18 +2,19 @@
 
 Olá!
 Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
-<ul>
- 	<li>O que é Markdown? Quem usa?</li>
- 	<li>Arquivo Markdown.</li>
- 	<li><em>Softwares</em> e plug-ins.</li>
- 	<li>Sabores!</li>
- 	<li>Markdown - Guia Rápido.</li>
- 	<li>Analisador (parser).</li>
- 	<li>Um pouco de história.</li>
- 	<li>Mais links sobre o tema.</li>
-</ul>
+
+- O que é Markdown? Quem usa?
+- Arquivo Markdown.
+- <em>Softwares</em> e plug-ins.
+- Sabores!
+- Markdown - Guia Rápido.
+- Analisador (parser).
+- Um pouco de história.
+- Mais links sobre o tema.
+
 
 ## O que é Markdown? Quem Usa?
+
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />
 
 Markdown é uma <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagem de marcação</a>. Comparada a <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML</a> _que tem muitos 'símbolos' (as chamadas <em>tags</em>, elementos)_ a linguagem <em>markdown</em> é bem simples, sendo bem mais objetiva e fácil de aprender. É tudo praticamente intuitivo.
@@ -38,10 +39,10 @@ A extensão do nome do arquivo é .<em>md</em> ou .<em>markdown</em>, isso num e
 Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
 <h6>Criando um arquivo Markdown</h6>
 Fácil!
-<ul>
- 	<li>Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).</li>
- 	<li>Crie um novo arquivo e nomeie ele com algo como <em>teste.md</em> _não esqueça de usar a extensão .<em>md</em>!</li>
-</ul>
+
+- Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
+- Crie um novo arquivo e nomeie ele com algo como <em>teste.md</em> _não esqueça de usar a extensão .<em>md</em>!
+
 <h6>Arquivo .md do GitHub</h6>
 Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo <em>Markdown Documentation</em> (ou seja, <em>readme.md</em>).
 ## Softwares e plug-ins
@@ -125,13 +126,16 @@ Reddit,
 Qt,
 Stack Overflow / Stack Exchange
 Swift.
-<h6><em>GFM (GitHub Flavored Markdown)</em></h6>
+Wordpress (via plugin)
+
+###### <em>GFM (GitHub Flavored Markdown)</em>
+
 Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
 
 
 ## Markdown - Guia Rápido
 
-#### Básico (CommonMark, Wordpress)
+#### Básico (CommonMark)
 
 ###### Parágrafo
 
@@ -237,12 +241,12 @@ Aplicativos Markdown usam o chamado processador Markdown (“<em>parser</em>” 
 <img class="alignleft" src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&amp;fit=clip&amp;q=40&amp;w=1080" width="307" height="64" />
 
 Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
-<ul>
- 	<li>Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.</li>
- 	<li>Abra o arquivo Markdown em um aplicativo Markdown.</li>
- 	<li>Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)</li>
- 	<li>Visualize o arquivo HTML em um navegador da Web.</li>
-</ul>
+
+- Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.
+- Abra o arquivo Markdown em um aplicativo Markdown.
+- Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
+- Visualize o arquivo HTML em um navegador da Web.
+
 Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .<em>md</em>), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
 Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
