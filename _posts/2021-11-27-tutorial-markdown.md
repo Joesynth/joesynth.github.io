@@ -13,7 +13,7 @@ Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
  	<li>Mais links sobre o tema.</li>
 </ul>
 
-<h2>O que é Markdown? Quem Usa?</h2>
+## O que é Markdown? Quem Usa?
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />
 
 Markdown é uma <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagem de marcação</a>. Comparada a <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML</a> _que tem muitos 'símbolos' (as chamadas <em>tags</em>, elementos)_ a linguagem <em>markdown</em> é bem simples, sendo bem mais objetiva e fácil de aprender. É tudo praticamente intuitivo.
@@ -33,7 +33,7 @@ Continue lendo esse tutorial e veja abaixo!
 <h6>Quem usa Markdown?</h6>
 A linguagem markdown é utilizada em mensagens instantâneas, fóruns <em>online</em>, <em>software</em> colaborativo, páginas de documentação e arquivos 'leia-me'. Eu mesmo, ao escrever neste <em>blog</em>, uso Markdown.
 
-<h2>💾️ Arquivo Markdown</h2>
+## 💾️ Arquivo Markdown
 A extensão do nome do arquivo é .<em>md</em> ou .<em>markdown</em>, isso num editor.
 Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
 <h6>Criando um arquivo Markdown</h6>
@@ -44,7 +44,7 @@ Fácil!
 </ul>
 <h6>Arquivo .md do GitHub</h6>
 Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo <em>Markdown Documentation</em> (ou seja, <em>readme.md</em>).
-<h2>Softwares e plug-ins</h2>
+## Softwares e plug-ins
 Basicamente temos softs editores e plug-ins de Markdown.
 
 <h6>Software editor Markdown</h6>
@@ -112,7 +112,7 @@ Usado para escrever Markdown.
 Gerador de site estático que pega arquivos Markdown e cria um site HTML.</pre>
 Também há <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
 
-<h2>Sabores!</h2>
+## Sabores!
 Aplicativos Markdown implementam versões ligeiramente diferentes da Markdown; são os chamados 'sabores'. Esses 'sabores' são como dialetos de uma linguagem _algo como português carioca e de Lisboa, por ex.
 <h6>CommonMark</h6>
 É uma proposta de sintaxe padrão para a Markdown, inclusive usada pelo <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>, por ex.
@@ -129,9 +129,13 @@ Swift.
 Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
 
 
-<h2>Markdown - Guia Rápido</h2>
-<h6>Básico (CommonMark, Wordpress)</h6>
-<pre>Parágrafo
+## Markdown - Guia Rápido
+
+#### Básico (CommonMark, Wordpress)
+
+###### Parágrafo
+
+<pre>
 ⚠️ No Wordpress crie usando uma linha em branco.
 ## Título
 ### Título 3 # título um tanto menor.
@@ -145,15 +149,18 @@ Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
 
 &gt; # Tag &lt;blockquote&gt;, bloco de citação.
 </pre>
-.
-<h6>Outras (CommonMark)</h6>
+
+#### Outras (CommonMark)
+
 <pre>*Itálico*   # Ou _Itálico_
 **Negrito** # Ou __Bold__
 
             # 4 espaços vazios, tag &lt;pre&gt;
 </pre>
 Veja mais em <a href="https://commonmark.org/help/">help</a>.
-<h6>Link e imagem (CommonMark)</h6>
+
+###### Link e imagem (CommonMark)
+
 É simples um <em>link</em>, sendo usado os colchetes e os parênteses. O texto do <em>link</em> fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL.
 
 Imagem? Basta pôr uma exclamação antes.
@@ -170,9 +177,11 @@ Imagem? Basta pôr uma exclamação antes.
 | --- | --- |
 | uva | hortelã |
 </pre>
+
 Vide mais <a href="https://github.github.com/gfm/">GFM</a>.
 
-Alinhar conteúdo da tabela.
+#### Tabela - Alinhar conteúdo
+
 <pre>Esquerda.
 | : - - - |
 | caju |
@@ -188,12 +197,14 @@ Mesclar.
 
 </pre>
 
-<h6>id e class (identificação única ou genérica)</h6>
+#### id e class (identificação única ou genérica)
+
 Use '#' ou '.' dentro de chaves, e ao final um nome.
 <pre>MeuParágrafo {#identificador}
 MeuParágrafo {.minhaClasse}</pre>
 
-<h6>Emojis</h6>
+#### Emojis
+
 Sintaxe: dois pontos, nome em inglês, dois pontos.
 
 
@@ -214,7 +225,13 @@ Sintaxe: dois pontos, nome em inglês, dois pontos.
 
 Outros inclui <em>shit</em>, <em>blush</em>, -1, <em>smiley</em>...
 Lista com dezenas: https://gist.github.com/rxaviers/7360908
-<h2>Analisador (parser)</h2>
+
+
+
+
+
+## Analisador (parser)
+
 Aplicativos Markdown usam o chamado processador Markdown (“<em>parser</em>” ou “<em>implementation</em>”).
 
 <img class="alignleft" src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&amp;fit=clip&amp;q=40&amp;w=1080" width="307" height="64" />
@@ -229,12 +246,19 @@ Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o forma
 Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .<em>md</em>), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
 Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
-<h2>Um pouco de história</h2>
+## Um pouco de história
 <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg" width="60" height="70" /> 🇺🇸 John Gruber.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
 Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
-<h2>Mais links sobre o tema</h2>
+
+
+
+
+
+
+## Mais links sobre o tema
+
 <pre>Editores para Linux.
 -https://sourceforge.net/software/markdown-editors/linux/
 Visualizar Markdown no Gedit (via plugin).
