@@ -153,56 +153,76 @@ Wordpress (via plugin)
 </pre>
 
 
-###### Lista
+###### Listas
+
+**Lista não ordenada**:  
 
 <pre>
-* foo # # <ul><li>foo</li></ul> (Lista não ordenada).
+* foo # # <ul><li>foo</li></ul>
 - idem.
 ⚠️ No Wordpress<em> ShiftEnter</em> cria um dentro do outro.
-1. Fruta # Lista ordenada.
+</pre>
+  
+**Lista ordenada**:  
 
-Lista aninhada
+<pre>
+1. Fruta # Lista ordenada.
+</pre>
+
+**Lista aninhada**:  
+
+<pre>
 - Item 1
   - Subitem 1
   - Subitem 2
 - Item 2
 </pre>
 
-#### Outras (CommonMark)
+
+
+
+###### Link (CommonMark)
+
+Usa-se os colchetes e os parênteses. O texto do <em>link</em> fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
 
 <pre>
-
- --- # <hr />, horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.
- 
-            # 4 espaços vazios, tag <pre>
-> # Tag <blockquote>, bloco de citação.
- 
+[textoDoLink](URL)
 </pre>
 
-Veja mais em <a href="https://commonmark.org/help/">help</a>.
+Exemplos:
 
-###### Link e imagem (CommonMark)
-
-É simples um <em>link</em>, sendo usado os colchetes e os parênteses. O texto do <em>link</em> fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL.
-
-Imagem? Basta pôr uma exclamação antes.
-<pre>[textoDoLink](URL) # Sintaxe Link.
-[Link](http://a.com) # Sintaxe Link.
-[Joe S](joesynth.wordpress.com) # Exemplo.
-
-![textoAlternativo](URL) # Sintaxe.
-![Image](http://url/a.png) # Imagem.</pre>
-<h6>Tabela (GFM)</h6>
-É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
 <pre>
- | Fruta | Verdura |  # 'head' da tabela.
+[NomeQualquer](http://a.com)
+[Joe S](joesynth.wordpress.com)
+</pre>
+
+
+###### Tag "pre" e bloco de citação (ambas CommonMark)
+
+<pre>
+            # 4 espaços vazios, tag <pre>
+> # Tag <blockquote>, bloco de citação.
+</pre>
+
+
+#### Recursos gráficos
+
+###### Tabela (GFM)
+
+É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
+
+<pre>
+| Fruta | Verdura |  # 'head' da tabela.
 | --- | --- |
 | uva | hortelã |
+| morango | alface |
+| acerola| salsa |
 </pre>
 
 Vide mais <a href="https://github.github.com/gfm/">GFM</a>.
 
-#### Tabela - Alinhar conteúdo
+
+**Alinhar conteúdo da tabela**
 
 <pre>Esquerda.
 | : - - - |
@@ -216,8 +236,29 @@ Centro.
 Mesclar.
 | :--- | :---: | ---: |
 | uva | uva | uva |
-
 </pre>
+
+###### Imagem (CommonMark)
+
+Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
+
+Sintaxe:  
+<pre>
+![textoAlternativo](URL)
+</pre>
+
+Exemplo: 
+<pre>
+![Um Gato](http://url/gato.png)
+</pre>
+
+###### Régua horizontal(CommonMark)
+
+<pre>
+ --- # <hr />, horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.
+</pre>
+
+Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 #### id e class (identificação única ou genérica)
 
