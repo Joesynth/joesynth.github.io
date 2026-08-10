@@ -200,8 +200,8 @@ Exemplos:
 ###### Tag "pre" e bloco de citação (ambas CommonMark)
 
 <pre>
-            # 4 espaços vazios, tag <pre>
-> # Tag <blockquote>, bloco de citação.
+            # 4 espaços vazios, tag *pre*
+> # Tag *blockquote*, bloco de citação.
 </pre>
 
 
