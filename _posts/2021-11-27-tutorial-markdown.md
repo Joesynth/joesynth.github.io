@@ -96,7 +96,9 @@ Clique em Extensions, menu superior direito, próximo menu principal.
 Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).
 Nesta caixa clique details.
 Allow access to file URLs; ligue o Toggle.
-<h6>Outras aplicações Markdown</h6>
+
+###### Outras aplicações Markdown
+
 <img class="editor alignleft" title="CodeMirror" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Baboon.svg/330px-Baboon.svg.png" alt="Soft CodeMirror" width="40" /> CodeMirror.
 ✏️ M. Haverbeke.
 🔗️ codemirror.net
@@ -115,52 +117,68 @@ Também há <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha
 
 ## Sabores!
 Aplicativos Markdown implementam versões ligeiramente diferentes da Markdown; são os chamados 'sabores'. Esses 'sabores' são como dialetos de uma linguagem _algo como português carioca e de Lisboa, por ex.
-<h6>CommonMark</h6>
+
+###### CommonMark
+
 É uma proposta de sintaxe padrão para a Markdown, inclusive usada pelo <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>, por ex.
 
 CommonMark: sites e projetos que adotaram:
 Discourse,
-GitHub,
-GitLab,
+GitLab e GitHub,
 Reddit,
 Qt,
 Stack Overflow / Stack Exchange
 Swift.
 Wordpress (via plugin)
 
-###### <em>GFM (GitHub Flavored Markdown)</em>
-
-Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
+**GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
 
 
-## Markdown - Guia Rápido
+## Markdown - Guia Rápido - Básico (CommonMark)
 
-#### Básico (CommonMark)
+#### Texto
 
-###### Parágrafo
+###### Parágrafo, título, negrito e itálico
 
 <pre>
 ⚠️ No Wordpress crie usando uma linha em branco.
+
 ## Título
+
 ### Título 3 # título um tanto menor.
 
-* foo # &lt;ul&gt;&lt;li&gt;foo&lt;/li&gt;&lt;/ul&gt; (Lista não ordenada).
+**Negrito** # Ou __Bold__
+
+*Itálico*   # Ou _Itálico_
+</pre>
+
+
+###### Lista
+
+<pre>
+* foo # # <ul><li>foo</li></ul> (Lista não ordenada).
 - idem.
 ⚠️ No Wordpress<em> ShiftEnter</em> cria um dentro do outro.
 1. Fruta # Lista ordenada.
 
---- # &lt;hr /&gt;, horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.
-
-&gt; # Tag &lt;blockquote&gt;, bloco de citação.
+Lista aninhada
+- Item 1
+  - Subitem 1
+  - Subitem 2
+- Item 2
 </pre>
 
 #### Outras (CommonMark)
 
-<pre>*Itálico*   # Ou _Itálico_
-**Negrito** # Ou __Bold__
+<pre>
 
-            # 4 espaços vazios, tag &lt;pre&gt;
+ --- # <hr />, horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.
+ 
+            # 4 espaços vazios, tag <pre>
+> # Tag <blockquote>, bloco de citação.
+ 
 </pre>
+
 Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 ###### Link e imagem (CommonMark)
@@ -213,7 +231,7 @@ Sintaxe: dois pontos, nome em inglês, dois pontos.
 
 
 <pre>
- :heart: # ❤️
+:heart: # ❤️
 :grin: # 😄️
 :angry: # 😠️
 :star: # ⭐️
