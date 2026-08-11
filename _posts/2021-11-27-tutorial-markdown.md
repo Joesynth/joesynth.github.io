@@ -55,7 +55,10 @@ A **linguagem markdown** é utilizada em...
 
 #### Texto
 
-###### Título e parágrafo
+No caso do HTML, na UI temos cada etiqueta (tag): texto + grafica.
+Aqui no markdown segue a mesma ideia.
+
+###### Título e parágrafo | h1-h6 p
 
 <pre>
 ## Título
@@ -66,7 +69,7 @@ A **linguagem markdown** é utilizada em...
 **Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.
 ⚠️ No Wordpress crie usando uma linha em branco.
 
-###### Negrito e itálico
+###### Negrito e itálico | strong b i em
 
 <pre>
 **Negrito** # Ou __Bold__
@@ -75,7 +78,7 @@ A **linguagem markdown** é utilizada em...
 </pre>
 
 
-###### Listas
+###### Listas | ul ol li
 
 **Lista não ordenada**:  
 
@@ -103,7 +106,7 @@ A **linguagem markdown** é utilizada em...
 
 
 
-###### Link (CommonMark)
+###### Link (CommonMark) | a
 
 Usa-se os colchetes e os parênteses. O texto do <em>link</em> fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
 
@@ -119,7 +122,7 @@ Exemplos:
 </pre>
 
 
-###### Tag "pre" e bloco de citação (ambas CommonMark)
+###### Tag "pre" e bloco de citação (ambas CommonMark) | pre
 
 <pre>
             # 4 espaços vazios, tag *pre*
@@ -130,7 +133,7 @@ Exemplos:
 #### Recursos gráficos
 
 
-###### Imagem (CommonMark)
+###### Imagem (CommonMark) | img
 
 Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
 
@@ -145,7 +148,7 @@ Exemplo:
 </pre>
 
 
-###### Tabela (GFM)
+###### Tabela (GFM) | table tr td
 
 É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
 
@@ -176,7 +179,7 @@ Mesclar.
 | uva | uva | uva |
 </pre>
 
-###### Régua horizontal(CommonMark)
+###### Régua horizontal(CommonMark) | hr
 
 <pre>
  --- # <hr />, horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.
