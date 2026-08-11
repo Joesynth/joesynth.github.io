@@ -4,10 +4,10 @@ Olá!
 Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
 
 - O que é Markdown? Quem usa?
+- Markdown - Guia Rápido.
 - Arquivo Markdown.
 - <em>Softwares</em> e plug-ins.
 - Sabores!
-- Markdown - Guia Rápido.
 - Analisador (parser).
 - Um pouco de história.
 - Mais links sobre o tema.
@@ -27,126 +27,48 @@ Abaixo, um título em HTML e em markdown, e note como neste último caso é mais
 ## Título</pre>
 Ainda temos <em>links</em>, recursos gráficos como imagens, tabelas etc_podemos até inserir uma linha bem fininha num texto ou site. E tudo de forma rápida, sutil.
 
-Bom, você pode estar se perguntando: pra que aprender isso se meu editor de texto favorito faz isso com um clique de <em>mouse</em>? Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do <em>mouse</em>.
+###### Para que aprender *markdown** se meu editor de texto favorito faz isso com um clique de <em>mouse</em>?
 
-E se você gosta de tecnologia, ou principalmente programação, a Markdown pode ser uma forma até divertida de entrarmos nesse mundo.
+● Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do <em>mouse</em>.  
+● Não precisa usar *mouse*, inclusive funciona com o editor Nano _que é um *software* de linha de comando.
+
+###### Gostar de tecnologia e programação
+
+Se você gosta desses assuntos a Markdown é a linguagem mais fácil, e até até divertida, de entrarmos nesse mundo.
 Continue lendo esse tutorial e veja abaixo!
-<h6>Quem usa Markdown?</h6>
-A linguagem markdown é utilizada em mensagens instantâneas, fóruns <em>online</em>, <em>software</em> colaborativo, páginas de documentação e arquivos 'leia-me'. Eu mesmo, ao escrever neste <em>blog</em>, uso Markdown.
 
-## 💾️ Arquivo Markdown
-A extensão do nome do arquivo é .<em>md</em> ou .<em>markdown</em>, isso num editor.
-Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
-<h6>Criando um arquivo Markdown</h6>
-Fácil!
 
-- Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
-- Crie um novo arquivo e nomeie ele com algo como <em>teste.md</em> _não esqueça de usar a extensão .<em>md</em>!
+###### Quem usa Markdown?
 
-<h6>Arquivo .md do GitHub</h6>
-Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo <em>Markdown Documentation</em> (ou seja, <em>readme.md</em>).
-## Softwares e plug-ins
-Basicamente temos softs editores e plug-ins de Markdown.
+A **linguagem markdown** é utilizada em...  
+● mensagens instantâneas,  
+● fóruns <em>online</em>,  
+● <em>software</em> colaborativo,  
+● páginas de documentação e arquivos 'leia-me'.  
 
-<h6>Software editor Markdown</h6>
-Como dito, um editor de texto bem simples (como Bloco de Notas ou Gedit) é usado para lidarmos com a Markdown _embora haja programas mais avançados e que lidam também com ela.
+👉️ Eu mesmo, ao escrever neste <em>blog</em>, uso Markdown.
 
-<img class="alignleft" src="https://alternativebk.com/wp-content/uploads/2019/08/gedit.png" width="40" /> Gedit.
-🖥️ <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a>.
-📜️ Software Livre.
-Já faz parte do sistema Ubuntu, portanto não precisa instalar. Num arquivo .<em>md</em> do Gedit podemos ter tanto Markdown como HTML, e as duas linguagens tendo marcação colorida de ambas as sintaxes.
 
-⚫️ Editor.
-🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-Simples e objetivo é uma bela opção para iniciantes em programação. Lida simultaneamente com Markdown e HTML, num mesmo arquivo. Possui destaque de cores para ambas linguagens.
-
-<img class="alignleft" src="https://f-droid.org/repo/icons-640/com.farmerbb.notepad.112.png" width="40" height="40" />Notepad.
-🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-📜️ Software Livre.
-Num mesmo arquivo do Notepad podemos escrever Markdown ou HTML; e ao final mostra-se tudo visualmente como fica, seja títulos, listas ou mesmo botões etc. Bem objetivo, é uma ótima opção para iniciarmos na Markdown.
-
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Joplin-icon.svg/800px-Joplin-icon.svg.png" width="40" height="40" />Joplin.
-🔗️joplinapp.org
-🔗️github.com/laurent22/joplin
-🖥️ Linux, macOS, Windows, Android, iOS.
-📜️ AGPL License.
-⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>, <a href="https://joesynth.wordpress.com/2021/12/25/xx/">Ubuntu Software</a>.
-Concorrente do Evernote, nos permite escrever Markdown e HTML, inclusive tabelas.
-
-⚫️ Dillinger.
-🔗️ https://dillinger.io/
-🖥️ É um editor <em>online</em>.
-Usado para escrever Markdown, bem como converter na visualisação HTML.
-<h6>Soft CLI</h6>
-Vide <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
-
-<h6>Plug-ins (renderização - visualização)</h6>
-Um editor que escreva o código é uma coisa, renderizar é outra! Veja alguns casos:
-
-<strong>Bloco de Notas</strong> (Windows): escreve mas não renderiza seus documentos em Markdown.
-<strong>Gedit</strong> (Ubuntu): escreve mas não renderiza, embora é possível (vide Markdown Plug-ins).
-<strong>Wordpress</strong> (online): aceita marcadores de Markdown, e também renderiza.
-<h6>plug-ins</h6>
-<strong>Gedit</strong>: <em>plugin</em> <em>Markdown Preview</em>.
-<strong>Firefox</strong>: Markdown Viewer Webext.
-
-<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura <em>markdown</em> e HTML.
-Instale e...
-Clique em Extensions, menu superior direito, próximo menu principal.
-Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).
-Nesta caixa clique details.
-Allow access to file URLs; ligue o Toggle.
-
-###### Outras aplicações Markdown
-
-<img class="editor alignleft" title="CodeMirror" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Baboon.svg/330px-Baboon.svg.png" alt="Soft CodeMirror" width="40" /> CodeMirror.
-✏️ M. Haverbeke.
-🔗️ codemirror.net
-📜️ MIT.
-Componente que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.
-<pre>⚫️ Acode ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-⚫️ StackEdit (online).
-⚫️ markdown-it.
-🔗️ https://github.com/markdown-it/markdown-it
-Segue a especificação CommonMark.
-⚫️ Ulysses.
-Usado para escrever Markdown.
-⚫️ Jekyll.
-Gerador de site estático que pega arquivos Markdown e cria um site HTML.</pre>
-Também há <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
-
-## Sabores!
-Aplicativos Markdown implementam versões ligeiramente diferentes da Markdown; são os chamados 'sabores'. Esses 'sabores' são como dialetos de uma linguagem _algo como português carioca e de Lisboa, por ex.
-
-###### CommonMark
-
-É uma proposta de sintaxe padrão para a Markdown, inclusive usada pelo <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>, por ex.
-
-CommonMark: sites e projetos que adotaram:
-Discourse,
-GitLab e GitHub,
-Reddit,
-Qt,
-Stack Overflow / Stack Exchange
-Swift.
-Wordpress (via plugin)
-
-**GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.
 
 
 ## Markdown - Guia Rápido - Básico (CommonMark)
 
 #### Texto
 
-###### Parágrafo, título, negrito e itálico
+###### Título e parágrafo
 
 <pre>
-⚠️ No Wordpress crie usando uma linha em branco.
-
 ## Título
 
 ### Título 3 # título um tanto menor.
+</pre>
 
+**Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.
+⚠️ No Wordpress crie usando uma linha em branco.
+
+###### Negrito e itálico
+
+<pre>
 **Negrito** # Ou __Bold__
 
 *Itálico*   # Ou _Itálico_
@@ -207,6 +129,22 @@ Exemplos:
 
 #### Recursos gráficos
 
+
+###### Imagem (CommonMark)
+
+Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
+
+Sintaxe:  
+<pre>
+![textoAlternativo](URL)
+</pre>
+
+Exemplo: 
+<pre>
+![Um Gato](http://url/gato.png)
+</pre>
+
+
 ###### Tabela (GFM)
 
 É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
@@ -236,20 +174,6 @@ Centro.
 Mesclar.
 | :--- | :---: | ---: |
 | uva | uva | uva |
-</pre>
-
-###### Imagem (CommonMark)
-
-Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
-
-Sintaxe:  
-<pre>
-![textoAlternativo](URL)
-</pre>
-
-Exemplo: 
-<pre>
-![Um Gato](http://url/gato.png)
 </pre>
 
 ###### Régua horizontal(CommonMark)
@@ -288,6 +212,115 @@ Sintaxe: dois pontos, nome em inglês, dois pontos.
 
 Outros inclui <em>shit</em>, <em>blush</em>, -1, <em>smiley</em>...
 Lista com dezenas: https://gist.github.com/rxaviers/7360908
+
+
+
+
+## 💾️ Arquivo Markdown
+A extensão do nome do arquivo é .<em>md</em> ou .<em>markdown</em>, isso num editor.
+Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
+<h6>Criando um arquivo Markdown</h6>
+Fácil!
+
+- Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
+- Crie um novo arquivo e nomeie ele com algo como <em>teste.md</em> _não esqueça de usar a extensão .<em>md</em>!
+
+###### Arquivo .md do GitHub
+
+Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo <em>Markdown Documentation</em> (ou seja, <em>readme.md</em>).
+## Softwares e plug-ins
+Basicamente temos softs editores e plug-ins de Markdown.
+
+###### Software editor Markdown
+  
+Um editor de texto simples (como Bloco de Notas ou Gedit) é usado para lidarmos com a Markdown _embora haja programas mais avançados e que lidam também com ela.
+
+<img class="alignleft" src="https://alternativebk.com/wp-content/uploads/2019/08/gedit.png" width="40" />**Gedit**.
+🖥️ <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a>.
+📜️ Software Livre.
+Já faz parte do sistema Ubuntu, portanto não precisa instalar. Num arquivo .<em>md</em> do Gedit podemos ter tanto Markdown como HTML, e as duas linguagens tendo marcação colorida de ambas as sintaxes.
+
+⚫️ **Editor**.
+🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
+Simples e objetivo é uma bela opção para iniciantes em programação. Lida simultaneamente com Markdown e HTML, num mesmo arquivo. Possui destaque de cores para ambas linguagens.
+
+<img class="alignleft" src="https://f-droid.org/repo/icons-640/com.farmerbb.notepad.112.png" width="40" height="40" />**Notepad**.
+🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
+📜️ Software Livre.
+Num mesmo arquivo do Notepad podemos escrever Markdown ou HTML; e ao final mostra-se tudo visualmente como fica, seja títulos, listas ou mesmo botões etc. Bem objetivo, é uma ótima opção para iniciarmos na Markdown.
+
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Joplin-icon.svg/800px-Joplin-icon.svg.png" width="40" height="40" />**Joplin**.
+🔗️joplinapp.org
+🔗️github.com/laurent22/joplin
+🖥️ Linux, macOS, Windows, Android, iOS.
+📜️ AGPL License.
+⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>, <a href="https://joesynth.wordpress.com/2021/12/25/xx/">Ubuntu Software</a>.
+Concorrente do Evernote, nos permite escrever Markdown e HTML, inclusive tabelas.
+
+⚫️ **Dillinger**.
+🔗️ https://dillinger.io/
+🖥️ É um editor <em>online</em>.
+Usado para escrever Markdown, bem como converter na visualisação HTML.
+<h6>Soft CLI</h6>
+Vide <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
+
+**Nano** (CLI): famoso editor de linha de comando do Linux.
+
+
+<h6>Plug-ins (renderização - visualização)</h6>
+Um editor que escreva o código é uma coisa, renderizar é outra! Veja alguns casos:
+
+<strong>Bloco de Notas</strong> (Windows): escreve mas não renderiza seus documentos em Markdown.
+<strong>Gedit</strong> (Ubuntu): escreve mas não renderiza, embora é possível (vide Markdown Plug-ins).
+<strong>Wordpress</strong> (online): aceita marcadores de Markdown, e também renderiza.
+<h6>plug-ins</h6>
+<strong>Gedit</strong>: <em>plugin</em> <em>Markdown Preview</em>.
+<strong>Firefox</strong>: Markdown Viewer Webext.
+
+<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura <em>markdown</em> e HTML.
+Instale e...
+Clique em Extensions, menu superior direito, próximo menu principal.
+Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).
+Nesta caixa clique details.
+Allow access to file URLs; ligue o Toggle.
+
+###### Outras aplicações Markdown
+
+<img class="editor alignleft" title="CodeMirror" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Baboon.svg/330px-Baboon.svg.png" alt="Soft CodeMirror" width="40" /> CodeMirror.
+✏️ M. Haverbeke.
+🔗️ codemirror.net
+📜️ MIT.
+Componente que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.
+<pre>⚫️ Acode ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
+⚫️ StackEdit (online).
+⚫️ markdown-it.
+🔗️ https://github.com/markdown-it/markdown-it
+Segue a especificação CommonMark.
+⚫️ Ulysses.
+Usado para escrever Markdown.
+⚫️ Jekyll.
+Gerador de site estático que pega arquivos Markdown e cria um site HTML.</pre>
+Também há <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
+
+## Sabores!
+Aplicativos Markdown implementam versões ligeiramente diferentes da Markdown; são os chamados 'sabores'. Esses 'sabores' são como dialetos de uma linguagem _algo como português carioca e de Lisboa, por ex.
+
+###### CommonMark
+
+É uma proposta de sintaxe padrão para a Markdown, inclusive usada pelo <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>, por ex.
+
+CommonMark: sites e projetos que adotaram:
+Discourse,
+GitLab e GitHub,
+Reddit,
+Qt,
+Stack Overflow / Stack Exchange
+Swift.
+Wordpress (via plugin)  
+
+**GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.  
+**GLFM <sup>GitLab Flavored Markdown</sup>**: um 'sabor' mais abrangente que o GFM.  
+
 
 
 
