@@ -1,12 +1,12 @@
 # Markdown
 
 Olá!
-Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
+Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
 - Arquivo Markdown.
-- <em>Softwares</em> e plug-ins.
+- *Softwares* e plug-ins.
 - Sabores!
 - Analisador (parser).
 - Um pouco de história.
@@ -15,21 +15,18 @@ Vamos a um breve tutorial rápido sobre <em>markdown</em>? Então...
 
 ## O que é Markdown? Quem Usa?
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Ela organiza a estrutura de um texto, definindo o que é título, parágrafo, etc. bem como alguns aspectos de apresentação _é o caso de pôr uma palavra em negrito ou itálico.  
 
-Markdown é uma <a href="https://joesynth.wordpress.com/2021/12/27/linguagens-resumo/">linguagem de marcação</a>. Comparada a <a href="https://joesynth.wordpress.com/2021/11/27/html-css-e-js/">HTML</a> _que tem muitos 'símbolos' (as chamadas <em>tags</em>, elementos)_ a linguagem <em>markdown</em> é bem simples, sendo bem mais objetiva e fácil de aprender. É tudo praticamente intuitivo.
+Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até inserir uma linha bem fininha num texto ou site. E tudo de forma rápida, sutil.  
 
-Ela utiliza um conjunto de códigos para a formatação de textos. E essa codificação em si se resume em símbolos como asterisco, cerquilha (que é sustenido na música, ou a famosa <em>hashtag</em>).
+**Markdown é simples!**: Comparada a HTML _que tem muitos 'símbolos' (as chamadas *tags*, elementos)_ a linguagem Markdown é bem mais simples. Ela é muito mais objetiva e fácil de aprender. Tudo é praticamente intuitivo.
 
-Tal como a HTML, a <em>markdown</em> serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
-Abaixo, um título em HTML e em markdown, e note como neste último caso é mais simples.
-<pre>&lt;h2&gt;Título&lt;/h2&gt;
-## Título</pre>
-Ainda temos <em>links</em>, recursos gráficos como imagens, tabelas etc_podemos até inserir uma linha bem fininha num texto ou site. E tudo de forma rápida, sutil.
+**Formatação de textos**: a Markdown utiliza um conjunto de códigos bem simples para a formatação de textos. Essa codificação em si se resume em símbolos como asterisco, cerquilha (que é sustenido na música, ou a famosa *hashtag*).  
 
-###### Para que aprender *markdown** se meu editor de texto favorito faz isso com um clique de <em>mouse</em>?
 
-● Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do <em>mouse</em>.  
+###### Para que aprender *markdown** se meu editor de texto favorito faz isso com um clique de *mouse*?
+
+● Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do *mouse*.  
 ● Não precisa usar *mouse*, inclusive funciona com o editor Nano _que é um *software* de linha de comando.
 
 ###### Gostar de tecnologia e programação
@@ -41,12 +38,34 @@ Continue lendo esse tutorial e veja abaixo!
 ###### Quem usa Markdown?
 
 A **linguagem markdown** é utilizada em...  
-● mensagens instantâneas,  
-● fóruns <em>online</em>,  
-● <em>software</em> colaborativo,  
+● mensagens instantâneas (Telegram, por ex.),  
+● fóruns *online* (GitLab),  
+● *software* colaborativo (caso do Collabora Online que permite importar),  
 ● páginas de documentação e arquivos 'leia-me'.  
 
-👉️ Eu mesmo, ao escrever neste <em>blog</em>, uso Markdown.
+👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
+
+
+###### Markdown vs. HTML
+
+HTML tamém é uma linguagem de marcação. HTML e Markdown lidam com estrutura e apresentação, mas o HTML oferece uma forma de marcação muito mais ampla e detalhada.  
+
+Tal como a HTML, a *markdown* serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
+
+Abaixo, um título em HTML e em markdown, e note como neste último caso é mais simples.
+<pre>&lt;h2&gt;Título&lt;/h2&gt;
+## Título</pre>
+
+**Marcação vs. instrução**:
+
+|Marcação| Instrução|
+|---|---|
+|É classificar algo.| Representa uma ação a ser executada.|
+|Markdown<br >HTML|Bash<br >JS|
+
+👉️ O termo **comando** também indica uma ação a ser realizada.
+
+
 
 
 
@@ -85,7 +104,7 @@ Aqui no markdown segue a mesma ideia.
 <pre>
 * foo # # <ul><li>foo</li></ul>
 - idem.
-⚠️ No Wordpress<em> ShiftEnter</em> cria um dentro do outro.
+⚠️ No Wordpress* ShiftEnter* cria um dentro do outro.
 </pre>
   
 **Lista ordenada**:  
@@ -108,7 +127,7 @@ Aqui no markdown segue a mesma ideia.
 
 ###### Link (CommonMark) | a
 
-Usa-se os colchetes e os parênteses. O texto do <em>link</em> fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
+Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
 
 <pre>
 [textoDoLink](URL)
@@ -122,7 +141,7 @@ Exemplos:
 </pre>
 
 
-###### Tag "pre" e bloco de citação (ambas CommonMark) | pre
+###### Texto pré-formatado e bloco de citação (ambas CommonMark) | pre blockquote
 
 <pre>
             # 4 espaços vazios, tag *pre*
@@ -213,24 +232,24 @@ Sintaxe: dois pontos, nome em inglês, dois pontos.
 :mouse: # 🐭️
 </pre>
 
-Outros inclui <em>shit</em>, <em>blush</em>, -1, <em>smiley</em>...
+Outros inclui *shit*, *blush*, -1, *smiley*...
 Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 
 
 
 ## 💾️ Arquivo Markdown
-A extensão do nome do arquivo é .<em>md</em> ou .<em>markdown</em>, isso num editor.
+A extensão do nome do arquivo é .*md* ou .*markdown*, isso num editor.
 Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
 <h6>Criando um arquivo Markdown</h6>
 Fácil!
 
 - Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
-- Crie um novo arquivo e nomeie ele com algo como <em>teste.md</em> _não esqueça de usar a extensão .<em>md</em>!
+- Crie um novo arquivo e nomeie ele com algo como *teste.md* _não esqueça de usar a extensão .*md*!
 
 ###### Arquivo .md do GitHub
 
-Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo <em>Markdown Documentation</em> (ou seja, <em>readme.md</em>).
+Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo *Markdown Documentation* (ou seja, *readme.md*).
 ## Softwares e plug-ins
 Basicamente temos softs editores e plug-ins de Markdown.
 
@@ -241,7 +260,7 @@ Um editor de texto simples (como Bloco de Notas ou Gedit) é usado para lidarmos
 <img class="alignleft" src="https://alternativebk.com/wp-content/uploads/2019/08/gedit.png" width="40" />**Gedit**.
 🖥️ <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a>.
 📜️ Software Livre.
-Já faz parte do sistema Ubuntu, portanto não precisa instalar. Num arquivo .<em>md</em> do Gedit podemos ter tanto Markdown como HTML, e as duas linguagens tendo marcação colorida de ambas as sintaxes.
+Já faz parte do sistema Ubuntu, portanto não precisa instalar. Num arquivo .*md* do Gedit podemos ter tanto Markdown como HTML, e as duas linguagens tendo marcação colorida de ambas as sintaxes.
 
 ⚫️ **Editor**.
 🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
@@ -262,7 +281,7 @@ Concorrente do Evernote, nos permite escrever Markdown e HTML, inclusive tabelas
 
 ⚫️ **Dillinger**.
 🔗️ https://dillinger.io/
-🖥️ É um editor <em>online</em>.
+🖥️ É um editor *online*.
 Usado para escrever Markdown, bem como converter na visualisação HTML.
 <h6>Soft CLI</h6>
 Vide <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
@@ -277,10 +296,10 @@ Um editor que escreva o código é uma coisa, renderizar é outra! Veja alguns c
 <strong>Gedit</strong> (Ubuntu): escreve mas não renderiza, embora é possível (vide Markdown Plug-ins).
 <strong>Wordpress</strong> (online): aceita marcadores de Markdown, e também renderiza.
 <h6>plug-ins</h6>
-<strong>Gedit</strong>: <em>plugin</em> <em>Markdown Preview</em>.
+<strong>Gedit</strong>: *plugin* *Markdown Preview*.
 <strong>Firefox</strong>: Markdown Viewer Webext.
 
-<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura <em>markdown</em> e HTML.
+<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.
 Instale e...
 Clique em Extensions, menu superior direito, próximo menu principal.
 Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).
@@ -321,7 +340,7 @@ Stack Overflow / Stack Exchange
 Swift.
 Wordpress (via plugin)  
 
-**GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na <em>CommonMark</em>.  
+**GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.  
 **GLFM <sup>GitLab Flavored Markdown</sup>**: um 'sabor' mais abrangente que o GFM.  
 
 
@@ -331,7 +350,7 @@ Wordpress (via plugin)
 
 ## Analisador (parser)
 
-Aplicativos Markdown usam o chamado processador Markdown (“<em>parser</em>” ou “<em>implementation</em>”).
+Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*implementation*”).
 
 <img class="alignleft" src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&amp;fit=clip&amp;q=40&amp;w=1080" width="307" height="64" />
 
@@ -342,7 +361,7 @@ Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o forma
 - Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
 - Visualize o arquivo HTML em um navegador da Web.
 
-Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .<em>md</em>), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
+Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
 Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
 ## Um pouco de história
