@@ -73,10 +73,12 @@ Nos exemplos abaixo, o título "Jesus de Nazaré" escrito nas linguagens markdow
 
 
 
-## Markdown - Guia Rápido - Básico (CommonMark)
+## Markdown - Guia Rápido - Básico
 
-No caso do HTML, na UI temos cada etiqueta (tag): texto + grafica.
-Aqui no markdown segue a mesma ideia.
+No caso do HTML, na UI temos cada etiqueta (tag): texto + grafica.  
+Aqui no markdown segue a mesma ideia.  
+
+👉️ Este tutorial está em CommonMark, via de regra. Vide "Sabores!" abaixo.
 
 #### Texto
 
@@ -106,7 +108,7 @@ Aqui no markdown segue a mesma ideia.
 * foo # # <ul><li>foo</li></ul>
 - idem.
 </pre>
-⚠️ No Wordpress* ShiftEnter* cria um dentro do outro.  
+⚠️ No Wordpress <kbd>ShiftEnter</kbd> cria um dentro do outro.  
 
 
 **Lista ordenada**:  
@@ -127,7 +129,7 @@ Aqui no markdown segue a mesma ideia.
 
 
 
-###### Link (CommonMark) | a
+###### Link | a
 
 Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
 
@@ -143,7 +145,7 @@ Exemplos:
 </pre>
 
 
-###### Texto pré-formatado e bloco de citação (ambas CommonMark) | pre blockquote
+###### Texto pré-formatado e bloco de citação | pre blockquote
 
 <pre>
      # 4 espaços vazios, tag *pre*
@@ -154,7 +156,7 @@ Exemplos:
 #### Recursos gráficos
 
 
-###### Imagem (CommonMark) | img
+###### Imagem | img
 
 Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
 
@@ -169,7 +171,7 @@ Exemplo:
 </pre>
 
 
-###### Tabela (GFM) | table tr td
+###### Tabela | table tr td
 
 É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
 
@@ -181,7 +183,9 @@ Exemplo:
 | acerola| salsa |
 </pre>
 
-Vide mais <a href="https://github.github.com/gfm/">GFM</a>.
+👉️ Esta tabela está em GFM. Vide "Sabores!" abaixo.  
+
+
 
 
 **Alinhar conteúdo da tabela**
@@ -200,14 +204,14 @@ Vide mais <a href="https://github.github.com/gfm/">GFM</a>.
 | uva | uva | uva |
 </pre>
 
-###### Régua horizontal(CommonMark) | hr
+###### Régua horizontal | hr
 
 <pre>
  --- # &lt;hr /&gt;
 </pre>
 👉️ horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.  
 
-Veja mais em <a href="https://commonmark.org/help/">help</a>.
+
 
 #### id e class (identificação única ou genérica)
 
@@ -330,10 +334,11 @@ Segue a especificação CommonMark.
 Usado para escrever Markdown.
 ⚫️ Jekyll.
 Gerador de site estático que pega arquivos Markdown e cria um site HTML.</pre>
-Também há <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
+
 
 ## Sabores!
-Aplicativos Markdown implementam versões ligeiramente diferentes da Markdown; são os chamados 'sabores'. Esses 'sabores' são como dialetos de uma linguagem _algo como português carioca e de Lisboa, por ex.
+
+São aplicativos Markdown que implementam versões ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
 
 ###### CommonMark
 
@@ -351,7 +356,7 @@ Wordpress (via plugin)
 **GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.  
 **GLFM <sup>GitLab Flavored Markdown</sup>**: um 'sabor' mais abrangente que o GFM.  
 
-
+Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 
 
