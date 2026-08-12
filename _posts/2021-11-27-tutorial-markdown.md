@@ -41,7 +41,7 @@ A **linguagem markdown** é utilizada em...
 ● mensagens instantâneas (Telegram, por ex.),  
 ● fóruns *online* (GitLab),  
 ● *software* colaborativo (caso do Collabora Online que permite importar),  
-● páginas de documentação e arquivos 'leia-me'.  
+● páginas de documentação e arquivos 'leia-me' (README.md de projetos no GitLab e GitHub).  
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
@@ -52,9 +52,12 @@ HTML tamém é uma linguagem de marcação. HTML e Markdown lidam com estrutura 
 
 Tal como a HTML, a *markdown* serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
 
-Abaixo, um título em HTML e em markdown, e note como neste último caso é mais simples.
-<pre>&lt;h2&gt;Título&lt;/h2&gt;
-## Título</pre>
+Nos exemplos abaixo, o título "Jesus de Nazaré" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.
+
+<pre>
+## Jesus de Nazaré
+&lt;h2&gt;Jesus de Nazaré&lt;/h2&gt;
+</pre>
 
 **Marcação vs. instrução**:
 
@@ -72,27 +75,25 @@ Abaixo, um título em HTML e em markdown, e note como neste último caso é mais
 
 ## Markdown - Guia Rápido - Básico (CommonMark)
 
-#### Texto
-
 No caso do HTML, na UI temos cada etiqueta (tag): texto + grafica.
 Aqui no markdown segue a mesma ideia.
+
+#### Texto
 
 ###### Título e parágrafo | h1-h6 p
 
 <pre>
 ## Título
-
-### Título 3 # título um tanto menor.
+### Título # título um tanto menor.
 </pre>
 
-**Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.
+**Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 ⚠️ No Wordpress crie usando uma linha em branco.
 
 ###### Negrito e itálico | strong b i em
 
 <pre>
 **Negrito** # Ou __Bold__
-
 *Itálico*   # Ou _Itálico_
 </pre>
 
@@ -104,9 +105,10 @@ Aqui no markdown segue a mesma ideia.
 <pre>
 * foo # # <ul><li>foo</li></ul>
 - idem.
-⚠️ No Wordpress* ShiftEnter* cria um dentro do outro.
 </pre>
-  
+⚠️ No Wordpress* ShiftEnter* cria um dentro do outro.  
+
+
 **Lista ordenada**:  
 
 <pre>
@@ -144,7 +146,7 @@ Exemplos:
 ###### Texto pré-formatado e bloco de citação (ambas CommonMark) | pre blockquote
 
 <pre>
-            # 4 espaços vazios, tag *pre*
+     # 4 espaços vazios, tag *pre*
 > # Tag *blockquote*, bloco de citação.
 </pre>
 
@@ -184,25 +186,26 @@ Vide mais <a href="https://github.github.com/gfm/">GFM</a>.
 
 **Alinhar conteúdo da tabela**
 
-<pre>Esquerda.
-| : - - - |
+<pre>
+| : - - - : |  # Centro.
 | caju |
-Direita.
-| - - - : |
+
+| - - - : |  # Direita.
 | caju |
-Centro.
-| : - - - : |
+
+| : - - - |  # Esquerda (*default*, padrão).
 | caju |
-Mesclar.
-| :--- | :---: | ---: |
+
+| :--- | :---: | ---: |  # Mesclar.
 | uva | uva | uva |
 </pre>
 
 ###### Régua horizontal(CommonMark) | hr
 
 <pre>
- --- # <hr />, horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.
+ --- # &lt;hr /&gt;
 </pre>
+👉️ horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.  
 
 Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
@@ -283,19 +286,24 @@ Concorrente do Evernote, nos permite escrever Markdown e HTML, inclusive tabelas
 🔗️ https://dillinger.io/
 🖥️ É um editor *online*.
 Usado para escrever Markdown, bem como converter na visualisação HTML.
-<h6>Soft CLI</h6>
+
+⚫️  **Nano** (Software CLI): famoso editor de linha de comando do Linux.  
+
 Vide <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
 
-**Nano** (CLI): famoso editor de linha de comando do Linux.
 
+###### Plug-ins (renderização - visualização)
 
-<h6>Plug-ins (renderização - visualização)</h6>
 Um editor que escreva o código é uma coisa, renderizar é outra! Veja alguns casos:
 
-<strong>Bloco de Notas</strong> (Windows): escreve mas não renderiza seus documentos em Markdown.
-<strong>Gedit</strong> (Ubuntu): escreve mas não renderiza, embora é possível (vide Markdown Plug-ins).
-<strong>Wordpress</strong> (online): aceita marcadores de Markdown, e também renderiza.
-<h6>plug-ins</h6>
+||||
+|:---:|:---:|:---:|
+|escreve|escreve|aceita marcadores de Markdown|
+|mas não renderiza seus documentos em Markdown|mas não renderiza, embora é possível (vide Markdown Plug-ins)| e também renderiza|
+|Bloco de Notas|Gedit|Wordpress|
+|Windows|Ubuntu|online|
+
+###### plug-ins
 <strong>Gedit</strong>: *plugin* *Markdown Preview*.
 <strong>Firefox</strong>: Markdown Viewer Webext.
 
