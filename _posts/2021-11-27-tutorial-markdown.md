@@ -257,83 +257,72 @@ Fácil!
 ###### Arquivo .md do GitHub
 
 Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo *Markdown Documentation* (ou seja, *readme.md*).
-## Softwares e plug-ins
-Basicamente temos softs editores e plug-ins de Markdown.
 
-###### Software editor Markdown
+
+
+
+## Profissões que usam e softwares
+
+
+| Área | Software | Finalidade |
+|---|---|---|
+| **Produção de conteúdo** (jornalista, produtor de conteúdo, redator) | Obsidian, Zettlr 🎈, Joplin 🎈, Typora, MarkText 🎈, VSCodium 🎈 | Escrita e organização |
+| **TI** (programador, desenvolvedor, DevOps) | Nano (CLI) 🎈, Gedit 🎈, GitLab 🎈, GitHub, VSCodium 🎈 | Código e documentação |
+| **Dados** (cientista de dados, analista) | Jupyter 🎈, GitLab 🎈, Quarto 🎈, VSCodium 🎈 | Análise e relatórios |
+| **Segurança** (pentester, analista SOC) | Nano 🎈, Gedit 🎈, GitLab 🎈, GitHub, Vim 🎈, VSCodium 🎈 | Relatórios e documentação |
+| **Produto** (Product Manager) | Notion, GitHub, Obsidian, Zettlr 🎈, VSCodium 🎈 | Requisitos e especificações |
+| **Design UX** (UX Designer) | Notion, Obsidian, Zettlr 🎈, GitLab 🎈, VSCodium 🎈 | Pesquisa e documentação |
+
+
+
+###### Software editor Markdown e renderização (visualização)
   
-Um editor de texto simples (como Bloco de Notas ou Gedit) é usado para lidarmos com a Markdown _embora haja programas mais avançados e que lidam também com ela.
-
-<img class="alignleft" src="https://alternativebk.com/wp-content/uploads/2019/08/gedit.png" width="40" />**Gedit**.
-🖥️ <a href="https://joesynth.wordpress.com/2021/12/12/linux/">Ubuntu</a>.
-📜️ Software Livre.
-Já faz parte do sistema Ubuntu, portanto não precisa instalar. Num arquivo .*md* do Gedit podemos ter tanto Markdown como HTML, e as duas linguagens tendo marcação colorida de ambas as sintaxes.
-
-⚫️ **Editor**.
-🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-Simples e objetivo é uma bela opção para iniciantes em programação. Lida simultaneamente com Markdown e HTML, num mesmo arquivo. Possui destaque de cores para ambas linguagens.
-
-<img class="alignleft" src="https://f-droid.org/repo/icons-640/com.farmerbb.notepad.112.png" width="40" height="40" />**Notepad**.
-🖥️ Android ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-📜️ Software Livre.
-Num mesmo arquivo do Notepad podemos escrever Markdown ou HTML; e ao final mostra-se tudo visualmente como fica, seja títulos, listas ou mesmo botões etc. Bem objetivo, é uma ótima opção para iniciarmos na Markdown.
-
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Joplin-icon.svg/800px-Joplin-icon.svg.png" width="40" height="40" />**Joplin**.
-🔗️joplinapp.org
-🔗️github.com/laurent22/joplin
-🖥️ Linux, macOS, Windows, Android, iOS.
-📜️ AGPL License.
-⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>, <a href="https://joesynth.wordpress.com/2021/12/25/xx/">Ubuntu Software</a>.
-Concorrente do Evernote, nos permite escrever Markdown e HTML, inclusive tabelas.
-
-⚫️ **Dillinger**.
-🔗️ https://dillinger.io/
-🖥️ É um editor *online*.
-Usado para escrever Markdown, bem como converter na visualisação HTML.
-
-⚫️  **Nano** (Software CLI): famoso editor de linha de comando do Linux.  
-
-Vide <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">softwares de linha de comando</a>.
+Um editor de texto simples, como Bloco de Notas ou Gedit, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
 
 
-###### Plug-ins (renderização - visualização)
+Um editor que escreva o código é uma coisa, renderizar é outra!  
 
-Um editor que escreva o código é uma coisa, renderizar é outra! Veja alguns casos:
+Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
 
-||||
-|:---:|:---:|:---:|
-|escreve|escreve|aceita marcadores de Markdown|
-|mas não renderiza seus documentos em Markdown|mas não renderiza, embora é possível (vide Markdown Plug-ins)| e também renderiza|
-|Bloco de Notas|Gedit|Wordpress|
-|Windows|Ubuntu|online|
+| **Escreve, não renderiza** | **Escreve e renderiza** |
+|:---:|:---:|
+| Bloco de Notas (Windows) | WordPress (online) |
+| Nano 🎈 | Dillinger 🎈 (MIT) (online) |
+| Editor (Android/F-Droid) 🎈 | Obsidian |
+| Gedit (Ubuntu) | Joplin 🎈 Notepad (Android/F-Droid) 🎈 |
 
-###### plug-ins
-<strong>Gedit</strong>: *plugin* *Markdown Preview*.
-<strong>Firefox</strong>: Markdown Viewer Webext.
 
-<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.
-Instale e...
-Clique em Extensions, menu superior direito, próximo menu principal.
-Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).
-Nesta caixa clique details.
-Allow access to file URLs; ligue o Toggle.
+👉️ Gedit (Ubuntu): renderiza via plugin.  
+👉️ O ponto importante é que Markdown permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
+👉️ Nano: Não faz destaque simultâneo e contextual de Markdown + HTML no mesmo arquivo como esses editores.
 
-###### Outras aplicações Markdown
+###### Mais plug-ins
+Além do Gedit *plugin* *Markdown Preview*, temos:  
 
-<img class="editor alignleft" title="CodeMirror" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Baboon.svg/330px-Baboon.svg.png" alt="Soft CodeMirror" width="40" /> CodeMirror.
-✏️ M. Haverbeke.
-🔗️ codemirror.net
-📜️ MIT.
-Componente que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.
-<pre>⚫️ Acode ⬇️ ️<a href="https://joesynth.wordpress.com/2021/12/27/f-droid-o-que-e/">F-Droid</a>.
-⚫️ StackEdit (online).
-⚫️ markdown-it.
-🔗️ https://github.com/markdown-it/markdown-it
-Segue a especificação CommonMark.
-⚫️ Ulysses.
-Usado para escrever Markdown.
-⚫️ Jekyll.
-Gerador de site estático que pega arquivos Markdown e cria um site HTML.</pre>
+<strong>Firefox</strong>: Markdown Viewer Webext.  
+<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.  
+Instale e...  
+Clique em Extensions, menu superior direito, próximo menu principal.  
+Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).  
+Nesta caixa clique details.  
+Allow access to file URLs; ligue o Toggle.  
+
+
+
+###### Markdown: outras aplicações
+
+**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JavaScript/TypeScript) que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.  
+🔗️ codemirror.net  
+**Acode** ⬇️ ️F-Droid. Editor de código.  
+**StackEdit** (online). Editor Markdown online.  
+**markdown-it**: Segue a especificação CommonMark.É uma biblioteca JS.  
+🔗️ https://github.com/markdown-it/markdown-it  
+**Ulysses**: Editor de texto/escrita (Apple).  
+**Jekyll**: Gerador de site estático que pega arquivos Markdown e cria um site HTML.
+
+
+
+
 
 
 ## Sabores!
@@ -399,6 +388,7 @@ YT
 <pre>Wordpress
 https://wordpress.com/support/wordpress-editor/blocks/markdown-block/
 
+  
 CommonMark
 https://spec.commonmark.org/0.30/
 
