@@ -176,27 +176,26 @@ Legenda:
 Segue lista....
 
 
-| Linguagem | Época	| Exten.| Domínio	| Nível					| Processamento| Tipagem	| Paradigma | Aplicação |
-| :--- 			| :--- 	| :---		| :--- 					| :---			| :---		| :--- | :--- |
-| 🇬🇧 Assembly 🟊d.40<br />K. Booth | .asm 	| Sistema 	| Baixíssimo 			| Montador		| Física		| Imperativo | Hardware/Drivers |
-| 🇺🇸 Bash 		| .sh		| Script (Shell) | Médio<br />/ Alto	| Interpretada | Dinâmica<br />/Fraca | Imperativo | Automação Unix |
-| 🇺🇸 C 🟊72<br />D.Ritchie, Bell Laboratories				| .c		| Sistema 	| Baixo<br />/ Médio		| Compilada		| Estática<br />/Fraca | Imperativo | OS/<br />Performance |
-| 🇩🇰 🇺🇸C++ 🟊83<br />B.Stroustrup, Bell Laboratories	 		| .cpp	| Sistema 	| Baixo<br />/ Médio		| Compilada		| Estática<br />/Forte | Multiparadigma | Jogos/<br />Engines |
-| 🇨🇭 CSS<br />(interpretada)  | .css	| DSL<br />(Estilo) | Altíssimo			| Renderização	| N/A			| Declarativo | Design<br />/Layout |
-| 🇨🇭 HTML<br />(interpretada) | .html	| DSL<br />(Marcação) | Altíssimo		| Renderização	| N/A			| Declarativo | Estrutura Web |
-| 🇨🇦 🇺🇸 Java 🟊d.90<br />J. Gosling 		| .java	| Sistema/<br />Aplicação | Médio<br />/ Alto | Híbrido<br />(JIT/VM)<br /> (Com. e Inter.) | Estática<br />/Forte | Orientado<br />a Objetos | Corporativo<br />/Android |
-| 🇺🇸 JavaScript d.90<br />B. Eich | .js	| Script 	| Alto 					| JIT/<br />Inter. | Dinâmica<br />/Fraca | Event-driven | Web Frontend |
-| 🇺🇸 JSON 		| .json	| Dados 		| N/A						| Parser			| Dinâmica | Serialização | APIs/<br />Config |
-| 🇨🇦 Liquid 	| .liquid | DSL 		| Altíssimo				| Transformativa | N/A | Declarativo | E-commerce<br />/CMS |
-| 🇧🇷 Lua 🟊d.90<br />Roberto Ierusalimschy 		| .lua	| Script 	| Médio<br />/ Alto			| VM<br />(Interpretada) | Dinâmica<br />/Forte | Multiparadigma | Scripts<br />/Games |
-| 🇺🇸 PowerShell | .ps1	| Script (Shell) | Médio<br />/ Alto	| Interpretada | Dinâmica<br />/Forte | Objetos<br />(.NET) | Adm. Windows |
-| 🇺🇸 Pug 		| .pug	| DSL 		| Altíssimo				| Transformativa | N/A | Declarativo | Templates HTML |
-| 🇳🇱 Python<br />Guido van Rossum (reflective) 	 	| .py		| Script 	| Alto					| VM<br />(Interpretada) | Dinâmica<br />/Forte | Multiparadigma | IA/<br />Data Science |
-| 🇩🇰 PHP 		| .php	| Script 	| Alto					| Interpretada | Dinâmica<br />/Fraca | Imperativo<br />/OOP | Web Backend |
-| 🇺🇸 SQL 🟊d.70<br />IBM (Structured Query Language)	 		| .sql	| DSL 		| Altíssimo				| Motor de Banco | Estática<br />/Forte | Declarativo | Dados Relacionais |
-| 🇺🇸 XML 		| .xml	| Dados 		| N/A						| Parser			| N/A | Serialização | Integração/Web |
-| 🇺🇸 YAML 		| .yaml	| Dados 		| N/A						| Parser			| Dinâmica | Serialização | CI/CD<br />(DevOps) |
-
+| Linguagem - Local - Época          |  Exten.| Domínio | Nível	| Processamento  | Tipagem   | Paradigma | Aplicação |
+| -----------------------------------| ------| ------| ------- | ---------| ---------------| --------- | ----------| 
+| 🇬🇧 Assembly 🟊d.40<br />K. Booth  | .asm   | Sistema 	| Baixíssimo 			| Montador		| Física		| Imperativo | Hardware/Drivers |
+| 🇺🇸 Bash 		             | .sh    | Script (Shell) | Médio<br />/ Alto	| Interpretada | Dinâmica<br />/Fraca | Imperativo | Automação Unix |
+| 🇺🇸 C 🟊72<br />D.Ritchie, Bell Laboratories | .c | Sistema 	| Baixo<br />/ Médio		| Compilada		| Estática<br />/Fraca | Imperativo | OS/<br />Performance |
+| 🇩🇰 🇺🇸C++ 🟊83<br />B.Stroustrup, Bell Laboratories | .cpp	| Sistema 	| Baixo<br />/ Médio		| Compilada		| Estática<br />/Forte | Multiparadigma | Jogos/<br />Engines |
+| 🇨🇭 CSS<br />(interpretada)        | .css	| DSL<br />(Estilo) | Altíssimo			| Renderização	| N/A			| Declarativo | Design<br />/Layout |
+| 🇨🇭 HTML<br />(interpretada)       | .html	| DSL<br />(Marcação) | Altíssimo		| Renderização	| N/A			| Declarativo | Estrutura Web |
+| 🇨🇦 🇺🇸 Java 🟊d.90<br />J. Gosling | .java	| Sistema/<br />Aplicação | Médio<br />/ Alto | Híbrido<br />(JIT/VM)<br /> (Com. e Inter.) | Estática<br />/Forte | Orientado<br />a Objetos | Corporativo<br />/Android |
+| 🇺🇸 JavaScript d.90<br />B. Eich   | .js	| Script 	| Alto 					| JIT/<br />Inter. | Dinâmica<br />/Fraca | Event-driven | Web Frontend |
+| 🇺🇸 JSON 		             | .json	| Dados 		| N/A						| Parser			| Dinâmica | Serialização | APIs/<br />Config |
+| 🇨🇦 Liquid 	                     | .liquid | DSL 		| Altíssimo				| Transformativa | N/A | Declarativo | E-commerce<br />/CMS |
+| 🇧🇷 Lua 🟊d.90<br />Roberto Ierusalimschy | .lua	| Script 	| Médio<br />/ Alto			| VM<br />(Interpretada) | Dinâmica<br />/Forte | Multiparadigma | Scripts<br />/Games |
+| 🇺🇸 PowerShell | .ps1	     | Script (Shell) | Médio<br />/ Alto	| Interpretada | Dinâmica<br />/Forte | Objetos<br />(.NET) | Adm. Windows |
+| 🇺🇸 Pug 		            | .pug	| DSL 		| Altíssimo				| Transformativa | N/A | Declarativo | Templates HTML |
+| 🇳🇱 Python<br />Guido van Rossum (reflective)| .py		| Script 	| Alto					| VM<br />(Interpretada) | Dinâmica<br />/Forte | Multiparadigma | IA/<br />Data Science |
+| 🇩🇰 PHP 		            | .php	| Script 	| Alto					| Interpretada | Dinâmica<br />/Fraca | Imperativo<br />/OOP | Web Backend |
+| 🇺🇸 SQL 🟊d.70<br />IBM (Structured Query Language) | .sql	| DSL 		| Altíssimo				| Motor de Banco | Estática<br />/Forte | Declarativo | Dados Relacionais |
+| 🇺🇸 XML 		            | .xml	| Dados 		| N/A						| Parser			| N/A | Serialização | Integração/Web |
+| 🇺🇸 YAML 		            | .yaml	| Dados 		| N/A						| Parser			| Dinâmica | Serialização | CI/CD<br />(DevOps) |
 
 
 Outras:
