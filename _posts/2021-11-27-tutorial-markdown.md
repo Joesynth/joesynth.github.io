@@ -1,5 +1,6 @@
 # Markdown
 
+
 Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
@@ -45,18 +46,32 @@ A **linguagem markdown** é utilizada em...
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
+###### Para que serve Markdown?
+
+Markdown serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
+Temos a estrutura criarmos texto formatado.
+Lida com estrutura e apresentação? o que é?
+
+
+👉️ Conteúdo? No Markdown também temos símbolos (omo nos emojis), imagens etc.
+
 
 ###### Markdown vs. HTML
 
-HTML tamém é uma linguagem de marcação. HTML e Markdown lidam com estrutura e apresentação, mas o HTML oferece uma forma de marcação muito mais ampla e detalhada.  
+Ambas são...  
 
-Tal como a HTML, a *markdown* serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
+- [x] para apresentação.
+- [x] estrutura do conteúdo textual
+- [x] para criar texto formatado.
+- [x] linguagens de marcação.
 
-Nos exemplos abaixo, o título "Jesus de Nazaré" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.
+Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
+
+Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.
 
 <pre>
-## Jesus de Nazaré
-&lt;h2&gt;Jesus de Nazaré&lt;/h2&gt;
+## O Pequeno Príncipe
+&lt;h2&gt;O Pequeno Príncipe&lt;/h2&gt;
 </pre>
 
 **Marcação vs. instrução**:
@@ -75,22 +90,37 @@ Nos exemplos abaixo, o título "Jesus de Nazaré" escrito nas linguagens markdow
 
 ## Markdown - Guia Rápido - Básico
 
-No caso do HTML, na UI temos cada etiqueta (tag): texto + grafica.  
+No caso do HTML, na UI temos cada etiqueta (tag): texto (escrito) + grafica.  
 Aqui no markdown segue a mesma ideia.  
 
 👉️ Este tutorial está em CommonMark, via de regra. Vide "Sabores!" abaixo.
+
+👉️ UI: esse termo se adequa melhor a HTML/CSS/JS, enquanto 'conteúdo' fica melhor para Markdown.
 
 #### Texto
 
 ###### Título e parágrafo | h1-h6 p
 
 <pre>
-## Título
-### Título # título um tanto menor.
+# Título
+## Título # título um tanto menor.
 </pre>
+
+👉️ O símnbolo do título pode ser **#** até **######**. Um sustenido criará uma letra bem grande enquanto 6 letra pequena, embora ainda título.
 
 **Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 ⚠️ No Wordpress crie usando uma linha em branco.
+
+
+
+Em lingua portuguesa temos a estrutura textual, onde título, introdução e desenvolvimento podem estar perfeitamente marcados com markdown
+
+    # Meu Título.
+
+    Parágrafo de introdução, bla bla blá...
+
+    Parágrafo de desenvolvimento, bla bla bla...
+
 
 ###### Negrito e itálico | strong b i em
 
@@ -207,11 +237,17 @@ Exemplo:
 ###### Régua horizontal | hr
 
 <pre>
- --- # &lt;hr /&gt;
+ --- 
 </pre>
 👉️ horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.  
 
+#### Checklists (GFM) | input
 
+<pre>
+- [ ] Tarefa pendente
+- [x] Tarefa concluída
+- [ ] Outra tarefa
+</pre>
 
 #### id e class (identificação única ou genérica)
 
@@ -327,23 +363,15 @@ Allow access to file URLs; ligue o Toggle.
 
 ## Sabores!
 
-São aplicativos Markdown que implementam versões ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
+Um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
 
-###### CommonMark
 
-É uma proposta de sintaxe padrão para a Markdown, inclusive usada pelo <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>, por ex.
 
-CommonMark: sites e projetos que adotaram:
-Discourse,
-GitLab e GitHub,
-Reddit,
-Qt,
-Stack Overflow / Stack Exchange
-Swift.
-Wordpress (via plugin)  
+|CommonMark|GFM <sup>GitHub Flavored Markdown</sup>|GLFM <sup>GitLab Flavored Markdown</sup>|
+|:---:|:---:|:---:|
+|É uma proposta de sintaxe padrão para a Markdown.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|
 
-**GFM <sup>GitHub Flavored Markdown</sup>**: Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.  
-**GLFM <sup>GitLab Flavored Markdown</sup>**: um 'sabor' mais abrangente que o GFM.  
+**CommonMark**: Exemplo de sites e projetos que adotam? GitLab, GitHub, Wordpress (via plugin), Discourse, Reddit, Qt, Stack Overflow / Stack Exchange, Swift.  
 
 Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
