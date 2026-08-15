@@ -11,16 +11,39 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 - Sabores!
 - Analisador (parser).
 - Um pouco de história.
+- Markdown vs. HTML
+- Marcação vs. instrução
 - Mais links sobre o tema.
 
 
 ## O que é Markdown? Quem Usa?
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Ela organiza a estrutura de um texto, definindo o que é título, parágrafo, etc. bem como alguns aspectos de apresentação _é o caso de pôr uma palavra em negrito ou itálico.  
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
+Simples! A gente escreve algo, uma palavra, por ex., e coloca alguma marca para dizer ao programa como aquele texto deve ser mostrado. Por exemplo:
+
+<pre>*morango*</pre>
+
+A coisa vai além de estética. Veja.
+
+<pre># A Bíblia</pre>
+
+O símbolo **#** marca 'A Bíblia' como título. Ou seja, temos uma marca relacionada com a **estrutura** do texto.
+
+<pre>[Wikipedia](www.wikipedia.org)</pre>
+
+Já aqui **[]** e **()** temos o significado de função específica: marcar um *link*.
+Portanto, quando executao, o texto não só aparecerá bonito como um link, como de fato, levará o usuário para outro endereço.
+
+
+
+Aqui, quando o código for executado, a palavra morango será exibida em itálico. E isso ocorre exatamente porque os dois asteríscos (que são as marcas) indicam como o texto deve aparecer após interpretado.  
+
+Ela organiza a estrutura de um texto, definindo o que é título, parágrafo, etc. bem como alguns aspectos de apresentação _é o caso de pôr uma palavra em negrito ou itálico.  
 
 Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até inserir uma linha bem fininha num texto ou site. E tudo de forma rápida, sutil.  
 
-**Markdown é simples!**: Comparada a HTML _que tem muitos 'símbolos' (as chamadas *tags*, elementos)_ a linguagem Markdown é bem mais simples. Ela é muito mais objetiva e fácil de aprender. Tudo é praticamente intuitivo.
+**Markdown é simples!**: no dia a dia com apenas **10 "comandinhos** conseguimos muitas construções. Essas dez marcas são muito simples, objetivas e fácil de aprender. Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
+
 
 **Formatação de textos**: a Markdown utiliza um conjunto de códigos bem simples para a formatação de textos. Essa codificação em si se resume em símbolos como asterisco, cerquilha (que é sustenido na música, ou a famosa *hashtag*).  
 
@@ -56,39 +79,11 @@ Lida com estrutura e apresentação? o que é?
 👉️ Conteúdo? No Markdown também temos símbolos (omo nos emojis), imagens etc.
 
 
-###### Markdown vs. HTML
-
-Ambas são...  
-
-- [x] para apresentação.
-- [x] estrutura do conteúdo textual
-- [x] para criar texto formatado.
-- [x] linguagens de marcação.
-
-Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
-
-Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.
-
-<pre>
-## O Pequeno Príncipe
-&lt;h2&gt;O Pequeno Príncipe&lt;/h2&gt;
-</pre>
-
-**Marcação vs. instrução**:
-
-|Marcação| Instrução|
-|---|---|
-|É classificar algo.| Representa uma ação a ser executada.|
-|Markdown<br >HTML|Bash<br >JS|
-
-👉️ O termo **comando** também indica uma ação a ser realizada.
 
 
 
 
-
-
-## Markdown - Guia Rápido - Básico
+## Markdown - Guia Rápido
 
 No caso do HTML, na UI temos cada etiqueta (tag): texto (escrito) + grafica.  
 Aqui no markdown segue a mesma ideia.  
@@ -121,6 +116,15 @@ Em lingua portuguesa temos a estrutura textual, onde título, introdução e des
 
     Parágrafo de desenvolvimento, bla bla bla...
 
+Exemplo:  
+
+<pre>
+# A Bíblia 
+
+No primeiro dia Deus criou...
+
+E nasce Jesus em Nazaré...
+</pre>
 
 ###### Negrito e itálico | strong b i em
 
@@ -183,8 +187,8 @@ Exemplos:
 </pre>
 
 
-#### Recursos gráficos
 
+#### Recursos gráficos
 
 ###### Imagem | img
 
@@ -200,83 +204,12 @@ Exemplo:
 ![Um Gato](http://url/gato.png)
 </pre>
 
-
-###### Tabela | table tr td
-
-É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
-
-<pre>
-| Fruta | Verdura |  # 'head' da tabela.
-| --- | --- |
-| uva | hortelã |
-| morango | alface |
-| acerola| salsa |
-</pre>
-
-👉️ Esta tabela está em GFM. Vide "Sabores!" abaixo.  
-
-
-
-
-**Alinhar conteúdo da tabela**
-
-<pre>
-| : - - - : |  # Centro.
-| caju |
-
-| - - - : |  # Direita.
-| caju |
-
-| : - - - |  # Esquerda (*default*, padrão).
-| caju |
-
-| :--- | :---: | ---: |  # Mesclar.
-| uva | uva | uva |
-</pre>
-
 ###### Régua horizontal | hr
 
 <pre>
  --- 
 </pre>
 👉️ horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.  
-
-#### Checklists (GFM) | input
-
-<pre>
-- [ ] Tarefa pendente
-- [x] Tarefa concluída
-- [ ] Outra tarefa
-</pre>
-
-#### id e class (identificação única ou genérica)
-
-Use '#' ou '.' dentro de chaves, e ao final um nome.
-<pre>MeuParágrafo {#identificador}
-MeuParágrafo {.minhaClasse}</pre>
-
-#### Emojis
-
-Sintaxe: dois pontos, nome em inglês, dois pontos.
-
-
-<pre>
-:heart: # ❤️
-:grin: # 😄️
-:angry: # 😠️
-:star: # ⭐️
-:fire: # 🔥️
-:point_right:  # 👉
-:hand: # 🖐️
-:clap: # 👏️
-:walking: # 🚶‍♀️️
-:running: # 🏃‍♂️️
-:cat: # 😺️
-:mouse: # 🐭️
-</pre>
-
-Outros inclui *shit*, *blush*, -1, *smiley*...
-Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 
 
@@ -332,17 +265,6 @@ Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
 👉️ O ponto importante é que Markdown permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
 👉️ Nano: Não faz destaque simultâneo e contextual de Markdown + HTML no mesmo arquivo como esses editores.
 
-###### Mais plug-ins
-Além do Gedit *plugin* *Markdown Preview*, temos:  
-
-<strong>Firefox</strong>: Markdown Viewer Webext.  
-<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.  
-Instale e...  
-Clique em Extensions, menu superior direito, próximo menu principal.  
-Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).  
-Nesta caixa clique details.  
-Allow access to file URLs; ligue o Toggle.  
-
 
 
 ###### Markdown: outras aplicações
@@ -356,6 +278,17 @@ Allow access to file URLs; ligue o Toggle.
 **Ulysses**: Editor de texto/escrita (Apple).  
 **Jekyll**: Gerador de site estático que pega arquivos Markdown e cria um site HTML.
 
+
+###### Mais plug-ins
+Além do Gedit *plugin* *Markdown Preview*, temos:  
+
+<strong>Firefox</strong>: Markdown Viewer Webext.  
+<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.  
+Instale e...  
+Clique em Extensions, menu superior direito, próximo menu principal.  
+Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).  
+Nesta caixa clique details.  
+Allow access to file URLs; ligue o Toggle.  
 
 
 
@@ -374,6 +307,71 @@ Um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Mar
 **CommonMark**: Exemplo de sites e projetos que adotam? GitLab, GitHub, Wordpress (via plugin), Discourse, Reddit, Qt, Stack Overflow / Stack Exchange, Swift.  
 
 Veja mais em <a href="https://commonmark.org/help/">help</a>.
+
+#### GFM
+
+###### Tabela | table tr td
+
+É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
+
+<pre>
+| Fruta | Verdura |  # 'head' da tabela.
+| --- | --- |
+| uva | hortelã |
+| morango | alface |
+| acerola| salsa |
+</pre>
+
+👉️ Esta tabela está em GFM. Vide "Sabores!" abaixo.  
+
+**Alinhar conteúdo da tabela**
+
+<pre>
+| : - - - : |  # Centro.
+| caju |
+
+| - - - : |  # Direita.
+| caju |
+
+| : - - - |  # Esquerda (*default*, padrão).
+| caju |
+
+| :--- | :---: | ---: |  # Mesclar.
+| uva | uva | uva |
+</pre>
+
+###### Checklists (GFM) | input
+
+<pre>
+- [ ] Tarefa pendente
+- [x] Tarefa concluída
+- [ ] Outra tarefa
+</pre>
+
+
+###### Emojis
+
+Sintaxe: dois pontos, nome em inglês, dois pontos.
+
+
+<pre>
+:heart: # ❤️
+:grin: # 😄️
+:angry: # 😠️
+:star: # ⭐️
+:fire: # 🔥️
+:point_right:  # 👉
+:hand: # 🖐️
+:clap: # 👏️
+:walking: # 🚶‍♀️️
+:running: # 🏃‍♂️️
+:cat: # 😺️
+:mouse: # 🐭️
+</pre>
+
+Outros inclui *shit*, *blush*, -1, *smiley*...
+Lista com dezenas: https://gist.github.com/rxaviers/7360908
+
 
 
 
@@ -400,7 +398,42 @@ Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
 Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
 
+## Markdown vs. HTML
 
+
+
+Ambas são...  
+
+- [x] para apresentação.
+- [x] estrutura do conteúdo textual
+- [x] para criar texto formatado.
+- [x] linguagens de marcação.
+
+Enquanto Markdown é simples, com poucas marcas (os símbolos como asteríscos, colchetes, sustenido etc), a linguagem HTML usa as etiquetas (tags).
+
+
+Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.
+
+<pre>
+## O Pequeno Príncipe
+&lt;h2&gt;O Pequeno Príncipe&lt;/h2&gt;
+</pre>
+
+Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
+
+🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
+👉️ Markdown: estrutura textual; não UI propriamente dita.
+
+
+
+## Marcação vs. instrução
+
+|Marcação| Instrução|
+|---|---|
+|É classificar algo.| Representa uma ação a ser executada.|
+|Markdown<br />HTML|Bash<br />JS|
+
+👉️ O termo **comando** também indica uma ação a ser realizada.
 
 
 
@@ -426,6 +459,10 @@ https://spec.commonmark.org/0.30/
 -https://wordpress.com/pt-br/support/markdown-quick-reference/#privacy
 -https://wordpress.com/support/wordpress-editor/blocks/markdown-block/#writing-with-markdown
 </pre>
+
+Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens deveriam aprender na escola, bem como criar sua comta no GitLab.
+
+👉️ **Escape**: <code>\# \** \*</code>
 
 
 É isso!  
