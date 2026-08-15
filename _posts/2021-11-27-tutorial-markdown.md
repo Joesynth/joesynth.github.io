@@ -85,12 +85,7 @@ Lida com estrutura e apresentação? o que é?
 
 ## Markdown - Guia Rápido
 
-No caso do HTML, na UI temos cada etiqueta (tag): texto (escrito) + grafica.  
-Aqui no markdown segue a mesma ideia.  
 
-👉️ Este tutorial está em CommonMark, via de regra. Vide "Sabores!" abaixo.
-
-👉️ UI: esse termo se adequa melhor a HTML/CSS/JS, enquanto 'conteúdo' fica melhor para Markdown.
 
 #### Texto
 
@@ -126,13 +121,49 @@ No primeiro dia Deus criou...
 E nasce Jesus em Nazaré...
 </pre>
 
-###### Negrito e itálico | strong b i em
+###### Efeitos visuais no texto - inline
+
+Belos recursos de efeitos visuais para conteúdo de texto escrito.
+
+**Negrito, itálico e código**:  Cada um desses efeitos é **inline**, isto é, permanece na própria linha. Podem aparecer dentro de um parágrafo, junto com o resto do texto. Ou seja, ficam dentro do fluxo do texto; dentro do fluxo da linha/parágrafo.
 
 <pre>
 **Negrito** # Ou __Bold__
 *Itálico*   # Ou _Itálico_
+`código`    # Marca é o símbolo de crase simples
 </pre>
 
+**Código** tem um efeito de letra de computador, algo mais 'robótico'. É para mostrar código de computador mesmo.
+
+Você pode dar efeito para algo matemático, por exemplo, o "problema" é que semanticamente você está dizendo ao HTML/renderizador que isto é código.  
+😄 É como se fosse um *hacking*!  
+⚠️ Vide também markdown vs. HTML e analisador.  
+
+
+Crase simples e   
+
+<pre>
+
+</pre>
+
+
+
+###### Efeitos visuais no texto - bloco
+
+Ao invés de efeito numa palavra, a ieia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
+Ou seja, quebra o fluxo e ocupa seu próprio bloco.  
+
+
+<pre>
+>     # Bloco de citação.
+      # 4 espaços vazios.
+</pre>
+
+4 espaços vazios geram um efeito parecido ou igual a crase (código). Porém aqui o texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
+
+<pre>
+    Amai-vos uns aos outros...
+</pre>
 
 ###### Listas | ul ol li
 
@@ -179,11 +210,10 @@ Exemplos:
 </pre>
 
 
-###### Texto pré-formatado e bloco de citação | pre blockquote
+###### Texto pré-formatado
 
 <pre>
      # 4 espaços vazios, tag *pre*
-> # Tag *blockquote*, bloco de citação.
 </pre>
 
 
@@ -373,6 +403,12 @@ Outros inclui *shit*, *blush*, -1, *smiley*...
 Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 
+###### Texto riscado
+
+<pre>~~texto riscado~~</pre>
+
+
+
 
 
 
@@ -422,8 +458,7 @@ Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens mark
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
-👉️ Markdown: estrutura textual; não UI propriamente dita.
-
+👉️ Markdown: estrutura textual; não UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS. 
 
 
 ## Marcação vs. instrução
