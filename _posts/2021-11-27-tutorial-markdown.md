@@ -134,7 +134,8 @@ Belos recursos de efeitos visuais para conteúdo de texto escrito.
 `código`    # Marca é o símbolo de crase simples
 </pre>
 
-**Código** tem um efeito de letra de computador, algo mais 'robótico'. É para mostrar código de computador mesmo.
+**Código** é para mostrar código de computador. A aparência é de letra de computador, um efeito mais 'robótico'.
+um efeito de , algo . É  mesmo.
 
 Você pode dar efeito para algo matemático, por exemplo, o "problema" é que semanticamente você está dizendo ao HTML/renderizador que isto é código.  
 😄 É como se fosse um *hacking*!  
@@ -159,9 +160,6 @@ Ou seja, quebra o fluxo e ocupa seu próprio bloco.
 <pre>
     Amai-vos uns aos outros...
 </pre>
-
-👉️ \``` 3 crases são uma opção ao 4 espaços. Mais moderno, permite especificar a linguagem. Equivale ao HTML <pre><code>.
-
 
 ###### Listas
 
@@ -330,8 +328,7 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 ## 💾️ Arquivo Markdown
 A extensão do nome do arquivo é .*md* ou .*markdown*, isso num editor.
 Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
-
-###### Criando um arquivo Markdown
+<h6>Criando um arquivo Markdown</h6>
 Fácil!
 
 - Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
@@ -421,10 +418,10 @@ Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*
 
 Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
 
-**Crie um arquivo Markdown** (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.
-**Abra o arquivo Markdown** em um aplicativo Markdown.
-**Use o aplicativo Markdown** para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
-**Visualize o arquivo HTML** em um navegador da Web.
+- Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.
+- Abra o arquivo Markdown em um aplicativo Markdown.
+- Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
+- Visualize o arquivo HTML em um navegador da Web.
 
 Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
@@ -464,45 +461,101 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
 👉️ Markdown: estrutura textual; não UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS. 
 
+#### Texto verbal vs. não verbal
 
-
-###### Texto verbal - escrito - bloco
+###### Verbal - escrito - bloco
 
 |.md||.html|
 |---|---|---|
-|#| título| h1-h6|
-|| parágrafo| p|
+||| h1-h6|
+||| p|
 |   | texto pré-formatado| pre|
 |>| bloco de citação| blockquote|
 |1.| lista ordenada| ol|
 |-| lista não ord.| ul|
 
-###### Texto verbal - escrito - inline
+###### Verbal - escrito - inline
 
 |.md||.html|
 |---|---|---|
-|**| negrito| strong b|
-|*| itálico| em i|
+|**| negrito| strong|
+|*| itálico| em|
 |`| código| code|
-|\[]()| link| a|
+|[]()| link| a|
 
-👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.\ 🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
+👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.
+🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
 
 ###### Texto não verbal
 
 |.md||.html|
 |---|---|---|
-|\![]()| imagem| img|
+|![]()| imagem| img|
 
 
-## Marcação vs. instrução
+#### Texto pré-formatado vs. bloco de código
 
-|Marcação| Instrução|
-|---|---|
-|É classificar algo.| Representa uma ação a ser executada.|
-|Markdown<br />HTML|Bash<br />JS|
 
-👉️ O termo **comando** também indica uma ação a ser realizada.
+|<pre>| <code>|
+|:---:|:---:|
+|Elemento que preserva a formatação| Dá o significado semântico de código|
+
+IA
+Não exatamente.
+
+###### No HTML...
+
+**Texto pré-formatado**: Use <pre>.  
+
+<pre>
+    <pre>Batatinha quando nasce...</pre>
+</pre>
+
+**Código (numa linha)**: É o *inline*.
+
+<pre>
+    <code>const x = 1;</code>
+</pre>
+
+**Bloco de código**: Quando há várias linhas, e queremos preservar as quebras de linhas, recuo. 
+
+<pre>
+    <pre><code>
+    function soma(a, b) {
+        return a + b;
+    }
+    </code></pre>
+</pre>
+
+###### No Markdown...
+
+**Texto pré-formatado**: Markdown não tem uma sintaxe específica equivalente a <pre> puro; ou seja, não há algo para o que não é código.
+
+**Bloco de código**: Tanto 4 espaços quanto ``` criam *code block*. Temos...
+
+4 espaços (ou 3 crases) criam um bloco que corresponde, em HTML, a:
+
+<pre>
+    <pre><code>...</code></pre>
+</pre>
+
+**Código (numa linha)**: É o *inline*.
+
+Uma única crase!
+<pre>
+    '
+</pre>
+
+Equivale a...
+<pre>
+    <code>const x = 1;</code>
+</pre>
+
+
+
+
+
+
 
 
 
@@ -532,6 +585,9 @@ https://spec.commonmark.org/0.30/
 Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens deveriam aprender na escola, bem como criar sua comta no GitLab.
 
 👉️ **Escape**: <code>\# \** \*</code>
+
+Para **Marcação vs. instrução** veja [Linguagens Resumo](linguagens-resumo).
+
 
 
 É isso!  
