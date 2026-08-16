@@ -16,6 +16,7 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 - Mais links sobre o tema.
 
 
+
 ## O que é Markdown? Quem Usa?
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
@@ -89,7 +90,7 @@ Lida com estrutura e apresentação? o que é?
 
 #### Texto
 
-###### Título e parágrafo | h1-h6 p
+###### Título e parágrafo
 
 <pre>
 # Título
@@ -140,14 +141,6 @@ Você pode dar efeito para algo matemático, por exemplo, o "problema" é que se
 ⚠️ Vide também markdown vs. HTML e analisador.  
 
 
-Crase simples e   
-
-<pre>
-
-</pre>
-
-
-
 ###### Efeitos visuais no texto - bloco
 
 Ao invés de efeito numa palavra, a ieia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
@@ -159,13 +152,15 @@ Ou seja, quebra o fluxo e ocupa seu próprio bloco.
       # 4 espaços vazios.
 </pre>
 
+👉️ Texto pré-formatado.  
+
 4 espaços vazios geram um efeito parecido ou igual a crase (código). Porém aqui o texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
     Amai-vos uns aos outros...
 </pre>
 
-###### Listas | ul ol li
+###### Listas
 
 **Lista não ordenada**:  
 
@@ -194,7 +189,7 @@ Ou seja, quebra o fluxo e ocupa seu próprio bloco.
 
 
 
-###### Link | a
+###### Link
 
 Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
 
@@ -210,23 +205,20 @@ Exemplos:
 </pre>
 
 
-###### Texto pré-formatado
 
-<pre>
-     # 4 espaços vazios, tag *pre*
-</pre>
 
 
 
 #### Recursos gráficos
 
-###### Imagem | img
+###### Imagem
 
 Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
 
 Sintaxe:  
+
 <pre>
-![textoAlternativo](URL)
+    ![textoAlternativo](URL)
 </pre>
 
 Exemplo: 
@@ -241,6 +233,94 @@ Exemplo:
 </pre>
 👉️ horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.  
 
+Indica uma separeção de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
+
+
+
+## Sabores!
+
+Um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
+
+
+
+|CommonMark|GFM <sup>GitHub Flavored Markdown</sup>|GLFM <sup>GitLab Flavored Markdown</sup>|
+|:---:|:---:|:---:|
+|É uma proposta de sintaxe padrão para a Markdown.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|
+
+**CommonMark**: Exemplo de sites e projetos que adotam? GitLab, GitHub, Wordpress (via plugin), Discourse, Reddit, Qt, Stack Overflow / Stack Exchange, Swift.  
+
+Veja mais em <a href="https://commonmark.org/help/">help</a>.
+
+#### GFM
+
+###### Tabela | table tr td
+
+É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
+
+<pre>
+| Fruta | Verdura |  # 'head' da tabela.
+| --- | --- |
+| uva | hortelã |
+| morango | alface |
+| acerola| salsa |
+</pre>
+
+👉️ Esta tabela está em GFM. Vide "Sabores!" abaixo.  
+
+**Alinhar conteúdo da tabela**
+
+<pre>
+| : - - - : |  # Centro.
+| caju |
+
+| - - - : |  # Direita.
+| caju |
+
+| : - - - |  # Esquerda (*default*, padrão).
+| caju |
+
+| :--- | :---: | ---: |  # Mesclar.
+| uva | uva | uva |
+</pre>
+
+###### Checklists | input
+
+<pre>
+- [ ] Tarefa pendente
+- [x] Tarefa concluída
+- [ ] Outra tarefa
+</pre>
+
+
+###### Emojis
+
+Sintaxe: dois pontos, nome em inglês, dois pontos.
+
+
+<pre>
+:heart: # ❤️
+:grin: # 😄️
+:angry: # 😠️
+:star: # ⭐️
+:fire: # 🔥️
+:point_right:  # 👉
+:hand: # 🖐️
+:clap: # 👏️
+:walking: # 🚶‍♀️️
+:running: # 🏃‍♂️️
+:cat: # 😺️
+:mouse: # 🐭️
+</pre>
+
+Outros inclui *shit*, *blush*, -1, *smiley*...
+Lista com dezenas: https://gist.github.com/rxaviers/7360908
+
+
+###### Texto riscado
+
+<pre>~~texto riscado~~</pre>
+
+👉️ Equivale a <del> em HTML, texto excluído.
 
 
 
@@ -324,89 +404,6 @@ Allow access to file URLs; ligue o Toggle.
 
 
 
-## Sabores!
-
-Um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
-
-
-
-|CommonMark|GFM <sup>GitHub Flavored Markdown</sup>|GLFM <sup>GitLab Flavored Markdown</sup>|
-|:---:|:---:|:---:|
-|É uma proposta de sintaxe padrão para a Markdown.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|
-
-**CommonMark**: Exemplo de sites e projetos que adotam? GitLab, GitHub, Wordpress (via plugin), Discourse, Reddit, Qt, Stack Overflow / Stack Exchange, Swift.  
-
-Veja mais em <a href="https://commonmark.org/help/">help</a>.
-
-#### GFM
-
-###### Tabela | table tr td
-
-É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
-
-<pre>
-| Fruta | Verdura |  # 'head' da tabela.
-| --- | --- |
-| uva | hortelã |
-| morango | alface |
-| acerola| salsa |
-</pre>
-
-👉️ Esta tabela está em GFM. Vide "Sabores!" abaixo.  
-
-**Alinhar conteúdo da tabela**
-
-<pre>
-| : - - - : |  # Centro.
-| caju |
-
-| - - - : |  # Direita.
-| caju |
-
-| : - - - |  # Esquerda (*default*, padrão).
-| caju |
-
-| :--- | :---: | ---: |  # Mesclar.
-| uva | uva | uva |
-</pre>
-
-###### Checklists (GFM) | input
-
-<pre>
-- [ ] Tarefa pendente
-- [x] Tarefa concluída
-- [ ] Outra tarefa
-</pre>
-
-
-###### Emojis
-
-Sintaxe: dois pontos, nome em inglês, dois pontos.
-
-
-<pre>
-:heart: # ❤️
-:grin: # 😄️
-:angry: # 😠️
-:star: # ⭐️
-:fire: # 🔥️
-:point_right:  # 👉
-:hand: # 🖐️
-:clap: # 👏️
-:walking: # 🚶‍♀️️
-:running: # 🏃‍♂️️
-:cat: # 😺️
-:mouse: # 🐭️
-</pre>
-
-Outros inclui *shit*, *blush*, -1, *smiley*...
-Lista com dezenas: https://gist.github.com/rxaviers/7360908
-
-
-###### Texto riscado
-
-<pre>~~texto riscado~~</pre>
-
 
 
 
@@ -434,8 +431,11 @@ Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
 Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
 
-## Markdown vs. HTML
 
+
+
+
+## Markdown vs. HTML
 
 
 Ambas são...  
@@ -459,6 +459,37 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
 👉️ Markdown: estrutura textual; não UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS. 
+
+
+
+###### Texto verbal - escrito - bloco
+
+|.md||.html|
+|---|---|---|
+||| h1-h6|
+||| p|
+|   | texto pré-formatado| pre|
+|>| bloco de citação| blockquote|
+|1.| lista ordenada| ol|
+|-| lista não ord.| ul|
+
+###### Texto verbal - escrito - inline
+
+|.md||.html|
+|---|---|---|
+|**| negrito| strong b|
+|*| itálico| em i|
+|`| código| code|
+|[]()| link| a|
+
+👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.
+🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
+
+###### Texto não verbal
+
+|.md||.html|
+|---|---|---|
+|![]()| imagem| img|
 
 
 ## Marcação vs. instrução
