@@ -160,6 +160,9 @@ Ou seja, quebra o fluxo e ocupa seu próprio bloco.
     Amai-vos uns aos outros...
 </pre>
 
+👉️ \``` 3 crases são uma opção ao 4 espaços. Mais moderno, permite especificar a linguagem. Equivale ao HTML <pre><code>.
+
+
 ###### Listas
 
 **Lista não ordenada**:  
@@ -327,7 +330,8 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 ## 💾️ Arquivo Markdown
 A extensão do nome do arquivo é .*md* ou .*markdown*, isso num editor.
 Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
-<h6>Criando um arquivo Markdown</h6>
+
+###### Criando um arquivo Markdown
 Fácil!
 
 - Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
@@ -417,10 +421,10 @@ Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*
 
 Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
 
-- Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.
-- Abra o arquivo Markdown em um aplicativo Markdown.
-- Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
-- Visualize o arquivo HTML em um navegador da Web.
+**Crie um arquivo Markdown** (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.
+**Abra o arquivo Markdown** em um aplicativo Markdown.
+**Use o aplicativo Markdown** para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
+**Visualize o arquivo HTML** em um navegador da Web.
 
 Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
@@ -466,8 +470,8 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 |.md||.html|
 |---|---|---|
-||| h1-h6|
-||| p|
+|#| título| h1-h6|
+|| parágrafo| p|
 |   | texto pré-formatado| pre|
 |>| bloco de citação| blockquote|
 |1.| lista ordenada| ol|
@@ -480,16 +484,15 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 |**| negrito| strong b|
 |*| itálico| em i|
 |`| código| code|
-|[]()| link| a|
+|\[]()| link| a|
 
-👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.
-🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
+👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.\ 🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
 
 ###### Texto não verbal
 
 |.md||.html|
 |---|---|---|
-|![]()| imagem| img|
+|\![]()| imagem| img|
 
 
 ## Marcação vs. instrução
