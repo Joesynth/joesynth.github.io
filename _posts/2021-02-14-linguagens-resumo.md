@@ -215,6 +215,17 @@ Linguagens por nome:
 en.wikipedia.org/wiki/List_of_programming_languages
 </pre>
 
+## Marcação vs. instrução
+
+|Marcação| Instrução|
+|---|---|
+|É classificar algo.| Representa uma ação a ser executada.|
+|Markdown<br />HTML|Bash<br />JS|
+
+👉️ O termo **comando** também indica uma ação a ser realizada.
+
+
+
 É isso!
 
 \o_
