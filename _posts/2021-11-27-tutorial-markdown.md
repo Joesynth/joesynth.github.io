@@ -78,7 +78,7 @@ Temos a estrutura criarmos texto formatado.
 Lida com estrutura e apresentação? o que é?
 
 
-👉️ Conteúdo? No Markdown também temos símbolos (omo nos emojis), imagens etc.
+👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
 
 ###### As marcas...
 
@@ -90,7 +90,7 @@ Noutras situações são duas marcações, uma no incio e outra no fical do cont
 
 `**uva**`
 
-Mas há exceção, caso de link e imagem, que é aepecífico. 
+Mas há exceção, caso de link e imagem, que é específico. 
 
 
 
@@ -141,13 +141,13 @@ Belos recursos de efeitos visuais para conteúdo de texto escrito.
 **Negrito, itálico e código**:  Cada um desses efeitos é **inline**, isto é, permanece na própria linha. Podem aparecer dentro de um parágrafo, junto com o resto do texto. Ou seja, ficam dentro do fluxo do texto; dentro do fluxo da linha/parágrafo.
 
 <pre>
-**Negrito** # Ou __Bold__
-*Itálico*   # Ou _Itálico_
+**negrito** # Ou __bold__
+*itálico*   # Ou _itálico_
 `código`    # Marca é o símbolo de crase simples
 </pre>
 
-**Código** é para mostrar código de computador. A aparência é de letra de computador, um efeito mais 'robótico'.
-um efeito de , algo . É  mesmo.
+**Código** é para mostrar código de computador. A aparência é de letra de computador, um efeito mais 'robótico'.  
+
 
 Você pode dar efeito para algo matemático, por exemplo, o "problema" é que semanticamente você está dizendo ao HTML/renderizador que isto é código.  
 😄 É como se fosse um *hacking*!  
@@ -156,7 +156,7 @@ Você pode dar efeito para algo matemático, por exemplo, o "problema" é que se
 
 ###### Efeitos visuais no texto - bloco
 
-Ao invés de efeito numa palavra, a ieia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
+Ao invés de efeito numa palavra, a ideia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
 Ou seja, quebra o fluxo e ocupa seu próprio bloco.  
 
 Bloco de citação: usa-se **>**.  
@@ -164,20 +164,29 @@ Bloco de citação: usa-se **>**.
 ```html
 > Tudo que tu sabe, alguém lhe contou.
 ```
-Texto pré-formatado:  
+Texto pré-formatado:  Sigmifica preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
 
 <pre>
->     #
       # 4 espaços vazios.
 </pre>
-
-👉️ Texto pré-formatado.  
 
 4 espaços vazios geram um efeito parecido ou igual a crase (código). Porém aqui o texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
     Amai-vos uns aos outros...
 </pre>
+
+Mas pode ser usado com criatividade.
+
+<pre>
+Você pode ser o A
+E pode ser o leão
+E pode ser o dragão
+Que brigou com o Juvenal
+</pre>
+
+Lembre! O "problema" é que, semanticamente, você está dizendo ao computador que isto é código.  
+😄 É como se fosse um *hacking*!  
 
 ###### Listas
 
@@ -377,7 +386,7 @@ Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
 | Bloco de Notas (Windows) 🔒️ | WordPress (online) |
 | Nano 🎈 | Dillinger 🎈 (MIT) (online) |
 | Editor (Android/F-Droid) 🎈 | Obsidian 🔒️ |
-| Gedit (Ubuntu) 🔒️ | Joplin 🎈 Notepad (Android/F-Droid) 🎈 Acode (F-Droid) Editor de código 🎈 StackEdit Editor online 🎈 Ulysses  Editor de texto/escrita (Apple) 🔒️|
+| Gedit (Ubuntu) 🎈 | Joplin 🎈 Notepad (Android/F-Droid) 🎈 Acode (F-Droid) Editor de código 🎈 StackEdit Editor online 🎈 Ulysses  Editor de texto/escrita (Apple) 🔒️|
 
 👉️ Dillinger pode ter telemetria, enquanto StackEdit não.
 
@@ -424,10 +433,10 @@ Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*
 
 Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
 
-- Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.
-- Abra o arquivo Markdown em um aplicativo Markdown.
-- Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF.)
-- Visualize o arquivo HTML em um navegador da Web.
+● Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.  
+● Abra o arquivo Markdown em um aplicativo Markdown.  
+● Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF).  
+● Visualize o arquivo HTML em um navegador da Web.
 
 Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
@@ -461,7 +470,7 @@ Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens mark
 ```html
 <pre>
 ## O Pequeno Príncipe
-&lt;h2&gt;O Pequeno Príncipe&lt;/h2&gt;
+<h2>O Pequeno Príncipe</h2>
 </pre>
 ```
 
@@ -492,7 +501,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 |`| código| code|
 |`[]()`| link| a|
 
-👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.
+👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.  
 🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
 
 ###### Texto não verbal
@@ -515,25 +524,24 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 **Texto pré-formatado**: Use <pre>.  
 
-🤔️ Texto pré-formatado = preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.  
-
 No HTML, isso normalmente é feito com <pre>.  
 
-'<pre>Batatinha quando nasce...</pre>'  
+`<pre>Batatinha quando nasce...</pre>`  
 
 **Código (numa linha)**: É o *inline*.  
 
-'<code>const x = 1;</code>'  
+`<code>const x = 1;</code>`  
+
 
 **Bloco de código**: Quando há várias linhas, e queremos preservar as quebras de linhas, recuo. 
 
-<pre>
-    '<pre><code>
+```html
+    <pre><code>
     function soma(a, b) {
         return a + b;
     }
-    </code></pre>'
-</pre>
+    </code></pre>
+```
 
 ###### No Markdown...
 
@@ -558,7 +566,8 @@ Uma única crase no início do conteúdo e outra no final. Equivale em HTML a...
 ###### Markdown misturado com HTML
 
 A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
-Ou seja, um arquivo exemplo.md pode conter, ao mesmo tempo, Markdown e HTML.
+Ou seja, um arquivo exemplo.md pode conter, ao mesmo tempo, Markdown e HTML.  
+Exceto as marcas Markdown que vimos, temos *tags* (etiquetas) possíveis de uso:
 
 |inline| bloco|
 |---|---|
