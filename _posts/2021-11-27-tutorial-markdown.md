@@ -4,6 +4,7 @@
 Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
+
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
 - Arquivo Markdown.
@@ -192,11 +193,9 @@ Ou seja, quebra o fluxo e ocupa seu próprio bloco.
 
 ###### Link
 
-Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja, a sintaxe é:
+Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
 
-<pre>
-[textoDoLink](URL)
-</pre>
+Sintaxe '[textoDoLink](URL)'
 
 Exemplos:
 
@@ -208,19 +207,13 @@ Exemplos:
 
 
 
-
-
 #### Recursos gráficos
 
 ###### Imagem
 
 Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
 
-Sintaxe:  
-
-<pre>
-    ![textoAlternativo](URL)
-</pre>
+Sintaxe `![textoAlternativo](URL)`  
 
 Exemplo: 
 <pre>
@@ -295,8 +288,7 @@ Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 ###### Emojis
 
-Sintaxe: dois pontos, nome em inglês, dois pontos.
-
+Sintaxe `:nomeEmInglês:' 
 
 <pre>
 :heart: # ❤️
@@ -321,7 +313,7 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 <pre>~~texto riscado~~</pre>
 
-👉️ Equivale a <del> em HTML, texto excluído.
+👉️ Equivale em HTML à etiqueta <del>, texto excluído.
 
 
 
@@ -331,8 +323,8 @@ Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor 
 <h6>Criando um arquivo Markdown</h6>
 Fácil!
 
-- Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
-- Crie um novo arquivo e nomeie ele com algo como *teste.md* _não esqueça de usar a extensão .*md*!
+● Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
+● Crie um novo arquivo e nomeie ele com algo como *teste.md* _não esqueça de usar a extensão .*md*!
 
 ###### Arquivo .md do GitHub
 
@@ -366,11 +358,12 @@ Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
 
 | **Escreve, não renderiza** | **Escreve e renderiza** |
 |:---:|:---:|
-| Bloco de Notas (Windows) | WordPress (online) |
+| Bloco de Notas (Windows) 🔒️ | WordPress (online) |
 | Nano 🎈 | Dillinger 🎈 (MIT) (online) |
-| Editor (Android/F-Droid) 🎈 | Obsidian |
-| Gedit (Ubuntu) | Joplin 🎈 Notepad (Android/F-Droid) 🎈 |
+| Editor (Android/F-Droid) 🎈 | Obsidian 🔒️ |
+| Gedit (Ubuntu) 🔒️ | Joplin 🎈 Notepad (Android/F-Droid) 🎈 Acode (F-Droid) Editor de código 🎈 StackEdit Editor online 🎈 Ulysses  Editor de texto/escrita (Apple) 🔒️|
 
+👉️ Dillinger pode ter telemetria, enquanto StackEdit não.
 
 👉️ Gedit (Ubuntu): renderiza via plugin.  
 👉️ O ponto importante é que Markdown permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
@@ -380,17 +373,14 @@ Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
 
 ###### Markdown: outras aplicações
 
-**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JavaScript/TypeScript) que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.  
+**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JS/TypeScript) que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.  
 🔗️ codemirror.net  
-**Acode** ⬇️ ️F-Droid. Editor de código.  
-**StackEdit** (online). Editor Markdown online.  
-**markdown-it**: Segue a especificação CommonMark.É uma biblioteca JS.  
-🔗️ https://github.com/markdown-it/markdown-it  
-**Ulysses**: Editor de texto/escrita (Apple).  
+**markdown-it**: Biblioteca JS, segue a especificação CommonMark.  
+🔗️ https://github.com/markdown-it/markdown-it   
 **Jekyll**: Gerador de site estático que pega arquivos Markdown e cria um site HTML.
 
 
-###### Mais plug-ins
+###### Plug-ins
 Além do Gedit *plugin* *Markdown Preview*, temos:  
 
 <strong>Firefox</strong>: Markdown Viewer Webext.  
@@ -467,8 +457,8 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 |.md||.html|
 |---|---|---|
-||| h1-h6|
-||| p|
+|#| título| h1-h6|
+|| parágrafo| p|
 |   | texto pré-formatado| pre|
 |>| bloco de citação| blockquote|
 |1.| lista ordenada| ol|
@@ -507,33 +497,36 @@ Não exatamente.
 
 **Texto pré-formatado**: Use <pre>.  
 
+🤔️ Texto pré-formatado = preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.  
+
+No HTML, isso normalmente é feito com <pre>.
+
 <pre>
-    <pre>Batatinha quando nasce...</pre>
+    '<pre>Batatinha quando nasce...</pre>'
 </pre>
 
 **Código (numa linha)**: É o *inline*.
 
 <pre>
-    <code>const x = 1;</code>
+    '<code>const x = 1;</code>'
 </pre>
 
 **Bloco de código**: Quando há várias linhas, e queremos preservar as quebras de linhas, recuo. 
 
 <pre>
-    <pre><code>
+    '<pre><code>
     function soma(a, b) {
         return a + b;
     }
-    </code></pre>
+    </code></pre>'
 </pre>
 
 ###### No Markdown...
 
-**Texto pré-formatado**: Markdown não tem uma sintaxe específica equivalente a <pre> puro; ou seja, não há algo para o que não é código.
+**Texto pré-formatado**: Markdown não tem uma sintaxe específica equivalente a '<pre>' puro.  
+⚠️ Na Markdown não há algo para o que não é código!
 
-**Bloco de código**: Tanto 4 espaços quanto ``` criam *code block*. Temos...
-
-4 espaços (ou 3 crases) criam um bloco que corresponde, em HTML, a:
+**Bloco de código**: 4 espaços (ou 3 crases) criam um bloco (*code block*) que corresponde, em HTML, a:
 
 <pre>
     <pre><code>...</code></pre>
@@ -541,14 +534,10 @@ Não exatamente.
 
 **Código (numa linha)**: É o *inline*.
 
-Uma única crase!
-<pre>
-    '
-</pre>
+Uma única crase no início do conteúdo e outra no final. Equivale em HTML a...  
 
-Equivale a...
 <pre>
-    <code>const x = 1;</code>
+    '<code>const x = 1;</code>'
 </pre>
 
 
