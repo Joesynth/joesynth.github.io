@@ -153,6 +153,21 @@ Você pode dar efeito para algo matemático, por exemplo, o "problema" é que se
 😄 É como se fosse um *hacking*!  
 ⚠️ Vide também markdown vs. HTML e analisador.  
 
+###### Link
+
+Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
+
+Sintaxe '[textoDoLink](URL)'
+
+Exemplos:
+
+<pre>
+[NomeQualquer](http://a.com)
+[Joe S](joesynth.wordpress.com)
+</pre>
+
+👉️ Link é inline, tanto em Markdown como em HTML (*tag* <a>).
+
 
 ###### Efeitos visuais no texto - bloco
 
@@ -217,27 +232,13 @@ Lembre! O "problema" é que, semanticamente, você está dizendo ao computador q
 
 
 
-###### Link
-
-Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
-
-Sintaxe '[textoDoLink](URL)'
-
-Exemplos:
-
-<pre>
-[NomeQualquer](http://a.com)
-[Joe S](joesynth.wordpress.com)
-</pre>
-
-👉️ Link é inline, tanto em Markdown como em HTML (*tag* <a>).
 
 
 #### Recursos gráficos
 
 ###### Imagem
 
-Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação antes.  
+Se você praticou bem o link, imagem vai ser fácil: basta pôr uma exclamação antes.  
 
 Sintaxe `![textoAlternativo](URL)`  
 
@@ -248,7 +249,7 @@ Exemplo:
 
 ###### Régua horizontal | hr
 
-` --- `  
+`--- `
 
 👉️ Linha horizontal (*horizontal rule*, régua horizontal no literal). Uma linha bem fina, sendo um separador horizontal..  
 
@@ -256,7 +257,7 @@ Indica uma separeção de temática/estrutural. usamos quando damos o significad
 
 
 
-## Sabores!
+## CommonMark e sabores!
 
 Um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
 
@@ -336,9 +337,9 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 ###### Texto riscado
 
-<pre>~~texto riscado~~</pre>
+`~~texto riscado~~`
 
-👉️ Equivale em HTML à etiqueta <del>, texto excluído.
+👉️ Equivale em HTML à etiqueta '<del>', texto excluído.
 
 
 
@@ -545,7 +546,7 @@ No HTML, isso normalmente é feito com <pre>.
 
 ###### No Markdown...
 
-**Texto pré-formatado**: Markdown não tem uma sintaxe específica equivalente a '<pre>' puro.  
+**Texto pré-formatado**: Markdown não tem uma sintaxe específica equivalente a `<pre>`puro.  
 ⚠️ Na Markdown não há algo para o que não é código!
 
 **Bloco de código**: 4 espaços (ou 3 crases) criam um bloco (*code block*) que corresponde, em HTML, a:
