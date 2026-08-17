@@ -80,6 +80,17 @@ Lida com estrutura e apresentação? o que é?
 
 👉️ Conteúdo? No Markdown também temos símbolos (omo nos emojis), imagens etc.
 
+###### As marcas...
+
+Há casos que a linguagem Markdown usa uma marca no incio, caso do **#** que significa um título.  
+
+`# A Bíblia Sagrada`
+
+Noutras situações são duas marcações, uma no incio e outra no fical do conteudo, caso de negrito.
+
+`**uva**`
+
+Mas há exceção, caso de link e imagem, que é aepecífico. 
 
 
 
@@ -98,7 +109,7 @@ Lida com estrutura e apresentação? o que é?
 ## Título # título um tanto menor.
 </pre>
 
-👉️ O símnbolo do título pode ser **#** até **######**. Um sustenido criará uma letra bem grande enquanto 6 letra pequena, embora ainda título.
+👉️ O símbolo do título pode ir de **#** até **######**. Um sustenido criará uma letra bem grande enquanto 6 letra pequena, embora ainda título.
 
 **Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 ⚠️ No Wordpress crie usando uma linha em branco.
@@ -148,9 +159,15 @@ Você pode dar efeito para algo matemático, por exemplo, o "problema" é que se
 Ao invés de efeito numa palavra, a ieia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
 Ou seja, quebra o fluxo e ocupa seu próprio bloco.  
 
+Bloco de citação: usa-se **>**.  
+
+```html
+> Tudo que tu sabe, alguém lhe contou.
+```
+Texto pré-formatado:  
 
 <pre>
->     # Bloco de citação.
+>     #
       # 4 espaços vazios.
 </pre>
 
@@ -204,7 +221,7 @@ Exemplos:
 [Joe S](joesynth.wordpress.com)
 </pre>
 
-
+👉️ Link é inline, tanto em Markdown como em HTML (*tag* <a>).
 
 
 #### Recursos gráficos
@@ -215,17 +232,16 @@ Se você praticou bem o link, imagem vai ser fácil. Basta pôr uma exclamação
 
 Sintaxe `![textoAlternativo](URL)`  
 
-Exemplo: 
-<pre>
-![Um Gato](http://url/gato.png)
-</pre>
+Exemplo:  
+
+`![Um Gato](http://url/gato.png)`  
+
 
 ###### Régua horizontal | hr
 
-<pre>
- --- 
-</pre>
-👉️ horizontal rule, régua horizontal, linha horizontal, uma linha bem fina.  
+` --- `  
+
+👉️ Linha horizontal (*horizontal rule*, régua horizontal no literal). Uma linha bem fina, sendo um separador horizontal..  
 
 Indica uma separeção de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
@@ -288,7 +304,7 @@ Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 ###### Emojis
 
-Sintaxe `:nomeEmInglês:' 
+Sintaxe `:nomeEmInglês:` 
 
 <pre>
 :heart: # ❤️
@@ -397,10 +413,10 @@ Allow access to file URLs; ligue o Toggle.
 
 
 
+## Analisador <sup>parser</sup> e renderizador
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftiiny.host%2Fblog%2Fassets%2Fimages%2Ffrom-code-file-to-rendered-output-in-markdown.png&f=1&nofb=1&ipt=27ce30f912777764f2381bd30f9c0d0c23d6341aa9686c12d647863836f778a6" width="320" />
 
-
-## Analisador (parser)
 
 Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*implementation*”).
 
@@ -431,20 +447,23 @@ Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi
 
 Ambas são...  
 
-- [x] para apresentação.
-- [x] estrutura do conteúdo textual
-- [x] para criar texto formatado.
-- [x] linguagens de marcação.
+✔ para apresentação  
+✔ estrutura do conteúdo textual  
+✔ para criar texto formatado  
+✔ linguagens de marcação  
+
 
 Enquanto Markdown é simples, com poucas marcas (os símbolos como asteríscos, colchetes, sustenido etc), a linguagem HTML usa as etiquetas (tags).
 
 
-Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.
+Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.  
 
+```html
 <pre>
 ## O Pequeno Príncipe
 &lt;h2&gt;O Pequeno Príncipe&lt;/h2&gt;
 </pre>
+```
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
@@ -471,7 +490,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 |**| negrito| strong|
 |*| itálico| em|
 |`| código| code|
-|[]()| link| a|
+|`[]()`| link| a|
 
 👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.
 🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
@@ -480,7 +499,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 |.md||.html|
 |---|---|---|
-|![]()| imagem| img|
+|`![]()`| imagem| img|
 
 
 #### Texto pré-formatado vs. bloco de código
@@ -490,8 +509,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 |:---:|:---:|
 |Elemento que preserva a formatação| Dá o significado semântico de código|
 
-IA
-Não exatamente.
+
 
 ###### No HTML...
 
@@ -499,17 +517,13 @@ Não exatamente.
 
 🤔️ Texto pré-formatado = preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.  
 
-No HTML, isso normalmente é feito com <pre>.
+No HTML, isso normalmente é feito com <pre>.  
 
-<pre>
-    '<pre>Batatinha quando nasce...</pre>'
-</pre>
+'<pre>Batatinha quando nasce...</pre>'  
 
-**Código (numa linha)**: É o *inline*.
+**Código (numa linha)**: É o *inline*.  
 
-<pre>
-    '<code>const x = 1;</code>'
-</pre>
+'<code>const x = 1;</code>'  
 
 **Bloco de código**: Quando há várias linhas, e queremos preservar as quebras de linhas, recuo. 
 
@@ -541,6 +555,14 @@ Uma única crase no início do conteúdo e outra no final. Equivale em HTML a...
 </pre>
 
 
+###### Markdown misturado com HTML
+
+A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
+Ou seja, um arquivo exemplo.md pode conter, ao mesmo tempo, Markdown e HTML.
+
+|inline| bloco|
+|---|---|
+|small cite abbr b i mark del ins kbd samp var tt (obsoleta) sub sup span output| pre address|
 
 
 
