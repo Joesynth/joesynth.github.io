@@ -148,10 +148,35 @@ Belos recursos de efeitos visuais para conteúdo de texto escrito.
 
 **Código** é para mostrar código de computador. A aparência é de letra de computador, um efeito mais 'robótico'.  
 
+`const x = 1;`  
 
-Você pode dar efeito para algo matemático, por exemplo, o "problema" é que semanticamente você está dizendo ao HTML/renderizador que isto é código.  
-😄 É como se fosse um *hacking*!  
-⚠️ Vide também markdown vs. HTML e analisador.  
+Você pode usar isso para dar um efeito a letra para algo matemático, por exemplo:  
+
+`2 + 2 = 4`  
+
+Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: "clique na tecla..."   
+
+`Shift`
+
+Portanto, tal como negrito ou itálico, código é um efeito visual do "desenho" da letra. Estética, beleza.
+
+Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.
+😄 É como se fosse um *hacking*! 
+
+###### Beleza e significado
+
+Markdown usa marcas tipográficas com significado semântico.
+
+|** **| * *| ` `|
+|---|---|---|
+|negrito|itálico|mono-<br />espaçado|
+|forte ênfase|ênfase| código de computador|
+
+Essas marcas que geram desenhos diferentes de letras, no final, comunicam coisas diferentes para quem está lendo: o leitor.
+
+ 
+
+Vide também markdown vs. HTML e analisador.  
 
 ###### Link
 
@@ -544,24 +569,7 @@ No HTML, isso normalmente é feito com <pre>.
     </code></pre>
 ```
 
-###### No Markdown...
 
-**Texto pré-formatado**: Markdown não tem uma sintaxe específica equivalente a `<pre>`puro.  
-⚠️ Na Markdown não há algo para o que não é código!
-
-**Bloco de código**: 4 espaços (ou 3 crases) criam um bloco (*code block*) que corresponde, em HTML, a:
-
-<pre>
-    <pre><code>...</code></pre>
-</pre>
-
-**Código (numa linha)**: É o *inline*.
-
-Uma única crase no início do conteúdo e outra no final. Equivale em HTML a...  
-
-<pre>
-    '<code>const x = 1;</code>'
-</pre>
 
 
 ###### Markdown misturado com HTML
