@@ -1,5 +1,6 @@
 # Markdown
 
+Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens deveriam aprender na escola.
 
 Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
@@ -23,28 +24,35 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
 Simples! A gente escreve algo, uma palavra, por ex., e coloca alguma marca para dizer ao programa como aquele texto deve ser mostrado. Por exemplo:
 
-<pre>*morango*</pre>
+```*morango*```
 
-A coisa vai além de estética. Veja.
+O resultado é...  
 
-<pre># A Bíblia</pre>
+*morango*  
 
-O símbolo **#** marca 'A Bíblia' como título. Ou seja, temos uma marca relacionada com a **estrutura** do texto.
-
-<pre>[Wikipedia](www.wikipedia.org)</pre>
-
-Já aqui **[]** e **()** temos o significado de função específica: marcar um *link*.
-Portanto, quando executao, o texto não só aparecerá bonito como um link, como de fato, levará o usuário para outro endereço.
-
-
+Surge um texto em itálico.  
 
 Aqui, quando o código for executado, a palavra morango será exibida em itálico. E isso ocorre exatamente porque os dois asteríscos (que são as marcas) indicam como o texto deve aparecer após interpretado.  
 
-Ela organiza a estrutura de um texto, definindo o que é título, parágrafo, etc. bem como alguns aspectos de apresentação _é o caso de pôr uma palavra em negrito ou itálico.  
+O que aconteceu? O símbolo de asterísco **()** marcou a palavra 'morango' para aparecer desse jeito, inclinada.
+Também podemos ter palavras em negrito, títulos bem grandes, e até links.  
+
+Também temos um marca relacionada com a **estrutura** do texto, é o caso de um título.
+
+Além, temos o significado de função específica. Exemplo: marcar um *link*.
+Portanto, quando executao, o texto não só aparecerá bonito como um link, como de fato, levará o usuário para outro endereço.
+
+
+#### Resumindo Markdown
+
+● Organiza a estrutura de um texto, definindo o que é título, parágrafo etc.  
+● Cuida de alguns aspctos da apresentação _por ex., colocar uma palavra em itálico ou negrito.  
 
 Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até inserir uma linha bem fininha num texto ou site. E tudo de forma rápida, sutil.  
 
-**Markdown é simples!**: no dia a dia com apenas **10 "comandinhos** conseguimos muitas construções. Essas dez marcas são muito simples, objetivas e fácil de aprender. Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
+#### Por quê aprender Markdown?
+
+**Markdown é muito simples!** Sabendo apenas dez marcas, dez **"comandinhos"** conseguimos muitas construções. Essas dez marcas são muito simples, objetivas e fácil de aprender. Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
 
 
 **Formatação de textos**: a Markdown utiliza um conjunto de códigos bem simples para a formatação de textos. Essa codificação em si se resume em símbolos como asterisco, cerquilha (que é sustenido na música, ou a famosa *hashtag*).  
@@ -82,16 +90,20 @@ Lida com estrutura e apresentação? o que é?
 
 ###### As marcas...
 
-Há casos que a linguagem Markdown usa uma marca no incio, caso do **#** que significa um título.  
+**Duas marcas**:  
+
+`*uva*`
+
+Aqui temos a marcação de asterísco no incio e no final do conteudo (que é a palavra 'uva') _neste caso, indicando itálico.
+
+**Uma marca no incio**:  
 
 `# A Bíblia Sagrada`
 
-Noutras situações são duas marcações, uma no incio e outra no fical do conteudo, caso de negrito.
+Para o conteúdo 'A Bíblia Sagrada', antes há o símbolo **#**, significando título.  
 
-`**uva**`
-
-Mas há exceção, caso de link e imagem, que é específico. 
-
+Mas nem sempre é uma ou duas marcas. Link, por ex., é específico. 
+Independente disso, Markdown é muito simples.
 
 
 
@@ -136,9 +148,11 @@ E nasce Jesus em Nazaré...
 
 ###### Efeitos visuais no texto - inline
 
+**inline**: significa permanecer na própria linha.  
+
 Belos recursos de efeitos visuais para conteúdo de texto escrito.
 
-**Negrito, itálico e código**:  Cada um desses efeitos é **inline**, isto é, permanece na própria linha. Podem aparecer dentro de um parágrafo, junto com o resto do texto. Ou seja, ficam dentro do fluxo do texto; dentro do fluxo da linha/parágrafo.
+**Negrito, itálico e código**:  Cada um desses efeitos é *inline*, portanto, aparece dentro de um parágrafo, junto com o resto do texto. Ou seja, ficam dentro do fluxo do texto; dentro da mesma linha/parágrafo.
 
 <pre>
 **negrito** # Ou __bold__
@@ -178,20 +192,23 @@ Essas marcas que geram desenhos diferentes de letras, no final, comunicam coisas
 
 Vide também markdown vs. HTML e analisador.  
 
-###### Link
+###### Link (inline)
 
 Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
 
-Sintaxe '[textoDoLink](URL)'
+Sintaxe `[textoDoLink](URL)`  
 
-Exemplos:
+Ou seja...  
 
-<pre>
-[NomeQualquer](http://a.com)
-[Joe S](joesynth.wordpress.com)
-</pre>
+`[NomeQualquer](http://a.com)`  
 
-👉️ Link é inline, tanto em Markdown como em HTML (*tag* <a>).
+Exemplo 1:  
+
+`[Joe S](joesynth.wordpress.com)`  
+
+Exemplo 2:  
+
+`[Wikipedia](www.wikipedia.org)`  
 
 
 ###### Efeitos visuais no texto - bloco
@@ -199,24 +216,30 @@ Exemplos:
 Ao invés de efeito numa palavra, a ideia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
 Ou seja, quebra o fluxo e ocupa seu próprio bloco.  
 
-Bloco de citação: usa-se **>**.  
+**Bloco de citação**: usa-se **>**.  
 
 ```html
 > Tudo que tu sabe, alguém lhe contou.
 ```
-Texto pré-formatado:  Sigmifica preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
+**Bloco de código** (*code block*): usa-se 4 espaços (ou 3 crases)
 
 <pre>
       # 4 espaços vazios.
 </pre>
 
-4 espaços vazios geram um efeito parecido ou igual a crase (código). Porém aqui o texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
+4 espaços vazios resultam em um efeito parecido ao da crase (código), que vimos acima.  
+A diferença? Uma crase, como já vimos, é *inline*, e aqui os 4 espaços (ou 3 crases) podemos ter linhas e mais linhas de texto pré-formatado _portanto bem útil para escrevermos código de computador.
+
+🤔️ **Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
+
+Use sua criatividade! O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
-    Amai-vos uns aos outros...
+Amai-vos uns aos outros
+como Eu vos amei.
 </pre>
 
-Mas pode ser usado com criatividade.
+E que tal um repente?
 
 <pre>
 Você pode ser o A
@@ -225,10 +248,13 @@ E pode ser o dragão
 Que brigou com o Juvenal
 </pre>
 
-Lembre! O "problema" é que, semanticamente, você está dizendo ao computador que isto é código.  
+👉️ Portanto é perfeitamente possível usarmos bloco de código como uma opção (estética) ao bloco de citação.
+Lembre o detalhe: com o bloco de código, semanticamente, você está dizendo ao computador que isso é código.  
 😄 É como se fosse um *hacking*!  
 
-###### Listas
+###### Listas - bloco
+
+Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de citação (>) e bloco de código (3 crases)
 
 **Lista não ordenada**:  
 
@@ -278,13 +304,19 @@ Exemplo:
 
 👉️ Linha horizontal (*horizontal rule*, régua horizontal no literal). Uma linha bem fina, sendo um separador horizontal..  
 
-Indica uma separeção de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
+Indica uma separação de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
+
+#### Estrutura inline e estrutura de bloco - resumo
+
+|inline| bloco|
+|:---:|:---:|
+|negrito, itálico, código inline, link, imagem | título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal |
 
 
 ## CommonMark e sabores!
 
-Um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
+Um sabor é um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
 
 
 
@@ -364,7 +396,7 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 `~~texto riscado~~`
 
-👉️ Equivale em HTML à etiqueta '<del>', texto excluído.
+👉️ Equivale em HTML à etiqueta `<del>`, texto excluído.
 
 
 
@@ -375,7 +407,8 @@ Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor 
 Fácil!
 
 ● Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
-● Crie um novo arquivo e nomeie ele com algo como *teste.md* _não esqueça de usar a extensão .*md*!
+● Crie um novo arquivo e nomeie ele com algo como *teste.md*.  
+⚠️ Não esqueça de usar a extensão .*md*!
 
 ###### Arquivo .md do GitHub
 
@@ -475,7 +508,12 @@ Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi
 
 
 
+## Markdown para programadores
 
+Como vimos, Markdown é ótimo para escrevermos nossas histórias
+
+Aprenda Markdown e crie sua comta no GitLab!
+A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
 
 ## Markdown vs. HTML
 
@@ -494,10 +532,8 @@ Enquanto Markdown é simples, com poucas marcas (os símbolos como asteríscos, 
 Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.  
 
 ```html
-<pre>
 ## O Pequeno Príncipe
 <h2>O Pequeno Príncipe</h2>
-</pre>
 ```
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
@@ -611,7 +647,6 @@ https://spec.commonmark.org/0.30/
 -https://wordpress.com/support/wordpress-editor/blocks/markdown-block/#writing-with-markdown
 </pre>
 
-Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens deveriam aprender na escola, bem como criar sua comta no GitLab.
 
 👉️ **Escape**: <code>\# \** \*</code>
 
