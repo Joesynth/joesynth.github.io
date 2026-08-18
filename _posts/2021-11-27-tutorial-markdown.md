@@ -22,9 +22,9 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 ## O que é Markdown? Quem Usa?
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
-Simples! A gente escreve algo, uma palavra, por ex., e coloca alguma marca para dizer ao programa como aquele texto deve ser mostrado. Por exemplo:
+Simples! A gente escreve algo, uma palavra, por ex., e coloca alguma marca para dizer ao programa como aquele texto deve ser mostrado. Por exemplo:  
 
-```*morango*```
+`*morango*`
 
 O resultado é...  
 
@@ -500,7 +500,22 @@ Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o forma
 Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
 
 Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
+
+
 ## Um pouco de história
+
+Markdown foi criada principalmente para escritores e autores de conteúdo na web.  
+Uma das ideias centrais era ser uma alternativa mais simples ao HTML, para escrever conteúdo web.  
+O foco original, em 2004, era:
+
+● Criar uma forma simples de escrever texto formatado;
+🤔️ HTML, que também tem esse fim, é mais trabalhoso.
+● Fácil de ler, fácil de escrever _mesmo sem renderização;
+🤔️ HTML é menos natural para quem só quer escrever textos, histórias.
+● Evitar que o autor precisasse escrever HTML diretamente.
+● Permitir conversão para HTML;
+
+
 <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg" width="60" height="70" /> 🇺🇸 John Gruber.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
@@ -515,7 +530,7 @@ Como vimos, Markdown é ótimo para escrevermos nossas histórias
 Aprenda Markdown e crie sua comta no GitLab!
 A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
 
-## Markdown vs. HTML
+#### Markdown vs. HTML
 
 
 Ambas são...  
@@ -540,6 +555,18 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
 👉️ Markdown: estrutura textual; não UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS. 
+
+#### Construção vs. elemento
+
+As construções do Markdown são formas de marcar/estruturar o conteúdo. No HTML, essas "construções ou estruturações", são os chamaos **elementos**. Não são exatamente a mesma coisa, mas há sSemelhanças.
+
+|Markdown|HTML|
+|:--:|:--:|
+|conteúdo| conteúdo|
+|Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (`<p> <h1> <a> <div> etc`) para estruturar o conteúdo.|
+|construção/sintaxe| elemento|
+|bloco e inline|bloco e inline|
+
 
 #### Texto verbal vs. não verbal
 
@@ -608,7 +635,7 @@ No HTML, isso normalmente é feito com <pre>.
 
 
 
-###### Markdown misturado com HTML
+#### Markdown misturado com HTML
 
 A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
 Ou seja, um arquivo exemplo.md pode conter, ao mesmo tempo, Markdown e HTML.  
@@ -620,6 +647,22 @@ Exceto as marcas Markdown que vimos, temos *tags* (etiquetas) possíveis de uso:
 
 
 
+
+###### Tag <pre> vs. 3 crases
+
+Considere um software que funciona ao mesmo tempo com ambas linguagens.
+
+Coloque o código Markdown dentro de <pre> se você quer que não seja interpretado.
+
+A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. Neste contexto `<pre>` age como 3 crase (que é markdown).
+
+**Não são exatamente a mesma coisa!**:  
+
+|`<pre>...</pre>`| 3 crases|
+|:---:|:---:|
+|HTML| Markdown|
+|elemento para texto pré-formatado|Sintaxe para bloco de código|
+|Texto pré-formatado. Pode conter código, mas não necessariamente.| Projetado especificamente para representar código.|
 
 
 
