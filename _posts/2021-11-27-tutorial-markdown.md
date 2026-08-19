@@ -6,6 +6,7 @@ Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
+
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
 - Arquivo Markdown.
@@ -109,6 +110,48 @@ Independente disso, Markdown é muito simples.
 
 
 
+## Markdown: alguns conceitos
+
+
+#### Beleza e significado
+
+**Beleza e significado**: Markdown lida como o conteúdo aparece, bem como o que representa.Veja.
+
+|estilo | estrutura e sentido|
+|---|---|
+| tipo de letra, tamanho, peso (negrito) e espaçamento.| algo importante, uma citação, uma lista etc|
+
+<pre>
+> Ore pelos seus inimigos.
+</pre>
+
+Neste código, a marca **>** resulta no efeito visual:  
+
+> Ore pelos seus inimigos.
+
+Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
+
+
+
+#### Estrutura inline e estrutura de bloco
+
+**inline**: Significa permanecer na própria linha. 
+
+**Bloco**: Ao invés de efeito numa palavra, a ideia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
+
+
+#### Estrutura inline e de bloco - resumo
+
+
+|inline| bloco|
+|:---:|:---:|
+|negrito, itálico, código inline, link, imagem | título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal |
+
+
+
+
+
+
 ## Markdown - Guia Rápido
 
 
@@ -151,7 +194,6 @@ E nasce Jesus em Nazaré...
 
 ###### Efeitos visuais no texto - inline
 
-**inline**: significa permanecer na própria linha.  
 
 Belos recursos de efeitos visuais para conteúdo de texto escrito.
 
@@ -224,8 +266,7 @@ Exemplo 2:
 
 ###### Efeitos visuais no texto - bloco
 
-Ao invés de efeito numa palavra, a ideia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
-Ou seja, quebra o fluxo e ocupa seu próprio bloco.  
+
 
 **Bloco de citação**: usa-se **>**.  
 
@@ -318,11 +359,6 @@ Exemplo:
 Indica uma separação de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
 
-#### Estrutura inline e estrutura de bloco - resumo
-
-|inline| bloco|
-|:---:|:---:|
-|negrito, itálico, código inline, link, imagem | título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal |
 
 
 ## CommonMark e sabores!
@@ -541,26 +577,70 @@ Como vimos, Markdown é ótimo para escrevermos nossas histórias
 Aprenda Markdown e crie sua comta no GitLab!
 A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
 
+
 #### Markdown vs. HTML
 
+###### O que há de igual ou semelhante?
 
-Ambas são...  
+Ambas...  
 
-✔ para apresentação  
+<pre>
+✔ São linguagens de marcação
+✔ Lidam com o conteúdo
+   |_ como aparece (apresentação, beleza, estilo)
+   |_ o que representa (sentido, significao)
 ✔ estrutura do conteúdo textual  
-✔ para criar texto formatado  
-✔ linguagens de marcação  
+</pre>
 
 
-Enquanto Markdown é simples, com poucas marcas (os símbolos como asteríscos, colchetes, sustenido etc), a linguagem HTML usa as etiquetas (tags).
+<pre>
+✔ lidar com texto formatado  
+    |_ aparência da letra (negrito, itálico...)
+    |_ espaçamento e disposição (parágrafos, recuos...)
+    |_ organização do conteúdo (títulos, tabelas, listas...)
+</pre>
+
+Aparência = como o conteúdo se apresenta.
+Espaço/disposição = como o conteúdo se organiza no espaço.
+
+✔ Ideia de **inline e em bloco** serve tanto para Markdown quanto para HTML.  
+🤔️ Na HTML, a linguagem CSS pode alterar esse comportamento.
 
 
-Nos exemplos abaixo, o título "O Pequeno Príncipe" escrito nas linguagens markdown e HTML. Note que em markdown é bem mais simples.  
+###### O que há de diferente? 
+
+
+###### Marcação
+
+Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.
+
+|Markdown| HTML|
+|:--:|:--:|
+|poucas marcas| muitas etiquetas|
+
+
+###### Regras de escrita e recursos
+
+As **regras de escrita" nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
+
+|Markdown| HTML|
+|:--:|:--:|
+|**regras de escrita** | **regras de escrita** |
+|mais simples| mais completas, com |
+|**recursos**|**recursos**|
+|mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
+
+Abaixo, o título "O Pequeno Príncipe" escrito na linguagens Markdown.  
+
+```markdown
+## O Pequeno Príncipe
+```
+... E escrito em HTML.  
 
 ```html
-## O Pequeno Príncipe
 <h2>O Pequeno Príncipe</h2>
-```
+
+Note que o código em markdown é bem mais fácil de escrever! 😄️  
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
@@ -601,8 +681,6 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 |`| código| code|
 |`[]()`| link| a|
 
-👉️ A ideia de inline vs. bloco serve tanto para Markdown quanto para HTML.  
-🤔️ A linguagem CSS pode alterar esse comportamento do HTML.
 
 ###### Texto não verbal
 
