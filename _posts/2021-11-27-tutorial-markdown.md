@@ -19,6 +19,7 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
 
+
 ## O que é Markdown? Quem Usa?
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
@@ -146,13 +147,32 @@ No primeiro dia Deus criou...
 E nasce Jesus em Nazaré...
 </pre>
 
+
+
 ###### Efeitos visuais no texto - inline
 
 **inline**: significa permanecer na própria linha.  
 
 Belos recursos de efeitos visuais para conteúdo de texto escrito.
 
-**Negrito, itálico e código**:  Cada um desses efeitos é *inline*, portanto, aparece dentro de um parágrafo, junto com o resto do texto. Ou seja, ficam dentro do fluxo do texto; dentro da mesma linha/parágrafo.
+|negrito| itálico| código|
+|---|---|---|
+|**marca**| **marca**| **marca**|
+|** **| * *| ` `|
+|**estilo**|**estilo**|**estilo**|
+|letra mais espessa| letra inclinada para a direita| mono-<br />espaçado|
+|**sentido**|**sentido**|**sentido**|
+|forte destaque|ênfase| código|
+
+código de computador
+
+estilo de letra <br />(aparência)
+
+
+
+
+
+Cada um desses efeitos é *inline*, portanto, use dentro de uma frase ou parágrafo. Ou seja, ficam dentro do fluxo do texto; dentro da mesma linha/parágrafo.
 
 <pre>
 **negrito** # Ou __bold__
@@ -174,19 +194,10 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 
 Portanto, tal como negrito ou itálico, código é um efeito visual do "desenho" da letra. Estética, beleza.
 
-Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.
-😄 É como se fosse um *hacking*! 
+Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.  
+
 
 ###### Beleza e significado
-
-Markdown usa marcas tipográficas com significado semântico.
-
-|** **| * *| ` `|
-|---|---|---|
-|negrito|itálico|mono-<br />espaçado|
-|forte ênfase|ênfase| código de computador|
-
-Essas marcas que geram desenhos diferentes de letras, no final, comunicam coisas diferentes para quem está lendo: o leitor.
 
  
 
