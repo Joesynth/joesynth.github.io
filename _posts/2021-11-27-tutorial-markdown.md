@@ -60,7 +60,7 @@ Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até i
 **Formatação de textos**: a Markdown utiliza um conjunto de códigos bem simples para a formatação de textos. Essa codificação em si se resume em símbolos como asterisco, cerquilha (que é sustenido na música, ou a famosa *hashtag*).  
 
 
-###### Para que aprender *markdown** se meu editor de texto favorito faz isso com um clique de *mouse*?
+###### Para que ap *markdown** se meu editor de texto favorito faz isso com um clique de *mouse*?
 
 ● Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do *mouse*.  
 ● Não precisa usar *mouse*, inclusive funciona com o editor Nano _que é um *software* de linha de comando.
@@ -479,102 +479,16 @@ Fácil!
 
 
 
-###### Software editor Markdown e renderização (visualização)
-  
-
-Um editor que escreva o código é uma coisa, renderizar é outra!  
-
-Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
-
-| **Escreve, não renderiza** | **Escreve e renderiza** |
-|:---:|:---:|
-| Bloco de Notas (Windows) 🔒️ | WordPress (online) |
-| Nano 🎈 | Dillinger 🎈 (MIT) (online) |
-| Editor (Android/F-Droid) 🎈 | Obsidian 🔒️ |
-| Gedit (Ubuntu) 🎈 | Joplin 🎈 Notepad (Android/F-Droid) 🎈 Acode (F-Droid) Editor de código 🎈 StackEdit Editor online 🎈 Ulysses  Editor de texto/escrita (Apple) 🔒️|
-
-👉️ Dillinger pode ter telemetria, enquanto StackEdit não.
-
-👉️ Gedit (Ubuntu): renderiza via plugin.  
-👉️ O ponto importante é que Markdown permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
-👉️ Nano: Não faz destaque simultâneo e contextual de Markdown + HTML no mesmo arquivo como esses editores.
-
-
-
-###### Markdown: outras aplicações
-
-**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JS/TypeScript) que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.  
-🔗️ codemirror.net  
-**markdown-it**: Biblioteca JS, segue a especificação CommonMark.  
-🔗️ https://github.com/markdown-it/markdown-it   
-**Jekyll**: Gerador de site estático que pega arquivos Markdown e cria um site HTML.
-
-
-###### Plug-ins
-Além do Gedit *plugin* *Markdown Preview*, temos:  
-
-<strong>Firefox</strong>: Markdown Viewer Webext.  
-<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.  
-Instale e...  
-Clique em Extensions, menu superior direito, próximo menu principal.  
-Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).  
-Nesta caixa clique details.  
-Allow access to file URLs; ligue o Toggle.  
-
-
-
-
-
-
-
-## Analisador <sup>parser</sup> e renderizador
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftiiny.host%2Fblog%2Fassets%2Fimages%2Ffrom-code-file-to-rendered-output-in-markdown.png&f=1&nofb=1&ipt=27ce30f912777764f2381bd30f9c0d0c23d6341aa9686c12d647863836f778a6" width="320" />
-
-
-Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*implementation*”).
-
-<img class="alignleft" src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&amp;fit=clip&amp;q=40&amp;w=1080" width="307" height="64" />
-
-Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
-
-● Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.  
-● Abra o arquivo Markdown em um aplicativo Markdown.  
-● Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF).  
-● Visualize o arquivo HTML em um navegador da Web.
-
-Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
-
-Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
-
-
-## Um pouco de história
-
-Markdown foi criada principalmente para escritores e autores de conteúdo na web.  
-Uma das ideias centrais era ser uma alternativa mais simples ao HTML, para escrever conteúdo web.  
-O foco original, em 2004, era:
-
-● Criar uma forma simples de escrever texto formatado;
-🤔️ HTML, que também tem esse fim, é mais trabalhoso.
-● Fácil de ler, fácil de escrever _mesmo sem renderização;
-🤔️ HTML é menos natural para quem só quer escrever textos, histórias.
-● Evitar que o autor precisasse escrever HTML diretamente.
-● Permitir conversão para HTML;
-
-
-<img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg" width="60" height="70" /> 🇺🇸 John Gruber.
-
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
-Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
-
 
 
 ## Markdown para programadores
 
-Como vimos, Markdown é ótimo para escrevermos nossas histórias
+Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
 
-Aprenda Markdown e crie sua comta no GitLab!
+<small>
+A partir desse momento, pense seriamente em criar sua conta no GitLab!
 A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
+</small>
 
 
 #### Markdown vs. HTML
@@ -609,21 +523,16 @@ Espaço/disposição = como o conteúdo se organiza no espaço.
 ###### O que há de diferente? 
 
 
-###### Marcação
+###### Marcação, regras de escrita e recursos
 
-Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.
-
-|Markdown| HTML|
-|:--:|:--:|
-|poucas marcas| muitas etiquetas|
-
-
-###### Regras de escrita e recursos
+Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
 
 As **regras de escrita" nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
 
 |Markdown| HTML|
 |:--:|:--:|
+|**marcação**|**marcação**|
+|poucas marcas| muitas etiquetas|
 |**regras de escrita** | **regras de escrita** |
 |mais simples| mais completas, com |
 |**recursos**|**recursos**|
@@ -638,6 +547,7 @@ Abaixo, o título "O Pequeno Príncipe" escrito na linguagens Markdown.
 
 ```html
 <h2>O Pequeno Príncipe</h2>
+```
 
 Note que o código em markdown é bem mais fácil de escrever! 😄️  
 
@@ -787,6 +697,7 @@ Para **Marcação vs. instrução** veja [Linguagens Resumo](linguagens-resumo).
 ## Profissões que usam e softwares
 
 
+
 | Área | Software | Finalidade |
 |---|---|---|
 | **Produção de conteúdo** (jornalista, produtor de conteúdo, redator) | Obsidian, Zettlr 🎈, Joplin 🎈, Typora, MarkText 🎈, VSCodium 🎈 | Escrita e organização |
@@ -795,6 +706,98 @@ Para **Marcação vs. instrução** veja [Linguagens Resumo](linguagens-resumo).
 | **Segurança** (pentester, analista SOC) | Nano 🎈, Gedit 🎈, GitLab 🎈, GitHub, Vim 🎈, VSCodium 🎈 | Relatórios e documentação |
 | **Produto** (Product Manager) | Notion, GitHub, Obsidian, Zettlr 🎈, VSCodium 🎈 | Requisitos e especificações |
 | **Design UX** (UX Designer) | Notion, Obsidian, Zettlr 🎈, GitLab 🎈, VSCodium 🎈 | Pesquisa e documentação |
+
+
+
+
+###### Software editor Markdown e renderização (visualização)
+  
+
+Um editor que escreva o código é uma coisa, renderizar é outra!  
+
+Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
+
+| **Escreve, não renderiza** | **Escreve e renderiza** |
+|:---:|:---:|
+| Bloco de Notas (Windows) 🔒️ | WordPress (online) |
+| Nano 🎈 | Dillinger 🎈 (MIT) (online) |
+| Editor (Android/F-Droid) 🎈 | Obsidian 🔒️ |
+| Gedit (Ubuntu) 🎈 | Joplin 🎈 Notepad (Android/F-Droid) 🎈 Acode (F-Droid) Editor de código 🎈 StackEdit Editor online 🎈 Ulysses  Editor de texto/escrita (Apple) 🔒️|
+
+👉️ Dillinger pode ter telemetria, enquanto StackEdit não.
+
+👉️ Gedit (Ubuntu): renderiza via plugin.  
+👉️ O ponto importante é que Markdown permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
+👉️ Nano: Não faz destaque simultâneo e contextual de Markdown + HTML no mesmo arquivo como esses editores.
+
+
+
+###### Markdown: outras aplicações
+
+**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JS/TypeScript) que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.  
+🔗️ codemirror.net  
+**markdown-it**: Biblioteca JS, segue a especificação CommonMark.  
+🔗️ https://github.com/markdown-it/markdown-it   
+**Jekyll**: Gerador de site estático que pega arquivos Markdown e cria um site HTML.
+
+
+###### Plug-ins
+Além do Gedit *plugin* *Markdown Preview*, temos:  
+
+<strong>Firefox</strong>: Markdown Viewer Webext.  
+<strong>Chromium / Chrome: </strong>Markdown Preview Plus. Mistura *markdown* e HTML.  
+Instale e...  
+Clique em Extensions, menu superior direito, próximo menu principal.  
+Clique Manage Extensions; surge Markdown Preview Plus (uma caixa de alerta).  
+Nesta caixa clique details.  
+Allow access to file URLs; ligue o Toggle.  
+
+
+
+
+
+
+## Analisador <sup>parser</sup> e renderizador
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftiiny.host%2Fblog%2Fassets%2Fimages%2Ffrom-code-file-to-rendered-output-in-markdown.png&f=1&nofb=1&ipt=27ce30f912777764f2381bd30f9c0d0c23d6341aa9686c12d647863836f778a6" width="320" />
+
+
+Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*implementation*”).
+
+<img class="alignleft" src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&amp;fit=clip&amp;q=40&amp;w=1080" width="307" height="64" />
+
+Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
+
+● Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.  
+● Abra o arquivo Markdown em um aplicativo Markdown.  
+● Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF).  
+● Visualize o arquivo HTML em um navegador da Web.
+
+Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
+
+Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
+
+
+
+
+## Um pouco de história
+
+Markdown foi criada principalmente para escritores e autores de conteúdo na web.  
+Uma das ideias centrais era ser uma alternativa mais simples ao HTML, para escrever conteúdo web.  
+O foco original, em 2004, era:
+
+● Criar uma forma simples de escrever texto formatado;
+🤔️ HTML, que também tem esse fim, é mais trabalhoso.
+● Fácil de ler, fácil de escrever _mesmo sem renderização;
+🤔️ HTML é menos natural para quem só quer escrever textos, histórias.
+● Evitar que o autor precisasse escrever HTML diretamente.
+● Permitir conversão para HTML;
+
+
+<img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg" width="60" height="70" /> 🇺🇸 John Gruber.
+
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
+Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
 
 
 
