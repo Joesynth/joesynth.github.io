@@ -1,6 +1,6 @@
 # Markdown
 
-Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens deveriam aprender na escola.
+Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
 Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
@@ -75,9 +75,7 @@ Continue lendo esse tutorial e veja abaixo!
 
 A **linguagem markdown** é utilizada em...  
 ● mensagens instantâneas (Telegram, por ex.),  
-● fóruns *online* (GitLab),  
 ● *software* colaborativo (caso do Collabora Online que permite importar),  
-● páginas de documentação e arquivos 'leia-me' (README.md de projetos no GitLab e GitHub).  
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
@@ -135,9 +133,13 @@ Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência esp
 
 #### Estrutura inline e estrutura de bloco
 
-**inline**: Significa permanecer na própria linha. 
+Uma questão de organização espacial; disposição do conteúdo.
 
-**Bloco**: Ao invés de efeito numa palavra, a ideia de bloco é ocupar uma região própria _como uma frase inteira, por exemplo.  
+|inline|Bloco|
+|:---:|:---:|
+|Significa permanecer na própria linha.| A ideia é ocupar uma região própria _como uma frase inteira, por exemplo.|
+|**Ex.**|**Ex.**|
+|Um efeito de negrito numa única palavra.| Um título que ocupa uma linha inteira|
 
 
 #### Estrutura inline e de bloco - resumo
@@ -160,12 +162,20 @@ Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência esp
 
 ###### Título e parágrafo
 
+**Título**: O símbolo do título é **#** (o sustenido), e pode ir **######**.
+
 <pre>
-# Título
-## Título # título um tanto menor.
+# O Pica Pau
 </pre>
 
-👉️ O símbolo do título pode ir de **#** até **######**. Um sustenido criará uma letra bem grande enquanto 6 letra pequena, embora ainda título.
+Usando ## temos um título menor. Até 6 sustenidos é possível, gerando uma letra de tamanho pequeno, masainda título.
+Podemos pensar nisso como subtítulos e assim organizar nosso text.
+
+<pre>
+# Título
+## O Pica Pau
+</pre>
+
 
 **Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 ⚠️ No Wordpress crie usando uma linha em branco.
@@ -194,8 +204,10 @@ E nasce Jesus em Nazaré...
 
 ###### Efeitos visuais no texto - inline
 
+Belos recursos para a apresentação do conteúdo de texto escrito.  
+Pense estilo de letra! 😄️
 
-Belos recursos de efeitos visuais para conteúdo de texto escrito.
+Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, beleza... Mas há sentido também.
 
 |negrito| itálico| código|
 |---|---|---|
@@ -206,15 +218,10 @@ Belos recursos de efeitos visuais para conteúdo de texto escrito.
 |**sentido**|**sentido**|**sentido**|
 |forte destaque|ênfase| código|
 
-código de computador
 
-estilo de letra <br />(aparência)
+⚠️ Lembre! Cada um desses efeitos é *inline*, ou seja, fica dentro do fluxo do texto; dentro da mesma linha/parágrafo.
+Logo, use dentro de uma frase ou parágrafo. 
 
-
-
-
-
-Cada um desses efeitos é *inline*, portanto, use dentro de uma frase ou parágrafo. Ou seja, ficam dentro do fluxo do texto; dentro da mesma linha/parágrafo.
 
 <pre>
 **negrito** # Ou __bold__
@@ -222,11 +229,11 @@ Cada um desses efeitos é *inline*, portanto, use dentro de uma frase ou parágr
 `código`    # Marca é o símbolo de crase simples
 </pre>
 
-**Código** é para mostrar código de computador. A aparência é de letra de computador, um efeito mais 'robótico'.  
+**Código** é para mostrar **código de computador**. A aparência é de letra de computador, um efeito mais 'robótico'.  
 
 `const x = 1;`  
 
-Você pode usar isso para dar um efeito a letra para algo matemático, por exemplo:  
+Você pode usar isso com criatividade. Por exemplo, dar um efeito a letra para algo matemático:  
 
 `2 + 2 = 4`  
 
@@ -234,16 +241,8 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 
 `Shift`
 
-Portanto, tal como negrito ou itálico, código é um efeito visual do "desenho" da letra. Estética, beleza.
-
-Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.  
-
-
-###### Beleza e significado
-
- 
-
-Vide também markdown vs. HTML e analisador.  
+⚠️ Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.  
+É como se fosse um *hacking*! 🤔️
 
 ###### Link (inline)
 
@@ -273,18 +272,23 @@ Exemplo 2:
 ```html
 > Tudo que tu sabe, alguém lhe contou.
 ```
-**Bloco de código** (*code block*): usa-se 4 espaços (ou 3 crases)
+O que resulta no seguinte efeito visual...  
+
+> Tudo que tu sabe, alguém lhe conto
+
+**Bloco de código** (*code block*): usa-se 4 espaços (ou 3 crases). Resulta em um efeito parecido ao da crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
 
 <pre>
       # 4 espaços vazios.
 </pre>
 
-4 espaços vazios resultam em um efeito parecido ao da crase (código), que vimos acima.  
-A diferença? Uma crase, como já vimos, é *inline*, e aqui os 4 espaços (ou 3 crases) podemos ter linhas e mais linhas de texto pré-formatado _portanto bem útil para escrevermos código de computador.
+A diferença? Uma crase, como já vimos, é *inline*, e aqui os 4 espaços (ou 3 crases) podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
 
-🤔️ **Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
+<small>
+**Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
+</small>
 
-Use sua criatividade! O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
+Use sua criatividade! O texto não precisa ser exatamente código de computador, podendo ter uma simples frase.
 
 <pre>
 Amai-vos uns aos outros
@@ -302,7 +306,9 @@ Que brigou com o Juvenal
 
 👉️ Portanto é perfeitamente possível usarmos bloco de código como uma opção (estética) ao bloco de citação.
 Lembre o detalhe: com o bloco de código, semanticamente, você está dizendo ao computador que isso é código.  
+Como dito antes...  
 😄 É como se fosse um *hacking*!  
+
 
 ###### Listas - bloco
 
@@ -314,6 +320,7 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 * foo # # <ul><li>foo</li></ul>
 - idem.
 </pre>
+
 ⚠️ No Wordpress <kbd>ShiftEnter</kbd> cria um dentro do outro.  
 
 
@@ -334,12 +341,9 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 
 
 
-
-
-
 #### Recursos gráficos
 
-###### Imagem
+###### Imagem - inline
 
 Se você praticou bem o link, imagem vai ser fácil: basta pôr uma exclamação antes.  
 
@@ -350,11 +354,11 @@ Exemplo:
 `![Um Gato](http://url/gato.png)`  
 
 
-###### Régua horizontal | hr
+###### Linha horizontal
+
+*Horizontal rule*: Régua horizontal no literal. Uma linha bem fina, sendo um separador horizontal.  
 
 `--- `
-
-👉️ Linha horizontal (*horizontal rule*, régua horizontal no literal). Uma linha bem fina, sendo um separador horizontal..  
 
 Indica uma separação de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
@@ -377,7 +381,7 @@ Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 #### GFM
 
-###### Tabela | table tr td
+###### Tabela
 
 É usado os símbolos hífen (sinal de menos) e barra vertical (ou pipe, como se fala entre programadores).
 
@@ -393,17 +397,30 @@ Veja mais em <a href="https://commonmark.org/help/">help</a>.
 
 **Alinhar conteúdo da tabela**
 
+Centro.
+
 <pre>
-| : - - - : |  # Centro.
+| : - - - : |
 | caju |
+</pre>
 
-| - - - : |  # Direita.
+Direita.
+<pre>
+| - - - : |
 | caju |
+</pre>
 
-| : - - - |  # Esquerda (*default*, padrão).
+Esquerda (*default*, padrão).
+
+<pre>
+| : - - - |
 | caju |
+</pre>
 
-| :--- | :---: | ---: |  # Mesclar.
+Mesclar.
+
+<pre>
+| :--- | :---: | ---: |
 | uva | uva | uva |
 </pre>
 
@@ -421,18 +438,13 @@ Veja mais em <a href="https://commonmark.org/help/">help</a>.
 Sintaxe `:nomeEmInglês:` 
 
 <pre>
-:heart: # ❤️
-:grin: # 😄️
-:angry: # 😠️
-:star: # ⭐️
-:fire: # 🔥️
-:point_right:  # 👉
-:hand: # 🖐️
-:clap: # 👏️
-:walking: # 🚶‍♀️️
-:running: # 🏃‍♂️️
-:cat: # 😺️
-:mouse: # 🐭️
+:grin: 😄️    :heart:❤️
+:angry: 😠️   :fire: 🔥️
+:star: ⭐️    :walking: 🚶‍♀️️
+:cat: # 😺️    :running: 🏃‍♂️️
+:hand: 🖐️    :clap: 👏️
+:mouse: 🐭️
+:point_right:  👉
 </pre>
 
 Outros inclui *shit*, *blush*, -1, *smiley*...
@@ -448,40 +460,27 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 
 ## 💾️ Arquivo Markdown
-A extensão do nome do arquivo é .*md* ou .*markdown*, isso num editor.
-Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor de texto _incluso o WordPad no Windows.
-<h6>Criando um arquivo Markdown</h6>
+
+Considere um editor de editor de texto comum _por ex. Gedit do Ubuntu, Bloco de Notas do Windows...  
+
+Um editor de texto simples, como Bloco de Notas ou Gedit, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
+
+A extensão do nome do arquivo é .*md* ou .*markdown*.  
+
+Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor.  
+
+###### Criando um arquivo Markdown
+
 Fácil!
 
-● Abra um editor (por ex. Bloco de Notas do Windows ou Gedit do Ubuntu).
+● Abra um editor .
 ● Crie um novo arquivo e nomeie ele com algo como *teste.md*.  
 ⚠️ Não esqueça de usar a extensão .*md*!
-
-###### Arquivo .md do GitHub
-
-Desenvolvedores e programadores costumam usar a extensão de arquivo .md para os arquivos README no formato de arquivo *Markdown Documentation* (ou seja, *readme.md*).
-
-
-
-
-## Profissões que usam e softwares
-
-
-| Área | Software | Finalidade |
-|---|---|---|
-| **Produção de conteúdo** (jornalista, produtor de conteúdo, redator) | Obsidian, Zettlr 🎈, Joplin 🎈, Typora, MarkText 🎈, VSCodium 🎈 | Escrita e organização |
-| **TI** (programador, desenvolvedor, DevOps) | Nano (CLI) 🎈, Gedit 🎈, GitLab 🎈, GitHub, VSCodium 🎈 | Código e documentação |
-| **Dados** (cientista de dados, analista) | Jupyter 🎈, GitLab 🎈, Quarto 🎈, VSCodium 🎈 | Análise e relatórios |
-| **Segurança** (pentester, analista SOC) | Nano 🎈, Gedit 🎈, GitLab 🎈, GitHub, Vim 🎈, VSCodium 🎈 | Relatórios e documentação |
-| **Produto** (Product Manager) | Notion, GitHub, Obsidian, Zettlr 🎈, VSCodium 🎈 | Requisitos e especificações |
-| **Design UX** (UX Designer) | Notion, Obsidian, Zettlr 🎈, GitLab 🎈, VSCodium 🎈 | Pesquisa e documentação |
 
 
 
 ###### Software editor Markdown e renderização (visualização)
   
-Um editor de texto simples, como Bloco de Notas ou Gedit, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
-
 
 Um editor que escreva o código é uma coisa, renderizar é outra!  
 
@@ -783,6 +782,19 @@ https://spec.commonmark.org/0.30/
 👉️ **Escape**: <code>\# \** \*</code>
 
 Para **Marcação vs. instrução** veja [Linguagens Resumo](linguagens-resumo).
+
+
+## Profissões que usam e softwares
+
+
+| Área | Software | Finalidade |
+|---|---|---|
+| **Produção de conteúdo** (jornalista, produtor de conteúdo, redator) | Obsidian, Zettlr 🎈, Joplin 🎈, Typora, MarkText 🎈, VSCodium 🎈 | Escrita e organização |
+| **TI** (programador, desenvolvedor, DevOps) | Nano (CLI) 🎈, Gedit 🎈, GitLab 🎈, GitHub, VSCodium 🎈 | Código e documentação |
+| **Dados** (cientista de dados, analista) | Jupyter 🎈, GitLab 🎈, Quarto 🎈, VSCodium 🎈 | Análise e relatórios |
+| **Segurança** (pentester, analista SOC) | Nano 🎈, Gedit 🎈, GitLab 🎈, GitHub, Vim 🎈, VSCodium 🎈 | Relatórios e documentação |
+| **Produto** (Product Manager) | Notion, GitHub, Obsidian, Zettlr 🎈, VSCodium 🎈 | Requisitos e especificações |
+| **Design UX** (UX Designer) | Notion, Obsidian, Zettlr 🎈, GitLab 🎈, VSCodium 🎈 | Pesquisa e documentação |
 
 
 
