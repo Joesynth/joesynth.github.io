@@ -131,6 +131,21 @@ Neste código, a marca **>** resulta no efeito visual:
 Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
 
+#### Estrutura, beleza e sentido
+
+Observe como Markdown atua em três dimensões.
+
+|Estrutura|Beleza|Sentido|
+|:---:|:---:|:---:|
+|**O que é?**|**O que é?**|**O que é?**|
+|Organização do conteúdo.| Como determinado conteúdo deve ser apresentado visualmente.| Natureza/função do conteúdo:|
+|**Ex.**|**Ex.**|**Ex.**|
+|`# 1. ---` etc|`**negrito** *itálico*` etc| `>` (que significa citação)|
+
+ e significado (sentido, semântica)
+
+👉️ Tecnicamente, a “beleza” é chamada de **apresentação**, e "sentido" **semântica**.
+
 
 #### Estrutura inline e estrutura de bloco
 
@@ -387,6 +402,9 @@ Fácil!
 
 
 
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
+
+
 
 
 ## Markdown para programadores
@@ -421,16 +439,18 @@ Para um programador Markdown logo logo será útil para...
 
 Ambas...  
 
-✔ São linguagens de marcação
-✔ Lidam com o conteúdo
-└─ como aparece (apresentação, beleza, estilo)
-└─ o que representa (sentido, significao)
+✔ São linguagens de marcação  
+✔ Lidam com o conteúdo  
+└─ como aparece (apresentação, beleza, estilo)  
+└─ o que representa (sentido, significao)  
 ✔ estrutura do conteúdo textual  
 
 ✔ lidar com texto formatado  
-└─ aparência da letra (negrito, itálico...)
-└─ espaçamento e disposição (parágrafos, recuos...)
-└─ organização do conteúdo (títulos, tabelas, listas...)
+└─ aparência da letra (negrito, itálico...)  
+└─ espaçamento e disposição (parágrafos, recuos...)  
+└─ organização do conteúdo (títulos, tabelas, listas...)  
+
+✔ Estrutura, beleza, sentido.  
 
 
 Aparência = como o conteúdo se apresenta.
@@ -519,14 +539,15 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 |`![]()`| imagem| img|
 
 
-###### Texto pré-formatado vs. bloco de código
+######  Bloco de código vs. texto pré-formatado
 
+Observe essas duas etiquetas HTML.
 
-|`<code>`| <pre>|
+|`<code>`| `<pre>`|
 |:---:|:---:|
 |Dá o significado semântico de código| Elemento que preserva a formatação|
 
-
+O markdown tem uma marca equivalente a `<code>`, que é 1 crase. Já para `<pre>` não há.
 
 ###### No HTML...
 
@@ -566,11 +587,27 @@ No Markdown uma única crase no início do conteúdo e outra no final equivale e
 Ou seja, não há algo para o que não é código!
 
 
-###### Finalidade: Markdown é estrutura textual, não UI
+###### Finalidade: o vocabulário
 
-Pense Markdown como estrutura textual e não para UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS.
+Markdown, bem como HTML, também descreve elementos semânticos e de apresentação
 
+Markdown é estrutura textual, não UI.
 
+Podemos pense da seguinte forma...  
+
+O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS.
+
+|Markdown| HTML|
+|:---:|:---:|
+|como estrutura textual e não para UI propriamente dita||
+
+###### Conteúdo vs. UI
+
+|Markdown| HTML|
+|:---:|:---:|
+|O termo 'conteúdo' cabe para Markdown.| O termo UI se ajusta melhor a HTML|
+
+Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta melhor a HTML.
 
 
 #### Markdown misturado com HTML
