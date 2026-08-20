@@ -7,6 +7,7 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
 
+
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
 - Arquivo Markdown.
@@ -67,8 +68,8 @@ Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até i
 
 ###### Gostar de tecnologia e programação
 
-Se você gosta desses assuntos a Markdown é a linguagem mais fácil, e até até divertida, de entrarmos nesse mundo.
-Continue lendo esse tutorial e veja abaixo!
+Se você gosta desses assuntos...  
+Vide Markdown para Programadores.  
 
 
 ###### Quem usa Markdown?
@@ -272,9 +273,9 @@ Exemplo 2:
 ```html
 > Tudo que tu sabe, alguém lhe contou.
 ```
-O que resulta no seguinte efeito visual...  
+O resultado desse código é o seguinte efeito visual...  
 
-> Tudo que tu sabe, alguém lhe conto
+> Tudo que tu sabe, alguém lhe contou.
 
 **Bloco de código** (*code block*): usa-se 4 espaços (ou 3 crases). Resulta em um efeito parecido ao da crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
 
@@ -288,7 +289,7 @@ A diferença? Uma crase, como já vimos, é *inline*, e aqui os 4 espaços (ou 3
 **Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
 </small>
 
-Use sua criatividade! O texto não precisa ser exatamente código de computador, podendo ter uma simples frase.
+Use sua criatividade! O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
 Amai-vos uns aos outros
@@ -365,11 +366,250 @@ Indica uma separação de temática/estrutural. usamos quando damos o significad
 
 
 
+
+## 💾️ Arquivo Markdown
+
+Considere um editor de editor de texto comum _por ex. Gedit do Ubuntu, Bloco de Notas do Windows...  
+
+Um editor de texto simples, como Bloco de Notas ou Gedit, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
+
+A extensão do nome do arquivo é .*md* ou .*markdown*.  
+
+Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor.  
+
+###### Criando um arquivo Markdown
+
+Fácil!
+
+● Abra um editor .
+● Crie um novo arquivo e nomeie ele com algo como *teste.md*.  
+⚠️ Não esqueça de usar a extensão .*md*!
+
+
+
+
+
+## Markdown para programadores
+
+Se você gosta de assuntos como **tecnologia e programação**, Markdown é a linguagem mais fácil ou simples, e até até divertida, de entrarmos nesse mundo.
+
+Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
+
+<small>
+A partir desse momento, pense seriamente em criar sua conta no GitLab!
+A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
+</small>
+
+Poucos comandos (daí fácil de aprender em poucas horas
+Dispensa uso de mouse, de tão simples que é. Mais agilidade!
+Fácil de entender o código (com asteríscos, sustenidos)
+👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
+
+Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardim da infância" da programação _dando algumas bases que vão estar presentes a todo momento na nossa vida de programação.
+✔ A ideia de linguagem de marcação.  
+✔ Conteúdo.  
+✔ Inline e bloco.  
+✔ Uso do terminal para escrevermos o código, em vez de mouse.
+[REVER ESSES TÒPICO]
+
+Para um programador Markdown logo logo será útil para...
+✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
+
+#### Markdown vs. HTML
+
+###### O que há de igual ou semelhante?
+
+Ambas...  
+
+✔ São linguagens de marcação
+✔ Lidam com o conteúdo
+└─ como aparece (apresentação, beleza, estilo)
+└─ o que representa (sentido, significao)
+✔ estrutura do conteúdo textual  
+
+✔ lidar com texto formatado  
+└─ aparência da letra (negrito, itálico...)
+└─ espaçamento e disposição (parágrafos, recuos...)
+└─ organização do conteúdo (títulos, tabelas, listas...)
+
+
+Aparência = como o conteúdo se apresenta.
+Espaço/disposição = como o conteúdo se organiza no espaço.
+
+✔ Ideia de **inline e em bloco** serve tanto para Markdown quanto para HTML.  
+🤔️ Na HTML, a linguagem CSS pode alterar esse comportamento.
+
+Em suma...   
+🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
+
+###### O que há de diferente? 
+
+
+###### Marcação, regras de escrita e recursos
+
+Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
+
+As **regras de escrita" nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
+
+|Markdown| HTML|
+|:--:|:--:|
+|**marcação**|**marcação**|
+|poucas marcas| muitas etiquetas|
+|**regras de escrita** | **regras de escrita** |
+|mais simples| mais completas, com |
+|**recursos**|**recursos**|
+|mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
+
+Abaixo, o título "O Pequeno Príncipe" escrito na linguagens Markdown.  
+
+```markdown
+## O Pequeno Príncipe
+```
+... E escrito em HTML.  
+
+```html
+<h2>O Pequeno Príncipe</h2>
+```
+
+Note que o código em markdown é bem mais fácil de escrever! 😄️  
+
+Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
+
+ 
+
+###### Construção vs. elemento
+
+As construções do Markdown são formas de marcar/estruturar o conteúdo. No HTML, essas "construções ou estruturações", são os chamaos **elementos**. Não são exatamente a mesma coisa, mas há semelhanças.
+
+|Markdown|HTML|
+|:--:|:--:|
+|conteúdo| conteúdo|
+|Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (`<p> <h1> <a> <div> etc`) para estruturar o conteúdo.|
+|construção/sintaxe| elemento|
+|bloco e inline|bloco e inline|
+
+
+#### Texto verbal vs. não verbal
+
+**Verbal - escrito** - bloco
+
+|.md||.html|
+|---|---|---|
+|#| título| h1-h6|
+|| parágrafo| p|
+|>| bloco de citação| blockquote|
+|3 crases| bloco de código| `<pre><code>`|
+|1.| lista ordenada| ol|
+|-| lista não ord.| ul|
+
+**Verbal - escrito** - inline
+
+|.md||.html|
+|---|---|---|
+|**| negrito| strong|
+|*| itálico| em|
+|1 crase| código| code|
+|`[]()`| link| a|
+
+
+**Texto não verbal**
+
+|.md||.html|
+|---|---|---|
+|`![]()`| imagem| img|
+
+
+###### Texto pré-formatado vs. bloco de código
+
+
+|`<code>`| <pre>|
+|:---:|:---:|
+|Dá o significado semântico de código| Elemento que preserva a formatação|
+
+
+
+###### No HTML...
+
+**Texto pré-formatado**: Use <pre>.  
+
+No HTML, isso normalmente é feito com <pre>.  
+
+`<pre>Batatinha quando nasce...</pre>`  
+
+**Código (numa linha)**: É o *inline*.  
+
+`<code>const x = 1;</code>`  
+
+
+**Bloco de código**: Quando há várias linhas, e queremos preservar as quebras de linhas, recuo. 
+
+```html
+<pre><code>
+    function soma(a, b) {
+        return a + b;
+    }
+</code></pre>
+```
+###### Markdown: escrever código sim, texto pré-formatado não
+
+**Código (numa linha)**: É o *inline*.
+
+No Markdown uma única crase no início do conteúdo e outra no final equivale em HTML a...  
+
+`<code>const x = 1;</code>`
+
+**Bloco de código** (*code block*): 4 espaços (ou 3 crases) criam um bloco que corresponde, em HTML, a:
+
+`<pre><code>...</code></pre>`
+
+⚠️ **Texto pré-formatado**: Portanto, Markdown **não tem** uma sintaxe específica equivalente a etiqueta HTML `<pre>` pura.
+Ou seja, não há algo para o que não é código!
+
+
+###### Finalidade: Markdown é estrutura textual, não UI
+
+Pense Markdown como estrutura textual e não para UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS.
+
+
+
+
+#### Markdown misturado com HTML
+
+A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
+Ou seja, um arquivo `.md` pode conter, ao mesmo tempo, Markdown e HTML.  
+Então, além das marcas Markdown que vimos, temos etiquetas (*tags*) HTML possíveis de usar. Etiquetas HTML que podmos misturar:  
+
+|inline| bloco|
+|---|---|
+|small cite abbr b i mark del ins kbd samp var tt (obsoleta) sub sup span output| pre address|
+
+
+
+
+###### Tag <pre> vs. 3 crases
+
+Considere um software que funciona ao mesmo tempo com ambas linguagens.
+
+Coloque o código Markdown dentro de <pre> se você quer que não seja interpretado.
+
+A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. Neste contexto `<pre>` age como 3 crase (que é markdown).
+
+**Não são exatamente a mesma coisa!**:  
+
+|`<pre>...</pre>`| 3 crases|
+|:---:|:---:|
+|HTML| Markdown|
+|elemento para texto pré-formatado|Sintaxe para bloco de código|
+|Texto pré-formatado. Pode conter código, mas não necessariamente.| Projetado especificamente para representar código.|
+
+
+
+
+
+
 ## CommonMark e sabores!
 
 Um sabor é um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
-
-
 
 |CommonMark|GFM <sup>GitHub Flavored Markdown</sup>|GLFM <sup>GitLab Flavored Markdown</sup>|
 |:---:|:---:|:---:|
@@ -441,7 +681,7 @@ Sintaxe `:nomeEmInglês:`
 :grin: 😄️    :heart:❤️
 :angry: 😠️   :fire: 🔥️
 :star: ⭐️    :walking: 🚶‍♀️️
-:cat: # 😺️    :running: 🏃‍♂️️
+:cat: 😺️    :running: 🏃‍♂️️
 :hand: 🖐️    :clap: 👏️
 :mouse: 🐭️
 :point_right:  👉
@@ -457,210 +697,6 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 👉️ Equivale em HTML à etiqueta `<del>`, texto excluído.
 
-
-
-## 💾️ Arquivo Markdown
-
-Considere um editor de editor de texto comum _por ex. Gedit do Ubuntu, Bloco de Notas do Windows...  
-
-Um editor de texto simples, como Bloco de Notas ou Gedit, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
-
-A extensão do nome do arquivo é .*md* ou .*markdown*.  
-
-Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor.  
-
-###### Criando um arquivo Markdown
-
-Fácil!
-
-● Abra um editor .
-● Crie um novo arquivo e nomeie ele com algo como *teste.md*.  
-⚠️ Não esqueça de usar a extensão .*md*!
-
-
-
-
-
-## Markdown para programadores
-
-Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
-
-<small>
-A partir desse momento, pense seriamente em criar sua conta no GitLab!
-A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
-</small>
-
-
-#### Markdown vs. HTML
-
-###### O que há de igual ou semelhante?
-
-Ambas...  
-
-<pre>
-✔ São linguagens de marcação
-✔ Lidam com o conteúdo
-   |_ como aparece (apresentação, beleza, estilo)
-   |_ o que representa (sentido, significao)
-✔ estrutura do conteúdo textual  
-</pre>
-
-
-<pre>
-✔ lidar com texto formatado  
-    |_ aparência da letra (negrito, itálico...)
-    |_ espaçamento e disposição (parágrafos, recuos...)
-    |_ organização do conteúdo (títulos, tabelas, listas...)
-</pre>
-
-Aparência = como o conteúdo se apresenta.
-Espaço/disposição = como o conteúdo se organiza no espaço.
-
-✔ Ideia de **inline e em bloco** serve tanto para Markdown quanto para HTML.  
-🤔️ Na HTML, a linguagem CSS pode alterar esse comportamento.
-
-
-###### O que há de diferente? 
-
-
-###### Marcação, regras de escrita e recursos
-
-Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
-
-As **regras de escrita" nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
-
-|Markdown| HTML|
-|:--:|:--:|
-|**marcação**|**marcação**|
-|poucas marcas| muitas etiquetas|
-|**regras de escrita** | **regras de escrita** |
-|mais simples| mais completas, com |
-|**recursos**|**recursos**|
-|mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
-
-Abaixo, o título "O Pequeno Príncipe" escrito na linguagens Markdown.  
-
-```markdown
-## O Pequeno Príncipe
-```
-... E escrito em HTML.  
-
-```html
-<h2>O Pequeno Príncipe</h2>
-```
-
-Note que o código em markdown é bem mais fácil de escrever! 😄️  
-
-Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
-
-🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
-👉️ Markdown: estrutura textual; não UI propriamente dita. O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS. 
-
-#### Construção vs. elemento
-
-As construções do Markdown são formas de marcar/estruturar o conteúdo. No HTML, essas "construções ou estruturações", são os chamaos **elementos**. Não são exatamente a mesma coisa, mas há sSemelhanças.
-
-|Markdown|HTML|
-|:--:|:--:|
-|conteúdo| conteúdo|
-|Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (`<p> <h1> <a> <div> etc`) para estruturar o conteúdo.|
-|construção/sintaxe| elemento|
-|bloco e inline|bloco e inline|
-
-
-#### Texto verbal vs. não verbal
-
-###### Verbal - escrito - bloco
-
-|.md||.html|
-|---|---|---|
-|#| título| h1-h6|
-|| parágrafo| p|
-|   | texto pré-formatado| pre|
-|>| bloco de citação| blockquote|
-|1.| lista ordenada| ol|
-|-| lista não ord.| ul|
-
-###### Verbal - escrito - inline
-
-|.md||.html|
-|---|---|---|
-|**| negrito| strong|
-|*| itálico| em|
-|`| código| code|
-|`[]()`| link| a|
-
-
-###### Texto não verbal
-
-|.md||.html|
-|---|---|---|
-|`![]()`| imagem| img|
-
-
-#### Texto pré-formatado vs. bloco de código
-
-
-|<pre>| <code>|
-|:---:|:---:|
-|Elemento que preserva a formatação| Dá o significado semântico de código|
-
-
-
-###### No HTML...
-
-**Texto pré-formatado**: Use <pre>.  
-
-No HTML, isso normalmente é feito com <pre>.  
-
-`<pre>Batatinha quando nasce...</pre>`  
-
-**Código (numa linha)**: É o *inline*.  
-
-`<code>const x = 1;</code>`  
-
-
-**Bloco de código**: Quando há várias linhas, e queremos preservar as quebras de linhas, recuo. 
-
-```html
-    <pre><code>
-    function soma(a, b) {
-        return a + b;
-    }
-    </code></pre>
-```
-
-
-
-
-#### Markdown misturado com HTML
-
-A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
-Ou seja, um arquivo exemplo.md pode conter, ao mesmo tempo, Markdown e HTML.  
-Exceto as marcas Markdown que vimos, temos *tags* (etiquetas) possíveis de uso:
-
-|inline| bloco|
-|---|---|
-|small cite abbr b i mark del ins kbd samp var tt (obsoleta) sub sup span output| pre address|
-
-
-
-
-###### Tag <pre> vs. 3 crases
-
-Considere um software que funciona ao mesmo tempo com ambas linguagens.
-
-Coloque o código Markdown dentro de <pre> se você quer que não seja interpretado.
-
-A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. Neste contexto `<pre>` age como 3 crase (que é markdown).
-
-**Não são exatamente a mesma coisa!**:  
-
-|`<pre>...</pre>`| 3 crases|
-|:---:|:---:|
-|HTML| Markdown|
-|elemento para texto pré-formatado|Sintaxe para bloco de código|
-|Texto pré-formatado. Pode conter código, mas não necessariamente.| Projetado especificamente para representar código.|
 
 
 
