@@ -8,6 +8,7 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
 
+
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
 - Arquivo Markdown.
@@ -409,7 +410,7 @@ Fácil!
 
 ## Markdown para programadores
 
-Se você gosta de assuntos como **tecnologia e programação**, Markdown é a linguagem mais fácil ou simples, e até até divertida, de entrarmos nesse mundo.
+Se você gosta de assuntos como **tecnologia e programação**, Markdown é a linguagem mais fácil ou simples, e até divertida, de entrarmos nesse mundo.
 
 Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
 
@@ -433,7 +434,19 @@ Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardi
 Para um programador Markdown logo logo será útil para...
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
+
+###### Desenvolvimento web
+
+**Estrutura e comportamento**: inicia-se percebendo que Markdown (ou HTML) lida com estrutura e significado do conteúdo.
+E logo logo decobrirá que o comportamento/lógica "do négócio" será por conta da JS.
+
+
+Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
+
+
 #### Markdown vs. HTML
+
+
 
 ###### O que há de igual ou semelhante?
 
@@ -457,7 +470,7 @@ Aparência = como o conteúdo se apresenta.
 Espaço/disposição = como o conteúdo se organiza no espaço.
 
 ✔ Ideia de **inline e em bloco** serve tanto para Markdown quanto para HTML.  
-🤔️ Na HTML, a linguagem CSS pode alterar esse comportamento.
+🤔️ Na HTML, o recurso de atributo `style` pode alterar esse comportamento.
 
 Em suma...   
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
@@ -480,7 +493,7 @@ As **regras de escrita" nos dizem como devemos escrever, e os **recursos** em si
 |**recursos**|**recursos**|
 |mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
 
-Abaixo, o título "O Pequeno Príncipe" escrito na linguagens Markdown.  
+Abaixo, o título "O Pequeno Príncipe" escrito na linguagen Markdown.  
 
 ```markdown
 ## O Pequeno Príncipe
@@ -610,6 +623,39 @@ O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HT
 Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta melhor a HTML.
 
 
+## Estrutura, beleza, sentido | e finalidade
+
+Markdown e HTML fazem essas três coisas; HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
+Ou seja, HTMl tem uma quanidade maior de marcações (no que tange estrutura), mais possibilidades de efeitos estéticos (como o atributo style) e sentidos.
+
+
+|             | Markdown           | HTML             |
+| ----------- | ------------------ | ---------------- |
+| **Estrutura**| `#`, `1.`, `-`, `---` etc.     | `<h1>`, `<ol>`, `<ul>`, `<hr>` etc. |
+| **Beleza** | `**negrito**`, `*itálico*` etc.       | atributos, etc. |
+| **Sentido**| `>`, `` `...` ``, links, imagens etc. | `<code>`,`<a>`, `<img>`, `<article>`, `<nav>` etc. |
+
+As duas linguagens oferecem essas três dimensões; a diferença é, principalmente, de amplitude e expressividade:
+
+|Markdown|HTML|
+|:---:|:---:|
+|As três dimensões de maneira mais simples e voltada à produção de conteúdo.| As três dimensões com um vocabulário muito mais amplo, permitindo descrever elementos de UI.|
+
+#### Finalidade: conteúdo vs. UI
+
+
+|Markdown|HTML|
+|:---:|:---:|
+|Mais voltado a conteúdo| mais adequado para UI|
+|**o termo “conteúdo”**|**o termo “UI”**|
+|Cabe bem em Markdown| Se ajusta melhor, embora HTML também lide com conteúdo |
+
+👉️ HTML ainda permite “superpoderes” com CSS.
+
+**Um exemplo de UI?**  Criarmos um botão com menu. Impossível usando Markdown, mas em HTML não — exatamente por ela ser própria para isso.
+
+
+
 #### Markdown misturado com HTML
 
 A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
@@ -639,6 +685,10 @@ A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. N
 |elemento para texto pré-formatado|Sintaxe para bloco de código|
 |Texto pré-formatado. Pode conter código, mas não necessariamente.| Projetado especificamente para representar código.|
 
+
+
+
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
 
 
@@ -720,8 +770,7 @@ Sintaxe `:nomeEmInglês:`
 :star: ⭐️    :walking: 🚶‍♀️️
 :cat: 😺️    :running: 🏃‍♂️️
 :hand: 🖐️    :clap: 👏️
-:mouse: 🐭️
-:point_right:  👉
+:mouse: 🐭️  :point_right:  👉
 </pre>
 
 Outros inclui *shit*, *blush*, -1, *smiley*...
