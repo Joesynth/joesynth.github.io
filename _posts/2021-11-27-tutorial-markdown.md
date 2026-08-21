@@ -482,7 +482,7 @@ Em suma...
 
 Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
 
-As **regras de escrita" nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
+As **regras de escrita** nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
 
 |Markdown| HTML|
 |:--:|:--:|
@@ -508,7 +508,66 @@ Note que o código em markdown é bem mais fácil de escrever! 😄️
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
- 
+#### Sintaxe
+
+|Markdown|HTML|
+|:---:|:---:|
+|**Sintaxe**|**Sintaxe**|
+|Muito simples; curta, objetiva. | Cada elemento, via de regra, é delimitado por etiquetas de abertura e fechamento.|
+
+
+|Markdown|HTML|
+|:---:|:---:|
+|**Sintaxe**|**Sintaxe**|
+|||
+|**Ex. de título**|**Ex. de título**|
+|`# A Bíblia`| `<h1>A Bíblia</h1>`|
+|**Ex. de negrito**|**Ex. de negrito**|
+|`**morango**`| `<strong>morango</strong>`|
+
+Um texto com título e parágrafos em Markdown:  
+
+<re>
+# Meu título
+
+Este é o primeiro parágrafo.
+
+Este é o segundo parágrafo.
+</pre>
+
+O título, como já falamos nesse tutorial, é indicado por # e os parágrafos são simplesmente separados por uma linha em branco.
+
+Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`<h1>` e `<p>>`), e de fechamento (`</h1>` e `</p>>`).  
+
+<pre>
+<h1>Meu título</h1>
+
+<p>Este é o primeiro parágrafo do documento.</p>
+
+<p>Este é o segundo parágrafo do documento.</p>
+</pre>
+
+😄️ É só ler o que etsá a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!  
+
+🤔️ HTML ainda possui atributo e valor.  
+
+⚠️ Tecnicamente, o que chamamos aqui de "regras de escrita" é o que se fala como **sintaxe**.  
+
+
+#### Layout
+
+📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.
+
+
+Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
+
+
+|Markdown|HTML|
+|:---:|:---:|
+|Organiza a estrutura de conteúdo de forma básica| Organiza a estrutura de conteúdo de forma muito mais ampla e detalhada|
+|títulos, parágrafos, citações...| Por exemplo agrupamento _colocar vários elementos dentro de uma seção `<section>`|
+
+
 
 ###### Construção vs. elemento
 
