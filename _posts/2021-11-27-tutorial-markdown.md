@@ -9,6 +9,7 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
 
+
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
 - Arquivo Markdown.
@@ -537,7 +538,7 @@ Este é o segundo parágrafo.
 
 O título, como já falamos nesse tutorial, é indicado por # e os parágrafos são simplesmente separados por uma linha em branco.
 
-Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`<h1>` e `<p>>`), e de fechamento (`</h1>` e `</p>>`).  
+Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`<h1>` e `<p>`), e de fechamento (`</h1>` e `</p>>`).  
 
 <pre>
 <h1>Meu título</h1>
@@ -585,30 +586,30 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 
 **Verbal - escrito** - bloco
 
-|.md||.html|
+||.md|.html|
 |---|---|---|
-|#| título| h1-h6|
-|| parágrafo| p|
-|>| bloco de citação| blockquote|
-|3 crases| bloco de código| `<pre><code>`|
-|1.| lista ordenada| ol|
-|-| lista não ord.| ul|
+|título| #| h1-h6|
+|parágrafo| | p|
+|bloco de citação| >| blockquote|
+|bloco de código| 3 crases| `<pre><code>`|
+|lista ordenada| 1.| ol|
+|lista não ord.| -| ul|
 
 **Verbal - escrito** - inline
 
-|.md||.html|
+|||.md.html|
 |---|---|---|
-|**| negrito| strong|
-|*| itálico| em|
-|1 crase| código| code|
-|`[]()`| link| a|
+|negrito| **| strong|
+|itálico| *| em|
+|código| 1 crase| code|
+|link| `[]()`| a|
 
 
 **Texto não verbal**
 
-|.md||.html|
+||.md|.html|
 |---|---|---|
-|`![]()`| imagem| img|
+|imagem| `![]()`| img|
 
 
 ######  Bloco de código vs. texto pré-formatado
