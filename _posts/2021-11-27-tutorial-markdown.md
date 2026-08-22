@@ -425,12 +425,13 @@ Dispensa uso de mouse, de tão simples que é. Mais agilidade!
 Fácil de entender o código (com asteríscos, sustenidos)
 👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
 
-Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardim da infância" da programação _dando algumas bases que vão estar presentes a todo momento na nossa vida de programação.
+Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardim da infância" da programação _dando algumas bases que vão estar presentes a todo momento na nossa vida de programação.  
 ✔ A ideia de linguagem de marcação.  
 ✔ Conteúdo.  
 ✔ Inline e bloco.  
-✔ Uso do terminal para escrevermos o código, em vez de mouse.
-[REVER ESSES TÒPICO]
+✔ Uso do terminal para escrevermos o código, em vez de *mouse*.  
+[REVER ESSES TÒPICO]  
+
 
 Para um programador Markdown logo logo será útil para...
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
@@ -445,8 +446,9 @@ E logo logo decobrirá que o comportamento/lógica "do négócio" será por cont
 Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
 
 
-#### Markdown vs. HTML
 
+
+#### Markdown vs. HTML
 
 
 ###### O que há de igual ou semelhante?
@@ -538,7 +540,7 @@ Este é o segundo parágrafo.
 
 O título, como já falamos nesse tutorial, é indicado por # e os parágrafos são simplesmente separados por uma linha em branco.
 
-Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`<h1>` e `<p>`), e de fechamento (`</h1>` e `</p>>`).  
+Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`h1` e `p>), e de fechamento (`/h1` e `/p`).  
 
 <pre>
 <h1>Meu título</h1>
@@ -565,7 +567,8 @@ Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 |Markdown|HTML|
 |:---:|:---:|
-|Organiza a estrutura de conteúdo de forma básica| Organiza a estrutura de conteúdo de forma muito mais ampla e detalhada|
+|**Organiza a estrutura de conteúdo**| **Organiza a estrutura de conteúdo**|
+|...de forma básica| ...de forma muito mais ampla e detalhada|
 |títulos, parágrafos, citações...| Por exemplo agrupamento _colocar vários elementos dentro de uma seção `<section>`|
 
 
@@ -688,6 +691,7 @@ Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta me
 Markdown e HTML fazem essas três coisas; HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 Ou seja, HTMl tem uma quanidade maior de marcações (no que tange estrutura), mais possibilidades de efeitos estéticos (como o atributo style) e sentidos.
 
+Estrutura é a organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.
 
 |             | Markdown           | HTML             |
 | ----------- | ------------------ | ---------------- |
