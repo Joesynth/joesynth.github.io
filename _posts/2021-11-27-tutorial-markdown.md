@@ -137,16 +137,16 @@ Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência esp
 
 Observe como Markdown atua em três dimensões.
 
-|Estrutura|Beleza|Sentido|
+|Estrutura| Beleza| Sentido|
 |:---:|:---:|:---:|
 |**O que é?**|**O que é?**|**O que é?**|
-|Organização do conteúdo.| Como determinado conteúdo deve ser apresentado visualmente.| Natureza/função do conteúdo:|
+|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de**apresentação**.| Natureza/função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 |**Ex.**|**Ex.**|**Ex.**|
-|`# 1. ---` etc|`**negrito** *itálico*` etc| `>` (que significa citação)|
+|lista| ênfase | significado de citação|
+|**Marca**|**Marca**| ****|
+|`1. |`*| `>`|
 
- e significado (sentido, semântica)
 
-👉️ Tecnicamente, a “beleza” é chamada de **apresentação**, e "sentido" **semântica**.
 
 
 #### Estrutura inline e estrutura de bloco
@@ -550,7 +550,8 @@ Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`h1` e `p>), e
 <p>Este é o segundo parágrafo do documento.</p>
 </pre>
 
-😄️ É só ler o que etsá a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!  
+😄️ É só ler o que está a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!  
+
 
 🤔️ HTML ainda possui atributo e valor.  
 
@@ -562,7 +563,8 @@ Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`h1` e `p>), e
 📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.
 
 
-Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
+Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.  
+
 
 
 |Markdown|HTML|
@@ -578,9 +580,9 @@ Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 As construções do Markdown são formas de marcar/estruturar o conteúdo. No HTML, essas "construções ou estruturações", são os chamaos **elementos**. Não são exatamente a mesma coisa, mas há semelhanças.
 
 |Markdown|HTML|
-|:--:|:--:|
+|---|---|
 |conteúdo| conteúdo|
-|Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (`<p> <h1> <a> <div> etc`) para estruturar o conteúdo.|
+|Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (p h1 a div...`) para estruturar o conteúdo.|
 |construção/sintaxe| elemento|
 |bloco e inline|bloco e inline|
 
@@ -614,6 +616,11 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 |---|---|---|
 |imagem| `![]()`| img|
 
+Dois espaços ou \ equivale a etiqueta br.
+⚠️ \ precisa ser o último caractere da linha, não pode haver espaço depois da barra.
+
+Quebra de linha (\ ou dois espaços + Enter) → <br>
+Regra horizontal (---) → <hr>
 
 ######  Bloco de código vs. texto pré-formatado
 
@@ -686,24 +693,56 @@ O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HT
 Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta melhor a HTML.
 
 
-## Estrutura, beleza, sentido | e finalidade
 
-Markdown e HTML fazem essas três coisas; HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
+
+#### Estrutura, beleza, sentido
+
+Ambas linguagens, Markdown e HTML, oferecem essas três dimensões. A diferença é, principalmente, de amplitude e expressividade.
+
+HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 Ou seja, HTMl tem uma quanidade maior de marcações (no que tange estrutura), mais possibilidades de efeitos estéticos (como o atributo style) e sentidos.
 
-Estrutura é a organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.
 
 |             | Markdown           | HTML             |
 | ----------- | ------------------ | ---------------- |
-| **Estrutura**| `#`, `1.`, `-`, `---` etc.     | `<h1>`, `<ol>`, `<ul>`, `<hr>` etc. |
+| **Estrutura**| `#`, `1.`, `-`, `---` etc.     | `Além de marcação da Markdown, button, select, form etc |
 | **Beleza** | `**negrito**`, `*itálico*` etc.       | atributos, etc. |
-| **Sentido**| `>`, `` `...` ``, links, imagens etc. | `<code>`,`<a>`, `<img>`, `<article>`, `<nav>` etc. |
+| **Sentido**| `>`, `` `...` ``, links, imagens etc. | `Além de marcação da Markdown, div, nav, artigo, etc. |
 
-As duas linguagens oferecem essas três dimensões; a diferença é, principalmente, de amplitude e expressividade:
 
 |Markdown|HTML|
 |:---:|:---:|
 |As três dimensões de maneira mais simples e voltada à produção de conteúdo.| As três dimensões com um vocabulário muito mais amplo, permitindo descrever elementos de UI.|
+
+#### O termo "elemento"
+
+De forma abrangente ambas linguagens usam, e tecnicamente HTML.
+
+d
+|Markdown| HTML|
+|---|---|
+|Normalmente, as marcas estruturam e apresentam visualmente o conteúdo.| Uma marca não significa, necessariamente, um elemento de conteúdo visível.|
+|**Ex.**|**Ex.**|
+|título, parágrafo, lista, link...| meta (metadados), div (estrutura/contêiner), nav (sentido de navegação), footer (estrutura semântica de rodapé)|
+
+Portanto no HTML, elemento é um conceito mais abrangente: há elementos que representam conteúdo e .
+
+
+
+#### Estruturas de marcação
+
+|Markdown| HTML|
+|---|---|
+|Conjunto menor de elementos/estruturas de marcação| Conjunto bem mais amplo. Contém os elementos correspondentes aos recursos de marcação da Markdown e muitos elementos adicionais|
+
+🤔️HTML? Exemplos?
+
+<pre>
+<button> <select> <form>
+</pre>
+
+Isso está diretamente relacionado à estrutura, porque os elementos são os componentes por meio dos quais a estrutura do conteúdo é organizada.
+
 
 #### Finalidade: conteúdo vs. UI
 
@@ -760,11 +799,15 @@ A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. N
 
 ## CommonMark e sabores!
 
-Um sabor é um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
+Um **sabor** é um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
 
-|CommonMark|GFM <sup>GitHub Flavored Markdown</sup>|GLFM <sup>GitLab Flavored Markdown</sup>|
+|CommonMark|GFM|GLFM|
 |:---:|:---:|:---:|
-|É uma proposta de sintaxe padrão para a Markdown.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|
+|É uma proposta de sintaxe padrão para a Markdown.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|  
+
+📚️ GFM: GitHub Flavored Markdown.  
+GLFM: GitLab Flavored Markdown.  
+
 
 **CommonMark**: Exemplo de sites e projetos que adotam? GitLab, GitHub, Wordpress (via plugin), Discourse, Reddit, Qt, Stack Overflow / Stack Exchange, Swift.  
 
