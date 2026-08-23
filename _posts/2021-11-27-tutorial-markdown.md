@@ -7,7 +7,6 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
 
-
 Parte 1.
 
 - O que é Markdown? Quem usa?
@@ -72,8 +71,10 @@ Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até i
 
 ###### Para que ap *markdown** se meu editor de texto favorito faz isso com um clique de *mouse*?
 
-● Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do *mouse*.  
+Simples! O legal da Markdown é que ela é...
 
+● Bem **atraente** para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte.  
+● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, iss ao criar um texto
 
 ⚠️ Gosta de assuntos como tecnologia ou programação?\
 Vija [Markdown para Programadores](#Markdown para programadores).  
@@ -82,21 +83,23 @@ TESTE
 QUEBRA DE LINHA apos tecnologia ou programaçãp
 ANCORA INTERNA
 
-###### Quem usa Markdown?
+###### Quem usa Markdown? Onde usa?
 
 Markdown atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
 
-A **linguagem markdown** é utilizada em...  
+👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
+
+**Software**? A **linguagem markdown** é utilizada em...  
 ● mensagens instantâneas (Telegram, por ex.),  
 ● *software* colaborativo (caso do Collabora Online que permite importar),  
 
-👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
+
 
 ###### Para que serve Markdown?
 
 Markdown serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
-Temos a estrutura criarmos texto formatado.
-Lida com estrutura e apresentação? o que é?
+
+
 
 
 👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
@@ -105,15 +108,15 @@ Lida com estrutura e apresentação? o que é?
 
 **Uma marca no incio**: um símbolo (caractere) indicará algo.
 
-Sintaxe `caractere + espaço + conteúdo`  
+Sintaxe `CaractereEspaçoConteúdo`  
 ou... `# espaço conteúdo`  
 
 
-`# A Bíblia Sagrada`
+```# A Bíblia Sagrada```
 
 Para o conteúdo 'A Bíblia Sagrada', antes há o caractere de marcação (ou símbolo) **#**, significando título.  
 
-**Duas marcas**: uma no incio e no final do conteudo _que no ex. abaixo é palavra 'uva'  
+**Duas marcas**: uma no incio e no final do conteudo _que no ex. abaixo é a palavra 'uva'  
 
 Sintaxe `marca de abertura + conteúdo + marca de fechamento`  
 
@@ -127,10 +130,11 @@ Independente disso, Markdown é muito simples. 😄️
 
 
 
-
 ## Markdown: alguns conceitos
 
-
+x
+Lida com estrutura e apresentação? o que é?
+x
 
 #### Estrutura, beleza e sentido (significado)
 
@@ -159,25 +163,25 @@ Observe como Markdown atua em três dimensões.
 |Estrutura| Beleza| Sentido|
 |:---:|:---:|:---:|
 |**O que é?**|**O que é?**|**O que é?**|
-|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de**apresentação**.| Natureza /função do conteúdo. Tecnicamente, é chamada de **semântica**.|
+|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de **apresentação**.| Natureza /função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 |**Ex.**|**Ex.**|**Ex.**|
 |lista| ênfase | significado de citação|
 |**Marca**|**Marca**| **Marca**|
-|`1. |`*| `>`|
+| - | * | > |
 
 
 
 
-#### Estrutura inline e estrutura de bloco
+#### Estrutura de bloco e inline
 
 Uma questão de organização espacial; disposição do conteúdo.
 
-|inline|Bloco|
-|:---:|:---:|
-|Significa permanecer na própria linha.| A ideia é ocupar uma região própria _como uma frase inteira, por exemplo.|
-|**Ex.**|**Ex.**|
-|Um efeito de negrito numa única palavra.| Um título que ocupa uma linha inteira|
 
+|Bloco|inline|
+|:---:|:---:|
+|A ideia é ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
+|**Ex.**|**Ex.**|
+|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
 
 #### Estrutura inline e de bloco - resumo
 
@@ -199,14 +203,15 @@ Uma questão de organização espacial; disposição do conteúdo.
 
 ###### Título e parágrafo
 
-**Título**: A marca de título é o símbolo **#** (o sustenido), e pode ir **######**.
+**Título**: Marca #
+
+O sustenido é usado para título.
 
 <pre>
 # O Pica Pau
 </pre>
 
-Usando ## temos um título menor. Até 6 sustenidos é possível, gerando uma letra de tamanho pequeno, masainda título.
-Podemos pensar nisso como subtítulos e assim organizar nosso text.
+**Marca ## até ######**: até 6 níveis de sustenidos podem ser usados. Pense subtítulo! Isso gera uma letra de tamanho de título menor que o marcador #. Bom para organizar seu texto.
 
 <pre>
 # Título
@@ -214,7 +219,9 @@ Podemos pensar nisso como subtítulos e assim organizar nosso text.
 </pre>
 
 
-**Parágrafo**: É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
+**Parágrafo**: Marca: Não há!  
+
+É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 ⚠️ No Wordpress crie usando uma linha em branco.
 
 
@@ -503,7 +510,19 @@ Em suma...
 
 ###### Marcação, regras de escrita e recursos
 
-Se de uma lado há as marcas (como *, #, etc), doutro há as etiquetas (<p>, <a>, etc). Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
+Marcações:  
+
+|Markdown|HTML|
+|---|---|
+|**Marcações**|**Marcações**|
+|marcador (marker)|etiqueta (tag)|
+|**Ex.**|**Ex.**|
+| * # |p a|
+
+👉️ Tecnicamente, diz-se que # é um *heading marker* (marcador de título), *marker* . Já # Título é **estrutura de cabeçalho** (heading structure).
+👉️ Delimitador também é um termo técnico, caso de enfase, por exemplo.
+
+Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
 
 As **regras de escrita** nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
 
