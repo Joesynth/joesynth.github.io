@@ -8,7 +8,7 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 
 
 
-
+Parte 1.
 
 - O que é Markdown? Quem usa?
 - Markdown - Guia Rápido.
@@ -16,12 +16,19 @@ Vamos a um breve tutorial rápido sobre *markdown*? Então...
 - *Softwares* e plug-ins.
 - Sabores!
 - Analisador (parser).
-- Um pouco de história.
-- Markdown vs. HTML
 - Marcação vs. instrução
+
+
+Parte 2
+
+- Markdown para programadores
+- Markdown vs. HTML - Semelhanças
+- Markdown vs. HTML - Diferenças
+
+Parte 3
+
+- Um pouco de história.
 - Mais links sobre o tema.
-
-
 
 
 ## O que é Markdown? Quem Usa?
@@ -66,15 +73,18 @@ Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até i
 ###### Para que ap *markdown** se meu editor de texto favorito faz isso com um clique de *mouse*?
 
 ● Simples! O legal da Markdown é que ela é bem atraente para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte. Com isso, ao criar um texto, utilizá-la ganha-se um bom tempo devido a cliques desnecessários do *mouse*.  
-● Não precisa usar *mouse*, inclusive funciona com o editor Nano _que é um *software* de linha de comando.
 
-###### Gostar de tecnologia e programação
 
-Se você gosta desses assuntos...  
-Vide Markdown para Programadores.  
+⚠️ Gosta de assuntos como tecnologia ou programação?\
+Vija [Markdown para Programadores](#Markdown para programadores).  
 
+TESTE
+QUEBRA DE LINHA apos tecnologia ou programaçãp
+ANCORA INTERNA
 
 ###### Quem usa Markdown?
+
+Markdown atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
 
 A **linguagem markdown** é utilizada em...  
 ● mensagens instantâneas (Telegram, por ex.),  
@@ -93,20 +103,27 @@ Lida com estrutura e apresentação? o que é?
 
 ###### As marcas...
 
-**Duas marcas**:  
+**Uma marca no incio**: um símbolo (caractere) indicará algo.
 
-`*uva*`
+Sintaxe `caractere + espaço + conteúdo`  
+ou... `# espaço conteúdo`  
 
-Aqui temos a marcação de asterísco no incio e no final do conteudo (que é a palavra 'uva') _neste caso, indicando itálico.
-
-**Uma marca no incio**:  
 
 `# A Bíblia Sagrada`
 
-Para o conteúdo 'A Bíblia Sagrada', antes há o símbolo **#**, significando título.  
+Para o conteúdo 'A Bíblia Sagrada', antes há o caractere de marcação (ou símbolo) **#**, significando título.  
 
-Mas nem sempre é uma ou duas marcas. Link, por ex., é específico. 
-Independente disso, Markdown é muito simples.
+**Duas marcas**: uma no incio e no final do conteudo _que no ex. abaixo é palavra 'uva'  
+
+Sintaxe `marca de abertura + conteúdo + marca de fechamento`  
+
+`*uva*`
+
+Aqui temos a marcação de um asterísco, indicando itálico.
+
+
+🤔️ Além de uma ou duas marcas, há casos específicos, por ex. *link*.  
+Independente disso, Markdown é muito simples. 😄️
 
 
 
@@ -114,9 +131,12 @@ Independente disso, Markdown é muito simples.
 ## Markdown: alguns conceitos
 
 
-#### Beleza e significado
 
-**Beleza e significado**: Markdown lida como o conteúdo aparece, bem como o que representa.Veja.
+#### Estrutura, beleza e sentido (significado)
+
+x
+
+**Beleza e significado**: Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
 
 |estilo | estrutura e sentido|
 |---|---|
@@ -132,18 +152,17 @@ Neste código, a marca **>** resulta no efeito visual:
 
 Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
-
-#### Estrutura, beleza e sentido
+x
 
 Observe como Markdown atua em três dimensões.
 
 |Estrutura| Beleza| Sentido|
 |:---:|:---:|:---:|
 |**O que é?**|**O que é?**|**O que é?**|
-|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de**apresentação**.| Natureza/função do conteúdo. Tecnicamente, é chamada de **semântica**.|
+|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de**apresentação**.| Natureza /função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 |**Ex.**|**Ex.**|**Ex.**|
 |lista| ênfase | significado de citação|
-|**Marca**|**Marca**| ****|
+|**Marca**|**Marca**| **Marca**|
 |`1. |`*| `>`|
 
 
@@ -180,7 +199,7 @@ Uma questão de organização espacial; disposição do conteúdo.
 
 ###### Título e parágrafo
 
-**Título**: O símbolo do título é **#** (o sustenido), e pode ir **######**.
+**Título**: A marca de título é o símbolo **#** (o sustenido), e pode ir **######**.
 
 <pre>
 # O Pica Pau
@@ -338,8 +357,7 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 * foo # # <ul><li>foo</li></ul>
 - idem.
 </pre>
-
-⚠️ No Wordpress <kbd>ShiftEnter</kbd> cria um dentro do outro.  
+ 
 
 
 **Lista ordenada**:  
@@ -410,6 +428,8 @@ Fácil!
 
 
 ## Markdown para programadores
+
+● Não precisa usar *mouse*, inclusive funciona com o editor Nano _que é um *software* de linha de comando.
 
 Se você gosta de assuntos como **tecnologia e programação**, Markdown é a linguagem mais fácil ou simples, e até divertida, de entrarmos nesse mundo.
 
