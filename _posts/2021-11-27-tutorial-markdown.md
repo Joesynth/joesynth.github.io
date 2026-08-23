@@ -99,10 +99,9 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 
 Markdown serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
 
-
-
-
 👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
+
+
 
 ###### As marcas...
 
@@ -136,62 +135,70 @@ x
 Lida com estrutura e apresentação? o que é?
 x
 
-#### Estrutura, beleza e sentido (significado)
+#### Estrutura de bloco e inline
 
-x
+Uma questão de organização espacial; disposição do conteúdo.
 
-**Beleza e significado**: Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
-
-|estilo | estrutura e sentido|
+|estrutura de bloco| estrutura inline|
 |---|---|
-| tipo de letra, tamanho, peso (negrito) e espaçamento.| algo importante, uma citação, uma lista etc|
+|estrutura maior| subestrutura dentro do bloco|
+|**Ideia**|**Ideia**|
+|Ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
+|**Ex.**|**Ex.**|
+|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
+
+**Estrutura inline e de bloco - resumo**  
+
+|bloco|inline|
+|:---:|:---:|
+|título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal| negrito, itálico, código inline, link, imagem|
+
+
+
+#### Estrutura, beleza e sentido
+
+Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
 
 <pre>
 > Ore pelos seus inimigos.
 </pre>
 
-Neste código, a marca **>** resulta no efeito visual:  
+Neste código, a **marca >** resulta no efeito visual:  
 
 > Ore pelos seus inimigos.
 
-Cada marca (> ou *, por exemplo) na linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
+Cada marca da linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
-x
+**Markdown atua em 3 dimensões**:  
 
-Observe como Markdown atua em três dimensões.
-
-|Estrutura| Beleza| Sentido|
+|Estrutura| Beleza<br>estilo| Sentido<br>significado|
 |:---:|:---:|:---:|
 |**O que é?**|**O que é?**|**O que é?**|
-|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de **apresentação**.| Natureza /função do conteúdo. Tecnicamente, é chamada de **semântica**.|
-|**Ex.**|**Ex.**|**Ex.**|
-|lista| ênfase | significado de citação|
-|**Marca**|**Marca**| **Marca**|
-| - | * | > |
+|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de **apresentação**. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 
 
+###### estrutura de bloco
 
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `#` | Título 1 | Título principal |Texto grande, destacado|
+| `##` | Título nível 2 | Subtítulo |Texto um pouco menor que #|
+| `-` | Lista não ordenada | Conjunto de itens sem ordem | Itens com marcador visual (bolinha)|
+| `1.` | Lista ordenada | Conjunto de itens em sequência | Itens numerados|
+| `>` | Bloco de citação | Significa conteúdo citado | Via de regra, texto recuado e destacado|
+| `---` | Separador temático | Mudança de assunto | Linha horizontal|
 
-#### Estrutura de bloco e inline
+###### estrutura inline
 
-Uma questão de organização espacial; disposição do conteúdo.
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `**` | Marcação inline | Ênfase forte; destaque|Negrito|
+| `*` | Marcação inline | Ênfase |Itálico|
+| `` ` `` | Marcação inline | Código |Fonte monoespaçada|
 
-
-|Bloco|inline|
-|:---:|:---:|
-|A ideia é ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
-|**Ex.**|**Ex.**|
-|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
-
-#### Estrutura inline e de bloco - resumo
-
-
-|inline| bloco|
-|:---:|:---:|
-|negrito, itálico, código inline, link, imagem | título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal |
-
-
-
+<pre>
+Não pise no **vermelho**.
+</pre>
 
 
 
@@ -286,11 +293,14 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 `Shift`
 
 ⚠️ Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.  
-É como se fosse um *hacking*! 🤔️
+É como se fosse um *hacking*! 🤔️  
+
 
 ###### Link (inline)
 
-Usa-se os colchetes e os parênteses. O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
+Marca: []()
+
+O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
 
 Sintaxe `[textoDoLink](URL)`  
 
@@ -320,7 +330,14 @@ O resultado desse código é o seguinte efeito visual...
 
 > Tudo que tu sabe, alguém lhe contou.
 
-**Bloco de código** (*code block*): usa-se 4 espaços (ou 3 crases). Resulta em um efeito parecido ao da crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
+**Bloco de código** (*code block*):
+
+<pre>
+Marca: ``` ```
+</pre>
+👉️ 4 espaços também pode ser usadono lugar das 3 crases.  
+
+Resulta em um efeito parecido ao da crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
 
 <pre>
       # 4 espaços vazios.
@@ -352,6 +369,9 @@ Que brigou com o Juvenal
 Lembre o detalhe: com o bloco de código, semanticamente, você está dizendo ao computador que isso é código.  
 Como dito antes...  
 😄 É como se fosse um *hacking*!  
+
+🤔️ No geral, código _seja inline (1 crase) ou bloco de código (3 crases)_ é um recurso bem mais característico de documentação técnica, programação e TI do que outros tipos de textos, artigos.
+
 
 
 ###### Listas - bloco
