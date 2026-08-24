@@ -200,6 +200,7 @@ Outras marcas:
 |---|---|
 | `*` | `` ` `` |
 
+Ex.:\
 
 <pre>
 Não pise no **vermelho**.
@@ -393,7 +394,7 @@ E pode ser o dragão
 Que brigou com o Juvenal
 </pre>
 
-👉️ Portanto é perfeitamente possível usarmos bloco de código como uma opção (estética) ao bloco de citação.
+👉️ Portanto pode-se usar o bloco de código como uma opção (estética) ao bloco de citação.
 Lembre o detalhe: com o bloco de código, semanticamente, você está dizendo ao computador que isso é código.  
 Como dito antes...  
 😄 É como se fosse um *hacking*!  
@@ -513,11 +514,20 @@ Dispensa uso de mouse, de tão simples que é. Mais agilidade!
 Fácil de entender o código (com asteríscos, sustenidos)
 👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
 
-Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardim da infância" da programação _dando algumas bases que vão estar presentes a todo momento na nossa vida de programação. Conhecimento, saber:  
-✔ A ideia de linguagem de marcação.  
-✔ Ideia de regras de escrita, sintaxe. 
-✔ Conteúdo textual.  
-✔ Inline e bloco.  
+Como vimos, comparada à linguagem programação HTML, ela é limitada, mas equivale ao "jardim da infância" da programação.
+Markdown oferece um belo conhecimento essencial, no sentido de que esse saber vai estar presente a todo momento na nossa vida de um programador.\
+
+<pre>
+✔ Ideia de...
+    └─ linguagem de marcação.
+    └─ regras de escrita, sintaxe.
+    └─ Estrutura, beleza e sentido
+✔ Conteúdo (textual)
+    └─ Bloco e inline.
+</pre>
+
+
+  
   
 
 ###### Markdown e programação - Na Prática!
@@ -527,18 +537,7 @@ Para um programador, Markdown logo logo será útil para...\
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
 
-###### Desenvolvimento web
 
-**Estrutura, beleza e sentido**: essa ideia dará base para HTML.  
-
-Inicia-se percebendo que Markdown lida com estrutura e significado do conteúdo. Logo logo decobriremos que a ideia se aplica também a HTML.
-
-Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
-
-**Comportamento**: é a lógica "do négócio", uma outra etapa que se descobrirá, essa por conta da da JS.  
-
-
-Vide [HTML, CSS, JS](html-css-e-js).
 
 
 #### Markdown vs. HTML - Semelhanças
@@ -616,7 +615,8 @@ Note que o código em markdown é bem mais fácil de escrever! 😄️
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
-#### Sintaxe
+
+###### Sintaxe
 
 |Markdown|HTML|
 |:---:|:---:|
@@ -721,7 +721,7 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 Dois espaços ou \ equivale a etiqueta br.
 ⚠️ \ precisa ser o último caractere da linha, não pode haver espaço depois da barra.
 
-Quebra de linha (\ ou dois espaços + Enter) → <br>
+Quebra de linha (\Enter ou DoisEspaçosEnter) → <br>
 Regra horizontal (---) → <hr>
 
 ######  Bloco de código vs. texto pré-formatado
@@ -820,7 +820,6 @@ Ou seja, HTMl tem uma quanidade maior de marcações (no que tange estrutura), m
 
 De forma abrangente ambas linguagens usam, e tecnicamente HTML.
 
-d
 |Markdown| HTML|
 |---|---|
 |Normalmente, as marcas estruturam e apresentam visualmente o conteúdo.| Uma marca não significa, necessariamente, um elemento de conteúdo visível.|
@@ -859,6 +858,20 @@ Isso está diretamente relacionado à estrutura, porque os elementos são os com
 
 **Um exemplo de UI?**  Criarmos um botão com menu. Impossível usando Markdown, mas em HTML não — exatamente por ela ser própria para isso.
 
+
+
+#### Desenvolvimento web
+
+A ideia de estrutura/ beleza/ sentido está presene na Markdown e na HTML, esta de forma muito mais abrangente.
+
+Inicia-se percebendo que Markdown lida com estrutura e significado do conteúdo. Logo logo decobriremos que a ideia se aplica também a HTML.
+
+Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
+
+**Comportamento**: é a lógica "do négócio", uma outra etapa que se descobrirá, essa por conta da da JS.  
+
+
+Vide [HTML, CSS, JS](html-css-e-js).
 
 
 #### Markdown misturado com HTML
@@ -914,6 +927,8 @@ GLFM: GitLab Flavored Markdown.
 **CommonMark**: Exemplo de sites e projetos que adotam? GitLab, GitHub, Wordpress (via plugin), Discourse, Reddit, Qt, Stack Overflow / Stack Exchange, Swift.  
 
 Veja mais em <a href="https://commonmark.org/help/">help</a>.
+
+
 
 #### GFM
 
