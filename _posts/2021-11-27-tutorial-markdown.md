@@ -1,9 +1,18 @@
 # Markdown
 
+TESTE barra
+
+a\
+b\
+cde\
+f
+
+
 Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
 Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
+
 
 
 
@@ -63,25 +72,17 @@ Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até i
 
 #### Por quê aprender Markdown?
 
-**Markdown é muito simples!** Sabendo apenas dez marcas, dez **"comandinhos"** conseguimos muitas construções. Essas dez marcas são muito simples, objetivas e fácil de aprender. Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
-
-
-**Formatação de textos**: a Markdown utiliza um conjunto de códigos bem simples para a formatação de textos. Essa codificação em si se resume em símbolos como asterisco, cerquilha (que é sustenido na música, ou a famosa *hashtag*).  
-
-
-###### Para que ap *markdown** se meu editor de texto favorito faz isso com um clique de *mouse*?
-
 Simples! O legal da Markdown é que ela é...
 
+**Muito simples!** Sabendo apenas dez marcas, dez **"comandinhos"** conseguimos muitas construções. Essas dez marcas são muito simples, objetivas e fácil de aprender. Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
+
 ● Bem **atraente** para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte.  
-● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, iss ao criar um texto
+● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, isso ao criar um texto. Ou seja, embora meu editor de texto favorito faz o trabalho com um clique de *mouse*, você não precisará mais de mouse.
 
 ⚠️ Gosta de assuntos como tecnologia ou programação?\
 Vija [Markdown para Programadores](#Markdown para programadores).  
 
-TESTE
-QUEBRA DE LINHA apos tecnologia ou programaçãp
-ANCORA INTERNA
+
 
 ###### Quem usa Markdown? Onde usa?
 
@@ -89,7 +90,7 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
-**Software**? A **linguagem markdown** é utilizada em...  
+**Software**? A Markdown é utilizada em...  
 ● mensagens instantâneas (Telegram, por ex.),  
 ● *software* colaborativo (caso do Collabora Online que permite importar),  
 
@@ -97,11 +98,14 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 
 ###### Para que serve Markdown?
 
-Markdown serve para criarmos texto formatado; podendo ser um  título, uma palavra em negrito, letras em itálico etc.
+Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
 
-👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
+Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.
+● organização do conteúdo textual, como um  título.  
+● aspectos de apresentação, como uma palavra em negrito, letras em itálico etc.
+● inserir símbolos (como nos emojis) ou imagens e mesmo links
 
-
+🤔️ Podemos pensar que Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
 
 ###### As marcas...
 
@@ -111,9 +115,9 @@ Sintaxe `CaractereEspaçoConteúdo`
 ou... `# espaço conteúdo`  
 
 
-```# A Bíblia Sagrada```
+```# A Bíblia```
 
-Para o conteúdo 'A Bíblia Sagrada', antes há o caractere de marcação (ou símbolo) **#**, significando título.  
+Para o conteúdo 'A Bíblia', antes há o caractere de marcação (ou símbolo) **#**, significando título.  
 
 **Duas marcas**: uma no incio e no final do conteudo _que no ex. abaixo é a palavra 'uva'  
 
@@ -125,15 +129,16 @@ Aqui temos a marcação de um asterísco, indicando itálico.
 
 
 🤔️ Além de uma ou duas marcas, há casos específicos, por ex. *link*.  
-Independente disso, Markdown é muito simples. 😄️
+Independente disso, Markdown é muito simples. 😄️  
+
+
+👉️ Quando a marca tem uma função mais específica, pode receber outro nome, como delimitador (delimiter)
 
 
 
 ## Markdown: alguns conceitos
 
-x
-Lida com estrutura e apresentação? o que é?
-x
+
 
 #### Estrutura de bloco e inline
 
@@ -173,7 +178,6 @@ Cada marca da linguagem Markdown produz uma aparência específica no texto e co
 
 |Estrutura| Beleza<br>estilo| Sentido<br>significado|
 |:---:|:---:|:---:|
-|**O que é?**|**O que é?**|**O que é?**|
 |Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de **apresentação**. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 
 
@@ -229,7 +233,7 @@ O sustenido é usado para título.
 **Parágrafo**: Marca: Não há!  
 
 É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
-⚠️ No Wordpress crie usando uma linha em branco.
+
 
 
 
@@ -260,15 +264,26 @@ Pense estilo de letra! 😄️
 
 Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, beleza... Mas há sentido também.
 
-|negrito| itálico| código|
-|---|---|---|
-|**marca**| **marca**| **marca**|
-|** **| * *| ` `|
-|**estilo**|**estilo**|**estilo**|
-|letra mais espessa| letra inclinada para a direita| mono-<br />espaçado|
-|**sentido**|**sentido**|**sentido**|
-|forte destaque|ênfase| código|
 
+###### Negrito
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `**` | Marcação inline | Ênfase forte; forte destaque|Negrito; letra mais espessa|
+
+###### Itálico
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `*` | Marcação inline | Ênfase |letra inclinada para a direita|
+
+###### Código
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `` ` `` | Marcação inline | Código |Fonte mono-<br>espaçada|
+
+📚️ Fonte é o desenho da letra (caractere).
 
 ⚠️ Lembre! Cada um desses efeitos é *inline*, ou seja, fica dentro do fluxo do texto; dentro da mesma linha/parágrafo.
 Logo, use dentro de uma frase ou parágrafo. 
@@ -378,6 +393,13 @@ Como dito antes...
 
 Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de citação (>) e bloco de código (3 crases)
 
+**Lista ordenada**:  
+
+<pre>
+1. Fruta
+</pre>
+
+
 **Lista não ordenada**:  
 
 <pre>
@@ -385,13 +407,6 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 - idem.
 </pre>
  
-
-
-**Lista ordenada**:  
-
-<pre>
-1. Fruta # Lista ordenada.
-</pre>
 
 **Lista aninhada**:  
 
@@ -433,7 +448,7 @@ Indica uma separação de temática/estrutural. usamos quando damos o significad
 
 Considere um editor de editor de texto comum _por ex. Gedit do Ubuntu, Bloco de Notas do Windows...  
 
-Um editor de texto simples, como Bloco de Notas ou Gedit, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
+Um editor de texto simples, como os citados, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
 
 A extensão do nome do arquivo é .*md* ou .*markdown*.  
 
@@ -443,7 +458,7 @@ Como esse arquivo é apenas texto simples, você pode abrir com qualquer editor.
 
 Fácil!
 
-● Abra um editor .
+● Abra um editor.  
 ● Crie um novo arquivo e nomeie ele com algo como *teste.md*.  
 ⚠️ Não esqueça de usar a extensão .*md*!
 
@@ -456,11 +471,13 @@ Fácil!
 
 ## Markdown para programadores
 
-● Não precisa usar *mouse*, inclusive funciona com o editor Nano _que é um *software* de linha de comando.
-
 Se você gosta de assuntos como **tecnologia e programação**, Markdown é a linguagem mais fácil ou simples, e até divertida, de entrarmos nesse mundo.
 
 Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
+
+● CLI: Markdown pode ser sua primeira experiência com software de linha de comando. Ou seja, não precisa usar *mouse*, de fato. Markdown funciona com o editor Nano, um CLI padrão no Linux. 
+
+😄️ Uma boa "brincadeira" para quem gosta de tecnologia é exatamente escrever Markdown no Nano.
 
 <small>
 A partir desse momento, pense seriamente em criar sua conta no GitLab!
@@ -472,27 +489,32 @@ Dispensa uso de mouse, de tão simples que é. Mais agilidade!
 Fácil de entender o código (com asteríscos, sustenidos)
 👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
 
-Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardim da infância" da programação _dando algumas bases que vão estar presentes a todo momento na nossa vida de programação.  
+Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardim da infância" da programação _dando algumas bases que vão estar presentes a todo momento na nossa vida de programação. Conhecimento, saber:  
 ✔ A ideia de linguagem de marcação.  
-✔ Conteúdo.  
+✔ Ideia de regras de escrita, sintaxe. 
+✔ Conteúdo textual.  
 ✔ Inline e bloco.  
-✔ Uso do terminal para escrevermos o código, em vez de *mouse*.  
-[REVER ESSES TÒPICO]  
+  
 
+###### Markdown e programação - Na Prática!
 
-Para um programador Markdown logo logo será útil para...
+Para um programador, Markdown logo logo será útil para...
+✔ Uso do terminal para escrevermos código, em vez de *mouse*.
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
 
 ###### Desenvolvimento web
 
-**Estrutura e comportamento**: inicia-se percebendo que Markdown (ou HTML) lida com estrutura e significado do conteúdo.
-E logo logo decobrirá que o comportamento/lógica "do négócio" será por conta da JS.
+**Estrutura, beleza e sentido**: essa ideia dará base para HTML.  
 
+Inicia-se percebendo que Markdown lida com estrutura e significado do conteúdo. Logo logo decobriremos que a ideia se aplica também a HTML.
 
 Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
 
+**Comportamento**: é a lógica "do négócio", uma outra etapa que se descobrirá, essa por conta da da JS.  
 
+
+Vide [HTML, CSS, JS](html-css-e-js).
 
 
 #### Markdown vs. HTML
