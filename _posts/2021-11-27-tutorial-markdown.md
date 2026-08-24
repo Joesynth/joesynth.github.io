@@ -518,7 +518,7 @@ Fácil de entender o código (com asteríscos, sustenidos)
 Como vimos, comparada à linguagem programação HTML, ela é limitada, mas equivale ao "jardim da infância" da programação.
 Markdown oferece um belo conhecimento essencial, no sentido de que esse saber vai estar presente a todo momento na nossa vida de um programador.\
 
-||Markd.|HTML|
+||MD|HTML|
 |---|:---:|:---:|
 |ideia de linguagem de marcação|✔|✔|
 |ideia de regras de escrita, sintaxe|✔|✔|
@@ -546,9 +546,6 @@ O que há de igual ou semelhante em ambas linguagens?
 Aparência = como o conteúdo se apresenta.
 Espaço/disposição = como o conteúdo se organiza no espaço.
 
-✔ Ideia de **inline e em bloco** serve tanto para Markdown quanto para HTML.  
-🤔️ Na HTML, o recurso de atributo `style` pode alterar esse comportamento.
-
 Em suma...   
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
 
@@ -563,26 +560,27 @@ Marcações:
 
 |Markdown|HTML|
 |---|---|
-|**Marcações**|**Marcações**|
-|marcador (marker)|etiqueta (tag)|
-|**Ex.**|**Ex.**|
-| * # |p a|
 
-👉️ Tecnicamente, diz-se que # é um *heading marker* (marcador de título), *marker* . Já # Título é **estrutura de cabeçalho** (heading structure).
-👉️ Delimitador também é um termo técnico, caso de enfase, por exemplo.
 
-Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideias cumprem o papel de marcação para as respectivas linguagens.  
-
-As **regras de escrita** nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
 
 |Markdown| HTML|
 |:--:|:--:|
+|**Marcações**|**Marcações**|
+|marcador (marker)|etiqueta (tag)|
 |**marcação**|**marcação**|
 |poucas marcas| muitas etiquetas|
+|**Ex.**|**Ex.**|
+| * # |p a|
 |**regras de escrita** | **regras de escrita** |
 |mais simples| mais completas, com |
 |**recursos**|**recursos**|
 |mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
+
+👉️ Tecnicamente, diz-se que # é um *heading marker* (marcador de título), *marker* . Já # Título é **estrutura de cabeçalho** (heading structure).\
+👉️ Delimitador também é um termo técnico, caso de enfase, por exemplo.\
+Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideias cumprem o papel de marcação para as respectivas linguagens.\
+
+As **regras de escrita** nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.\
 
 Abaixo, o título "O Pequeno Príncipe" escrito na linguagen Markdown.  
 
@@ -606,12 +604,6 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 |:---:|:---:|
 |**Sintaxe**|**Sintaxe**|
 |Muito simples; curta, objetiva. | Cada elemento, via de regra, é delimitado por etiquetas de abertura e fechamento.|
-
-
-|Markdown|HTML|
-|:---:|:---:|
-|**Sintaxe**|**Sintaxe**|
-|||
 |**Ex. de título**|**Ex. de título**|
 |`# A Bíblia`| `<h1>A Bíblia</h1>`|
 |**Ex. de negrito**|**Ex. de negrito**|
@@ -629,7 +621,7 @@ Este é o segundo parágrafo.
 
 O título, como já falamos nesse tutorial, é indicado por # e os parágrafos são simplesmente separados por uma linha em branco.
 
-Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`h1` e `p>), e de fechamento (`/h1` e `/p`).  
+Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamento  `/h1` e `/p`.
 
 <pre>
 <h1>Meu título</h1>
@@ -646,11 +638,9 @@ Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`h1` e `p>), e
 
 #### Layout
 
-📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.
+📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.\
 
-
-Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.  
-
+Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.\
 
 
 |Markdown|HTML|
@@ -661,15 +651,21 @@ Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 
 
-###### Construção vs. elemento
-
-As construções do Markdown são formas de marcar/estruturar o conteúdo. No HTML, essas "construções ou estruturações", são os chamaos **elementos**. Não são exatamente a mesma coisa, mas há semelhanças.
+###### Construção vs. elemento | Bloco e inline
 
 |Markdown|HTML|
 |---|---|
+|Construções são formas de marcar/estruturar o conteúdo.| As "construções ou estruturações", são os **elementos**. Não são a mesma coisa que no MD, mas há semelhanças.
+|
 |conteúdo| conteúdo|
 |Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (p h1 a div...`) para estruturar o conteúdo.|
 |construção/sintaxe| elemento|
+
+**Bloco e inline**: Ideia que erve tanto para Markdown quanto para HTML.  
+Na HTML há mais poder, visto que o recurso de atributo `style` pode alterar esse comportamento.
+
+|Markdown|HTML|
+|---|---|
 |bloco e inline|bloco e inline|
 
 
@@ -677,7 +673,7 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 
 **Verbal - escrito** - bloco
 
-||.md|.html|
+||MD|HTML|
 |---|---|---|
 |título| #| h1-h6|
 |parágrafo| | p|
@@ -688,7 +684,7 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 
 **Verbal - escrito** - inline
 
-|||.md.html|
+||MD|HTML|
 |---|---|---|
 |negrito| **| strong|
 |itálico| *| em|
@@ -698,12 +694,12 @@ As construções do Markdown são formas de marcar/estruturar o conteúdo. No HT
 
 **Texto não verbal**
 
-||.md|.html|
+||MD|HTML|
 |---|---|---|
 |imagem| `![]()`| img|
 
-Dois espaços ou \ equivale a etiqueta br.
-⚠️ \ precisa ser o último caractere da linha, não pode haver espaço depois da barra.
+Dois espaços ou \Enter equivale a etiqueta br.
+⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
 
 Quebra de linha (\Enter ou DoisEspaçosEnter) → <br>
 Regra horizontal (---) → <hr>
