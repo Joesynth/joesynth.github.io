@@ -102,7 +102,17 @@ Na formatação damos forma ao conteúdo, o que envolve tanto a organização qu
 🤔️ Podemos pensar que Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
 
 
-###### As marcas...
+
+
+
+
+## Markdown: alguns conceitos
+
+
+#### A ideia de linguagem de marcação
+
+As marcas...  
+
 
 **Uma marca no incio**: um símbolo (caractere) indicará algo.
 
@@ -129,32 +139,6 @@ Independente disso, Markdown é muito simples. 😄️
 
 👉️ Quando a marca tem uma função mais específica, pode receber outro nome, como delimitador (delimiter)
 
-
-
-## Markdown: alguns conceitos
-
-
-
-#### Estrutura de bloco e inline
-
-Uma questão de organização espacial; disposição do conteúdo.
-
-|estrutura de bloco| estrutura inline|
-|---|---|
-|estrutura maior| subestrutura dentro do bloco|
-|**Ideia**|**Ideia**|
-|Ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
-|**Ex.**|**Ex.**|
-|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
-
-**Estrutura inline e de bloco - resumo**  
-
-|bloco|inline|
-|:---:|:---:|
-|título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal| negrito, itálico, código inline, link, imagem|
-
-
-
 #### Estrutura, beleza e sentido
 
 Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
@@ -167,6 +151,7 @@ Neste código, a **marca >** resulta no efeito visual:
 
 > Ore pelos seus inimigos.
 
+Isso representa um conteúdo citado.\
 Cada marca da linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
 **Markdown atua em 3 dimensões**:  
@@ -205,6 +190,26 @@ Ex.:\
 <pre>
 Não pise no **vermelho**.
 </pre>
+
+
+#### Estrutura de bloco e inline
+
+No que tange a estrutura, temos a questão de organização espacial; disposição do conteúdo.
+
+|estrutura de bloco| estrutura inline|
+|---|---|
+|estrutura maior| subestrutura dentro do bloco|
+|**Ideia**|**Ideia**|
+|Ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
+|**Ex.**|**Ex.**|
+|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
+
+**Estrutura inline e de bloco - resumo**  
+
+|bloco|inline|
+|:---:|:---:|
+|título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal| negrito, itálico, código inline, link, imagem|
+
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
@@ -313,7 +318,7 @@ Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, belez
 `poweroff`
 </pre>
 
-A aparência é de letra de computador, um efeito mais 'robótico'.\
+A aparência é de letra de computador, um efeito mais 'robótico'.  
 
 `poweroff`  
 
@@ -399,12 +404,10 @@ ls
 
 👉️ 4 espaços também pode ser usado no lugar das 3 crases.  
 
-Resulta em um efeito parecido ao da 1 crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
+Resulta em um efeito parecido ao da 1 crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.  
 
-```
-cd Documentos
-ls
-```
+`cd Documentos`  
+`ls` 
 
 A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases (ou os 4 espaços) podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
 
@@ -820,10 +823,10 @@ Ambas linguagens, Markdown e HTML, oferecem essas três dimensões. A diferença
 HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 
 ||MD|HTML|
-|---|---|---|
-| **Estrutura**| `#`, `1.`, `-`, `---` etc.     | `Além de marcação da MD, há outros (como elementos de interface, button, form, select...). Isto é, tem uma quanidade maior de marcações (no que tange estrutura)|
-| **Beleza** | `**negrito**`, `*itálico*` etc.       | atributos, etc. Ou seja, mais possibilidades de efeitos estéticos (como o atributo style) |
-| **Sentido**| `>`, `` `...` ``, links, imagens etc. | `Além de marcação da MD, há div, nav, artigo, etc. Ou seja, mais variedade de significados|
+|:---:|:---:|:---:|
+| **Estrutura**| # 1. - --- etc. | Além de marcação da MD, há outros (como elementos de interface, button, form, select...). Isto é, tem uma quanidade maior de marcações (no que tange estrutura)|
+| **Beleza** | negrito, itálico etc. | Além de equivalentes da MD, há atributos, etc. Ou seja, mais possibilidades de efeitos estéticos (como o atributo style) |
+| **Sentido**| >, links, imagens etc. | Além do que a MD faz; há div, nav, artigo, etc. Ou seja, mais variedade de significados|
 
 ⚠️ A verdadeira responsável pela apresentação é a CSS, que interaje com a HTML.
 
