@@ -297,17 +297,33 @@ Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, belez
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
-| `` ` `` | Marcação inline | Código |Fonte mono-<br>espaçada|
+| 1 crase| Marcação inline | Código |Fonte mono-<br>espaçada|
+
+👉️ Marca é o símbolo de crase.
 
 📚️ Fonte é o desenho da letra (caractere).
 
 <pre>
-`código`    # Marca é o símbolo de crase simples
+`código`
 </pre>
 
-É para mostrar **código de computador**. A aparência é de letra de computador, um efeito mais 'robótico'.  
+É para mostrar **código de computador**. 
 
+<pre>
+`poweroff`
+</pre>
+
+A aparência é de letra de computador, um efeito mais 'robótico'.\
+
+`poweroff`  
+
+🤔️ *poweroff* é um comando que é dado no Terminal _a "telinha preta" do computador.
+
+Aqui um exemplo de trecho de código JS:  
+
+<pre>
 `const x = 1;`  
+</pre>
 
 Você pode usar isso com criatividade. Por exemplo, dar um efeito a letra para algo matemático:  
 
@@ -315,7 +331,7 @@ Você pode usar isso com criatividade. Por exemplo, dar um efeito a letra para a
 
 Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: "clique na tecla..."   
 
-`Shift`
+`Shift`  
 
 ⚠️ Provavelmente, e pelo lado do sentido, Markdown interpretará isso como código. Ele "pensará" que é código de computador.  
 É como se fosse um *hacking*! 🤔️  
@@ -365,20 +381,32 @@ O resultado desse código é o seguinte efeito visual...
 
 > Tudo que tu sabe, alguém lhe contou.
 
+
 ###### Bloco de código <sup>*code block*</sup>
 
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+|3 crases | Bloco | Código |Fonte mono-<br>espaçada|
+
+Exemplo.\
+
 <pre>
-Marca: ``` ```
-</pre>
-👉️ 4 espaços também pode ser usadono lugar das 3 crases.  
-
-Resulta em um efeito parecido ao da crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
-
-<pre>
-      # 4 espaços vazios.
+```
+cd Documentos
+ls
+```
 </pre>
 
-A diferença? Uma crase, como já vimos, é *inline*, e aqui os 4 espaços (ou 3 crases) podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
+👉️ 4 espaços também pode ser usado no lugar das 3 crases.  
+
+Resulta em um efeito parecido ao da 1 crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.
+
+```
+cd Documentos
+ls
+```
+
+A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases (ou os 4 espaços) podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
 
 <small>
 **Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
