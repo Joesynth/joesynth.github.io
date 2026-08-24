@@ -108,8 +108,11 @@ Na formatação damos forma ao conteúdo, o que envolve tanto a organização qu
 
 ## Markdown: alguns conceitos
 
+- Linguagem de marcação
+- Estrutura, beleza e sentido
+- Estrutura de bloco e inline
 
-#### A ideia de linguagem de marcação
+#### Linguagem de marcação
 
 As marcas...  
 
@@ -402,20 +405,21 @@ ls
 ```
 </pre>
 
-👉️ 4 espaços também pode ser usado no lugar das 3 crases.  
-
-Resulta em um efeito parecido ao da 1 crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.  
+Resulta no efeito visual...  
 
 `cd Documentos`  
 `ls` 
 
-A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases (ou os 4 espaços) podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
+Portanto, equivale ao de 1 crase (código), que vimos acima _ou seja, serve para escrevermos código de computador.  
+A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
 
 <small>
 **Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
 </small>
 
-Use sua criatividade! O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
+👉️ 4 espaços também pode ser usado no lugar das 3 crases.  
+
+**Criatividade!** Use sua imaginação. O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
 Amai-vos uns aos outros
@@ -557,10 +561,11 @@ Markdown oferece um belo conhecimento essencial, no sentido de que esse saber va
 ||MD|HTML|
 |---|:---:|:---:|
 |ideia de linguagem de marcação|✔|✔|
-|ideia de regras de escrita, sintaxe|✔|✔|
 |estrutura/ beleza/ sentido|✔|✔|
-|conteúdo (textual)|✔|✔|
 |bloco e inline|✔|✔|
+|ideia de regras de escrita, sintaxe|✔|✔|
+|conteúdo (textual)|✔|✔|
+
 
 
 ###### Markdown e programação - Na Prática!
