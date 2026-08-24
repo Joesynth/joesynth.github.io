@@ -207,6 +207,12 @@ Não pise no **vermelho**.
 </pre>
 
 
+<img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
+
+
+
+
+
 
 ## Markdown - Guia Rápido
 
@@ -820,7 +826,7 @@ Portanto no HTML, elemento é um conceito mais abrangente: há elementos que rep
 🤔️ HTML? Exemplos?
 
 ```
-<button> <select> <form>
+button select form
 ```
 
 Isso está diretamente relacionado à estrutura, porque os elementos são os componentes por meio dos quais a estrutura do conteúdo é organizada.
