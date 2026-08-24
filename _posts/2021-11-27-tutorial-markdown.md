@@ -182,7 +182,7 @@ Cada marca da linguagem Markdown produz uma aparência específica no texto e co
 |---|---|---|---|
 | `#` | Título 1 | Título principal |Texto grande, destacado|
 
-Outras:\
+Outras marcas:
 
 |||||
 |---|---|---|---|
@@ -194,7 +194,7 @@ Outras:\
 |---|---|---|---|
 | `**` | Marcação inline | Ênfase forte; destaque|Negrito|
 
-Outras:\
+Outras marcas:
 
 |||
 |---|---|
@@ -222,7 +222,6 @@ Não pise no **vermelho**.
 | `##` | Título nível 2 | Subtítulo |Texto um pouco menor que #|
 
 
-**Título**: Marca #
 
 O sustenido é usado para título.
 
@@ -318,7 +317,7 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 
 ###### Link
 
-Marca: []()
+Marca: `[]()`
 
 O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
 
@@ -349,6 +348,8 @@ Logo, use dentro de uma frase ou parágrafo.
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 | `>` | Bloco de citação | Significa conteúdo citado | Via de regra, texto recuado e destacado|
+
+Ex. de código:
 
 ```html
 > Tudo que tu sabe, alguém lhe contou.
@@ -634,7 +635,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 Um texto com título e parágrafos em Markdown:  
 
-<re>
+<pre>
 # Meu título
 
 Este é o primeiro parágrafo.
