@@ -245,14 +245,13 @@ O sustenido é usado para título.
 
 
 
-Em lingua portuguesa temos a estrutura textual, onde título, introdução e desenvolvimento podem estar perfeitamente marcados com markdown
+Em lingua portuguesa temos a estrutura textual, onde título, introdução e desenvolvimento podem estar perfeitamente marcados com markdown.
 
-    # Meu Título.
-
-    Parágrafo de introdução, bla blá...
-
-    Parágrafo de desenvolvimento, bla...
-
+```
+# Meu Título.
+Parágrafo de introdução, bla blá...
+Parágrafo de desenvolvimento, bla...
+```
 Exemplo:  
 
 <pre>
@@ -661,7 +660,7 @@ Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 |Usa construções/sintaxe de marcação para estruturar o conteúdo.| Usa elementos (p h1 a div...`) para estruturar o conteúdo.|
 |construção/sintaxe| elemento|
 
-**Bloco e inline**: Ideia que erve tanto para Markdown quanto para HTML.  
+**Bloco e inline**: Ideia que serve tanto para Markdown quanto para HTML.  
 Na HTML há mais poder, visto que o recurso de atributo `style` pode alterar esse comportamento.
 
 |Markdown|HTML|
@@ -748,23 +747,26 @@ No Markdown uma única crase no início do conteúdo e outra no final equivale e
 
 `<pre><code>...</code></pre>`
 
-⚠️ **Texto pré-formatado**: Portanto, Markdown **não tem** uma sintaxe específica equivalente a etiqueta HTML `<pre>` pura.
-Ou seja, não há algo para o que não é código!
+⚠️ **Texto pré-formatado**: Portanto...\
+
+|MD|HTML|
+|**não tem** uma sintaxe específica equivalente a etiqueta HTML `<pre>` pura.| possui a etiqueta HTML `<pre>`.|
+
+ 👉️ Ou seja, em MD não há algo para o que não é código!
 
 
 ###### Finalidade: o vocabulário
 
 Markdown, bem como HTML, também descreve elementos semânticos e de apresentação
 
-Markdown é estrutura textual, não UI.
+Podemos pensar da seguinte forma...  
 
-Podemos pense da seguinte forma...  
-
-O termo 'conteúdo' fica melhor para Markdown, enquanto UI se adequa melhor a HTML/CSS/JS.
-
-|Markdown| HTML|
+|MD|HTML|
 |:---:|:---:|
-|como estrutura textual e não para UI propriamente dita||
+|É estrutura textual, não UI propriamente dita.||
+|**O termo ‘conteúdo’**|**O termo ‘UI’**||
+|fica melhor para Markdown| Se adequa melhor a HTML/CSS/JS.|
+
 
 ###### Conteúdo vs. UI
 
@@ -782,15 +784,14 @@ Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta me
 Ambas linguagens, Markdown e HTML, oferecem essas três dimensões. A diferença é, principalmente, de amplitude e expressividade.
 
 HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
-Ou seja, HTMl tem uma quanidade maior de marcações (no que tange estrutura), mais possibilidades de efeitos estéticos (como o atributo style) e sentidos.
 
+||MD|HTML|
+|---|---|---|
+| **Estrutura**| `#`, `1.`, `-`, `---` etc.     | `Além de marcação da MD, há outros (como elementos de interface, button, form, select...). Isto é, tem uma quanidade maior de marcações (no que tange estrutura)|
+| **Beleza** | `**negrito**`, `*itálico*` etc.       | atributos, etc. Ou seja, mais possibilidades de efeitos estéticos (como o atributo style) |
+| **Sentido**| `>`, `` `...` ``, links, imagens etc. | `Além de marcação da MD, há div, nav, artigo, etc. Ou seja, mais variedade de significados|
 
-|             | Markdown           | HTML             |
-| ----------- | ------------------ | ---------------- |
-| **Estrutura**| `#`, `1.`, `-`, `---` etc.     | `Além de marcação da Markdown, button, select, form etc |
-| **Beleza** | `**negrito**`, `*itálico*` etc.       | atributos, etc. |
-| **Sentido**| `>`, `` `...` ``, links, imagens etc. | `Além de marcação da Markdown, div, nav, artigo, etc. |
-
+⚠️ A verdadeira responsável pela apresentação é a CSS, que interaje com a HTML.
 
 |Markdown|HTML|
 |:---:|:---:|
@@ -814,13 +815,13 @@ Portanto no HTML, elemento é um conceito mais abrangente: há elementos que rep
 
 |Markdown| HTML|
 |---|---|
-|Conjunto menor de elementos/estruturas de marcação| Conjunto bem mais amplo. Contém os elementos correspondentes aos recursos de marcação da Markdown e muitos elementos adicionais|
+|Conjunto menor de elementos/estruturas de marcação| Conjunto bem mais amplo. Contém os elementos correspondentes aos recursos de marcação da MD e muitos elementos adicionais|
 
-🤔️HTML? Exemplos?
+🤔️ HTML? Exemplos?
 
-<pre>
+```
 <button> <select> <form>
-</pre>
+```
 
 Isso está diretamente relacionado à estrutura, porque os elementos são os componentes por meio dos quais a estrutura do conteúdo é organizada.
 
