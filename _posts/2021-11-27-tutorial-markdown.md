@@ -1,11 +1,5 @@
 # Markdown
 
-TESTE barra
-
-a\
-b\
-cde\
-f
 
 
 Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
@@ -98,14 +92,15 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 
 ###### Para que serve Markdown?
 
-Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
+Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).\
 
-Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.
-● organização do conteúdo textual, como um  título.  
-● aspectos de apresentação, como uma palavra em negrito, letras em itálico etc.
-● inserir símbolos (como nos emojis) ou imagens e mesmo links
+Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.\
+● organização do conteúdo textual, como um  título.\
+● aspectos de apresentação, como uma palavra em negrito, letras em itálico etc.\
+● inserir símbolos (como nos emojis) ou imagens e mesmo links.\
 
 🤔️ Podemos pensar que Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
+
 
 ###### As marcas...
 
@@ -178,27 +173,33 @@ Cada marca da linguagem Markdown produz uma aparência específica no texto e co
 
 |Estrutura| Beleza<br>estilo| Sentido<br>significado|
 |:---:|:---:|:---:|
-|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Tecnicamente, é chamada de **apresentação**. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
+|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento. Tecnicamente, é chamada de **apresentação**.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 
 
-###### estrutura de bloco
+###### estrutura de bloco - ex.
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 | `#` | Título 1 | Título principal |Texto grande, destacado|
-| `##` | Título nível 2 | Subtítulo |Texto um pouco menor que #|
-| `-` | Lista não ordenada | Conjunto de itens sem ordem | Itens com marcador visual (bolinha)|
-| `1.` | Lista ordenada | Conjunto de itens em sequência | Itens numerados|
-| `>` | Bloco de citação | Significa conteúdo citado | Via de regra, texto recuado e destacado|
-| `---` | Separador temático | Mudança de assunto | Linha horizontal|
 
-###### estrutura inline
+Outras:\
+
+|||||
+|---|---|---|---|
+| `##` | `-` | `1.` | `>` | `---` |
+
+###### estrutura inline - ex.
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 | `**` | Marcação inline | Ênfase forte; destaque|Negrito|
-| `*` | Marcação inline | Ênfase |Itálico|
-| `` ` `` | Marcação inline | Código |Fonte monoespaçada|
+
+Outras:\
+
+|||
+|---|---|
+| `*` | `` ` `` |
+
 
 <pre>
 Não pise no **vermelho**.
@@ -213,6 +214,13 @@ Não pise no **vermelho**.
 #### Texto
 
 ###### Título e parágrafo
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `#` | Título 1 | Título principal |Texto grande, destacado|
+|---|---|---|---|
+| `##` | Título nível 2 | Subtítulo |Texto um pouco menor que #|
+
 
 **Título**: Marca #
 
@@ -257,7 +265,7 @@ E nasce Jesus em Nazaré...
 
 
 
-###### Efeitos visuais no texto - inline
+#### Efeitos visuais no texto - inline
 
 Belos recursos para a apresentação do conteúdo de texto escrito.  
 Pense estilo de letra! 😄️
@@ -265,17 +273,20 @@ Pense estilo de letra! 😄️
 Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, beleza... Mas há sentido também.
 
 
-###### Negrito
+###### Negrito e Itálico
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 | `**` | Marcação inline | Ênfase forte; forte destaque|Negrito; letra mais espessa|
-
-###### Itálico
-
-| Marca | Estrutura | Sentido | Estética
-|---|---|---|---|
 | `*` | Marcação inline | Ênfase |letra inclinada para a direita|
+
+
+
+<pre>
+**negrito** # Ou __bold__
+*itálico*   # Ou _itálico_
+</pre>
+
 
 ###### Código
 
@@ -285,17 +296,11 @@ Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, belez
 
 📚️ Fonte é o desenho da letra (caractere).
 
-⚠️ Lembre! Cada um desses efeitos é *inline*, ou seja, fica dentro do fluxo do texto; dentro da mesma linha/parágrafo.
-Logo, use dentro de uma frase ou parágrafo. 
-
-
 <pre>
-**negrito** # Ou __bold__
-*itálico*   # Ou _itálico_
 `código`    # Marca é o símbolo de crase simples
 </pre>
 
-**Código** é para mostrar **código de computador**. A aparência é de letra de computador, um efeito mais 'robótico'.  
+É para mostrar **código de computador**. A aparência é de letra de computador, um efeito mais 'robótico'.  
 
 `const x = 1;`  
 
@@ -311,7 +316,7 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 É como se fosse um *hacking*! 🤔️  
 
 
-###### Link (inline)
+###### Link
 
 Marca: []()
 
@@ -332,11 +337,18 @@ Exemplo 2:
 `[Wikipedia](www.wikipedia.org)`  
 
 
-###### Efeitos visuais no texto - bloco
+⚠️ Lembre! Cada um desses efeitos é *inline*, ou seja, fica dentro do fluxo do texto; dentro da mesma linha/parágrafo.
+Logo, use dentro de uma frase ou parágrafo. 
 
 
 
-**Bloco de citação**: usa-se **>**.  
+#### Efeitos visuais no texto - bloco
+
+###### Bloco de citação
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `>` | Bloco de citação | Significa conteúdo citado | Via de regra, texto recuado e destacado|
 
 ```html
 > Tudo que tu sabe, alguém lhe contou.
@@ -345,7 +357,7 @@ O resultado desse código é o seguinte efeito visual...
 
 > Tudo que tu sabe, alguém lhe contou.
 
-**Bloco de código** (*code block*):
+###### Bloco de código <sup>*code block*</sup>
 
 <pre>
 Marca: ``` ```
@@ -389,7 +401,13 @@ Como dito antes...
 
 
 
-###### Listas - bloco
+###### Listas
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `-` | Lista não ordenada | Conjunto de itens sem ordem | Itens com marcador visual (bolinha)|
+| `1.` | Lista ordenada | Conjunto de itens em sequência | Itens numerados|
+
 
 Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de citação (>) e bloco de código (3 crases)
 
@@ -433,6 +451,11 @@ Exemplo:
 
 
 ###### Linha horizontal
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `---` | Separador temático | Mudança de assunto | Linha horizontal|
+
 
 *Horizontal rule*: Régua horizontal no literal. Uma linha bem fina, sendo um separador horizontal.  
 
@@ -498,8 +521,8 @@ Como vimos, comparada à linguagem HTML, ela é limitada, mas equivale ao "jardi
 
 ###### Markdown e programação - Na Prática!
 
-Para um programador, Markdown logo logo será útil para...
-✔ Uso do terminal para escrevermos código, em vez de *mouse*.
+Para um programador, Markdown logo logo será útil para...\
+✔ Uso do terminal para escrevermos código, em vez de *mouse*.\
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
 
@@ -517,12 +540,10 @@ Markdown cria uma familiaridade com a ideia de linguagens de marcação e docume
 Vide [HTML, CSS, JS](html-css-e-js).
 
 
-#### Markdown vs. HTML
+#### Markdown vs. HTML - Semelhanças
 
 
-###### O que há de igual ou semelhante?
-
-Ambas...  
+O que há de igual ou semelhante em ambas linguagens?  
 
 ✔ São linguagens de marcação  
 ✔ Lidam com o conteúdo  
@@ -547,7 +568,9 @@ Espaço/disposição = como o conteúdo se organiza no espaço.
 Em suma...   
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
 
-###### O que há de diferente? 
+
+
+#### Markdown vs. HTML - Diferenças
 
 
 ###### Marcação, regras de escrita e recursos
@@ -631,12 +654,9 @@ Em HTML esse mesmo texto terá várias etiquetas, as de abertura (`h1` e `p>), e
 <p>Este é o segundo parágrafo do documento.</p>
 </pre>
 
-😄️ É só ler o que está a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!  
-
-
-🤔️ HTML ainda possui atributo e valor.  
-
-⚠️ Tecnicamente, o que chamamos aqui de "regras de escrita" é o que se fala como **sintaxe**.  
+😄️ É só ler o que está a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!\
+🤔️ HTML ainda possui atributo e valor.\
+⚠️ Tecnicamente, o que chamamos aqui de "regras de escrita" é o que se fala como **sintaxe**.
 
 
 #### Layout
