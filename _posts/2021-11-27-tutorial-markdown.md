@@ -198,7 +198,7 @@ Outras marcas:
 
 |||
 |---|---|
-| `*` | `` ` `` |
+| `*` | `` ` `` |  
 
 Ex.:\
 
@@ -249,9 +249,9 @@ Em lingua portuguesa temos a estrutura textual, onde título, introdução e des
 
     # Meu Título.
 
-    Parágrafo de introdução, bla bla blá...
+    Parágrafo de introdução, bla blá...
 
-    Parágrafo de desenvolvimento, bla bla bla...
+    Parágrafo de desenvolvimento, bla...
 
 Exemplo:  
 
@@ -312,7 +312,7 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 
 `Shift`
 
-⚠️ Semanticamente, Markdown normalmente interpreta isso como código, isto é, ele "pensará" que é código de computador.  
+⚠️ Provavelmente, e pelo lado do sentido, Markdown interpretará isso como código. Ele "pensará" que é código de computador.  
 É como se fosse um *hacking*! 🤔️  
 
 
@@ -320,7 +320,8 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 
 Marca: `[]()`
 
-O texto do *link* fica dentro dos colchetes e logo em seguida dentro dos parêntesis temos a URL. Ou seja...  
+**[]**: O texto do *link* fica aqui dentro .\
+**()**: aqui escrevemos a URL.\
 
 Sintaxe `[textoDoLink](URL)`  
 
@@ -517,22 +518,18 @@ Fácil de entender o código (com asteríscos, sustenidos)
 Como vimos, comparada à linguagem programação HTML, ela é limitada, mas equivale ao "jardim da infância" da programação.
 Markdown oferece um belo conhecimento essencial, no sentido de que esse saber vai estar presente a todo momento na nossa vida de um programador.\
 
-<pre>
-✔ Ideia de...
-    └─ linguagem de marcação.
-    └─ regras de escrita, sintaxe.
-    └─ Estrutura, beleza e sentido
-✔ Conteúdo (textual)
-    └─ Bloco e inline.
-</pre>
+||Markd.|HTML|
+|---|:---:|:---:|
+|ideia de linguagem de marcação|✔|✔|
+|ideia de regras de escrita, sintaxe|✔|✔|
+|estrutura/ beleza/ sentido|✔|✔|
+|conteúdo (textual)|✔|✔|
+|bloco e inline|✔|✔|
 
-
-  
-  
 
 ###### Markdown e programação - Na Prática!
 
-Para um programador, Markdown logo logo será útil para...\
+Além do alicerce teórico, para um programador, Markdown logo logo será útil para...\
 ✔ Uso do terminal para escrevermos código, em vez de *mouse*.\
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
@@ -544,19 +541,6 @@ Para um programador, Markdown logo logo será útil para...\
 
 
 O que há de igual ou semelhante em ambas linguagens?  
-
-✔ São linguagens de marcação  
-✔ Lidam com o conteúdo  
-└─ como aparece (apresentação, beleza, estilo)  
-└─ o que representa (sentido, significao)  
-✔ estrutura do conteúdo textual  
-
-✔ lidar com texto formatado  
-└─ aparência da letra (negrito, itálico...)  
-└─ espaçamento e disposição (parágrafos, recuos...)  
-└─ organização do conteúdo (títulos, tabelas, listas...)  
-
-✔ Estrutura, beleza, sentido.  
 
 
 Aparência = como o conteúdo se apresenta.
