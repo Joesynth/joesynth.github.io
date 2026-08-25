@@ -388,7 +388,7 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 |---|---|---|---|
 |`![]()`||||
 
-Se você praticou bem o link, imagem vai ser fácil: basta pôr uma exclamação antes.  
+Se você praticou bem o link, imagem vai ser fácil: basta pôr uma ❗️ antes.  
 
 Sintaxe `![textoAlternativo](URL)`  
 
@@ -418,7 +418,7 @@ Regra horizontal (---) → <hr>
 |---|---|---|---|
 |`\`||||
 
-Dois espaços ou \Enter equivale a etiqueta br.
+Dois espaços ou \Enter equivale a etiqueta br.  
 ⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
 
 Quebra de linha (\Enter) → <br>  
@@ -492,12 +492,22 @@ Além do alicerce teórico, para um programador, Markdown logo logo será útil 
 
 ## Markdown: alguns conceitos
 
+MD dá uma base para conceitos que aparecerão no HTML e mesmo no desenvolvimento web.
+
 - Linguagem de marcação
 - Estrutura, beleza e sentido
 - Estrutura de bloco e inline
 - Design Gráfico
 
 ⚠️ Todas essas ideias **não são exclusivas** de Markdown ⚠️
+
+Outros conceitos...  
+
+**Estrutura do conteúdo**: um texto tem título, parágrafo...
+**Hierarquia**: organização do conteúdo em níveis (título, subtítulo).
+**Elementos e marcação**: símbolos para marcar o significado num trecho de texto (**, por ex.), que no HTML será <strong>.
+**Link**: um conteúdo pode referenciar outro recurso. 
+**Código dentro de conteúdo**:  comum em documentação de programação, ajuda a entender que podemos ter diferentes tipos de conteúdo dentro de um documento.
 
 
 #### Linguagem de marcação
@@ -550,6 +560,8 @@ Cada marca da Markdown produz uma aparência específica no texto e comunica um 
 |Estrutura| Beleza<br>estilo| Sentido<br>significado|
 |:---:|:---:|:---:|
 |Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento. Tecnicamente, é chamada de **apresentação**.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
+
+👉️ Aninhar - Algo que está dentro do outro. Ex. lista.
 
 **Estrutura**:  
 
