@@ -62,7 +62,11 @@ Portanto, quando executao, o texto não só aparecerá bonito como um link, como
 ● Organiza a estrutura de um texto, definindo o que é título, parágrafo etc.  
 ● Cuida de alguns aspctos da apresentação _por ex., colocar uma palavra em itálico ou negrito.  
 
-Ainda temos *links*, recursos gráficos como imagens, tabelas etc_podemos até inserir uma linha bem fininha num texto ou site. E tudo de forma rápida, sutil.  
+**Diagramação**: imagem (que é recurso gráfico) ou mesmo inserir uma linha bem fininha num texto ou site (o que é um recurso gráfico, porém muito simples). E ainda quebra de linha.
+
+Tudo de forma rápida, sutil.  
+
+👉️ Ainda temos *links*.
 
 #### Por quê aprender Markdown?
 
@@ -106,121 +110,8 @@ Na formatação damos forma ao conteúdo, o que envolve tanto a organização qu
 
 
 
-## Markdown: alguns conceitos
-
-- Linguagem de marcação
-- Estrutura, beleza e sentido
-- Estrutura de bloco e inline
-- Layout
 
 
-
-
-#### Linguagem de marcação
-
-As marcas...  
-
-
-**Uma marca no incio**: um símbolo (caractere) indicará algo.
-
-Sintaxe `CaractereEspaçoConteúdo`  
-ou... `# espaço conteúdo`  
-
-
-```# A Bíblia```
-
-Para o conteúdo 'A Bíblia', antes há o caractere de marcação (ou símbolo) **#**, significando título.  
-
-**Duas marcas**: uma no incio e no final do conteudo _que no ex. abaixo é a palavra 'uva'  
-
-Sintaxe `marca de abertura + conteúdo + marca de fechamento`  
-
-`*uva*`
-
-Aqui temos a marcação de um asterísco, indicando itálico.
-
-
-🤔️ Além de uma ou duas marcas, há casos específicos, por ex. *link*.  
-Independente disso, Markdown é muito simples. 😄️  
-
-
-👉️ Quando a marca tem uma função mais específica, pode receber outro nome, como delimitador (delimiter)
-
-#### Estrutura, beleza e sentido
-
-Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
-
-<pre>
-> Tudo passa, nada permanece.
-</pre>
-
-Neste código, a **marca >** resulta no efeito visual:  
-
-> Tudo passa, nada permanece.
-
-Isso representa um conteúdo citado.\
-Cada marca da linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
-
-**Markdown atua em 3 dimensões**:  
-
-|Estrutura| Beleza<br>estilo| Sentido<br>significado|
-|:---:|:---:|:---:|
-|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento. Tecnicamente, é chamada de **apresentação**.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
-
-
-###### estrutura de bloco - ex.
-
-| Marca | Estrutura | Sentido | Estética
-|---|---|---|---|
-| `#` | Título 1 | Título principal |Texto grande, destacado|
-
-Outras marcas:
-
-|||||
-|---|---|---|---|
-| `##` | `-` | `1.` | `>` | `---` |
-
-###### estrutura inline - ex.
-
-| Marca | Estrutura | Sentido | Estética
-|---|---|---|---|
-| `**` | Marcação inline | Ênfase forte; destaque|Negrito|
-
-Outras marcas:
-
-|||
-|---|---|
-| `*` | `` ` `` |  
-
-Ex.:\
-
-<pre>
-Não pise no **vermelho**.
-</pre>
-
-
-#### Estrutura de bloco e inline
-
-No que tange a estrutura, temos a questão de organização espacial; disposição do conteúdo.
-
-|estrutura de bloco| estrutura inline|
-|---|---|
-|estrutura maior| subestrutura dentro do bloco|
-|**Ideia**|**Ideia**|
-|Ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
-|**Ex.**|**Ex.**|
-|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
-
-**Estrutura inline e de bloco - resumo**  
-
-|bloco|inline|
-|:---:|:---:|
-|título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal| negrito, itálico, código inline, link, imagem|
-
-
-#### Layout
-
-📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -354,7 +245,9 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 
 ###### Link
 
-Marca: `[]()`
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `[link](URL)` ||||
 
 **[]**: O texto do *link* fica aqui dentro .\
 **()**: aqui escrevemos a URL.\
@@ -491,6 +384,10 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 
 ###### Imagem - inline
 
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+|`![]()`||||
+
 Se você praticou bem o link, imagem vai ser fácil: basta pôr uma exclamação antes.  
 
 Sintaxe `![textoAlternativo](URL)`  
@@ -513,8 +410,18 @@ Exemplo:
 
 Indica uma separação de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
+Regra horizontal (---) → <hr>
 
+###### Quebra de linha
 
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+|`\`||||
+
+Dois espaços ou \Enter equivale a etiqueta br.
+⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
+
+Quebra de linha (\Enter ou DoisEspaçosEnter) → <br>
 
 
 ## 💾️ Arquivo Markdown
@@ -583,6 +490,155 @@ Além do alicerce teórico, para um programador, Markdown logo logo será útil 
 
 
 
+## Markdown: alguns conceitos
+
+- Linguagem de marcação
+- Estrutura, beleza e sentido
+- Estrutura de bloco e inline
+- Design Gráfico
+
+⚠️ Todas essas ideias **não são exclusivas** de Markdown ⚠️
+
+
+#### Linguagem de marcação
+
+As marcas...  
+
+
+**Uma marca no incio**: um símbolo (caractere) indicará algo.
+
+Sintaxe `CaractereEspaçoConteúdo`  
+ou... `# espaço conteúdo`  
+
+
+```# A Bíblia```
+
+Para o conteúdo 'A Bíblia', antes há o caractere de marcação (ou símbolo) **#**, significando título.  
+
+**Duas marcas**: uma no incio e no final do conteudo _que no ex. abaixo é a palavra 'uva'  
+
+Sintaxe `marca de abertura + conteúdo + marca de fechamento`  
+
+`*uva*`
+
+Aqui temos a marcação de um asterísco, indicando itálico.
+
+
+🤔️ Além de uma ou duas marcas, há casos específicos, por ex. *link*.  
+Independente disso, Markdown é muito simples. 😄️  
+
+
+👉️ Quando a marca tem uma função mais específica, pode receber outro nome, como delimitador (delimiter)
+
+#### Estrutura, beleza e sentido
+
+Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
+
+<pre>
+> Tudo passa, nada permanece.
+</pre>
+
+Neste código, a **marca >** resulta no efeito visual:  
+
+> Tudo passa, nada permanece.
+
+Isso representa um conteúdo citado.\
+Cada marca da linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
+
+**Markdown atua em 3 dimensões**:  
+
+|Estrutura| Beleza<br>estilo| Sentido<br>significado|
+|:---:|:---:|:---:|
+|Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento. Tecnicamente, é chamada de **apresentação**.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
+
+
+###### estrutura de bloco - ex.
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `#` | Título 1 | Título principal |Texto grande, destacado|
+
+Outras marcas:
+
+|||||
+|---|---|---|---|
+| `##` | `-` | `1.` | `>` | `---` |
+
+###### estrutura inline - ex.
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `**` | Marcação inline | Ênfase forte; destaque|Negrito|
+
+Outras marcas:
+
+|||
+|---|---|
+| `*` | `` ` `` |  
+
+Ex.:\
+
+<pre>
+Não pise no **vermelho**.
+</pre>
+
+
+#### Estrutura de bloco e inline
+
+No que tange a estrutura, temos a questão de organização espacial; disposição do conteúdo.
+
+|estrutura de bloco| estrutura inline|
+|---|---|
+|estrutura maior| subestrutura dentro do bloco|
+|**Ideia**|**Ideia**|
+|Ocupar uma região própria _como uma frase inteira, por exemplo.| Significa permanecer na própria linha.|
+|**Ex.**|**Ex.**|
+|Um título que ocupa uma linha inteira|Um efeito de negrito numa única palavra.|
+
+**Estrutura inline e de bloco - resumo**  
+
+|bloco|inline|
+|:---:|:---:|
+|título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal| negrito, itálico, código inline, link, imagem|
+
+
+#### Design Gráfico
+
+📚️ Layout: Diagramação; disposição visual de elementos em uma página, organização visual.
+
+É uma área de atividade humana, mas que tem um conceito por trás: projetar/ organizar elementos gráficos para comunicar algo visualmente. 
+
+
+###### Composição visual
+ 
+|Diagramação| Layout|
+|---|---:|
+|Causa; ação/processo de organizar os elementos.| Efeito; disposição visual resultante, isto é, ao arranjo que foi produzido.|
+|**composição visual**|**composição visual**|
+|Utiliza princípios como hierarquia visual, alinhamento, espaçamento, margens, colunas e tipografia.| Disposição visual dos elementos nessa composição.|
+
+⚠️ Causa e efeito aqui não é absoluto! É somente uma ideia, não rígida.  
+Layout pode atuar mesmo como o projeto/plano da disposição visual antes da execução, e diagramação se referir ao resultado do trabalho.
+
+Ainda temos a hierarquia visual, a tipografia etc.
+
+
+###### MD e Design Gráfico
+
+MD lida com alguns aspectos que pertencem ao campo do Design Gráfico, mas de maneira extremamente básica.
+
+| Hierarquia visual | Tipografia | Diagramação |
+|---|---|---|
+| `# Título` | `**negrito**` | `---` |
+| `## Subtítulo` | `*itálico*` | `- item` |
+| `### Seção` | `` `código` `` | `> citação` |
+| `**destaque**` | `[link](URL)` | `![imagem](URL)` |
+| `- item` | `# Título` | `\| Coluna \|` |
+
+MD não uma ferramenta de Design Gráfico, mas um "jardim da infância" para quem começa.
+Esses conceitos básicos usados no contexto de MD são úteis posteriormente para quem estuda HTML e, principalmente, CSS.
+
+
 
 
 #### Markdown vs. HTML - Semelhanças
@@ -635,7 +691,7 @@ Abaixo, o título "O Pequeno Príncipe" escrito na linguagen Markdown.
 ```markdown
 ## O Pequeno Príncipe
 ```
-... E escrito em HTML.  
+E escrito em HTML...  
 
 ```html
 <h2>O Pequeno Príncipe</h2>
@@ -671,22 +727,22 @@ O título, como já falamos nesse tutorial, é indicado por # e os parágrafos s
 
 Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamento  `/h1` e `/p`.
 
-<pre>
+```
 <h1>Meu título</h1>
 
 <p>Este é o primeiro parágrafo do documento.</p>
 
 <p>Este é o segundo parágrafo do documento.</p>
-</pre>
+```
 
 😄️ É só ler o que está a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!\
 🤔️ HTML ainda possui atributo e valor.\
 ⚠️ Tecnicamente, o que chamamos aqui de "regras de escrita" é o que se fala como **sintaxe**.
 
 
-#### Layout
+###### Layout
 
-Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.\
+Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 
 |Markdown|HTML|
@@ -744,11 +800,7 @@ Na HTML há mais poder, visto que o recurso de atributo `style` pode alterar ess
 |---|---|---|
 |imagem| `![]()`| img|
 
-Dois espaços ou \Enter equivale a etiqueta br.
-⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
 
-Quebra de linha (\Enter ou DoisEspaçosEnter) → <br>
-Regra horizontal (---) → <hr>
 
 ######  Bloco de código vs. texto pré-formatado
 
@@ -758,11 +810,14 @@ Observe essas duas etiquetas HTML.
 |:---:|:---:|
 |Dá o significado semântico de código| Elemento que preserva a formatação|
 
-O markdown tem uma marca equivalente a `<code>`, que é 1 crase. Já para `<pre>` não há.
+Observe:
 
-###### No HTML...
+|MD|
+|---|
+|marca equivalente a `<code> é 1 crase.|
+|arca equivalente a `<pre>` não há.|
 
-**Texto pré-formatado**: Use <pre>.  
+No HTML para **texto pré-formatado** use `<pre>`.  
 
 No HTML, isso normalmente é feito com <pre>.  
 
@@ -802,7 +857,7 @@ No Markdown uma única crase no início do conteúdo e outra no final equivale e
  👉️ Ou seja, em MD não há algo para o que não é código!
 
 
-###### Finalidade: o vocabulário
+###### Finalidade, vocabulário e UI
 
 Markdown, bem como HTML, também descreve elementos semânticos e de apresentação
 
@@ -811,15 +866,16 @@ Podemos pensar da seguinte forma...
 |MD|HTML|
 |:---:|:---:|
 |É estrutura textual, não UI propriamente dita.||
-|**O termo ‘conteúdo’**|**O termo ‘UI’**||
-|fica melhor para Markdown| Se adequa melhor a HTML/CSS/JS.|
 
 
-###### Conteúdo vs. UI
 
-|Markdown| HTML|
+**Conteúdo vs. UI**:  
+
+
+|MD| HTML|
 |:---:|:---:|
-|O termo 'conteúdo' cabe para Markdown.| O termo UI se ajusta melhor a HTML|
+|**O termo ‘conteúdo’**|**O termo ‘UI’**||
+|Fica melhor para Markdown; cabe para Markdown.| Se ajusta melhor a HTML; se adequa melhor a HTML/CSS/JS.|
 
 Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta melhor a HTML.
 
@@ -828,7 +884,7 @@ Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta me
 
 #### Estrutura, beleza, sentido
 
-Ambas linguagens, Markdown e HTML, oferecem essas três dimensões. A diferença é, principalmente, de amplitude e expressividade.
+A diferença entre MD e HTML é, principalmente, de amplitude e expressividade.
 
 HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 
@@ -890,9 +946,9 @@ Isso está diretamente relacionado à estrutura, porque os elementos são os com
 
 #### Desenvolvimento web
 
-A ideia de estrutura/ beleza/ sentido está presene na Markdown e na HTML, esta de forma muito mais abrangente.
+A ideia de estrutura/ beleza/ sentido está presene na MD e na HTML, esta de forma muito mais abrangente.
 
-Inicia-se percebendo que Markdown lida com estrutura e significado do conteúdo. Logo logo decobriremos que a ideia se aplica também a HTML.
+Inicia-se percebendo que MD lida com estrutura e significado do conteúdo. Logo logo decobriremos que a ideia se aplica também a HTML.
 
 Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
 
