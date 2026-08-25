@@ -62,7 +62,6 @@ Portanto, quando executao, o texto não só aparecerá bonito como um link, como
 ● Organiza a estrutura de um texto, definindo o que é título, parágrafo etc.  
 ● Cuida de alguns aspctos da apresentação _por ex., colocar uma palavra em itálico ou negrito.  
 
-**Diagramação**: imagem (que é recurso gráfico) ou mesmo inserir uma linha bem fininha num texto ou site (o que é um recurso gráfico, porém muito simples). E ainda quebra de linha.
 
 Tudo de forma rápida, sutil.  
 
@@ -78,11 +77,14 @@ Simples! O legal da Markdown é que ela é...
 ● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, isso ao criar um texto. Ou seja, embora meu editor de texto favorito faz o trabalho com um clique de *mouse*, você não precisará mais de mouse.
 
 ⚠️ Gosta de assuntos como tecnologia ou programação?\
-Vija [Markdown para Programadores](#Markdown para programadores).  
+
+Veja Markdown para Programadores.  
 
 
 
 ###### Quem usa Markdown? Onde usa?
+
+🤔️ Podemos pensar que Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
 
 Markdown atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
 
@@ -102,12 +104,6 @@ Na formatação damos forma ao conteúdo, o que envolve tanto a organização qu
 ● organização do conteúdo textual, como um  título.\
 ● aspectos de apresentação, como uma palavra em negrito, letras em itálico etc.\
 ● inserir símbolos (como nos emojis) ou imagens e mesmo links.\
-
-🤔️ Podemos pensar que Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
-
-
-
-
 
 
 
@@ -223,7 +219,10 @@ A aparência é de letra de computador, um efeito mais 'robótico'.
 
 `poweroff`  
 
+<small>
 🤔️ *poweroff*: "comando" que é dado no Terminal _a "telinha preta" do computador.
+</small>
+
 
 Aqui um exemplo de trecho de código JS:  
 
@@ -314,7 +313,7 @@ Portanto, equivale ao de 1 crase (código), que vimos acima _ou seja, serve para
 A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases podemos ter linhas e mais linhas de **texto pré-formatado** _portanto bem útil para escrevermos código de computador.
 
 <small>
-**Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
+🤔️ **Texto pré-formatado**:  Significa preservar a quebra de linha, espaços e recuos, exatamente, como foram digitados.
 </small>
 
 👉️ 4 espaços também pode ser usado no lugar das 3 crases.  
@@ -322,8 +321,8 @@ A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases podemo
 **Criatividade!** Use sua imaginação. O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
-Amai-vos uns aos outros
-como Eu vos amei.
+Ama os teus amigos
+_Tales de Mileto.
 </pre>
 
 E que tal um repente?
@@ -640,6 +639,8 @@ No que tange a estrutura, temos a questão de organização espacial; disposiç�
 Layout pode atuar mesmo como o projeto/plano da disposição visual antes da execução, e diagramação se referir ao resultado do trabalho.
 
 Ainda temos a hierarquia visual, a tipografia etc.
+
+👉️ **Diagramação**: imagem (que é recurso gráfico) ou mesmo inserir uma linha bem fininha num texto ou site (o que é um recurso gráfico, porém muito simples). E ainda quebra de linha.
 
 
 ###### MD e Design Gráfico
