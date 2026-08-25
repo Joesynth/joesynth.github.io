@@ -111,6 +111,10 @@ Na formatação damos forma ao conteúdo, o que envolve tanto a organização qu
 - Linguagem de marcação
 - Estrutura, beleza e sentido
 - Estrutura de bloco e inline
+- Layout
+
+
+
 
 #### Linguagem de marcação
 
@@ -147,12 +151,12 @@ Independente disso, Markdown é muito simples. 😄️
 Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
 
 <pre>
-> Ore pelos seus inimigos.
+> Tudo passa, nada permanece.
 </pre>
 
 Neste código, a **marca >** resulta no efeito visual:  
 
-> Ore pelos seus inimigos.
+> Tudo passa, nada permanece.
 
 Isso representa um conteúdo citado.\
 Cada marca da linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
@@ -214,6 +218,9 @@ No que tange a estrutura, temos a questão de organização espacial; disposiç�
 |título, parágrafo, bloco de citação, bloco de código, lista, linha horizontal| negrito, itálico, código inline, link, imagem|
 
 
+#### Layout
+
+📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -679,8 +686,6 @@ Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamen
 
 #### Layout
 
-📚️ Diagramação; disposição visual de elementos em uma página, organização visual, estrutura visual.\
-
 Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.\
 
 
@@ -891,7 +896,7 @@ Inicia-se percebendo que Markdown lida com estrutura e significado do conteúdo.
 
 Markdown cria uma familiaridade com a ideia de linguagens de marcação e documentos estruturados, o que pode tornar a chegada ao HTML mais intuitiva.
 
-**Comportamento**: é a lógica "do négócio", uma outra etapa que se descobrirá, essa por conta da da JS.  
+**Comportamento**: é a lógica "do négócio", uma outra etapa que se descobrirá, essa por conta da JS.  
 
 
 Vide [HTML, CSS, JS](html-css-e-js).
