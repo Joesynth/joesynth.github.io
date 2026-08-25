@@ -2,7 +2,7 @@
 
 
 
-Markdown é ótimo para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
+A **linguagem Markdown** é ótima para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
 Olá!
 Vamos a um breve tutorial rápido sobre *markdown*? Então...
@@ -205,7 +205,7 @@ Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, belez
 |---|---|---|---|
 | 1 crase| Marcação inline | Código |Fonte mono-<br>espaçada|
 
-👉️ Marca é o símbolo de crase.
+👉️ Marca: é o símbolo de crase.
 
 📚️ Fonte é o desenho da letra (caractere).
 
@@ -223,7 +223,7 @@ A aparência é de letra de computador, um efeito mais 'robótico'.
 
 `poweroff`  
 
-🤔️ *poweroff* é um comando que é dado no Terminal _a "telinha preta" do computador.
+🤔️ *poweroff*: "comando" que é dado no Terminal _a "telinha preta" do computador.
 
 Aqui um exemplo de trecho de código JS:  
 
@@ -250,7 +250,7 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 | `[link](URL)` ||||
 
 **[]**: O texto do *link* fica aqui dentro .\
-**()**: aqui escrevemos a URL.\
+**()**: aqui escrevemos a URL.  
 
 Sintaxe `[textoDoLink](URL)`  
 
@@ -336,7 +336,7 @@ Que brigou com o Juvenal
 </pre>
 
 👉️ Portanto pode-se usar o bloco de código como uma opção (estética) ao bloco de citação.
-Lembre o detalhe: com o bloco de código, semanticamente, você está dizendo ao computador que isso é código.  
+Lembre o detalhe: com o bloco de código, quanto ao significado, você está dizendo ao computador que isso é código.  
 Como dito antes...  
 😄 É como se fosse um *hacking*!  
 
@@ -421,8 +421,8 @@ Regra horizontal (---) → <hr>
 Dois espaços ou \Enter equivale a etiqueta br.
 ⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
 
-Quebra de linha (\Enter ou DoisEspaçosEnter) → <br>
-
+Quebra de linha (\Enter) → <br>  
+👉️ ou DoisEspaçosEnter
 
 ## 💾️ Arquivo Markdown
 
@@ -543,7 +543,7 @@ Neste código, a **marca >** resulta no efeito visual:
 > Tudo passa, nada permanece.
 
 Isso representa um conteúdo citado.\
-Cada marca da linguagem Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
+Cada marca da Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
 **Markdown atua em 3 dimensões**:  
 
@@ -551,6 +551,13 @@ Cada marca da linguagem Markdown produz uma aparência específica no texto e co
 |:---:|:---:|:---:|
 |Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento. Tecnicamente, é chamada de **apresentação**.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 
+**Estrutura**:  
+
+|||||
+|---|---|---|---|
+|quais elementos de conteúdo existem|ordem em que aparecem|hierarquia entre eles| o agrupamento|
+|**Ex.**|**Ex.**|**Ex.**|**Ex.**|
+|subtítulo, parágrafo, lista... |título → parágrafo → lista| # está acima de ##; itens pertencem à lista| itens estão dentro de uma lista|
 
 ###### estrutura de bloco - ex.
 
@@ -576,7 +583,7 @@ Outras marcas:
 |---|---|
 | `*` | `` ` `` |  
 
-Ex.:\
+Ex.:  
 
 <pre>
 Não pise no **vermelho**.
@@ -638,7 +645,7 @@ MD lida com alguns aspectos que pertencem ao campo do Design Gráfico, mas de ma
 MD não uma ferramenta de Design Gráfico, mas um "jardim da infância" para quem começa.
 Esses conceitos básicos usados no contexto de MD são úteis posteriormente para quem estuda HTML e, principalmente, CSS.
 
-
+👉️ Além de MD, hierarquia visual, tipografia, diagramação - estão presentes em MD, HTML, CSS.
 
 
 #### Markdown vs. HTML - Semelhanças
@@ -742,7 +749,7 @@ Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamen
 
 ###### Layout
 
-Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
+MD e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 
 |Markdown|HTML|
@@ -751,6 +758,26 @@ Markdown e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 |...de forma básica| ...de forma muito mais ampla e detalhada|
 |títulos, parágrafos, citações...| Por exemplo agrupamento _colocar vários elementos dentro de uma seção `<section>`|
 
+Antes da informática/ desenvolvimento web, na prática em jornais, revistas e publicidade, layout podia se referir a coisas (artes gráficas, publicidade e diagramação) como:
+
+<pre>
+onde ficariam os textos;
+posição e tamanho das imagens;
+títulos e subtítulos;
+colunas;
+margens e espaços;
+anúncios e outros elementos gráficos.
+</pre>
+
+Layout é um dos conceitos fundamentais de UI Design. O estudante aprende, por exemplo, sobre:
+
+    disposição e posicionamento de elementos;
+    alinhamento;
+    espaçamento;
+    grids;
+    hierarquia visual;
+    composição de telas;
+    organização de conteúdo.
 
 
 ###### Construção vs. elemento | Bloco e inline
