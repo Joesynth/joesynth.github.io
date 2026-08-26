@@ -45,7 +45,8 @@ Parte 1
 
 Essas marcações funcionam como *"atalhos no teclado"*. 😄️
 
-<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
+<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Mas...marcar o que?
+
 Simples! A gente escreve algo, uma palavra, por ex., e coloca alguma marca para dizer ao programa como aquele texto deve ser mostrado. Por exemplo:  
 
 `*morango*`
@@ -65,6 +66,13 @@ Também temos um marca relacionada com a **estrutura** do texto, é o caso de um
 
 Além, temos o significado de função específica. Exemplo: marcar um *link*.
 Portanto, quando executao, o texto não só aparecerá bonito como um link, como de fato, levará o usuário para outro endereço.
+
+Então...
+
+**Poucos comandos**: Fácil de aprender em poucas horas.\
+**Mais agilidade!**: Dispensa até o uso de *mouse*, de tão simples que é.\ 
+**Código fácil de entender**: são simples "atalhos" ou "comandinhos" _com asteríscos, sustenidos.
+**Conteúdo?** Também há algo mais gŕafico, como emojis ou imagens; além do texto escrito, claro!
 
 #### Quem Usa?
 
@@ -157,9 +165,9 @@ O sustenido é usado para título.
 </pre>
 
 
-**Parágrafo**: Marca: Não há!  
+**Parágrafo**: Marca: Não há! Pule uma linha!
 
-É simplesmente uma sequência de texto separada de outra por uma linha em branco.  
+O parágrafo é simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 
 
 
@@ -168,7 +176,9 @@ Em lingua portuguesa temos a estrutura textual, onde título, introdução e des
 
 ```
 # Meu Título.
+
 Parágrafo de introdução, bla blá...
+
 Parágrafo de desenvolvimento, bla...
 ```
 Exemplo:  
@@ -212,9 +222,7 @@ Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, belez
 |---|---|---|---|
 | 1 crase| Marcação inline | Código |Fonte mono-<br>espaçada|
 
-👉️ Marca: é o símbolo de crase.
-
-📚️ Fonte é o desenho da letra (caractere).
+📚️ Fonte: desenho da letra (caractere).
 
 <pre>
 `código`
@@ -428,10 +436,10 @@ Regra horizontal (---) → <hr>
 |---|---|---|---|
 |`\`||||
 
-Dois espaços ou \Enter equivale a etiqueta br.  
+Dois espaços ou \Enter.\
 ⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
 
-Quebra de linha (\Enter) → <br>  
+Quebra de linha (\Enter)
 👉️ ou DoisEspaçosEnter
 
 ## 💾️ Arquivo Markdown
@@ -465,44 +473,21 @@ Se você gosta de assuntos como **tecnologia e programação**, Markdown é a li
 
 Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
 
-● CLI: Markdown pode ser sua primeira experiência com software de linha de comando. Ou seja, não precisa usar *mouse*, de fato. Markdown funciona com o editor Nano, um CLI padrão no Linux. 
 
-😄️ Uma boa "brincadeira" para quem gosta de tecnologia é exatamente escrever Markdown no Nano.
 
 <small>
-A partir desse momento, pense seriamente em criar sua conta no GitLab!
+A partir desse momento, pense seriamente em criar sua conta no GitLab!\
 A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
 </small>
-
-Poucos comandos (daí fácil de aprender em poucas horas
-Dispensa uso de mouse, de tão simples que é. Mais agilidade!
-Fácil de entender o código (com asteríscos, sustenidos)
-👉️ Conteúdo? No Markdown também temos símbolos (como nos emojis), imagens etc.
-
-Como vimos, comparada à linguagem programação HTML, ela é limitada, mas equivale ao "jardim da infância" da programação.
-Markdown oferece um belo conhecimento essencial, no sentido de que esse saber vai estar presente a todo momento na nossa vida de um programador.\
-
-||MD|HTML|
-|---|:---:|:---:|
-|ideia de linguagem de marcação|✔|✔|
-|estrutura/ beleza/ sentido|✔|✔|
-|bloco e inline|✔|✔|
-|ideia de regras de escrita, sintaxe|✔|✔|
-|conteúdo (textual)|✔|✔|
+gens etc.
 
 
-
-###### Markdown e programação - Na Prática!
-
-Além do alicerce teórico, para um programador, Markdown logo logo será útil para...\
-✔ Uso do terminal para escrevermos código, em vez de *mouse*.\
-✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
 
 
 ## Markdown: alguns conceitos
 
-MD dá uma base para conceitos que aparecerão no HTML e mesmo no desenvolvimento web.
+MD dá uma base para conceitos que aparecerão na HTML e mesmo na CSS ou no desenvolvimento web.
 
 - Linguagem de marcação
 - Estrutura, beleza e sentido
@@ -521,6 +506,8 @@ Outros conceitos...
 
 
 #### Linguagem de marcação
+
+Markdown é uma **linguagem de marcação**.
 
 As marcas...  
 
@@ -558,11 +545,11 @@ Markdown lida como o conteúdo aparece, bem como o que representa. Veja.
 > Tudo passa, nada permanece.
 </pre>
 
-Neste código, a **marca >** resulta no efeito visual:  
+Neste código, a **marca >** representa um conteúdo citado (no caso "tudo passa...") e resulta no efeito visual:  
 
 > Tudo passa, nada permanece.
 
-Isso representa um conteúdo citado.\
+Isso .
 Cada marca da Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
 **Markdown atua em 3 dimensões**:  
@@ -642,7 +629,7 @@ No que tange a estrutura, temos a questão de organização espacial; disposiç�
 **Formatação** é um termo de uso cotidiano e amplo. Vasto, no dia a dia está associado a aparência (caso de uma palavra negrito, tamanho da letra...) bem como a questão de disposição espacial (se tá alinhado na esquerda ou direita, se há recuo da margem etc).\
 Portanto abrange tanto características de aparência quanto aspectos de disposição e organização espacial.
 
-No vocabulário técnico, em vez de ver a formatação de forma abrangente, se decompoe em operações e conceitos mais específicos.
+No vocabulário técnico, em vez de ver a formatação de forma abrangente, se decompôe em operações e conceitos mais específicos.
 Então o *desgn gráfico* faz abstrações, como layout, diagramação, hierarquia etc) pq é essencial para o seu trabalho.
 
 ###### Composição visual
@@ -684,7 +671,7 @@ MD lida com alguns aspectos que pertencem ao campo do Design Gráfico, mas de ma
 MD não uma ferramenta de Design Gráfico, mas um "jardim da infância" para quem começa.
 Esses conceitos básicos usados no contexto de MD são úteis posteriormente para quem estuda HTML e, principalmente, CSS.
 
-👉️ Além de MD, hierarquia visual, tipografia, diagramação - estão presentes em MD, HTML, CSS.
+👉️ Hierarquia visual, tipografia, diagramação estão presentes em MD, HTML, CSS.
 
 
 #### Markdown vs. HTML - Semelhanças
@@ -866,7 +853,7 @@ Na HTML há mais poder, visto que o recurso de atributo `style` pode alterar ess
 |---|---|---|
 |imagem| `![]()`| img|
 
-
+👉️ Quebra de linha, \Enter, `<br>`.
 
 ######  Bloco de código vs. texto pré-formatado
 
@@ -1053,11 +1040,37 @@ A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. N
 |elemento para texto pré-formatado|Sintaxe para bloco de código|
 |Texto pré-formatado. Pode conter código, mas não necessariamente.| Projetado especificamente para representar código.|
 
+###### CLI
+
+MD pode ser sua primeira experiência com software de linha de comando. Ou seja, não precisa usar *mouse*, de fato. Markdown funciona com o Nano, o editor em CLI padrão no Linux. 
+
+😄️ Uma boa "brincadeira" para quem gosta de tecnologia é exatamente escrever Markdown no Nano.
+
+###### Conceitos - resumo
+
+||MD|HTML|
+|---|:---:|:---:|
+|ideia de linguagem de marcação|✔|✔|
+|estrutura/ beleza/ sentido|✔|✔|
+|bloco e inline|✔|✔|
+|ideia de regras de escrita, sintaxe|✔|✔|
+|conteúdo (textual)|✔|✔|
+
 
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
+
+
+
+
+
+## Markdown e programação - Na Prática!
+
+Além do alicerce teórico, para um programador, Markdown logo logo será útil para...\
+✔ Uso do terminal para escrevermos código, em vez de *mouse*.\
+✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
 
 
@@ -1296,6 +1309,9 @@ O foco original, em 2004, era:
 Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
 
 
+Como vimos neste tutorial a MD funciona super bem para produção de conteúdo textual. Mas, comparada à linguagem HTML, a Markdown é limitada, sendo equivalente ao "jardim da infância" da programação.
+
+Ainda sim Markdown é conhecimento essencial devido aos conceitos que estão por trás dela. Esses saberes são um belo pilar para a vida de um programador que se inicia.
 
 É isso!  
 Grande abraço.  
