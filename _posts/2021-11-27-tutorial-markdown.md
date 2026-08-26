@@ -3,8 +3,9 @@
 x
 
 1. Mouse
-2. *Mouse em italico*
+2. Mouse em *italico*
 3. PC em **negrito**
+4. Use a tecla `shift`
 
 - Mouse
 - *Mouse em italico*
