@@ -33,7 +33,17 @@ Parte 3
 - Mais links sobre o tema.
 
 
-## O que é Markdown? Quem Usa?
+Parte 1
+
+## Introdução
+
+#### O que é Markdown?
+
+🤔️ Podemos pensar que...
+
+> Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
+
+Essas marcações funcionam como *"atalhos no teclado"*. 😄️
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="79" height="49" />Markdown é uma linguagem de marcação. Mas...marcar o que?  
 Simples! A gente escreve algo, uma palavra, por ex., e coloca alguma marca para dizer ao programa como aquele texto deve ser mostrado. Por exemplo:  
@@ -56,16 +66,9 @@ Também temos um marca relacionada com a **estrutura** do texto, é o caso de um
 Além, temos o significado de função específica. Exemplo: marcar um *link*.
 Portanto, quando executao, o texto não só aparecerá bonito como um link, como de fato, levará o usuário para outro endereço.
 
-
-#### Resumindo Markdown
-
-● Organiza a estrutura de um texto, definindo o que é título, parágrafo etc.  
-● Cuida de alguns aspctos da apresentação _por ex., colocar uma palavra em itálico ou negrito.  
+#### Quem Usa?
 
 
-Tudo de forma rápida, sutil.  
-
-👉️ Ainda temos *links*.
 
 #### Por quê aprender Markdown?
 
@@ -76,15 +79,14 @@ Simples! O legal da Markdown é que ela é...
 ● Bem **atraente** para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte.  
 ● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, isso ao criar um texto. Ou seja, embora meu editor de texto favorito faz o trabalho com um clique de *mouse*, você não precisará mais de mouse.
 
-⚠️ Gosta de assuntos como tecnologia ou programação?\
+⚠️ Gosta de assuntos como tecnologia ou programação?  
+
 
 Veja Markdown para Programadores.  
 
 
 
-###### Quem usa Markdown? Onde usa?
-
-🤔️ Podemos pensar que Markdown é uma forma de escrever e descrever texto formatado por meio de marcações simples.
+#### Quem usa Markdown? Onde usa?
 
 Markdown atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
 
@@ -96,9 +98,9 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 
 
 
-###### Para que serve Markdown?
+#### Para que serve Markdown?
 
-Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).\
+Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
 
 Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.\
 ● organização do conteúdo textual, como um  título.\
@@ -106,6 +108,15 @@ Na formatação damos forma ao conteúdo, o que envolve tanto a organização qu
 ● inserir símbolos (como nos emojis) ou imagens e mesmo links.\
 
 
+#### Resumindo Markdown
+
+● Organiza a estrutura de um texto, definindo o que é título, parágrafo etc.  
+● Cuida de alguns aspctos da apresentação _por ex., colocar uma palavra em itálico ou negrito.  
+
+
+Tudo de forma rápida, sutil.  
+
+👉️ Ainda temos *links*.
 
 
 
@@ -564,11 +575,17 @@ Cada marca da Markdown produz uma aparência específica no texto e comunica um 
 
 **Estrutura**:  
 
-|||||
-|---|---|---|---|
-|quais elementos de conteúdo existem|ordem em que aparecem|hierarquia entre eles| o agrupamento|
-|**Ex.**|**Ex.**|**Ex.**|**Ex.**|
-|subtítulo, parágrafo, lista... |título → parágrafo → lista| # está acima de ##; itens pertencem à lista| itens estão dentro de uma lista|
+|||
+|---|---|
+|quais elementos de conteúdo existem|ordem em que aparecem|
+|**Ex.**|**Ex.**|
+|subtítulo, parágrafo, lista... |título → parágrafo → lista|
+
+|||
+|---|---|
+|hierarquia entre eles|o agrupamento|
+|**Ex.**|**Ex.**|
+|# está acima de ##; itens pertencem à lista|itens estão dentro de uma lista|
 
 ###### estrutura de bloco - ex.
 
@@ -622,21 +639,30 @@ No que tange a estrutura, temos a questão de organização espacial; disposiç�
 
 #### Design Gráfico
 
-📚️ Layout: Diagramação; disposição visual de elementos em uma página, organização visual.
+**Formatação** é um termo de uso cotidiano e amplo. Vasto, no dia a dia está associado a aparência (caso de uma palavra negrito, tamanho da letra...) bem como a questão de disposição espacial (se tá alinhado na esquerda ou direita, se há recuo da margem etc).\
+Portanto abrange tanto características de aparência quanto aspectos de disposição e organização espacial.
 
-É uma área de atividade humana, mas que tem um conceito por trás: projetar/ organizar elementos gráficos para comunicar algo visualmente. 
-
+No vocabulário técnico, em vez de ver a formatação de forma abrangente, se decompoe em operações e conceitos mais específicos.
+Então o *desgn gráfico* faz abstrações, como layout, diagramação, hierarquia etc) pq é essencial para o seu trabalho.
 
 ###### Composição visual
+
+📚️ Layout = Diagramação.  
+
+No dia a dia ambas palavras se equivalem, uma é tradução da outra _mas tecnicamente há nuances.
+
+**Layout**: disposição visual de elementos em uma página, organização visual. É uma área de atividade humana, mas que tem um conceito por trás: projetar/ organizar elementos gráficos para comunicar algo visualmente.
  
 |Diagramação| Layout|
-|---|---:|
+|---|---|
 |Causa; ação/processo de organizar os elementos.| Efeito; disposição visual resultante, isto é, ao arranjo que foi produzido.|
 |**composição visual**|**composição visual**|
 |Utiliza princípios como hierarquia visual, alinhamento, espaçamento, margens, colunas e tipografia.| Disposição visual dos elementos nessa composição.|
 
 ⚠️ Causa e efeito aqui não é absoluto! É somente uma ideia, não rígida.  
-Layout pode atuar mesmo como o projeto/plano da disposição visual antes da execução, e diagramação se referir ao resultado do trabalho.
+Layout pode atuar mesmo como o projeto/plano da disposição visual antes da execução, e diagramação se referir ao resultado do trabalho.  
+
+ 
 
 Ainda temos a hierarquia visual, a tipografia etc.
 
