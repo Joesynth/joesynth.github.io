@@ -1,6 +1,23 @@
 # Markdown
 
+x
 
+1. Mouse
+2. *Mouse em italico*
+3. PC em **negrito**
+
+- Mouse
+- *Mouse em italico*
+- PC em **negrito**
+
+# A *bola*
+
+# A **força**
+
+> O **negrito** é forte em *italico*
+
+paragrafo com *italico* e **negrito**
+x
 
 A **linguagem Markdown** é ótima para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
@@ -141,7 +158,7 @@ Tudo de forma rápida, sutil.
 
 #### Texto
 
-###### Título e parágrafo
+###### Título e subtítulo
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
@@ -165,7 +182,18 @@ O sustenido é usado para título.
 </pre>
 
 
-**Parágrafo**: Marca: Não há! Pule uma linha!
+###### Parágrafo e quebra de linha
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+||  |  ||  
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+|`\`||||
+
+
+**Parágrafo** não há marca. Pule uma linha!
 
 O parágrafo é simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 
@@ -191,7 +219,13 @@ No primeiro dia Deus criou...
 E nasce Jesus em Nazaré...
 </pre>
 
+**Quebra de linha**
 
+Dois espaços ou \Enter.\
+⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
+
+Quebra de linha (\Enter)
+👉️ ou DoisEspaçosEnter
 
 #### Efeitos visuais no texto - inline
 
@@ -430,17 +464,7 @@ Indica uma separação de temática/estrutural. usamos quando damos o significad
 
 Regra horizontal (---) → <hr>
 
-###### Quebra de linha
 
-| Marca | Estrutura | Sentido | Estética
-|---|---|---|---|
-|`\`||||
-
-Dois espaços ou \Enter.\
-⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
-
-Quebra de linha (\Enter)
-👉️ ou DoisEspaçosEnter
 
 ## 💾️ Arquivo Markdown
 
