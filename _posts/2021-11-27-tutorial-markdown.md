@@ -676,7 +676,7 @@ MD lida com alguns aspectos que pertencem ao campo do Design Gráfico, mas de ma
 MD não uma ferramenta de Design Gráfico, mas um "jardim da infância" para quem começa.
 Esses conceitos básicos usados no contexto de MD são úteis posteriormente para quem estuda HTML e, principalmente, CSS.
 
-👉️ Hierarquia visual, tipografia, diagramação estão presentes em MD, HTML, CSS.
+
 
 
 #### Markdown vs. HTML - Semelhanças
@@ -684,12 +684,54 @@ Esses conceitos básicos usados no contexto de MD são úteis posteriormente par
 
 O que há de igual ou semelhante em ambas linguagens?  
 
-
-Aparência = como o conteúdo se apresenta.
-Espaço/disposição = como o conteúdo se organiza no espaço.
+|Aparência| Espaço/ disposição|
+|:---:|:---:|
+|Como o conteúdo se apresenta.| Como o conteúdo se organiza no espaço.|
 
 Em suma...   
 🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
+
+
+#### Texto verbal vs. não verbal
+
+**Verbal - escrito** - bloco
+
+||MD|HTML|
+|---|---|---|
+|título| #| h1-h6|
+|parágrafo| | p|
+|bloco de citação| >| blockquote|
+|bloco de código| 3 crases| `<pre><code>`|
+|lista ordenada| 1.| ol|
+|lista não ord.| -| ul|
+
+**Verbal - escrito** - inline
+
+||MD|HTML|
+|---|---|---|
+|negrito| **| strong|
+|itálico| *| em|
+|código| 1 crase| code|
+|link| `[]()`| a|
+
+
+**Texto não verbal**:
+
+||MD|HTML|
+|---|---|---|
+|imagem| `![]()`| img|
+
+**Formatação / diagramação**:
+
+No que tange à organização espacial do conteúdo, os recursos abaixo são de formatação/diagramação.\
+Ou seja, recursos de formatação/diagramação espacial do conteúdo, em um nível extremamente básico.
+
+||MD|HTML|
+|---|---|---|
+|Quebra de linha|`\Enter`|`<br>`|
+|Regra horizontal|`---`|`<hr>`|
+
+
 
 
 
@@ -713,16 +755,20 @@ Marcações:
 |poucas marcas| muitas etiquetas|
 |**Ex.**|**Ex.**|
 | * # |p a|
-|**regras de escrita** | **regras de escrita** |
-|mais simples| mais completas, com |
-|**recursos**|**recursos**|
-|mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
+
 
 👉️ Tecnicamente, diz-se que # é um *heading marker* (marcador de título), *marker* . Já # Título é **estrutura de cabeçalho** (heading structure).\
 👉️ Delimitador também é um termo técnico, caso de enfase, por exemplo.\
 Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideias cumprem o papel de marcação para as respectivas linguagens.\
 
-As **regras de escrita** nos dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.\
+**Regras de escrita**: dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
+
+|Markdown| HTML|
+|:--:|:--:|
+|**regras de escrita** | **regras de escrita** |
+|mais simples| mais completas |
+|**recursos**|**recursos**|
+|mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
 
 Abaixo, o título "O Pequeno Príncipe" escrito na linguagen Markdown.  
 
@@ -822,52 +868,14 @@ Layout é um dos conceitos fundamentais de UI Design. O estudante aprende, por e
 |construção/sintaxe| elemento|
 
 **Bloco e inline**: Ideia que serve tanto para Markdown quanto para HTML.  
-Na HTML há mais poder, visto que o recurso de atributo `style` pode alterar esse comportamento.
 
 |Markdown|HTML|
 |---|---|
 |bloco e inline|bloco e inline|
-
-
-#### Texto verbal vs. não verbal
-
-**Verbal - escrito** - bloco
-
-||MD|HTML|
-|---|---|---|
-|título| #| h1-h6|
-|parágrafo| | p|
-|bloco de citação| >| blockquote|
-|bloco de código| 3 crases| `<pre><code>`|
-|lista ordenada| 1.| ol|
-|lista não ord.| -| ul|
-
-**Verbal - escrito** - inline
-
-||MD|HTML|
-|---|---|---|
-|negrito| **| strong|
-|itálico| *| em|
-|código| 1 crase| code|
-|link| `[]()`| a|
-
-
-**Texto não verbal**
-
-||MD|HTML|
-|---|---|---|
-|imagem| `![]()`| img|
-
-👉️ Quebra de linha, \Enter, `<br>`.
+||Há mais poder (o recurso de atributo `style` pode alterar o comportamento de um para o outro).|
 
 
 
-Regra horizontal (---) → <hr>
-
-**\ e `---`**: equivalentes, respectivamente, a <br> e <hr> no HTML.
-
-No que tange à organização espacial do conteúdo, as marcas \ e --- são recursos de formatação/diagramação.\
-Ou seja, recursos de formatação/diagramação espacial do conteúdo, em um nível extremamente básico.
 
 
 ######  Bloco de código vs. texto pré-formatado
@@ -997,8 +1005,9 @@ button select form
 Isso está diretamente relacionado à estrutura, porque os elementos são os componentes por meio dos quais a estrutura do conteúdo é organizada.
 
 
-#### Finalidade: conteúdo vs. UI
+#### Conteúdo vs. UI
 
+Finalidade?
 
 |Markdown|HTML|
 |:---:|:---:|
@@ -1008,9 +1017,11 @@ Isso está diretamente relacionado à estrutura, porque os elementos são os com
 
 👉️ HTML ainda permite “superpoderes” com CSS.
 
-**Um exemplo de UI?**  Criarmos um botão com menu. Impossível usando Markdown, mas em HTML não — exatamente por ela ser própria para isso.
+**Um exemplo de UI?**  Criarmos um botão com menu.
 
-
+|Markdown|HTML|
+|:---:|:---:|
+|Impossível.| Possível, exatamente por ela ser própria para isso.|
 
 #### Desenvolvimento web
 
@@ -1039,7 +1050,7 @@ Então, além das marcas Markdown que vimos, temos etiquetas (*tags*) HTML poss�
 
 
 
-###### Tag <pre> vs. 3 crases
+#### Tag <pre> vs. 3 crases
 
 Considere um software que funciona ao mesmo tempo com ambas linguagens.
 
@@ -1074,6 +1085,11 @@ MD pode ser sua primeira experiência com software de linha de comando. Ou seja,
 ||MD|CSS|
 |---|:---:|:---:|
 |formatação/diagramação|✔|✔|
+
+||MD|HTML|CSS
+|---|:---:|:---:|:---:|
+|Hierarquia visual, tipografia, diagramação|✔|✔|✔|
+
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
@@ -1308,14 +1324,15 @@ Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além
 ## Um pouco de história
 
 Markdown foi criada principalmente para escritores e autores de conteúdo na web.  
-Uma das ideias centrais era ser uma alternativa mais simples ao HTML, para escrever conteúdo web.  
+Uma das ideias centrais era ser uma alternativa mais simples ao HTML, para escrever conteúdo web.
+
 O foco original, em 2004, era:
 
-● Criar uma forma simples de escrever texto formatado;
-🤔️ HTML, que também tem esse fim, é mais trabalhoso.
-● Fácil de ler, fácil de escrever _mesmo sem renderização;
-🤔️ HTML é menos natural para quem só quer escrever textos, histórias.
-● Evitar que o autor precisasse escrever HTML diretamente.
+● Criar uma forma simples de escrever texto formatado;\
+🤔️ HTML, que também tem esse fim, é mais trabalhoso.\
+● Fácil de ler, fácil de escrever _mesmo sem renderização;\
+● Evitar que o autor precisasse escrever HTML diretamente.\
+🤔️ HTML é menos natural para quem só quer escrever textos, histórias.\
 ● Permitir conversão para HTML;
 
 
