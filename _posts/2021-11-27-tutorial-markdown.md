@@ -1,24 +1,5 @@
 # Markdown
 
-x
-
-1. Mouse
-2. Mouse em *italico*
-3. PC em **negrito**
-4. Use a tecla `shift`
-
-- Mouse
-- *Mouse em italico*
-- PC em **negrito**
-
-# A *bola*
-
-# A **força**
-
-> O **negrito** é forte em *italico*
-
-paragrafo com *italico* e **negrito**
-x
 
 A **linguagem Markdown** é ótima para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
@@ -463,7 +444,6 @@ Exemplo:
 
 Indica uma separação de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
-Regra horizontal (---) → <hr>
 
 
 
@@ -880,6 +860,16 @@ Na HTML há mais poder, visto que o recurso de atributo `style` pode alterar ess
 
 👉️ Quebra de linha, \Enter, `<br>`.
 
+
+
+Regra horizontal (---) → <hr>
+
+**\ e `---`**: equivalentes, respectivamente, a <br> e <hr> no HTML.
+
+No que tange à organização espacial do conteúdo, as marcas \ e --- são recursos de formatação/diagramação.\
+Ou seja, recursos de formatação/diagramação espacial do conteúdo, em um nível extremamente básico.
+
+
 ######  Bloco de código vs. texto pré-formatado
 
 Observe essas duas etiquetas HTML.
@@ -1079,10 +1069,11 @@ MD pode ser sua primeira experiência com software de linha de comando. Ou seja,
 |estrutura/ beleza/ sentido|✔|✔|
 |bloco e inline|✔|✔|
 |ideia de regras de escrita, sintaxe|✔|✔|
-|conteúdo (textual)|✔|✔|
+|conteúdo textual|✔|✔|
 
-
-
+||MD|CSS|
+|---|:---:|:---:|
+|formatação/diagramação|✔|✔|
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
 
