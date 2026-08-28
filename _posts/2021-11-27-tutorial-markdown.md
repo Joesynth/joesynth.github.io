@@ -1,7 +1,7 @@
 # Markdown
 
 
-[JoeSynth](joesynth.wordpress.com)
+[JoeSynth](http://joesynth.wordpress.com)
 sem http://
 
 
