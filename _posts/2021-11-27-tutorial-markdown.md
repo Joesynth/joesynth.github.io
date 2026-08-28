@@ -2,8 +2,9 @@
 
 
 [JoeSynth](http://joesynth.wordpress.com)
-sem http://
-
+com http://
+[GitLab](http://gitlab.com)
+[Wikipedia](http://wikipedia.org)
 
 A **linguagem Markdown** é ótima para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
