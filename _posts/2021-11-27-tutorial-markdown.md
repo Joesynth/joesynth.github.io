@@ -1,6 +1,10 @@
 # Markdown
 
 
+[JoeSynth](joesynth.wordpress.com)
+sem http://
+
+
 A **linguagem Markdown** é ótima para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
 Olá!
@@ -69,8 +73,8 @@ Portanto, quando executao, o texto não só aparecerá bonito como um link, como
 Então...
 
 **Poucos comandos**: Fácil de aprender em poucas horas.\
-**Mais agilidade!**: Dispensa até o uso de *mouse*, de tão simples que é.\ 
-**Código fácil de entender**: são simples "atalhos" ou "comandinhos" _com asteríscos, sustenidos.
+**Mais agilidade!**: Dispensa até o uso de *mouse*, de tão simples que é.\
+**Código fácil de entender**: são simples "atalhos" ou "comandinhos" _com asteríscos, sustenidos.\
 **Conteúdo?** Também há algo mais gŕafico, como emojis ou imagens; além do texto escrito, claro!
 
 #### Quem Usa?
@@ -95,7 +99,7 @@ Veja Markdown para Programadores.
 
 #### Quem usa Markdown? 
 
-Markdown atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
+MD atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
@@ -110,10 +114,10 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 
 #### Para que serve Markdown?
 
-Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
+MD é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
 
 Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.\
-● inserir símbolos (como nos emojis) ou imagens e mesmo links.\
+● inserir símbolos (como nos emojis) ou imagens e mesmo links.
 
 
 **Resumindo Markdown**:
@@ -162,15 +166,14 @@ O sustenido é usado para título.
 
 **Marca ##**:  Pense subtítulo! Isso gera uma letra de tamanho de título menor que o marcador.
 
-<small>
-`######`até 6 níveis de sustenidos podem ser usados. Bom para organizar seu texto.
-</small>
-
 <pre>
 # Título
 ## O Pica Pau
 </pre>
 
+<small>
+`######` até 6 níveis de sustenidos podem ser usados. Bom para organizar seu texto.
+</small>
 
 ###### Parágrafo e quebra de linha
 
@@ -382,7 +385,8 @@ Que brigou com o Juvenal
 👉️ Você pode usar o bloco de código como uma opção (estética) ao bloco de citação.
 
 <small>
-⚠️ Como dito antes, com *bloco de código*, quanto ao significado, você está dizendo ao computador que isso é código.\
+⚠️ Como dito antes, com *bloco de código*, quanto ao significado, você está dizendo ao computador que isso é código.
+
 😄 É como se fosse um *hacking*!  
 </small>
 
@@ -493,7 +497,8 @@ Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para que
 
 
 <small>
-A partir desse momento, pense seriamente em criar sua conta no GitLab!\
+A partir desse momento, pense seriamente em criar sua conta no GitLab!
+
 A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
 </small>
 gens etc.
@@ -575,7 +580,7 @@ Cada marca da Markdown produz uma aparência específica no texto e comunica um 
 |:---:|:---:|:---:|
 |Organização do conteúdo. Ou seja, organização dos elementos do conteúdo, inclusive a ordem, hierarquia e aninhamento.| Como determinado conteúdo deve ser apresentado visualmente. Inclui tipo de letra, tamanho, peso (negrito) e espaçamento. Tecnicamente, é chamada de **apresentação**.| Natureza ou função do conteúdo. Tecnicamente, é chamada de **semântica**.|
 
-👉️ Aninhar - Algo que está dentro do outro. Ex. lista.
+👉️ Aninhamento - Algo que está dentro do outro. Ex. lista.
 
 **Estrutura**:  
 
@@ -647,7 +652,7 @@ No que tange a estrutura, temos a questão de organização espacial; disposiç�
 Portanto abrange tanto características de aparência quanto aspectos de disposição e organização espacial.
 
 No vocabulário técnico, em vez de ver a formatação de forma abrangente, se decompôe em operações e conceitos mais específicos.
-Então o *desgn gráfico* faz abstrações, como layout, diagramação, hierarquia etc) pq é essencial para o seu trabalho.
+Então o *design gráfico* faz abstrações, como layout, diagramação, hierarquia etc) pq é essencial para o seu trabalho.
 
 ###### Composição visual
 
