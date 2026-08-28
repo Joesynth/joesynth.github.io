@@ -93,16 +93,19 @@ Veja Markdown para Programadores.
 
 
 
-#### Quem usa Markdown? Onde usa?
+#### Quem usa Markdown? 
 
 Markdown atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
-**Software**? A Markdown é utilizada em...  
-● mensagens instantâneas (Telegram, por ex.),  
-● *software* colaborativo (caso do Collabora Online que permite importar),  
 
+#### Onde usa?
+
+**Software**? A Markdown é utilizada em...  
+● mensagens instantâneas (Telegram, por ex.),\
+● *software* colaborativo (caso do Collabora Online que permite importar),\
+● Wordpress.
 
 
 #### Para que serve Markdown?
@@ -110,16 +113,17 @@ Markdown atende **autores** e **escritores** que querem criar escrever texto sem
 Markdown é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
 
 Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.\
-● organização do conteúdo textual, como um  título.\
-● aspectos de apresentação, como uma palavra em negrito, letras em itálico etc.\
 ● inserir símbolos (como nos emojis) ou imagens e mesmo links.\
 
 
-#### Resumindo Markdown
+**Resumindo Markdown**:
 
-● Organiza a estrutura de um texto, definindo o que é título, parágrafo etc.  
-● Cuida de alguns aspctos da apresentação _por ex., colocar uma palavra em itálico ou negrito.  
-
+|MD|
+|:---:|
+|**estrutura**|
+| Organiza a estrutura do conteúdo textual, definindo o que é título, parágrafo etc.|
+|**apresentação**|
+|Cuida de alguns aspctos da apresentação, como pôr uma palavra em itálico ou negrito.|
 
 Tudo de forma rápida, sutil.  
 
@@ -156,7 +160,11 @@ O sustenido é usado para título.
 # O Pica Pau
 </pre>
 
-**Marca ## até ######**: até 6 níveis de sustenidos podem ser usados. Pense subtítulo! Isso gera uma letra de tamanho de título menor que o marcador #. Bom para organizar seu texto.
+**Marca ##**:  Pense subtítulo! Isso gera uma letra de tamanho de título menor que o marcador.
+
+<small>
+`######`até 6 níveis de sustenidos podem ser usados. Bom para organizar seu texto.
+</small>
 
 <pre>
 # Título
@@ -166,16 +174,13 @@ O sustenido é usado para título.
 
 ###### Parágrafo e quebra de linha
 
+**Parágrafo**:
+
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 ||  |  ||  
 
-| Marca | Estrutura | Sentido | Estética
-|---|---|---|---|
-|`\`||||
-
-
-**Parágrafo** não há marca. Pule uma linha!
+Mão há marca! É só pular uma linha.
 
 O parágrafo é simplesmente uma sequência de texto separada de outra por uma linha em branco.  
 
@@ -201,13 +206,17 @@ No primeiro dia Deus criou...
 E nasce Jesus em Nazaré...
 </pre>
 
-**Quebra de linha**
+**Quebra de linha**:
 
-Dois espaços ou \Enter.\
-⚠️ \Enter precisa ser o último caractere da linha, não pode haver espaço depois da barra.
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+|`\Enter`||||
 
-Quebra de linha (\Enter)
-👉️ ou DoisEspaçosEnter
+
+A \ precisa ser o último caractere da linha, não podendo haver espaço depois da barra.
+
+👉️ ou DoisEspaçosEnter no lugar de `\Enter`.
+
 
 #### Efeitos visuais no texto - inline
 
@@ -216,8 +225,10 @@ Pense estilo de letra! 😄️
 
 Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, beleza... Mas há sentido também.
 
+Cada um desses "efeitos" é *inline*, ou seja, fica dentro do fluxo do texto; dentro da mesma linha/parágrafo.
+Logo, use dentro de uma frase ou parágrafo. 
 
-###### Negrito e Itálico
+**Negrito e Itálico**:
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
@@ -232,7 +243,7 @@ Ou seja, é um efeito visual do "desenho" da letra. Questão de estética, belez
 </pre>
 
 
-###### Código
+**Código**:
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
@@ -283,6 +294,8 @@ Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: 
 |---|---|---|---|
 | `[link](URL)` ||||
 
+Tal como negrito, itálico e código, *link* é um "efeito" é *inline*.
+
 **[]**: O texto do *link* fica aqui dentro .\
 **()**: aqui escrevemos a URL.  
 
@@ -299,10 +312,6 @@ Exemplo 1:
 Exemplo 2:  
 
 `[Wikipedia](www.wikipedia.org)`  
-
-
-⚠️ Lembre! Cada um desses efeitos é *inline*, ou seja, fica dentro do fluxo do texto; dentro da mesma linha/parágrafo.
-Logo, use dentro de uma frase ou parágrafo. 
 
 
 
@@ -356,8 +365,9 @@ A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases podemo
 **Criatividade!** Use sua imaginação. O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
 
 <pre>
-Ama os teus amigos
-_Tales de Mileto.
+Comia carne crua
+e bebia sangue,
+um monstro!
 </pre>
 
 E que tal um repente?
@@ -369,10 +379,12 @@ E pode ser o dragão
 Que brigou com o Juvenal
 </pre>
 
-👉️ Portanto pode-se usar o bloco de código como uma opção (estética) ao bloco de citação.
-Lembre o detalhe: com o bloco de código, quanto ao significado, você está dizendo ao computador que isso é código.  
-Como dito antes...  
+👉️ Você pode usar o bloco de código como uma opção (estética) ao bloco de citação.
+
+<small>
+⚠️ Como dito antes, com *bloco de código*, quanto ao significado, você está dizendo ao computador que isso é código.\
 😄 É como se fosse um *hacking*!  
+</small>
 
 🤔️ No geral, código _seja inline (1 crase) ou bloco de código (3 crases)_ é um recurso bem mais característico de documentação técnica, programação e TI do que outros tipos de textos, artigos.
 
@@ -414,7 +426,7 @@ Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de cita�
 
 
 
-#### Recursos gráficos
+#### Recursos gráficos, diagramação
 
 ###### Imagem - inline
 
@@ -442,7 +454,7 @@ Exemplo:
 
 `--- `
 
-Indica uma separação de temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
+Indica uma separação temática/estrutural. usamos quando damos o significado de um assunto tal que terminou, aí a linha, e após ela inicia outro assunto.
 
 
 
@@ -474,7 +486,7 @@ Fácil!
 
 ## Markdown para programadores
 
-Se você gosta de assuntos como **tecnologia e programação**, Markdown é a linguagem mais fácil ou simples, e até divertida, de entrarmos nesse mundo.
+Se você gosta de assuntos como **tecnologia e programação**, MD é a linguagem mais fácil ou simples, e até divertida, de entrarmos nesse mundo.
 
 Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para quem gosta de tecnologia ou programação, vai além disso.
 
@@ -677,6 +689,29 @@ MD não uma ferramenta de Design Gráfico, mas um "jardim da infância" para que
 Esses conceitos básicos usados no contexto de MD são úteis posteriormente para quem estuda HTML e, principalmente, CSS.
 
 
+**Layout**:
+
+Antes da informática/ desenvolvimento web, na prática em jornais, revistas e publicidade, layout podia se referir a coisas (artes gráficas, publicidade e diagramação) como:
+
+<pre>
+onde ficariam os textos;
+posição e tamanho das imagens;
+títulos e subtítulos;
+colunas;
+margens e espaços;
+anúncios e outros elementos gráficos.
+</pre>
+
+Layout é um dos conceitos fundamentais de UI Design. O estudante aprende, por exemplo, sobre:
+
+    disposição e posicionamento de elementos;
+    alinhamento;
+    espaçamento;
+    grids;
+    hierarquia visual;
+    composição de telas;
+    organização de conteúdo.
+
 
 
 #### Markdown vs. HTML - Semelhanças
@@ -684,12 +719,16 @@ Esses conceitos básicos usados no contexto de MD são úteis posteriormente par
 
 O que há de igual ou semelhante em ambas linguagens?  
 
-|Aparência| Espaço/ disposição|
-|:---:|:---:|
-|Como o conteúdo se apresenta.| Como o conteúdo se organiza no espaço.|
+###### Espaço/ disposição
 
-Em suma...   
-🎯️ O **foco** é o mesmo: marcar o conteúdo para informar ao interpretador qual é a sua estrutura (textual), função ou apresentação.
+Como o conteúdo se organiza no espaço.
+
+###### Aparência
+
+Como o conteúdo se apresenta.
+
+
+🎯️ Em suma **o foco é o mesmo**: marcar o conteúdo para informar ao interpretador qual é a sua **estrutura (textual)**, função ou **apresentação**.
 
 
 #### Texto verbal vs. não verbal
@@ -761,6 +800,8 @@ Marcações:
 👉️ Delimitador também é um termo técnico, caso de enfase, por exemplo.\
 Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideias cumprem o papel de marcação para as respectivas linguagens.\
 
+
+
 **Regras de escrita**: dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
 
 |Markdown| HTML|
@@ -785,6 +826,7 @@ Note que o código em markdown é bem mais fácil de escrever! 😄️
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
+⚠️ Tecnicamente, o que chamamos aqui de "regras de escrita" é o que se fala como **sintaxe**.
 
 ###### Sintaxe
 
@@ -821,8 +863,14 @@ Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamen
 
 😄️ É só ler o que está a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!\
 🤔️ HTML ainda possui atributo e valor.\
-⚠️ Tecnicamente, o que chamamos aqui de "regras de escrita" é o que se fala como **sintaxe**.
 
+
+***Marker* e *delimiter* vs. *tag***:
+
+|MD| HTML|
+|:---:|:---:|
+|*marker* e *delimiter*||
+|Termos técnicos para nomear boa parte dos símbolos que constituem a sintaxe Markdown, mas não são o nome genérico de todas as marcações. Há outros.||
 
 ###### Layout
 
@@ -834,28 +882,6 @@ MD e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 |**Organiza a estrutura de conteúdo**| **Organiza a estrutura de conteúdo**|
 |...de forma básica| ...de forma muito mais ampla e detalhada|
 |títulos, parágrafos, citações...| Por exemplo agrupamento _colocar vários elementos dentro de uma seção `<section>`|
-
-Antes da informática/ desenvolvimento web, na prática em jornais, revistas e publicidade, layout podia se referir a coisas (artes gráficas, publicidade e diagramação) como:
-
-<pre>
-onde ficariam os textos;
-posição e tamanho das imagens;
-títulos e subtítulos;
-colunas;
-margens e espaços;
-anúncios e outros elementos gráficos.
-</pre>
-
-Layout é um dos conceitos fundamentais de UI Design. O estudante aprende, por exemplo, sobre:
-
-    disposição e posicionamento de elementos;
-    alinhamento;
-    espaçamento;
-    grids;
-    hierarquia visual;
-    composição de telas;
-    organização de conteúdo.
-
 
 ###### Construção vs. elemento | Bloco e inline
 
@@ -964,11 +990,15 @@ A diferença entre MD e HTML é, principalmente, de amplitude e expressividade.
 
 HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 
-||MD|HTML|
-|:---:|:---:|:---:|
-| **Estrutura**| # 1. - --- etc. | Além de marcação da MD, há outros (como elementos de interface, button, form, select...). Isto é, tem uma quanidade maior de marcações (no que tange estrutura)|
-| **Beleza** | negrito, itálico etc. | Além de equivalentes da MD, há atributos, etc. Ou seja, mais possibilidades de efeitos estéticos (como o atributo style) |
-| **Sentido**| >, links, imagens etc. | Além do que a MD faz; há div, nav, artigo, etc. Ou seja, mais variedade de significados|
+|MD|HTML|
+|:---:|:---:|
+|**Estrutura**|**Estrutura**|
+| # 1. - --- etc. |Além de marcação da MD, há outros (como elementos de interface, button, form, select...). Isto é, tem uma quanidade maior de marcações (no que tange estrutura)|
+|**Beleza**|**Beleza**|
+| negrito, itálico etc. | Além de equivalentes da MD, há atributos, etc. Ou seja, mais possibilidades de efeitos estéticos (como o atributo style) |
+|**Sentido**|**Sentido**|
+| >, links, imagens etc. | Além do que a MD faz; há div, nav, artigo, etc. Ou seja, mais variedade de significados|
+
 
 ⚠️ A verdadeira responsável pela apresentação é a CSS, que interaje com a HTML.
 
@@ -1045,7 +1075,7 @@ Então, além das marcas Markdown que vimos, temos etiquetas (*tags*) HTML poss�
 
 |inline| bloco|
 |---|---|
-|small cite abbr b i mark del ins kbd samp var tt (obsoleta) sub sup span output| pre address|
+|small cite abbr sup sub span del ins b i mark kbd samp var tt (obsoleta) output| pre address|
 
 
 
@@ -1082,13 +1112,10 @@ MD pode ser sua primeira experiência com software de linha de comando. Ou seja,
 |ideia de regras de escrita, sintaxe|✔|✔|
 |conteúdo textual|✔|✔|
 
-||MD|CSS|
-|---|:---:|:---:|
-|formatação/diagramação|✔|✔|
-
 ||MD|HTML|CSS
 |---|:---:|:---:|:---:|
-|Hierarquia visual, tipografia, diagramação|✔|✔|✔|
+|Hierarquia visual, tipografia, formatação/diagramação|✔|✔|✔|
+
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_servico_b2.png" width="320" />
