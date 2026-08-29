@@ -1,10 +1,7 @@
 # Markdown
 
 
-[JoeSynth](http://joesynth.wordpress.com)
-com http://
-[GitLab](http://gitlab.com)
-[Wikipedia](http://wikipedia.org)
+
 
 A **linguagem Markdown** é ótima para escrevermos nossas histórias, inclusive crianças e jovens desenvolverem textos nas escolas com títulos, parágrafos eaté fotos e links.
 
@@ -63,10 +60,10 @@ Surge um texto em itálico.
 
 Aqui, quando o código for executado, a palavra morango será exibida em itálico. E isso ocorre exatamente porque os dois asteríscos (que são as marcas) indicam como o texto deve aparecer após interpretado.  
 
-O que aconteceu? O símbolo de asterísco **()** marcou a palavra 'morango' para aparecer desse jeito, inclinada.
+O que aconteceu? O símbolo de asterísco (`*`) marcou a palavra 'morango' para aparecer desse jeito, inclinada.
 Também podemos ter palavras em negrito, títulos bem grandes, e até links.  
 
-Também temos um marca relacionada com a **estrutura** do texto, é o caso de um título.
+Há marcações para títulos, imagems e muito mais.
 
 Além, temos o significado de função específica. Exemplo: marcar um *link*.
 Portanto, quando executao, o texto não só aparecerá bonito como um link, como de fato, levará o usuário para outro endereço.
@@ -84,9 +81,7 @@ Então...
 
 #### Por quê aprender Markdown?
 
-Simples! O legal da Markdown é que ela é...
-
-**Muito simples!** Sabendo apenas dez marcas, dez **"comandinhos"** conseguimos muitas construções. Essas dez marcas são muito simples, objetivas e fácil de aprender. Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
+Simples! Markdown é muito fácil de aprender! São cerca de 15 "comandinhos" e, metade deles, já é suficiente para você fazer "a festa". Com tudo intuitivo, em poucas horas praticando, logo você grava o necessário para escrever textos comuns.
 
 ● Bem **atraente** para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte.  
 ● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, isso ao criar um texto. Ou seja, embora meu editor de texto favorito faz o trabalho com um clique de *mouse*, você não precisará mais de mouse.
@@ -107,12 +102,20 @@ MD atende **autores** e **escritores** que querem criar escrever texto sem preci
 
 Veja Markdown para Programadores.  
 
-#### Onde usa?
+#### Onde usar Markdown?
 
-**Software**? A Markdown é utilizada em...  
-● mensagens instantâneas (Telegram, por ex.),\
-● *software* colaborativo (caso do Collabora Online que permite importar),\
-● Blog (Wordpress).
+Principalmente em **conteúdo textual**, na "criação*.
+
+**Software**? A Markdown é utilizada, por ex., em...
+
+|mensagens instantâneas| *software* colaborativo| Blog|
+|:---:|:---:|:---:|
+|Telegram| Collabora Online (que permite importar)| Wordpress|
+
+
+● mensagens instantâneas (, por ex.),\
+●  (caso do ),\
+●  ().
 
 
 #### Para que serve Markdown?
@@ -156,6 +159,8 @@ Tudo de forma rápida, sutil.
 
 ###### Título e subtítulo
 
+**Título**:
+
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 | `#` | Título 1 | Título principal |Texto grande, destacado|
@@ -165,6 +170,9 @@ O sustenido é usado para título.
 <pre>
 # O Pica Pau
 </pre>
+
+
+**Subtítulo**:
 
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
