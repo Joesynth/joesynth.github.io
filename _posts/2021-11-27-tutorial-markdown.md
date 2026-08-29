@@ -91,8 +91,7 @@ Simples! O legal da Markdown é que ela é...
 ● Bem **atraente** para nós leitores humanos, então qualquer um de nós pode entender facilmente seu formato de código-fonte.  
 ● **Tempo**: Ganha-se um bom tempo devido a cliques desnecessários do *mouse*, isso ao criar um texto. Ou seja, embora meu editor de texto favorito faz o trabalho com um clique de *mouse*, você não precisará mais de mouse.
 
-⚠️ Gosta de assuntos como tecnologia ou programação?  
-
+⚠️ Gosta de assuntos como tecnologia ou programação?
 
 Veja Markdown para Programadores.  
 
@@ -100,35 +99,41 @@ Veja Markdown para Programadores.
 
 #### Quem usa Markdown? 
 
-MD atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto Markdown.
+MD atende **autores** e **escritores** que querem criar escrever texto sem precisar dominar HTML _uma linguagem que também permite isso, mas não é tão simples quanto MD.
 
 👉️ Eu mesmo, ao escrever neste *blog*, uso Markdown.
 
+⚠️ Gosta de assuntos como tecnologia ou programação?
+
+Veja Markdown para Programadores.  
 
 #### Onde usa?
 
 **Software**? A Markdown é utilizada em...  
 ● mensagens instantâneas (Telegram, por ex.),\
 ● *software* colaborativo (caso do Collabora Online que permite importar),\
-● Wordpress.
+● Blog (Wordpress).
 
 
 #### Para que serve Markdown?
 
 MD é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
 
-Na formatação damos forma ao conteúdo, o que envolve tanto a organização quanto a aparência.\
+**Formatação?**: Dar forma ao conteúdo, o que envolve...
+
+|||
+|:---:|:---:|
+|organização|aparência|
+
 ● inserir símbolos (como nos emojis) ou imagens e mesmo links.
 
 
 **Resumindo Markdown**:
 
-|MD|
-|:---:|
-|**estrutura**|
-| Organiza a estrutura do conteúdo textual, definindo o que é título, parágrafo etc.|
-|**apresentação**|
-|Cuida de alguns aspctos da apresentação, como pôr uma palavra em itálico ou negrito.|
+|MD||
+|:---:|:---:|
+|**estrutura**|**apresentação**|
+| Organiza a estrutura do conteúdo textual, definindo o que é título, parágrafo etc.| Cuida de alguns aspctos da apresentação, como pôr uma palavra em itálico ou negrito.|
 
 Tudo de forma rápida, sutil.  
 
@@ -154,16 +159,16 @@ Tudo de forma rápida, sutil.
 | Marca | Estrutura | Sentido | Estética
 |---|---|---|---|
 | `#` | Título 1 | Título principal |Texto grande, destacado|
-|---|---|---|---|
-| `##` | Título nível 2 | Subtítulo |Texto um pouco menor que #|
-
-
 
 O sustenido é usado para título.
 
 <pre>
 # O Pica Pau
 </pre>
+
+| Marca | Estrutura | Sentido | Estética
+|---|---|---|---|
+| `##` | Título nível 2 | Subtítulo |Texto um pouco menor que #|
 
 **Marca ##**:  Pense subtítulo! Isso gera uma letra de tamanho de título menor que o marcador.
 
@@ -190,25 +195,6 @@ O parágrafo é simplesmente uma sequência de texto separada de outra por uma l
 
 
 
-
-Em lingua portuguesa temos a estrutura textual, onde título, introdução e desenvolvimento podem estar perfeitamente marcados com markdown.
-
-```
-# Meu Título.
-
-Parágrafo de introdução, bla blá...
-
-Parágrafo de desenvolvimento, bla...
-```
-Exemplo:  
-
-<pre>
-# A Bíblia 
-
-No primeiro dia Deus criou...
-
-E nasce Jesus em Nazaré...
-</pre>
 
 **Quebra de linha**:
 
@@ -262,34 +248,16 @@ Logo, use dentro de uma frase ou parágrafo.
 É para mostrar **código de computador**. 
 
 <pre>
-`poweroff`
+Use `poweroff` para desligar.
 </pre>
 
 A aparência é de letra de computador, um efeito mais 'robótico'.  
 
-`poweroff`  
+Use `poweroff` para desligar.
 
 <small>
 🤔️ *poweroff*: "comando" que é dado no Terminal _a "telinha preta" do computador.
 </small>
-
-
-Aqui um exemplo de trecho de código JS:  
-
-<pre>
-`const x = 1;`  
-</pre>
-
-Você pode usar isso com criatividade. Por exemplo, dar um efeito a letra para algo matemático:  
-
-`2 + 2 = 4`  
-
-Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: "clique na tecla..."   
-
-`Shift`  
-
-⚠️ Provavelmente, e pelo lado do sentido, Markdown interpretará isso como código. Ele "pensará" que é código de computador.  
-É como se fosse um *hacking*! 🤔️  
 
 
 ###### Link
@@ -403,7 +371,7 @@ Que brigou com o Juvenal
 | `1.` | Lista ordenada | Conjunto de itens em sequência | Itens numerados|
 
 
-Na sintaxe do Markdown, lista é uma estrutura de bloco, tal como bloco de citação (>) e bloco de código (3 crases)
+Na sintaxe da MD, lista é uma estrutura de bloco, tal como bloco de citação (>) e bloco de código (3 crases)
 
 **Lista ordenada**:  
 
@@ -464,11 +432,64 @@ Indica uma separação temática/estrutural. usamos quando damos o significado d
 
 
 
+
+
+
+## Estrutura textual e "efeitos" em palavras
+
+###### Estrutura textual
+
+Em lingua portuguesa temos a estrutura textual, onde título, introdução e desenvolvimento podem estar perfeitamente marcados com MD.
+
+```
+# Meu Título.
+
+Parágrafo de introdução, bla blá...
+
+Parágrafo de desenvolvimento, bla...
+```
+Exemplo:  
+
+<pre>
+# A Bíblia 
+
+No primeiro dia Deus criou...
+
+E nasce Jesus em Nazaré...
+</pre>
+
+###### Efeito: letra de computador
+
+Aqui outro exemplo de código no Terminal:  
+
+<pre>
+`exit`  
+</pre>
+
+Você pode usar isso com criatividade. Por exemplo, dar um efeito a letra para algo matemático:  
+
+`2 + 2 = 4`  
+
+Ou usar esse mesmo tipo de letra para mostrar uma tecla de computador. Exemplo: "..."   
+
+<pre>
+Clique na tecla `Shift`.
+</pre>
+
+Resultado desse código?
+
+Clique na tecla `Shift`.
+
+⚠️ Provavelmente, e pelo lado do sentido, MD interpretará isso como código. Ele "pensará" que é código de computador.  
+É como se fosse um *hacking*! 🤔️  
+
+
+
 ## 💾️ Arquivo Markdown
 
 Considere um editor de editor de texto comum _por ex. Gedit do Ubuntu, Bloco de Notas do Windows...  
 
-Um editor de texto simples, como os citados, é usado para lidarmos com a Markdown _embora haja programas mais avançados.  
+Um editor de texto simples, como os citados, é usado para lidarmos com a MD _embora haja programas mais avançados.  
 
 A extensão do nome do arquivo é .*md* ou .*markdown*.  
 
@@ -500,7 +521,7 @@ Como vimos, Markdown é ótimo para escrevermos nossas histórias; mas, para que
 <small>
 A partir desse momento, pense seriamente em criar sua conta no GitLab!
 
-A princípio, o GitLab pode ser usado para escrever suas histórias em Markdown, e mesmo ter alguma experiência colaborativamente em grupo.
+A princípio, o GitLab pode ser usado para escrever suas histórias em MD, e mesmo ter alguma experiência colaborativamente em grupo.
 </small>
 gens etc.
 
@@ -573,7 +594,7 @@ Neste código, a **marca >** representa um conteúdo citado (no caso "tudo passa
 > Tudo passa, nada permanece.
 
 Isso .
-Cada marca da Markdown produz uma aparência específica no texto e comunica um significado específico para quem lê.
+Cada marca da MD produz uma aparência específica no texto e comunica um significado específico para quem lê.
 
 **Markdown atua em 3 dimensões**:  
 
@@ -787,12 +808,12 @@ Ou seja, recursos de formatação/diagramação espacial do conteúdo, em um ní
 
 Marcações:  
 
-|Markdown|HTML|
+|MD|HTML|
 |---|---|
 
 
 
-|Markdown| HTML|
+|MD| HTML|
 |:--:|:--:|
 |**Marcações**|**Marcações**|
 |marcador (marker)|etiqueta (tag)|
@@ -810,14 +831,14 @@ Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideia
 
 **Regras de escrita**: dizem como devemos escrever, e os **recursos** em si o que a linguagem é capaz de fazer.
 
-|Markdown| HTML|
+|MD| HTML|
 |:--:|:--:|
 |**regras de escrita** | **regras de escrita** |
 |mais simples| mais completas |
 |**recursos**|**recursos**|
 |mais limitados| mais possibilidades; controle bem maior sobre estrutura, significado e apresentação.|
 
-Abaixo, o título "O Pequeno Príncipe" escrito na linguagen Markdown.  
+Abaixo, o título "O Pequeno Príncipe" escrito na linguagen MD.  
 
 ```markdown
 ## O Pequeno Príncipe
@@ -828,7 +849,7 @@ E escrito em HTML...
 <h2>O Pequeno Príncipe</h2>
 ```
 
-Note que o código em markdown é bem mais fácil de escrever! 😄️  
+Note que o código em MD é bem mais fácil de escrever! 😄️  
 
 Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTML temos estura com cabeçalho, painel lateral, rodapé etc.  
 
@@ -836,7 +857,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 
 ###### Sintaxe
 
-|Markdown|HTML|
+|MD|HTML|
 |:---:|:---:|
 |**Sintaxe**|**Sintaxe**|
 |Muito simples; curta, objetiva. | Cada elemento, via de regra, é delimitado por etiquetas de abertura e fechamento.|
@@ -845,7 +866,7 @@ Porém, o HTML oferece uma forma de marcação muito mais ampla e detalhada. HTM
 |**Ex. de negrito**|**Ex. de negrito**|
 |`**morango**`| `<strong>morango</strong>`|
 
-Um texto com título e parágrafos em Markdown:  
+Um texto com título e parágrafos em MD:  
 
 <pre>
 # Meu título
@@ -867,7 +888,7 @@ Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamen
 <p>Este é o segundo parágrafo do documento.</p>
 ```
 
-😄️ É só ler o que está a escrito em Markdown e em HTML para ver que Markdown é bem mais simples!\
+😄️ É só ler o que está a escrito em Markdown e em HTML para ver que MD é bem mais simples!\
 🤔️ HTML ainda possui atributo e valor.\
 
 
@@ -883,7 +904,7 @@ Em HTML esse mesmo texto terá as etiquetas de abertura `h1` e `p` e de fechamen
 MD e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 
-|Markdown|HTML|
+|MD|HTML|
 |:---:|:---:|
 |**Organiza a estrutura de conteúdo**| **Organiza a estrutura de conteúdo**|
 |...de forma básica| ...de forma muito mais ampla e detalhada|
@@ -891,7 +912,7 @@ MD e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 ###### Construção vs. elemento | Bloco e inline
 
-|Markdown|HTML|
+|MD|HTML|
 |---|---|
 |Construções são formas de marcar/estruturar o conteúdo.| As "construções ou estruturações", são os **elementos**. Não são a mesma coisa que no MD, mas há semelhanças.
 |
@@ -901,7 +922,7 @@ MD e HTML lidam com isso, mas HTML tem muito mais poderes, indo bem além.
 
 **Bloco e inline**: Ideia que serve tanto para Markdown quanto para HTML.  
 
-|Markdown|HTML|
+|MD|HTML|
 |---|---|
 |bloco e inline|bloco e inline|
 ||Há mais poder (o recurso de atributo `style` pode alterar o comportamento de um para o outro).|
@@ -945,11 +966,11 @@ No HTML, isso normalmente é feito com <pre>.
     }
 </code></pre>
 ```
-###### Markdown: escrever código sim, texto pré-formatado não
+###### MD: escrever código sim, texto pré-formatado não
 
 **Código (numa linha)**: É o *inline*.
 
-No Markdown uma única crase no início do conteúdo e outra no final equivale em HTML a...  
+Na MD uma única crase no início do conteúdo e outra no final equivale em HTML a...  
 
 `<code>const x = 1;</code>`
 
@@ -983,9 +1004,9 @@ Podemos pensar da seguinte forma...
 |MD| HTML|
 |:---:|:---:|
 |**O termo ‘conteúdo’**|**O termo ‘UI’**||
-|Fica melhor para Markdown; cabe para Markdown.| Se ajusta melhor a HTML; se adequa melhor a HTML/CSS/JS.|
+|Fica melhor para MD; cabe para Markdown.| Se ajusta melhor a HTML; se adequa melhor a HTML/CSS/JS.|
 
-Portanto, o termo 'conteúdo' cabe bem para Markdown, enquanto 'UI' se ajusta melhor a HTML.
+Portanto, o termo 'conteúdo' cabe bem para MD, enquanto 'UI' se ajusta melhor a HTML.
 
 
 
@@ -1008,7 +1029,7 @@ HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 
 ⚠️ A verdadeira responsável pela apresentação é a CSS, que interaje com a HTML.
 
-|Markdown|HTML|
+|MD|HTML|
 |:---:|:---:|
 |As três dimensões de maneira mais simples e voltada à produção de conteúdo.| As três dimensões com um vocabulário muito mais amplo, permitindo descrever elementos de UI.|
 
@@ -1016,7 +1037,7 @@ HTML simplesmente possui um vocabulário muito mais rico para fazê-las.
 
 De forma abrangente ambas linguagens usam, e tecnicamente HTML.
 
-|Markdown| HTML|
+|MD| HTML|
 |---|---|
 |Normalmente, as marcas estruturam e apresentam visualmente o conteúdo.| Uma marca não significa, necessariamente, um elemento de conteúdo visível.|
 |**Ex.**|**Ex.**|
@@ -1028,7 +1049,7 @@ Portanto no HTML, elemento é um conceito mais abrangente: há elementos que rep
 
 #### Estruturas de marcação
 
-|Markdown| HTML|
+|MD| HTML|
 |---|---|
 |Conjunto menor de elementos/estruturas de marcação| Conjunto bem mais amplo. Contém os elementos correspondentes aos recursos de marcação da MD e muitos elementos adicionais|
 
@@ -1045,17 +1066,17 @@ Isso está diretamente relacionado à estrutura, porque os elementos são os com
 
 Finalidade?
 
-|Markdown|HTML|
+|MD|HTML|
 |:---:|:---:|
 |Mais voltado a conteúdo| mais adequado para UI|
 |**o termo “conteúdo”**|**o termo “UI”**|
-|Cabe bem em Markdown| Se ajusta melhor, embora HTML também lide com conteúdo |
+|Cabe bem em MD| Se ajusta melhor, embora HTML também lide com conteúdo |
 
 👉️ HTML ainda permite “superpoderes” com CSS.
 
 **Um exemplo de UI?**  Criarmos um botão com menu.
 
-|Markdown|HTML|
+|MD|HTML|
 |:---:|:---:|
 |Impossível.| Possível, exatamente por ela ser própria para isso.|
 
@@ -1075,9 +1096,9 @@ Vide [HTML, CSS, JS](html-css-e-js).
 
 #### Markdown misturado com HTML
 
-A maioria dos softwares Markdown permite misturar Markdown com HTML no mesmo documento.  
+A maioria dos softwares MD permite misturar Markdown com HTML no mesmo documento.  
 Ou seja, um arquivo `.md` pode conter, ao mesmo tempo, Markdown e HTML.  
-Então, além das marcas Markdown que vimos, temos etiquetas (*tags*) HTML possíveis de usar. Etiquetas HTML que podmos misturar:  
+Então, além das marcas MD que vimos, temos etiquetas (*tags*) HTML possíveis de usar. Etiquetas HTML que podmos misturar:  
 
 |inline| bloco|
 |---|---|
@@ -1090,7 +1111,7 @@ Então, além das marcas Markdown que vimos, temos etiquetas (*tags*) HTML poss�
 
 Considere um software que funciona ao mesmo tempo com ambas linguagens.
 
-Coloque o código Markdown dentro de <pre> se você quer que não seja interpretado.
+Coloque o código MD dentro de <pre> se você quer que não seja interpretado.
 
 A etiqueta HTML `<pre>` faz com que o conteúdo seja apresentado literalmente. Neste contexto `<pre>` age como 3 crase (que é markdown).
 
@@ -1133,7 +1154,7 @@ MD pode ser sua primeira experiência com software de linha de comando. Ou seja,
 
 ## Markdown e programação - Na Prática!
 
-Além do alicerce teórico, para um programador, Markdown logo logo será útil para...\
+Além do alicerce teórico, para um programador, MD logo logo será útil para...\
 ✔ Uso do terminal para escrevermos código, em vez de *mouse*.\
 ✔ páginas de documentação e arquivos ‘leia-me’ (README.md de projetos no GitLab e GitHub).
 
@@ -1142,11 +1163,11 @@ Além do alicerce teórico, para um programador, Markdown logo logo será útil 
 
 ## CommonMark e sabores!
 
-Um **sabor** é um aplicativo Markdown que implementa uma versão ligeiramente diferentes da Markdown. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
+Um **sabor** é um aplicativo MD que implementa uma versão ligeiramente diferentes da MD. Um 'sabor' é como um dialeto de uma linguagem _algo como português do Rio de Janeiro e de Lisboa.
 
 |CommonMark|GFM|GLFM|
 |:---:|:---:|:---:|
-|É uma proposta de sintaxe padrão para a Markdown.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|  
+|É uma proposta de sintaxe padrão para a MD.| Na verdade, e exatamente, é uma especificação baseada na *CommonMark*.| Um 'sabor' mais abrangente que o GFM.|  
 
 📚️ GFM: GitHub Flavored Markdown.  
 GLFM: GitLab Flavored Markdown.  
@@ -1244,7 +1265,7 @@ Lista com dezenas: https://gist.github.com/rxaviers/7360908
 
 <pre>Editores para Linux.
 -https://sourceforge.net/software/markdown-editors/linux/
-Visualizar Markdown no Gedit (via plugin).
+Visualizar MD no Gedit (via plugin).
 -https://terminalroot.com.br/2020/03/como-visualizar-markdown-no-gedit.html
 YT
 -https://www.youtube.com/watch?v=NR44PLPHu2w -https://www.youtube.com/watch?v=mRIIPO7qfkE -https://www.youtube.com/watch?v=_MZKngDkcbs -https://www.youtube.com/watch?v=1xcRU2LqSNs</pre>
@@ -1289,7 +1310,7 @@ Para **Marcação vs. instrução** veja [Linguagens Resumo](linguagens-resumo).
 
 Um editor que escreva o código é uma coisa, renderizar é outra!  
 
-Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
+Para os documentos em MD. quanto a escrevê-lo e renderizá-lo temos:
 
 | **Escreve, não renderiza** | **Escreve e renderiza** |
 |:---:|:---:|
@@ -1301,14 +1322,14 @@ Para os documentos em Markdown. quanto a escrevê-lo e renderizá-lo temos:
 👉️ Dillinger pode ter telemetria, enquanto StackEdit não.
 
 👉️ Gedit (Ubuntu): renderiza via plugin.  
-👉️ O ponto importante é que Markdown permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
-👉️ Nano: Não faz destaque simultâneo e contextual de Markdown + HTML no mesmo arquivo como esses editores.
+👉️ O ponto importante é que MD permite HTML embutido. Editores mais completos conseguem aplicar cores às duas sintaxes no mesmo documento.  
+👉️ Nano: Não faz destaque simultâneo e contextual de MD + HTML no mesmo arquivo como esses editores.
 
 
 
 ###### Markdown: outras aplicações
 
-**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JS/TypeScript) que, além da Markdown, tem suporte para HTML, CSS, JavaScript, C++, etc.  
+**CodeMirror** ✏️ M. Haverbeke 📜️ MIT: Componente (biblioteca JS/TypeScript) que, além da MD, tem suporte para HTML, CSS, JavaScript, C++, etc.  
 🔗️ codemirror.net  
 **markdown-it**: Biblioteca JS, segue a especificação CommonMark.  
 🔗️ https://github.com/markdown-it/markdown-it   
@@ -1336,20 +1357,20 @@ Allow access to file URLs; ligue o Toggle.
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftiiny.host%2Fblog%2Fassets%2Fimages%2Ffrom-code-file-to-rendered-output-in-markdown.png&f=1&nofb=1&ipt=27ce30f912777764f2381bd30f9c0d0c23d6341aa9686c12d647863836f778a6" width="320" />
 
 
-Aplicativos Markdown usam o chamado processador Markdown (“*parser*” ou “*implementation*”).
+Aplicativos MD usam o chamado processador Markdown (“*parser*” ou “*implementation*”).
 
 <img class="alignleft" src="https://mdg.imgix.net/assets/images/markdown-flowchart.png?auto=format&amp;fit=clip&amp;q=40&amp;w=1080" width="307" height="64" />
 
-Ele é usado para 'pegar' o texto formatado em Markdown e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
+Ele é usado para 'pegar' o texto formatado em MD e enviá-lo para o formato HTML, então seu documento pode ser visualizado em um navegador da Web _ou combinado com uma folha de estilo e impresso. Em suma temos:
 
-● Crie um arquivo Markdown (via o editor de texto ou um aplicativo Markdown dedicado). O arquivo deve ter uma extensão .md ou .markdown.  
-● Abra o arquivo Markdown em um aplicativo Markdown.  
-● Use o aplicativo Markdown para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF).  
+● Crie um arquivo MD (via o editor de texto ou um aplicativo MD dedicado). O arquivo deve ter uma extensão .md ou .markdown.  
+● Abra o arquivo MD em um aplicativo Markdown.  
+● Use o aplicativo MD para converter o arquivo Markdown num documento HTML (ou mesmo convertê-lo noutro formato de arquivo, como PDF).  
 ● Visualize o arquivo HTML em um navegador da Web.
 
-Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em Markdown (salvando na extensão .*md*), e, também precisamos de um aplicativo Markdown capaz de processar o arquivo Markdown.
+Ou seja, você escreve usando essa linguagem e salva um arquivo formatado em MD (salvando na extensão .*md*), e, também precisamos de um aplicativo MD capaz de processar o arquivo Markdown.
 
-Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila o Markdown em outra coisa, normalmente HTML.
+Embora chamamos de "analisador" isso é um termo um tanto impróprio _pois além de "analisar" o Markdown ele também renderiza/compila a MD em outra coisa, normalmente HTML.
 
 
 
@@ -1372,12 +1393,12 @@ O foco original, em 2004, era:
 <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/John_Gruber%2C_2009_%28cropped%29.jpg/200px-John_Gruber%2C_2009_%28cropped%29.jpg" width="60" height="70" /> 🇺🇸 John Gruber.
 
 <img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Aaron_Swartz_profile.jpg/220px-Aaron_Swartz_profile.jpg" width="60" height="83" /> 🇺🇸 Aaron Swartz.
-Swartz, além de Gruber, são os caras inventores da linguagem Markdown, que foi criada em 2004.
+Swartz, além de Gruber, são os caras inventores da linguagem MD, que foi criada em 2004.
 
 
 Como vimos neste tutorial a MD funciona super bem para produção de conteúdo textual. Mas, comparada à linguagem HTML, a Markdown é limitada, sendo equivalente ao "jardim da infância" da programação.
 
-Ainda sim Markdown é conhecimento essencial devido aos conceitos que estão por trás dela. Esses saberes são um belo pilar para a vida de um programador que se inicia.
+Ainda sim MD é conhecimento essencial devido aos conceitos que estão por trás dela. Esses saberes são um belo pilar para a vida de um programador que se inicia.
 
 É isso!  
 Grande abraço.  
