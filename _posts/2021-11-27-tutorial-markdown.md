@@ -104,7 +104,7 @@ Veja Markdown para Programadores.
 
 #### Onde usar Markdown?
 
-Principalmente em **conteúdo textual**, na "criação*.
+Principalmente em **conteúdo textual**, na *criação*.
 
 **Software**? A Markdown é utilizada, por ex., em...
 
@@ -113,22 +113,18 @@ Principalmente em **conteúdo textual**, na "criação*.
 |Telegram| Collabora Online (que permite importar)| Wordpress|
 
 
-● mensagens instantâneas (, por ex.),\
-●  (caso do ),\
-●  ().
-
 
 #### Para que serve Markdown?
 
 MD é uma **linguagem de marcação** para **conteúdo textual** (texto formatado).  
 
-**Formatação?**: Dar forma ao conteúdo, o que envolve...
+● **Formatação?**: Dar forma ao conteúdo, o que envolve...
 
 |||
 |:---:|:---:|
 |organização|aparência|
 
-● inserir símbolos (como nos emojis) ou imagens e mesmo links.
+● Inserir imagens, símbolos, emojis ou e mesmo links.
 
 
 **Resumindo Markdown**:
@@ -186,7 +182,7 @@ O sustenido é usado para título.
 </pre>
 
 <small>
-`######` até 6 níveis de sustenidos podem ser usados. Bom para organizar seu texto.
+Marca `######` Até 6 níveis de sustenidos podem ser usados. Bom para organizar seu texto.
 </small>
 
 ###### Parágrafo e quebra de linha
@@ -218,6 +214,8 @@ A \ precisa ser o último caractere da linha, não podendo haver espaço depois 
 
 #### Efeitos visuais no texto - inline
 
+📚️ Fonte: desenho da letra (caractere).
+
 Belos recursos para a apresentação do conteúdo de texto escrito.  
 Pense estilo de letra! 😄️
 
@@ -247,8 +245,6 @@ Logo, use dentro de uma frase ou parágrafo.
 |---|---|---|---|
 | 1 crase| Marcação inline | Código |Fonte mono-<br>espaçada|
 
-📚️ Fonte: desenho da letra (caractere).
-
 <pre>
 `código`
 </pre>
@@ -259,7 +255,11 @@ Logo, use dentro de uma frase ou parágrafo.
 Use `poweroff` para desligar.
 </pre>
 
-A aparência é de letra de computador, um efeito mais 'robótico'.  
+A aparência é de letra de computador; Terminal de computador, a telinha preta, ou maquina de escrever antiga.
+
+<small>
+Monospace
+</small>
 
 Use `poweroff` para desligar.
 
@@ -342,33 +342,6 @@ A diferença? Uma crase, como já vimos, é *inline*, e aqui nas 3 crases podemo
 
 👉️ 4 espaços também pode ser usado no lugar das 3 crases.  
 
-**Criatividade!** Use sua imaginação. O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
-
-<pre>
-Comia carne crua
-e bebia sangue,
-um monstro!
-</pre>
-
-E que tal um repente?
-
-<pre>
-Você pode ser o A
-E pode ser o leão
-E pode ser o dragão
-Que brigou com o Juvenal
-</pre>
-
-👉️ Você pode usar o bloco de código como uma opção (estética) ao bloco de citação.
-
-<small>
-⚠️ Como dito antes, com *bloco de código*, quanto ao significado, você está dizendo ao computador que isso é código.
-
-😄 É como se fosse um *hacking*!  
-</small>
-
-🤔️ No geral, código _seja inline (1 crase) ou bloco de código (3 crases)_ é um recurso bem mais característico de documentação técnica, programação e TI do que outros tipos de textos, artigos.
-
 
 
 ###### Listas
@@ -443,7 +416,8 @@ Indica uma separação temática/estrutural. usamos quando damos o significado d
 
 
 
-## Estrutura textual e "efeitos" em palavras
+## Exercícios
+
 
 ###### Estrutura textual
 
@@ -465,6 +439,7 @@ No primeiro dia Deus criou...
 
 E nasce Jesus em Nazaré...
 </pre>
+
 
 ###### Efeito: letra de computador
 
@@ -490,6 +465,33 @@ Clique na tecla `Shift`.
 
 ⚠️ Provavelmente, e pelo lado do sentido, MD interpretará isso como código. Ele "pensará" que é código de computador.  
 É como se fosse um *hacking*! 🤔️  
+
+**Criatividade!** Use sua imaginação. O texto não precisa ser exatamente código de computador, podendo ser uma simples frase.
+
+<pre>
+Comia carne crua
+e bebia sangue,
+um monstro!
+</pre>
+
+E que tal um repente?
+
+<pre>
+Você pode ser o A
+E pode ser o leão
+E pode ser o dragão
+Que brigou com o Juvenal
+</pre>
+
+👉️ Você pode usar o bloco de código como uma opção (estética) ao bloco de citação.
+
+<small>
+⚠️ Como dito antes, com *bloco de código*, quanto ao significado, você está dizendo ao computador que isso é código.
+
+😄 É como se fosse um *hacking*!  
+</small>
+
+🤔️ No geral, código _seja inline (1 crase) ou bloco de código (3 crases)_ é um recurso bem mais característico de documentação técnica, programação e TI do que outros tipos de textos, artigos.
 
 
 
@@ -550,10 +552,10 @@ MD dá uma base para conceitos que aparecerão na HTML e mesmo na CSS ou no dese
 
 Outros conceitos...  
 
-**Estrutura do conteúdo**: um texto tem título, parágrafo...
-**Hierarquia**: organização do conteúdo em níveis (título, subtítulo).
-**Elementos e marcação**: símbolos para marcar o significado num trecho de texto (**, por ex.), que no HTML será <strong>.
-**Link**: um conteúdo pode referenciar outro recurso. 
+**Estrutura do conteúdo**: um texto tem título, parágrafo...\
+**Hierarquia**: organização do conteúdo em níveis (título, subtítulo).\
+**Elementos e marcação**: símbolos para marcar o significado num trecho de texto (`**`, por ex.), que no HTML será `<strong>`.\
+**Link**: um conteúdo pode referenciar outro recurso.\
 **Código dentro de conteúdo**:  comum em documentação de programação, ajuda a entender que podemos ter diferentes tipos de conteúdo dentro de um documento.
 
 
@@ -588,6 +590,26 @@ Independente disso, Markdown é muito simples. 😄️
 
 
 👉️ Quando a marca tem uma função mais específica, pode receber outro nome, como delimitador (delimiter)
+
+**Abertura e fechamento**
+
+Há *delimitador/marca de abertura* e *delimitador/marca de fechamento*  
+Surge, principalmente, na formatação com delimitadores. Exemplo:  
+
+<pre>
+*texto*
+</pre>
+
+O primeiro asterisco abre e o segundo fecha a ênfase.
+
+Outro caso é o destaque forte.
+
+<pre>
+**texto**
+</pre>
+
+
+
 
 #### Estrutura, beleza e sentido
 
