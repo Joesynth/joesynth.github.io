@@ -838,13 +838,10 @@ Ou seja, recursos de formatação/diagramação espacial do conteúdo, em um ní
 
 Marcações:  
 
-|MD|HTML|
-|---|---|
-
 
 
 |MD| HTML|
-|:--:|:--:|
+|:---:|:---:|
 |**Marcações**|**Marcações**|
 |marcador (marker)|etiqueta (tag)|
 |**marcação**|**marcação**|
@@ -853,7 +850,7 @@ Marcações:
 | * # |p a|
 
 
-👉️ Tecnicamente, diz-se que # é um *heading marker* (marcador de título), *marker* . Já # Título é **estrutura de cabeçalho** (heading structure).\
+👉️ Tecnicamente, diz-se que # é um **marcador de título** (*heading marker*), *marker* . Já # Título é **estrutura de cabeçalho** (*heading structure*).\
 👉️ Delimitador também é um termo técnico, caso de enfase, por exemplo.\
 Se de uma lado há as marcas (marcadores) e doutro há as etiquetas. Ambas ideias cumprem o papel de marcação para as respectivas linguagens.\
 
