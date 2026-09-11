@@ -836,18 +836,16 @@ Ou seja, recursos de formatação/diagramação espacial do conteúdo, em um ní
 
 ###### Marcação, regras de escrita e recursos
 
-Marcações:  
-
-
+Marcações:
 
 |MD| HTML|
-|:---:|:---:|
+|---|---|
 |**Marcações**|**Marcações**|
 |marcador (marker)|etiqueta (tag)|
 |**marcação**|**marcação**|
 |poucas marcas| muitas etiquetas|
 |**Ex.**|**Ex.**|
-| * # |p a|
+|`* #`| `p a`|
 
 
 👉️ Tecnicamente, diz-se que # é um **marcador de título** (*heading marker*), *marker* . Já # Título é **estrutura de cabeçalho** (*heading structure*).\
