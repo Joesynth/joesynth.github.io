@@ -65,15 +65,7 @@ xxx
 
 ###### FMS (SGF)
 
-> ⚠️ "Não há dptº de estoque, normalmente.", " importar arquivos no formato .ofx", "...para pequena/média empresa" [JoeSynth]
-
-● WP Ever Accounting: contabilidade, faturamento para WordPress.
-Permite gerir receitas e despesas, emitir faturas, trabalha com várias moedas, contas bancárias, relatórios.
-● Money Manager
-gere financeiro, contabilidade; empresa pequena.
-.csv (formato para importar transações)
-Gerenciamento de várias contas bancárias em diferentes moedas.
-Registro de depósitos, retiradas, transferências entre contas.
+xxx Vide Wp CN xxx
 
 
 ###### ERP
@@ -340,8 +332,9 @@ Construtor de páginas para WordPress, utilizado por mais de 1 milhão de sites.
 
 ## CRM
 
-● CiviCRM ● FluentCRM ● Zero BS CRM ● Jetpack CRM ● WP ERP (vide ERP) <span class="is-markup" dir="auto">● WP Fusion - liga seu site WP a sistemas CRM (HubSpot, por ex.) ● HubSpot ● ActiveCampaign.
-
+xxx
+Vide WP CN
+xxx
 
 
 ## Outros Plugins
