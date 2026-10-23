@@ -28,12 +28,7 @@ Separamos vários para você conhecer, organizados da seguinte forma:
 
 ## Multimídia
 
-**Imagem** (Galeria, *slider*, etc).
-
-**NextGen Gallery** 🎉️ Crie galerias de fotos mais elaboradas.
-**Meta Slider** 🎉️ Crie sliders (imagens rotativas) otimizados para SEO.
-**Image Widget** 🎉️ Coloque imagens onde você quiser bem como criar slideshows e lightboxes.
-**Imsanity** 🎉️ Fotos automaticamente redimensionadas para tamanhos apropriados. Também é possível estabelecer regras de tamanho e converter imagens no próprio plugin.
+Vide WP CN.
 
 **Áudio / Música**.
 
