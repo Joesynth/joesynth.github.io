@@ -28,7 +28,9 @@ Separamos vários para você conhecer, organizados da seguinte forma:
 
 ## Multimídia
 
+xxx
 Vide WP CN.
+xxx
 
 **Áudio / Música**.
 
@@ -49,15 +51,9 @@ Radio Player (SoftLab) ● WP Radio (SoftLab) ● Hero ● Radio Station ● Str
 
 ## Contabilidade e financeiro
 
-######  Pix (pagamentos)
-
-**PagHiper** (Pix e Boleto bancário): foco em doação para aumentar arrecadações de instituições.
-**GiveWP**: seu site em um sistema de doação.
-**OpenPix**
-
-###### Pix Woocommerce
-
+xxx
 Vide WP CN.
+xxx
 
 ## ERP/FMS/PDV
 
@@ -82,7 +78,9 @@ Registro de depósitos, retiradas, transferências entre contas.
 
 ###### ERP
 
-● WP ERP - CRM, RH, Contabilidade ● 🇧🇷 Zetta ERP (ZettaBrasil) - NFe, DRE, arquivo etc ● Worksuite WP – ERP ● CRM ERP Business Solution
+xxx
+Vide Wp CN
+xxx
 
 
 ###### WooCommerce
