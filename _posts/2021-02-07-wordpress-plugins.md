@@ -57,13 +57,7 @@ Radio Player (SoftLab) ● WP Radio (SoftLab) ● Hero ● Radio Station ● Str
 
 ###### Pix Woocommerce
 
-● Pix por Piggly ● Pagarme ● PixNew
-
-
-###### Cartão de crédito
-
-● WP Simple Pay ● WPForms ● Easy Digital Downloads ● MemberPress ● WooCommerce ● LearnDash ● Stripe Payments 
-
+Vide WP CN.
 
 ## ERP/FMS/PDV
 
