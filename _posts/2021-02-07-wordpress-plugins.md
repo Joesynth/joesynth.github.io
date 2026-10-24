@@ -334,15 +334,15 @@ xxx
 ## Outros Plugins
 
 **Shortcodes ultimate** 🎉️ Reduza o volume de código do seu site e crie novos elementos para suas páginas com esses plugins que oferecem um pacote completo de shortcodes.
-**TablePress** 🎉️ Criar e gerenciar tabelas e pôr em posts, páginas, *widgets* etc; e até exportar (em HTML, Excel...).
+**TablePress** Vide Wp CN, formatação
 **All-in-one WP Migration** 🎉️ Mova posts, páginas e até mesmo seu próprio site de um lugar para o outro com este plugin simples e intuitivo criado especificamente para migração em WordPress.
 **ManageWP Worker** 🎉️ Gerencia vários sites seus no WP. Há integração com Google Analytics, níveis de segurança e integração com cloud.
 **Loco Translate** 🎉️ A função é traduzir plugin e templates que não tenham tradução para seu idioma nativo. É um recurso interessante, tanto para donos de sites quanto para desenvolvedores.
 **Cookie Notice** 🎉️ Notifica “elegantemente” seus visitantes que o *SeuSite* usa cookies. Pode-se criar mensagens criativas e diferentes, assim deixar seu consumidor mais confiante.
-**Easy Google Fonts** 🎉️ Pode-se adicionar mais de 600 fontes ao seu template ou criar suas próprias fontes.
+**Easy Google Fonts** Vide WP CN, tipografia.
 
 **Widget Importer &amp; Exporter** 🎉️ Importe e exporte seus widgets de um site para o outro e forma fácil e rápida com este plugin.
-**All In One Favicon** 🎉️ Acrescenta favicons para as páginas do seu site. É possível fazer o upload do seu próprio favicon ou criar um com a ferramenta.
+**All In One Favicon** Vide WP CN.
 
 **Tailor** Ajuda na criação de novos temas para WP.
 **Login LockDown** Segurança.
