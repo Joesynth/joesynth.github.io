@@ -3,12 +3,6 @@
 
 Turbine seu site! Veja o tutorial completo sobre plugins.
 
-Criou seu site? Já tem alguma experiência com ele?
-O ambiente Wordpress é a plataforma ideal para turbinar *SeuSite*, pois se tem vários *plug-ins*. Plug-in? É um pequeno *software* que instalamos no *software* principal _daí passamos a ter mais um recurso, um extra. No Wordpress há *plug-in* pra tudo! Segurança, *marketing*...
-
-Grátis! Muitos *plug-ins* são grátis (mas é preciso ter um plano pago do ambiente Wordpress). A dica, e como já falado no início deste artigo, é você já ter alguma vivência com *SeuSite*. Se está gostando dos resultados então migre para um plano pago e tenha mais recursos com os Wordpress Plug-ins.
-
-Separamos vários para você conhecer, organizados da seguinte forma:
 
 - Multimídia
 - Contabilidade e financeiro
