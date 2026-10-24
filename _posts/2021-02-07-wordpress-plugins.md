@@ -23,7 +23,7 @@ Separamos vários para você conhecer, organizados da seguinte forma:
 - Outros Plugins
 
 
-🎉️ Grátis. São os verificados. Isto é, pode haver outros grátis nesta lista e não sabemos.
+
 
 
 ## Multimídia
