@@ -109,36 +109,13 @@ Olá!
 
 
 <h2>🔒️ Software proprietário</h2>
-<pre>⭐ nascimento<br />💰 uso, como ganha dinheiro o autor<br />🧠 ideia central</pre>
-<p>.</p>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center"><span style="color: #ff6600">Shareware</span><br />⭐ início anos 1980</td>
-<td style="text-align: center"><span style="color: #ff6600">Freeware</span><br />⭐ meados anos 1980</td>
-</tr>
-<tr>
-<td>💰 Grátis, parcialmente.<br />Pode testar antes de pagar, com tempo ou funções limitadas.<br />🧠 Incentivar o pagamento após experimentar o programa.</td>
-<td>💰 Grátis.<br />Sem custo para o usuário final.<br />🧠 Popularizar o software mantendo direitos autorais</td>
-</tr>
-<tr>
-<td style="text-align: center"><span style="color: #ff6600">Trialware</span><br />⭐ início anos 1990</td>
-<td style="text-align: center"><span style="color: #ff6600">Adware</span><br />⭐ 2ª metade anos 1990</td>
-</tr>
-<tr>
-<td>💰 Grátis, mas temporário.<br />Bloqueia após o prazo de teste.<br />🧠 Estimular a compra mostrando o valor antes da limitação.</td>
-<td>💰 Grátis + — financiado por publicidade exibida no programa.<br />🧠 Gerar receita por anúncios em vez de venda direta.</td>
-</tr>
-<tr>
-<td style="text-align: center">SaaS<br />⭐ final anos 1990</td>
-<td style="text-align: center">Freemium<br />⭐ anos 2000</td>
-</tr>
-<tr>
-<td>💰 Pago por assinatura — acesso via internet, sem instalação local.<br />🧠 Centralizar o software na nuvem e vender como serviço contínuo. Uso do software sem instalar, ele está na internet acessível via assinaura.<br />Salesforce (1999), NetSuite (1998)</td>
-<td>💰 Grátis + opção paga.<br />Recursos básicos livres e extras mediante pagamento.<br />🧠 Atrair usuários com a versão grátis e converter parte deles em assinantes premium.</td>
-</tr>
-</tbody>
-</table>
+
+xxx
+
+Trecho movido para site [clecio,neves.com](clecio,neves.com).
+
+xxx
+
 <p>.</p>
 <p>É licenciado com direitos exclusivos para o produtor.</p>
 <pre><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/250px-MacOS_wordmark_%282017%29.svg.png" width="66" />  <img class="" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/NI_Reaktor_Logo.svg" width="32" height="32" />  <img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="30" height="30" />  RealPlayer iTunes<img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/120px-Adobe_Acrobat_DC_logo_2020.svg.png" width="29" height="29" /><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Microsoft_Office_%282003-2007%29.svg/1200px-Microsoft_Office_%282003-2007%29.svg.png" width="60" /></pre>
