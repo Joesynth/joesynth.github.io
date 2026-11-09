@@ -308,20 +308,6 @@ O tema é amplo, então leia [Licença de Software](/licenca-de-software).
 <p><em>Links</em> relacionados ao tema:<br />- <a href="https://joesynth.wordpress.com/2022/11/01/marketplace-20-sites/">Marketplace</a>.<br />- <a href="https://joesynth.wordpress.com/2021/11/27/o-que-e-github/">GitHub</a>.<br />- <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">Software livre: 21 softs</a> (que você deve conhecer).<br />- <a href="https://joesynth.wordpress.com/2021/12/27/saas-10-softwares-famosos/">SaaS</a>.</p>
 
 <h2>📚️ Um pouco de história</h2>
-<pre>- software livre, software proprietário, GPL<br />- shareware e freemium<br />- FSI vs OSI<br />- <em>Copyleft</em> vs <em>Permissive</em>: ao longo do tempo</pre>
-
-<h6>software livre, software proprietário, GPL</h6>
-
-<blockquote>
-<p>No início o software era livre.</p>
-</blockquote>
-<p>Século passado o <em>software</em> era livre. Os computadores eram grandalhões, utilizados pelo governo (dos EUA) e grandes empresas. Nessa época o <em>software</em> não era visto como algo separado do <em>hardware</em> (como é nos dias atuais). O programa, o '<em>soft</em>,' era entregue junto com o código-fonte (e até mesmo só o código-fonte).</p>
-
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Altair_8800_and_Model_33_ASR_Teletype.jpg/500px-Altair_8800_and_Model_33_ASR_Teletype.jpg" width="120" />Altair 8800 (<strong>🇺🇸 </strong>MITS, anos 70).<br />Computador pessoal ou desktop.<br />Foi um dos primeiros e utilizava processador Intel 8080.<br />Havia o Altair BASIC, um software interpretador (vendido separado).</p>
-
-<p><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Richard_Stallman_at_LibrePlanet_2019.jpg/220px-Richard_Stallman_at_LibrePlanet_2019.jpg" width="60" />Foi nos anos 80 que Richard Stallman, funcionário do Laboratório de IA do MIT (EUA), viu numa impressora uma falha no <em>software</em> _<em>software</em> proprietário nesse caso. Tentou corrigir mas sem sucesso: a empresa não liberou o código-fonte. Stallman reagiu a isso criando uma forma legal de garantir que possamos desfrutar do direito de copiar, redistribuir e modificar <em>software</em>. É a licença GPL.</p>
-
-<h6>shareware e freemium</h6>
 
 xxx
 
