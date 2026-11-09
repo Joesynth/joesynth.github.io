@@ -112,7 +112,7 @@ Olá!
 
 xxx
 
-Trecho movido para site [clecio,neves.com](clecio,neves.com).
+Trecho movido para site [ClecioNeves.com](clecio,neves.com).
 
 xxx
 
