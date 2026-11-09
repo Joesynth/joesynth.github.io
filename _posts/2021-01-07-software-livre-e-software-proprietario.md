@@ -166,15 +166,13 @@ Vide [EULA](/eula).
 <p>Mesmo uma empresa que oferece seu software de graça pode não mostrar o código. Alega-se que assim evita-se o plágio, afinal, alguém pode mudar o nome dos autores e pôr o seu.</p>
 
 <h2>🎈️ FOSS</h2>
-<p><span style="color: #0000ff"><em>Free and Open-Source Software</em>, Software de Código Livre e Aberto</span>.</p>
 
-<p><img class="size-medium wp-image-68613 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/software_livre.png?w=300" alt="" width="320" /></p>
-<p>O <strong><em>software livre e de código aberto</em></strong> é uma aplicação que qualquer pessoa tem o direito de...<br />✔️ usar <br />✔️ cópiar<br />✔️ estudar <br />✔️ mudar e melhorar</p>
-<p><strong>Por que código-fonte aberto?</strong> O próprio código-fonte, que é o <em>soft</em> em si, é compartilhado abertamente para as pessoas poderem voluntariamente melhorar a aplicação. Assim, se você é um <a href="https://joesynth.wordpress.com/2021/05/26/profissionais-de-informatica/">programador</a> pode ler (estudar) o código do <em>soft</em> e mesmo alterar se quiser. Portanto, no que tange 'estudo, mudança e melhoria' o código-fonte disponibilizado é vital.</p>
+xxx
 
-<p><img class="alignleft" src="https://cdn.geekboots.com/geek/linux-vs-windows-vs-mac-meta-1655409657451.jpg" width="120" />É comum que <strong><em>soft livre e de código aberto</em></strong> seja compatível com sistemas operacionais Linux, Mac e Windows, e mesmo Android ou outros.</p>
-<p>Há diversos tipos de softwares FOSS, incluindo...<br />◼ sistema operacional para computador <em>desktop</em> ou <a href="https://joesynth.wordpress.com/2021/11/28/software-servidor/">servidor</a>,<br />◼ aplicações para empresa, escritório, multimídia/arte;<br />◼ <a href="https://joesynth.wordpress.com/2021/11/28/software-de-rede/">soft de rede</a> (como <a href="https://joesynth.wordpress.com/2021/12/17/firewall-ferramentas/">firewall</a>),<br />◼ <a href="https://joesynth.wordpress.com/2021/11/28/editor-de-codigo-fonte/">editor de código-fonte</a>,<br />◼ <a href="https://joesynth.wordpress.com/2021/12/07/software-de-linha-de-comando/">software de linha de comando</a>.</p>
-<p>Clique no <em>link</em> para conhecer os <a href="https://joesynth.wordpress.com/2021/11/28/software-livre/">softwares livres e abertos mais famosos</a>, inclusive com detalhes sobre eles.</p>
+Trecho movido para site [ClecioNeves.com](clecioneves.com), vide "Software: Modelo de Negócio".
+
+xxx
+
 
 <h2>FOSS vs CSPS</h2>
 <p><span style="color: #0000ff"><em>CSPS (Closed Source Proprietary Software)</em></span>.</p>
@@ -325,29 +323,11 @@ O tema é amplo, então leia [Licença de Software](/licenca-de-software).
 
 <h6>shareware e freemium</h6>
 
-<p>Anos 80 a indústria de <em>softs</em> criou o <strong><em>freemium</em></strong> como uma estratégia de tempo limitado (ou de recursos limitados). Conhecida como estratégia <strong><em>shareware</em></strong>, nesse modelo de negócios a versão gratuita (e limitada) do produto (o <em>soft</em> em si) era disponibilizada às pessoas na esperança que algumas fariam a atualização.</p>
+xxx
 
-<h6>FSF vs OSI</h6>
+Trecho movido para site [ClecioNeves.com](clecioneves.com), vide "Software: Modelo de Negócio".
 
-<table>
-<tbody>
-<tr>
-<td><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Free_Software_Foundation_logo_and_wordmark.svg/1920px-Free_Software_Foundation_logo_and_wordmark.svg.png" alt="" width="120" /> <strong>FSF</strong><br /><em>Free Software Movement, </em><br />Movimento do Software Livre.<br />🇺🇲️ 83 | Richard Stallman.<br />🔗️ fsf.org<br />Free Software - Software Livre.</td>
-<td><strong><img class="alignleft" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/800px-Opensource.svg.png" alt="" width="60" />OSI</strong><br /><em>Open Source Initiative, </em>iniciativa pelo código aberto.<br />🇺🇲️ 98 | Eric Raymond<br />🔗️ opensource.org.<br />Open Source - Código Aberto</td>
-</tr>
-<tr>
-<td><em>Political Philosophy.</em><br /><em>Ethical Rights.</em><br /><em>Allows unconditional 'sharing' and collaboration.</em><br /><em>Only GNU/FSF meet standards.</em></td>
-<td><em>Development Technique.</em><br /><em>Better Software.</em><br /><em>Allows software to 'evolve.</em><br /><em>Sun, Apple, Netscape.</em></td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-<p>FSF: "...<em>organização sem fins lucrativos [...] fundada por Richard Stallman em 4 de outubro de 1985, para apoiar o movimento do software livre, que promove a liberdade universal de estudar, distribuir, criar e modificar software de computador</em>"<br />[ft:https://en.wikipedia.org/wiki/Free_Software_Foundation]</p>
-<p>Então é isso! Esperamos ter contribuído.<br />Grande abraço e sucesso.</p>
-
+xxx
 
 É isso!  
 Abraço.  
