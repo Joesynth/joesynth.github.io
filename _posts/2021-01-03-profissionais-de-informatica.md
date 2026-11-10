@@ -133,60 +133,9 @@ Metodologia de trabalho (Scrum, Kanban).
 
 ## 🎨️ Área de design
 
-Uma linguagem de computador pode ser vital ou uma aliada nesse campo de trabalho. Exemplos de profissões na área de design:  
-
-- Web designer
-- Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto
-- UX designer
-- Designer gráfico
-- Brand designer
-
-<img src="https://chiefofdesign.com.br/wp-content/uploads/2015/01/webdesigner1-1.png" width="120" />**Web designer**: Cria sites, páginas. Lida com programação, sendo que a profissão é uma extensão do *design* gráfico, onde o foco é na criação de web sites.  
-
-Criar identidade visual, o layout e o tratamento de imagens em softwares gráficos.  
-
-|🤖️|🔧️|🧠|
-|:---:|:---:|:---:|
-|HTML/CSS | Penpot, Inkscape (opcional), Photoshop, <del>Fireworks</del>, <del>Dreamweaver</del> | usabilidade, criar LPs|
-
-💰 Acima de $3000,00.
-
-<small>Profissão antiga, anos 90 era um profissional generalista e visual. Escrevia o HTML estrutural e o CSS básico. Era comum usar ferramentas visuais que geravam o código automaticamente. Com o aumento da complexidade da internet e o surgimento das aplicações web modernas, a profissão de Web Designer desmembrou-se em Desenvolvedor Front-End e UI/UX Designer.
-</small>
-
-**Designer de Interface <sup>UI/UX Designer</sup> / Designer de Produto**: Focado estritamente na estética e comportamento da interface. Ele faz pesquisas com usuários e desenha as telas em ferramentas como o Penpot, mas não escreve o código final da aplicação.
-
-| 🤖️ | 🔧️ | 🧠 |
-|:---:|:---:|:---:|
-|HTML/CSS (indicado saber, sendo um diferencial de mercado).|Figma, Penpot|usabilidade|
-
-
-###### Exemplos de classificados
-
-*HTML/CSS pedido em todos.  
-
-<small>**Web Designer**:
-JS; Bootstrap;
-Photoshop e Ilustrator (para design gráfico);
-UI e UX: conhecimento para melhorar a experiência do usuário;
-Familiaridade com Adobe Premiere para edição de videos;
-Diferencial: conhecimento em Google Ads e Facebook Ads (para campanhas publicitárias)**;  
-UX Designer**:
-Atuar em diversos ambientes (desktop, mobile);
-Conhecimentos em métodos de pesquisa com usuários e benchmark;
-UX: conhecimento em elaboração de documentação (personas, jornadas de usuário, userflows); 
-familiaridade em metodologias ágeis (Scrum e Kanban).  
-**Designer Gráfico Multimídia**:
-Criação de arte (vídeos, GIFs, motions);
-Uso em campanhas impressas e digitais _redes sociais, banners, apresentações e materiais institucionais);
-Vídeos curtos, reels etc (criar e editar); Formação em Design Gráfico, publicidade ou propaganda;
-Adobe Photoshop, Ilustrator, After Effects, Premiere Pro;
-Ferramentas de edição (Final Cut, DaVinci Resolve...);
-Diferencial: conhecimento em 3D, Blender;
-HTML/CSS: noções básicas para criação de assets digitais otimizados.</small>
-
-
-
+xxx
+Vide clecioNeves.com "Profissionais de informática - Tutorial"
+xxx
 
 
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" />
