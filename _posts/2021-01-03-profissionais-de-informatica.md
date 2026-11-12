@@ -239,23 +239,9 @@ Herdou do Webmaster a visão geral do site, mas hoje trabalha gerenciando a plat
 
 ###### Operacional / Vendas
 
-**Assistente de E-commerce**: "Braço direito" do dono da loja, faz a parte operacional e, portanto, o site vender e funcionar. 
-É considerado da área de conteúdo, mas com foco total em operações comerciais e conversão de vendas.
-Atualizar disponibilidade de produtos no estoque (para não vender o que não tem), atendimento (dúvidas de clientes), acompanha *status* de pagamento e logística,  etc.
 
-|🔧️|🧠|
-|:---:|:---:|
-| WooCommerce | Cadastrar e e descrever produtos, gerenciar pedidos.|
+vide Clécio Neves.
 
-Shopify / VTEX / Nuvemshop: Softwares como serviço (SaaS) específicos para e-commerce. São o ambiente de trabalho diário para controle de estoque, preços e promoções.
-Google Analytics (monitorar o volume de acessos, de onde vêm os visitantes e quais páginas ou produtos geram mais conversões).
-Google Merchant Center: enviar o catálogo de produtos para o Google Shopping e criar campanhas de anúncios.
-
-
-ERPs e Hubs de Integração (também de conhecimento do **Administrador de Site**).  
-Softwares que conectam a loja virtual com o mundo externo (estoque físico, notas fiscais e marketplaces). São eles:
-Bling / Tiny ERP - Sistemas de gestão utilizados pelo Assistente de E-commerce para emitir notas fiscais e sincronizar o estoque físico com o virtual.
-Anymarket / Plugg.to - Hubs utilizados para unificar o cadastro de produtos e distribuí-lo automaticamente para múltiplos marketplaces (Mercado Livre, Amazon, Magalu).
 
 
 ## 🖥️ Infraestrutura de TI
