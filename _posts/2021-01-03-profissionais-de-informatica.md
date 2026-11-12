@@ -141,7 +141,6 @@ xxx
 <img src="https://joesynth.wordpress.com/wp-content/uploads/2025/05/joe_flyer_aprendapro_c.png?w=300" alt="" width="310" />
 
 
-**Brand designer** <sup>Designer de Marca</sup>: Profissão pertence ao campo do Design Gráfico Estratégico.
 
 |🤖️|🔧️|
 |:---:|:---:|
