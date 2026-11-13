@@ -214,28 +214,11 @@ Ao lidar com conteúdo é necessário facilidade com...
 ✔ escrita
 ✔ exposição de informações
 
-**Administrador de Site**: Gerencia sites e blogs, geri pessoas como autores e usuários (inclusive interagindo ou moderando comentários). No YouTube e demais plataformas é semelhante, inclusive podendo lidar também com MKT Digital, vital nos dias atuais.
+xxx
 
-| 🔧️ | 🧠 |
-| :---: | :---: |
-|Wordpress, <br />Google Analytics, <br />Google Search Console | Lidar com CMS e plataformas web, SEO On-Page, acompanha estatísticas (comportamento dos usuários, páginas mais acessadas), manutenção operacional (configurações visuais e administrativas, mas sem escrever linhas de código), instala plugins (ERP, CRM, formulários etc), verificação de links quebrados, garantir que os formulários de contato estão enviando as mensagens.|
+vide Clécio Neves.
 
-⚠️ Google Search Console (verificar a saúde do SEO, identificar erros de indexação no Google e monitorar palavras-chave).  
-
-O conhecimento em tecnologia é focado em infraestrutura web básica, servindo de ponte para os especialistas:  
-Configuração e renovação de domínios (DNS) e certificados de segurança (SSL). 
-Gerenciamento do painel de hospedagem (cPanel ou similares) para monitorar espaço em disco e tráfego de dados.  
-Configuração de rotinas automatizadas de backup.  
-
-Resumo? É gestor operacional, foca no conteúdo, na atualização e no funcionamento correto das regras de negócio do site. Se o site apresentar um erro crítico de código ou necessitar de uma nova funcionalidade complexa, ele acionará o Desenvolvedor Web; se precisar de uma reformulação visual completa, acionará o Web Designer.
-
-
-<small>
-⚠️ O Administrador de Site é a evolução direta do antigo **Webmaster** dos anos 1990. O mercado de tecnologia cresceu e se especializou. A infraestrutura pesada foi para o SysAdmin/DevOps, a programação complexa para o Desenvolvedor Front-End e Back-End, e design de interface para o Web Designer.  
-A criação dos sistemas de gerenciamento de conteúdo (como o WordPress) eliminaram a necessidade de programar para colocar um texto no ar, o termo "Webmaster" caiu em desuso corporativo (embora ainda conste em registros oficiais de emprego).  
-O profissional renasceu como o Administrador de Site (ou **Analista de Web**, **Gestor de Conteúdo Web**).  
-Herdou do Webmaster a visão geral do site, mas hoje trabalha gerenciando a plataforma através de painéis visuais, focando muito mais na estratégia de comunicação do que nos bastidores do código.
-</small>
+xxx
 
 ###### Operacional / Vendas
 
