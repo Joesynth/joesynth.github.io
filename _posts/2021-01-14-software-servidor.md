@@ -205,10 +205,6 @@ JavaScript, HTML.
 
 \o_  
 
-<!--
-https://5cta.eb.mil.br/images/5cta/normasti/Port_n_007_DCT.pdf
-https://bdex.eb.mil.br/jspui/bitstream/123456789/4573/1/TCC%20Cad%205056%20Trindade%20-%20CM3.pdf
-https://www.vivaolinux.com.br/artigo/A-distribuicao-Slackware-Linux
--->
+
 
 {% include final.html %}
