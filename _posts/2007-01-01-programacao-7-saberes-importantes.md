@@ -1,1 +1,0 @@
-Vide WP CN
