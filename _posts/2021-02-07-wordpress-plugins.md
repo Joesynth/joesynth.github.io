@@ -25,22 +25,6 @@ Turbine seu site! Veja o tutorial completo sobre plugins.
 xxx
 Vide WP CN.
 xxx
-
-**Áudio / Música**.
-
-**  Música de fundo** (adicionar).
-Elfsight Background Audio player ● Background Music Manager ● MP3 Audio Player ● Compact WordPress Audio Player
-
-  **Reprodutores de Áudio**.
-PowerPress Podcasting plugin por Blubrry ● AudioIgniter ● Seriously Simple Podcasting ● Smart Podcast Player ● Audio Player ● Music Player for WooCommerce ● ZoomSounds ● WP Audio Player ● tPlayer ● WavePlayer
-
-  **Rádio**.
-Radio Player (SoftLab) ● WP Radio (SoftLab) ● Hero ● Radio Station ● StreamCast ● Luna Web Radio Player
-
-**Vídeo**.
-
-**YouTube** Permite o *embed* mais fácil de vídeos hospedados no YouTube. Também a criação de galerias e até transmissão ao vivo.
-
 .
 
 ## Contabilidade e financeiro
