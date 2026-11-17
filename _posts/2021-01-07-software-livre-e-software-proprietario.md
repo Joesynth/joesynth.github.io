@@ -169,42 +169,9 @@ xxx
 
 
 <h2>FOSS vs CSPS</h2>
-<p><span style="color: #0000ff"><em>CSPS (Closed Source Proprietary Software)</em></span>.</p>
-<p>Comparação entre ambos. Abaixo, relações envolvendo código-fonte, execução, etc.</p>
-<table>
-<tbody>
-<tr>
-<td><strong>FOSS</strong></td>
-<td><strong>CSPS</strong></td>
-<td><strong>característica</strong></td>
-</tr>
-<tr>
-<td>✔️</td>
-<td>✔️</td>
-<td>Usar. Usuário pode executar o soft.</td>
-</tr>
-<tr>
-<td>✔️</td>
-<td>✖️</td>
-<td>Código é disponível ao usuário.</td>
-</tr>
-<tr>
-<td>✔️</td>
-<td>✖️</td>
-<td>Mudar. Usuário pode modificar o código.</td>
-</tr>
-<tr>
-<td>✔️</td>
-<td>✖️</td>
-<td>Usuário pode redistribuir o soft.</td>
-</tr>
-<tr>
-<td>✔️</td>
-<td>✖️</td>
-<td>Permitido vários usuários em várias máquinas?</td>
-</tr>
-</tbody>
-</table>
+
+vide cn.c
+
 
 xxx
 Vide cn.c
