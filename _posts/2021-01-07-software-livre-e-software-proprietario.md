@@ -69,17 +69,11 @@ Olá!
 
 <p><img class="size-medium wp-image-69488 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="300" height="169" /></p>
 <p>[<span style="color: #808080"><em>Foto: softwares livre (à esquerda) e não livres (à direita)</em></span>]<br />Tal como o Ubuntu, o navegador Firefox é software livre. <br />Por outro lado, o Chrome é proprietário (da Google).</p>
-<p><strong>Características do software livre e do software proprietário</strong>:</p>
-<pre>🛡️ segurança<br />👥️ usuários</pre>
-<p>.</p>
-<table>
-<tbody>
-<tr>
-<td><small><strong><em>software</em> livre</strong> 🎈️<br />💸️ Preço: Custo zero, via de regra. <br />🤔️ Pode haver custo de suporte técnico, caso de um software específico por exemplo. <br />🛡️ Segurança: se houver 'vírus' todos ficarão sabendo já que o código é público.<br />😎️ Marketing: são desconhecidos. Não há campanhas de <em>marketing</em> para fazer as pessoas usarem. <br />👥️ Usuários: Utilizado por profissionais de informática (programadores, técnicos de TI...); militares, governos; grandes corporações.</small></td>
-<td><small><strong>software proprietário</strong> 🔒️<br />💸️ Preço: Pode ter custo zero para instalar.<br />🤔️ Custo zero pode ser uma estratégia do modelo de negócios da empresa.<br />✔️ Pode oferecer algo específico, por exemplo, uma grande variedade de plugins (caso do software de música Cubase).<br />😎️ Marketing: são famosos por criarem largas estratégias de distribuição, publicidade; em especial as grandes marcas.<br />👥️ Usuários: o indivíduo comum, a população em geral; pequenas empresas ou comuns.<br /></small></td>
-</tr>
-</tbody>
-</table>
+
+
+xxx
+vide cn.c
+xxx
 
 
 <h6><em>Freeware <span style="color: #0000ff">- software gratuito (soft grátis)</span></em></h6>
@@ -211,9 +205,10 @@ xxx
 </tr>
 </tbody>
 </table>
-<p><strong>Exemplos:</strong></p>
-<pre><strong><img class="size-medium wp-image-69488 alignleft" src="https://joesynth.wordpress.com/wp-content/uploads/2025/06/software_livre_proprietario_b.png?w=300" alt="Software Livre - Software Proprietário" width="320" />FOSS</strong>          <strong>CSPS</strong><br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Audacity</a>    | FL Studio<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Ardour</a>      | Cubase<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">LibreOffice</a> | 365<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Firefox</a>     | Chrome<br /><a href="https://joesynth.wordpress.com/2023/11/06/rede-social-open-source/">Mastodon</a>    | Instagram<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">GIMP</a>        | Photoshop<br /><a href="https://joesynth.wordpress.com/2021/11/28/softwares-livres-mais-famosos/">Telegram</a>    | Whatsapp<br />Ubuntu      | Windows<br />Mint        | MacOs</pre>
-<p><em>*Telegram versão cliente</em>.</p>
+
+xxx
+Vide cn.c
+xxx
 
 <h2>Resumo, comparações e afins</h2>
 <pre><em>Commercial</em><br />Proprietário<br />Misto<br />Software Livre e Freeware</pre>
