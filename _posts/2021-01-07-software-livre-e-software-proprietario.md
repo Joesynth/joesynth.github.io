@@ -1,15 +1,7 @@
 # Software livre e software proprietário
 
 
-Tutorial vital para alunos, concurseiros e todo cidadão. _Software_ quanto ao que de fato é livre; a aquisição, tipos de licença...  
-  
-  
-Olá!  
-<p>Este é um guia essencial para estudantes, concurseiros e demais pessoas. Esperamos que cumpra o seu papel sendo útil na prática.</p>
-<p>Vamos passar pelos principais termos no que tange um soft quanto a sua aquisição e o seu código. E de cara já lembramos!</p>
-<blockquote>
-<p>Devemos ficar cientes da importância do <em>Software</em> Livre.</p>
-</blockquote>
+
 <ul>
 <li><strong>Introdução</strong> <span class="Y2IQFc" lang="pt">◼</span> Como é feito um programa? <span class="Y2IQFc" lang="pt">◼</span> Software Livre &amp; Software Proprietário <span class="Y2IQFc" lang="pt">◼</span> Freeware <span class="Y2IQFc" lang="pt">◼</span> Free software (software livre)</li>
 <li><strong>Software proprietário</strong>.</li>
